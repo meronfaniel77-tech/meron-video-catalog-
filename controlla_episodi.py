@@ -1,4 +1,5 @@
 import json
+from difflib import SequenceMatcher
 import re
 import unicodedata
 import urllib.request
@@ -31,6 +32,20 @@ def normalizza_titolo(titolo):
     titolo = re.sub(r"\s+", " ", titolo).strip()
 
     return titolo
+
+# MERON - Calcola la somiglianza tra due titoli
+def somiglianza_titoli(titolo1, titolo2):
+    pulito1 = normalizza_titolo(titolo1)
+    pulito2 = normalizza_titolo(titolo2)
+
+    if not pulito1 or not pulito2:
+        return 0
+
+    return SequenceMatcher(
+        None,
+        pulito1,
+        pulito2
+    ).ratio()
 
 
 def recupera_episodi():
@@ -70,15 +85,18 @@ def recupera_episodi():
         for episodio in episodi:
             titolo_episodio = normalizza_titolo(episodio["titolo"])
 
-            for video in video_youtube:
-                titolo_video = normalizza_titolo(video["title"])
+            f            for video in video_youtube:
+                punteggio = somiglianza_titoli(
+                    episodio["titolo"], video["title"]
+                )
 
-                if titolo_episodio == titolo_video and titolo_episodio:
+                if punteggio >= 0.75:
                     print("\nPOSSIBILE CORRISPONDENZA:")
                     print(f"Episodio: {episodio['titolo']}")
                     print(f"ID Apple: {episodio['id']}")
                     print(f"Video: {video['title']}")
                     print(f"YouTube: {video['url']}")
+                    print(f"Somiglianza: {punteggio:.0%}")
 
     except FileNotFoundError:
         print("MERON - File video_recenti.json non trovato")
