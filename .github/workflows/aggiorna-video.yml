@@ -23,3 +23,5 @@ jobs:
         run: |
           python -m json.tool videos.json > /dev/null
           echo "Catalogo MerON valido!"
+      - name: Controlla i video YouTube di Elisa True Crime
+        run: python controlla_video.py
