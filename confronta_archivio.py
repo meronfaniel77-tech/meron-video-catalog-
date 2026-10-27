@@ -21,6 +21,8 @@ STOPWORDS = {
     "about", "their", "there", "were", "they",
     "have", "been", "will", "would", "could",
     "some", "more", "very", "also", "only",
+    "just", "than", "then", "them", "over",
+    "under", "through", "behind", "inside",
     "il", "lo", "la", "gli", "le", "un", "una",
     "uno", "di", "del", "della", "dei", "delle",
     "da", "dal", "dallo", "dalla", "dai",
@@ -30,19 +32,18 @@ STOPWORDS = {
     "fatto", "fine", "hanno", "quella", "notte",
     "successo", "verita", "morte", "giorni",
     "nuova", "new", "truth", "questa",
-    "questo", "quella", "quello", "dove",
-    "come", "quando", "perche", "anche",
-    "tutti", "tutte", "essere", "stato",
-    "stata", "dentro", "fuori", "ancora",
-    "della", "delle", "degli", "nella",
-    "nelle", "nello", "negli", "sulla",
-    "sulle", "sullo", "agli", "alle",
-    "dalla", "dalle", "dello", "delle"
+    "questo", "quello", "dove", "come",
+    "quando", "perche", "anche", "tutti",
+    "tutte", "essere", "stato", "stata",
+    "dentro", "fuori", "ancora", "degli",
+    "nella", "nelle", "nello", "negli",
+    "sulla", "sulle", "sullo", "agli",
+    "alle", "dalle", "dello", "dell",
+    "dall", "loro", "suoi", "nostro",
+    "nostra", "dopo", "prima", "altro",
+    "altra", "sembra", "viene", "venne"
 }
 
-# Termini molto comuni nei podcast true crime.
-# Non possono essere sufficienti da soli
-# per pubblicare automaticamente un video.
 GENERICHE = {
     "omicidio", "assassino", "ucciso",
     "morto", "scomparso", "scomparsa",
@@ -51,10 +52,15 @@ GENERICHE = {
     "bambino", "bambini", "scuola",
     "prigione", "agghiacciante",
     "segreto", "lotteria", "matrimonio",
-    "anni", "giorni", "storia",
-    "delitto", "vittima", "polizia",
-    "indagine", "criminale"
+    "anni", "giorni", "delitto",
+    "vittima", "polizia", "indagine",
+    "criminale", "orrore", "mistero",
+    "tragico", "terribile", "ragazzo",
+    "ragazza", "donna", "uomo"
 }
+
+# Dizionario bilingue: entrambi i titoli
+# vengono convertiti nella stessa forma.
 
 TRADUZIONI = {
     "murder": "omicidio",
@@ -63,8 +69,8 @@ TRADUZIONI = {
     "killed": "ucciso",
     "death": "morte",
     "dead": "morto",
-    "missing": "scomparso",
-    "disappeared": "scomparso",
+    "missing": "scomparsa",
+    "disappeared": "scomparsa",
     "disappearance": "scomparsa",
     "daughter": "figlia",
     "son": "figlio",
@@ -77,7 +83,6 @@ TRADUZIONI = {
     "wedding": "matrimonio",
     "days": "giorni",
     "years": "anni",
-    "truth": "verita",
     "secret": "segreto",
     "secrets": "segreto",
     "chilling": "agghiacciante",
@@ -91,23 +96,97 @@ TRADUZIONI = {
     "prison": "prigione",
     "baby": "bambino",
     "child": "bambino",
-    "children": "bambini"
+    "children": "bambini",
+    "monster": "mostro",
+    "butcher": "macellaio",
+    "sniper": "cecchino",
+    "massacre": "massacro",
+    "nightmare": "incubo",
+    "chatbot": "chatbot",
+    "pushed": "spinto",
+    "push": "spinto",
+    "message": "messaggio",
+    "last": "ultimo",
+    "final": "ultimo",
+    "courage": "coraggio",
+    "revenge": "vendetta",
+    "river": "fiume",
+    "mystery": "mistero",
+    "horror": "orrore",
+    "horrors": "orrore",
+    "twins": "gemelle",
+    "twin": "gemelle",
+    "clown": "clown",
+    "ponzi": "ponzi",
+    "truth": "verita",
+    "waking": "aperto",
+    "night": "notte",
+    "found": "ritrovato",
+    "vanished": "scomparsa",
+    "lost": "scomparsa",
+    "strange": "strano",
+    "shocking": "scioccante",
+    "absurd": "assurdo",
+    "disturbing": "inquietante",
+    "twisted": "distorta",
+    "mind": "mente",
+    "life": "vita",
+    "lives": "vita",
+    "double": "doppia",
+    "scheme": "schema",
+    "crime": "crimine",
+    "crimes": "crimine",
+    "youngest": "giovane",
+    "sentenced": "condannata",
+    "cremated": "cremata",
+    "cremate": "cremata",
+    "fienile": "fienile",
+    "barn": "fienile",
+    "rostov": "rostov",
+    "udine": "udine",
+    "farmville": "farmville",
+    "pistorius": "pistorius"
+}
+
+# Alcuni titoli usano grafie alternative.
+# Le correzioni riguardano parole riconoscibili,
+# non l'intero testo.
+
+CORREZIONI = {
+    "mass4cro": "massacro",
+    "mass4cre": "massacro",
+    "k1ller": "killer",
+    "k!ller": "killer",
+    "mister0": "mistero",
+    "incub0": "incubo",
+    "0rr0re": "orrore",
+    "sсhabusiness": "schabusiness"
 }
 
 
 def normalizza(testo):
-    testo = unicodedata.normalize(
-        "NFKD", str(testo or "")
-    )
+    testo = str(testo or "").lower()
 
+    # Caratteri stilizzati frequenti
+    testo = testo.replace("Ǝ", "e").replace("ǝ", "e")
+    testo = testo.replace("∀", "a")
+    testo = testo.replace("Я", "r").replace("я", "r")
+    testo = testo.replace("с", "c")
+
+    for originale, corretto in CORREZIONI.items():
+        testo = testo.replace(originale, corretto)
+
+    testo = unicodedata.normalize("NFKD", testo)
     testo = "".join(
-        c for c in testo
-        if not unicodedata.combining(c)
+        carattere for carattere in testo
+        if not unicodedata.combining(carattere)
     )
 
-    testo = testo.lower()
-    testo = re.sub(r"[^a-z0-9 ]", " ", testo)
+    # Ricostruisce parole con lettere sostituite
+    testo = re.sub(r"\bk\s*!\s*ller\b", "killer", testo)
+    testo = re.sub(r"\bk\s*1\s*ller\b", "killer", testo)
 
+    testo = re.sub(r"[^a-z0-9 ]", " ", testo)
     return re.sub(r"\s+", " ", testo).strip()
 
 
@@ -128,32 +207,21 @@ def parole_importanti(testo):
 
 
 def numero_parte(titolo):
-    testo = normalizza(titolo)
-
     match = re.search(
         r"\b(?:pt|part|parte)\s*([1-9])\b",
-        testo
+        normalizza(titolo)
     )
-
-    if match:
-        return int(match.group(1))
-
-    return None
+    return int(match.group(1)) if match else None
 
 
 def leggi_json(percorso):
-    with percorso.open(
-        "r", encoding="utf-8"
-    ) as file:
+    with percorso.open("r", encoding="utf-8") as file:
         return json.load(file)
 
 
 def peso_parola(parola, frequenze, totale):
     frequenza = frequenze.get(parola, 0)
-
-    return math.log(
-        1 + totale / (1 + frequenza)
-    )
+    return math.log(1 + totale / (1 + frequenza))
 
 
 def calcola_candidato(
@@ -171,59 +239,61 @@ def calcola_candidato(
 
     comuni_titolo = parole_titolo & parole_video
 
-    # La descrizione e' una fonte di supporto,
-    # non una prova sufficiente.
     comuni_descrizione = (
         parole_descrizione & parole_video
     ) - comuni_titolo
 
-    specifiche_titolo = (
-        comuni_titolo - GENERICHE
-    )
-
+    specifiche_titolo = comuni_titolo - GENERICHE
     specifiche_descrizione = (
         comuni_descrizione - GENERICHE
     )
 
+    # Le parole generiche pesano meno.
     punteggio_titolo = sum(
         peso_parola(p, frequenze, totale_video)
+        * (0.35 if p in GENERICHE else 1.0)
         for p in comuni_titolo
     )
 
+    # Descrizione: contributo ridotto
+    # e limitato a un massimo.
     punteggio_descrizione = sum(
         peso_parola(p, frequenze, totale_video)
         for p in specifiche_descrizione
     )
 
-    # Il titolo pesa piu' della descrizione.
+    punteggio_descrizione = min(
+        punteggio_descrizione * 0.15,
+        1.5
+    )
+
     punteggio = (
-        punteggio_titolo
-        + punteggio_descrizione * 0.45
+        punteggio_titolo + punteggio_descrizione
     )
 
-    # Bonus se coincidono almeno due parole
-    # specifiche del titolo.
     if len(specifiche_titolo) >= 2:
-        punteggio += 2
+        punteggio += 2.0
 
-    # Bonus limitato per le descrizioni.
-    if len(specifiche_descrizione) >= 2:
-        punteggio += 0.8
+    # Premia una corrispondenza molto rara,
+    # senza renderla automaticamente sicura.
+    parole_rare = [
+        p for p in specifiche_titolo
+        if frequenze.get(p, 0) <= 2
+    ]
 
-    # Evita che descrizioni lunghe dominino.
-    punteggio = round(punteggio, 3)
-
-    comuni = sorted(
-        comuni_titolo | comuni_descrizione
-    )
+    if parole_rare:
+        punteggio += 1.0
 
     return {
-        "score": punteggio,
-        "common": comuni,
+        "score": round(punteggio, 3),
+        "common": sorted(
+            comuni_titolo | comuni_descrizione
+        ),
         "title_matches": len(specifiche_titolo),
         "description_matches": len(
             specifiche_descrizione
-        )
+        ),
+        "rare_matches": len(parole_rare)
     }
 
 
@@ -238,10 +308,8 @@ def controlla():
 
     if not isinstance(episodi, list):
         raise ValueError("Archivio Apple non valido")
-
     if not isinstance(video, list):
         raise ValueError("Archivio YouTube non valido")
-
     if not isinstance(catalogo, dict):
         raise ValueError("Catalogo MerON non valido")
 
@@ -249,18 +317,16 @@ def controlla():
 
     for elemento in video:
         frequenze.update(
-            parole_importanti(elemento.get("title", ""))
+            parole_importanti(
+                elemento.get("title", "")
+            )
         )
 
     risultati = []
 
     for episodio in episodi:
-        episodio_id = str(episodio.get("id", ""))
         titolo = episodio.get("titolo", "")
-        descrizione = episodio.get(
-            "descrizione", ""
-        )
-
+        descrizione = episodio.get("descrizione", "")
         candidati = []
 
         for elemento in video:
@@ -275,13 +341,16 @@ def controlla():
             ):
                 continue
 
-            # Evita parti esplicitamente diverse.
             parte_apple = numero_parte(titolo)
-            parte_video = numero_parte(
-                titolo_video
-            )
+            parte_video = numero_parte(titolo_video)
 
-            if parte_apple != parte_video:
+            # Blocca parti differenti quando
+            # entrambe sono esplicitamente indicate.
+            if (
+                parte_apple is not None
+                and parte_video is not None
+                and parte_apple != parte_video
+            ):
                 continue
 
             analisi = calcola_candidato(
@@ -294,6 +363,19 @@ def controlla():
 
             if not analisi["common"]:
                 continue
+
+            # Se una sola parte e' indicata,
+            # la corrispondenza resta incerta.
+            if (
+                parte_apple is not None
+                and parte_video is None
+            ) or (
+                parte_apple is None
+                and parte_video is not None
+            ):
+                analisi["parte_incerta"] = True
+            else:
+                analisi["parte_incerta"] = False
 
             candidati.append({
                 "title": titolo_video,
@@ -317,13 +399,24 @@ def controlla():
                 else 0
             )
 
-            # Le descrizioni aiutano a trovare
-            # candidati, ma per la pubblicazione
-            # servono almeno due parole specifiche
-            # nel titolo Apple.
-            if (
+            # Una corrispondenza forte richiede:
+            # - almeno due parole specifiche,
+            #   oppure una rara con punteggio alto
+            # - distanza sufficiente dal secondo
+            # - nessuna incertezza sulla parte
+            forte_per_parole = (
                 primo["title_matches"] >= 2
+                or (
+                    primo["title_matches"] >= 1
+                    and primo["rare_matches"] >= 1
+                    and primo["score"] >= 5.0
+                )
+            )
+
+            if (
+                forte_per_parole
                 and primo["score"] >= 5.0
+                and not primo["parte_incerta"]
                 and (
                     secondo == 0
                     or primo["score"] > secondo * 1.5
@@ -338,7 +431,8 @@ def controlla():
             "candidates": migliori
         })
 
-    # Controllo duplicati tra candidati forti.
+    # Non considera forti due episodi
+    # associati allo stesso video.
     utilizzi = defaultdict(list)
 
     for risultato in risultati:
@@ -349,33 +443,27 @@ def controlla():
             url = risultato["candidates"][0]["url"]
             utilizzi[url].append(risultato)
 
-    for url, associati in utilizzi.items():
+    for associati in utilizzi.values():
         if len(associati) > 1:
             for risultato in associati:
                 risultato["status"] = "DA_VERIFICARE"
 
     forti = sum(
-        1 for risultato in risultati
-        if risultato["status"] == "CANDIDATO_FORTE"
+        risultato["status"] == "CANDIDATO_FORTE"
+        for risultato in risultati
     )
 
     gia_collegati = sum(
-        1 for risultato in risultati
-        if str(risultato["trackId"]) in catalogo
+        str(risultato["trackId"]) in catalogo
+        for risultato in risultati
     )
 
-    print("MERON - CONTROLLO CON DESCRIZIONI")
+    print("MERON - CONTROLLO MIGLIORATO")
     print("Episodi Apple:", len(episodi))
     print("Video YouTube:", len(video))
     print("Candidati forti:", forti)
-    print(
-        "Da verificare:",
-        len(risultati) - forti
-    )
-    print(
-        "Episodi gia' nel catalogo:",
-        gia_collegati
-    )
+    print("Da verificare:", len(risultati) - forti)
+    print("Episodi gia' nel catalogo:", gia_collegati)
 
     with FILE_RISULTATI.open(
         "w", encoding="utf-8"
@@ -388,9 +476,7 @@ def controlla():
         )
         file.write("\n")
 
-    print(
-        "Creato controllo_video_meron.json"
-    )
+    print("Creato controllo_video_meron.json")
 
 
 if __name__ == "__main__":
