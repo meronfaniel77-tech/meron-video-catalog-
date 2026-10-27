@@ -49,7 +49,17 @@ def recupera_episodi():
             "data": item.get("releaseDate", "")
         })
 
-    print(f"Episodi Apple Podcasts trovati: {len(episodi)}")
+     print(f"Episodi Apple Podcasts trovati: {len(episodi)}")
+
+    print("\nMERON - TEST CONFRONTO TITOLI")
+
+    for episodio in episodi[:10]:
+        titolo_originale = episodio["titolo"]
+        titolo_pulito = normalizza_titolo(titolo_originale)
+
+        print(f"ORIGINALE: {titolo_originale}")
+        print(f"PULITO:    {titolo_pulito}")
+        print("---")
 
     for episodio in episodi[:10]:
         print(
