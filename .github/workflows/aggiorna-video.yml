@@ -1,53 +1,67 @@
 
-name: MerON - Aggiorna video ufficiali
+name: Aggiornare video ufficiali
 
 on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  controlla-video:
+  controllo-video:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Scarica il repository
+      - name: Scarica repository
         uses: actions/checkout@v4
 
-      - name: Prepara Python
+      - name: Configura Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Installa yt-dlp
-        run: python -m pip install --upgrade yt-dlp
+      - name: Installa dipendenze
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp requests
 
-      - name: Verifica il catalogo JSON
-        run: python -m json.tool videos.json > /dev/null
+      - name: Controlla catalogo esistente
+        run: |
+          python -m json.tool videos.json > /dev/null
 
-      - name: Controlla i video YouTube recenti
-        run: python controlla_video.py
-
-      - name: Recupera gli episodi Apple Podcasts
+      - name: Recupera episodi Apple
         run: python controlla_episodi.py
 
-      - name: Recupera archivio storico YouTube
+      - name: Recupera video recenti
+        run: python controlla_video.py
+
+      - name: Recupera archivio YouTube
         run: python recupera_archivio_youtube.py
 
-      - name: Salva archivio YouTube
-        uses: actions/upload-artifact@v4
-        with:
-          name: meron-archivio-youtube
-          path: archivio_youtube.json
-          retention-days: 30
-
-      - name: Esegui controllo di sicurezza
+      - name: Confronta episodi e video
         run: python confronta_archivio.py
 
-      - name: Salva controllo video MerON
+      - name: Aggiorna catalogo automaticamente
+        run: python pubblica_video.py
+
+      - name: Controlla catalogo aggiornato
+        run: |
+          python -m json.tool videos.json > /dev/null
+
+      - name: Salva catalogo su GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add videos.json
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da salvare"
+          else
+            git commit -m "Aggiorna catalogo video MerON"
+            git push
+          fi
+
+      - name: Carica risultati del controllo
         uses: actions/upload-artifact@v4
         with:
           name: meron-controllo-video
           path: controllo_video_meron.json
-          retention-days: 30
