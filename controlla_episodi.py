@@ -58,7 +58,30 @@ def recupera_episodi():
             "titolo": item.get("trackName", ""),
             "data": item.get("releaseDate", "")
         })
+    # MERON - Confronta gli episodi con i video YouTube recenti
+    try:
+        with open("video_recenti.json", "r", encoding="utf-8") as file:
+            dati_video = json.load(file)
 
+        video_youtube = dati_video.get("videos", [])
+
+        print(f"\nMERON - Video da confrontare: {len(video_youtube)}")
+
+        for episodio in episodi:
+            titolo_episodio = normalizza_titolo(episodio["titolo"])
+
+            for video in video_youtube:
+                titolo_video = normalizza_titolo(video["title"])
+
+                if titolo_episodio == titolo_video and titolo_episodio:
+                    print("\nPOSSIBILE CORRISPONDENZA:")
+                    print(f"Episodio: {episodio['titolo']}")
+                    print(f"ID Apple: {episodio['id']}")
+                    print(f"Video: {video['title']}")
+                    print(f"YouTube: {video['url']}")
+
+    except FileNotFoundError:
+        print("MERON - File video_recenti.json non trovato")
     print(f"Episodi Apple Podcasts trovati: {len(episodi)}")
 
     print("\nMERON - TEST CONFRONTO TITOLI")
