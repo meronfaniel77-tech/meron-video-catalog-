@@ -3,7 +3,7 @@ import urllib.request
 
 # MERON - Recupera gli episodi da Apple Podcasts
 
-PODCAST_ID = "INSERIRE_ID_PODCAST"
+PODCAST_ID = "1628126740"
 
 def recupera_episodi():
     url = (
