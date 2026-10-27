@@ -26,11 +26,18 @@ jobs:
       - name: Verifica il catalogo JSON
         run: python -m json.tool videos.json > /dev/null
 
-      - name: Controlla i video YouTube di Elisa True Crime
+      - name: Controlla i video YouTube recenti
         run: python controlla_video.py
 
-      - name: Recupera gli episodi Apple Podcasts di Elisa True Crime
+      - name: Recupera gli episodi Apple Podcasts
         run: python controlla_episodi.py
 
       - name: Recupera archivio storico YouTube
         run: python recupera_archivio_youtube.py
+
+      - name: Salva archivio YouTube come artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-archivio-youtube
+          path: archivio_youtube.json
+          retention-days: 30
