@@ -3,27 +3,30 @@ import json
 import re
 import unicodedata
 import urllib.request
+from collections import Counter
 
 APPLE_PODCAST_ID = "1628126740"
-ARCHIVIO_FILE = "archivio_youtube.json"
 
-PAROLE_DA_IGNORARE = {
+STOPWORDS = {
     "the", "and", "with", "from", "what", "when",
     "where", "who", "why", "how", "case", "story",
     "true", "crime", "elisa", "part", "episode",
-    "il", "lo", "la", "i", "gli", "le", "un", "una",
+    "il", "lo", "la", "gli", "le", "un", "una",
     "di", "del", "della", "dei", "delle", "da",
     "in", "con", "per", "che", "cosa", "caso",
     "storia", "ep", "pt", "parte", "dopo",
-    "sono", "era", "alla", "sua", "suo"
+    "sono", "era", "alla", "sua", "suo",
+    "fatto", "fine", "hanno", "quella", "notte",
+    "successo", "verita", "morte", "giorni",
+    "dalla", "nuova", "new", "truth"
 }
 
 
 def normalizza(testo):
     testo = unicodedata.normalize("NFKD", testo)
     testo = "".join(
-        carattere for carattere in testo
-        if not unicodedata.combining(carattere)
+        c for c in testo
+        if not unicodedata.combining(c)
     )
     testo = testo.lower()
     testo = re.sub(r"[^a-z0-9 ]", " ", testo)
@@ -31,17 +34,30 @@ def normalizza(testo):
 
 
 def parole_importanti(testo):
-    parole = normalizza(testo).split()
-
     return {
-        parola for parola in parole
+        parola
+        for parola in normalizza(testo).split()
         if len(parola) >= 4
-        and parola not in PAROLE_DA_IGNORARE
+        and parola not in STOPWORDS
         and not parola.isdigit()
     }
 
 
-def recupera_episodi():
+def numero_parte(titolo):
+    testo = normalizza(titolo)
+
+    match = re.search(
+        r"\b(?:pt|part|parte)\s*([12])\b",
+        testo
+    )
+
+    if match:
+        return int(match.group(1))
+
+    return None
+
+
+def scarica_episodi():
     url = (
         "https://itunes.apple.com/lookup"
         f"?id={APPLE_PODCAST_ID}"
@@ -59,104 +75,132 @@ def recupera_episodi():
         dati = json.load(risposta)
 
     return [
-        episodio
-        for episodio in dati.get("results", [])
-        if episodio.get("wrapperType") == "podcastEpisode"
+        elemento
+        for elemento in dati.get("results", [])
+        if elemento.get("wrapperType") == "podcastEpisode"
     ]
 
 
-def confronta():
+def controlla():
     with open(
-        ARCHIVIO_FILE, "r", encoding="utf-8"
+        "archivio_youtube.json",
+        encoding="utf-8"
     ) as file:
-        archivio = json.load(file)
+        video = json.load(file).get("videos", [])
 
-    videos = archivio.get("videos", [])
-    episodi = recupera_episodi()
+    episodi = scarica_episodi()
 
-    print("MERON - CONFRONTO ARCHIVIO STORICO")
-    print(f"Episodi Apple: {len(episodi)}")
-    print(f"Video YouTube: {len(videos)}")
-    print()
+    # Conta le parole presenti nei diversi titoli.
+    frequenze = Counter()
+
+    for elemento in video:
+        frequenze.update(
+            parole_importanti(elemento.get("title", ""))
+        )
 
     risultati = []
 
     for episodio in episodi:
-        titolo_episodio = episodio.get("trackName", "")
-        parole_episodio = parole_importanti(titolo_episodio)
-
-        if not parole_episodio:
-            continue
+        titolo = episodio.get("trackName", "")
+        parole = parole_importanti(titolo)
 
         candidati = []
 
-        for video in videos:
-            titolo_video = video.get("title", "")
+        for elemento in video:
+            titolo_video = elemento.get("title", "")
             parole_video = parole_importanti(titolo_video)
-
-            comuni = parole_episodio & parole_video
+            comuni = parole & parole_video
 
             if not comuni:
                 continue
 
-            punteggio = len(comuni) / min(
-                len(parole_episodio),
-                len(parole_video)
+            # Le parole rare pesano di piu'.
+            punteggio = sum(
+                1 / max(1, frequenze[parola])
+                for parola in comuni
             )
 
-            if len(comuni) >= 2 and punteggio >= 0.5:
-                candidati.append({
-                    "title": titolo_video,
-                    "url": video.get("url", ""),
-                    "score": round(punteggio, 2),
-                    "common": sorted(comuni)
-                })
+            candidati.append({
+                "title": titolo_video,
+                "url": elemento.get("url", ""),
+                "score": round(punteggio, 3),
+                "common": sorted(comuni)
+            })
 
         candidati.sort(
-            key=lambda elemento: elemento["score"],
+            key=lambda x: x["score"],
             reverse=True
         )
 
-        if candidati:
-            risultati.append({
-                "trackId": episodio.get("trackId"),
-                "episode": titolo_episodio,
-                "candidates": candidati[:3]
-            })
+        migliori = candidati[:3]
+
+        stato = "DA_VERIFICARE"
+
+        if migliori:
+            primo = migliori[0]
+            secondo = (
+                migliori[1]["score"]
+                if len(migliori) > 1
+                else 0
+            )
+
+            parte_apple = numero_parte(titolo)
+            parte_youtube = numero_parte(
+                primo["title"]
+            )
+
+            parti_compatibili = (
+                parte_apple == parte_youtube
+                if parte_apple is not None
+                else parte_youtube is None
+            )
+
+            parole_comuni = len(primo["common"])
+
+            if (
+                parole_comuni >= 2
+                and primo["score"] >= 1.5
+                and primo["score"] > secondo * 1.5
+                and parti_compatibili
+            ):
+                stato = "CANDIDATO_FORTE"
+
+        risultati.append({
+            "trackId": episodio.get("trackId"),
+            "episode": titolo,
+            "status": stato,
+            "candidates": migliori
+        })
+
+    forti = sum(
+        1 for r in risultati
+        if r["status"] == "CANDIDATO_FORTE"
+    )
+
+    print("MERON - CONTROLLO DI SICUREZZA")
+    print("Episodi Apple:", len(episodi))
+    print("Video YouTube:", len(video))
+    print("Candidati forti:", forti)
+    print(
+        "Da verificare:",
+        len(risultati) - forti
+    )
 
     with open(
-        "corrispondenze_da_verificare.json",
+        "controllo_video_meron.json",
         "w",
         encoding="utf-8"
     ) as file:
         json.dump(
-            {"matches": risultati},
+            {"results": risultati},
             file,
             ensure_ascii=False,
             indent=2
         )
 
-    print(
-        "Episodi con possibili corrispondenze:",
-        len(risultati)
-    )
-
-    for risultato in risultati[:15]:
-        print()
-        print("APPLE:", risultato["episode"])
-
-        for candidato in risultato["candidates"]:
-            print("YOUTUBE:", candidato["title"])
-            print("URL:", candidato["url"])
-            print("Parole comuni:", candidato["common"])
-            print("Punteggio:", candidato["score"])
-
-    print()
-    print(
-        "Risultati salvati in "
-        "corrispondenze_da_verificare.json"
-    )
+    print("Creato controllo_video_meron.json")
+    print("Nessun video pubblicato automaticamente.")
 
 
 if __name__ == "__main__":
-    confronta()
+    controlla()
