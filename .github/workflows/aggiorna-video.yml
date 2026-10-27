@@ -42,12 +42,12 @@ jobs:
           path: archivio_youtube.json
           retention-days: 30
 
-      - name: Confronta episodi e archivio storico
+      - name: Esegui controllo di sicurezza
         run: python confronta_archivio.py
 
-      - name: Salva corrispondenze da verificare
+      - name: Salva controllo video MerON
         uses: actions/upload-artifact@v4
         with:
-          name: meron-corrispondenze
-          path: corrispondenze_da_verificare.json
+          name: meron-controllo-video
+          path: controllo_video_meron.json
           retention-days: 30
