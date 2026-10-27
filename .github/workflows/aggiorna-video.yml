@@ -1,3 +1,4 @@
+
 name: MerON - Aggiorna video ufficiali
 
 on:
@@ -17,13 +18,19 @@ jobs:
       - name: Prepara Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Verifica il catalogo MerON
-        run: |
-          python -m json.tool videos.json > /dev/null
-          echo "Catalogo MerON valido!"
+      - name: Installa yt-dlp
+        run: python -m pip install --upgrade yt-dlp
+
+      - name: Verifica il catalogo JSON
+        run: python -m json.tool videos.json > /dev/null
+
       - name: Controlla i video YouTube di Elisa True Crime
         run: python controlla_video.py
+
       - name: Recupera gli episodi Apple Podcasts di Elisa True Crime
         run: python controlla_episodi.py
+
+      - name: Recupera archivio storico YouTube
+        run: python recupera_archivio_youtube.py
