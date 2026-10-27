@@ -4,25 +4,35 @@ import unicodedata
 import urllib.request
 
 # MERON - Recupera gli episodi da Apple Podcasts
-
 PODCAST_ID = "1628126740"
+
+
 # MERON - Normalizza i titoli per confrontarli
 def normalizza_titolo(titolo):
     titolo = unicodedata.normalize("NFKD", titolo)
+
     titolo = "".join(
-        carattere for carattere in titolo
+        carattere
+        for carattere in titolo
         if not unicodedata.combining(carattere)
     )
+
     titolo = titolo.lower()
 
     # Elimina la numerazione iniziale degli episodi
-    titolo = re.sub(r"^\s*ep\.?\s*\d+\s*[:.\-]?\s*", "", titolo)
+    titolo = re.sub(
+        r"^\s*ep\.?\s*\d+\s*[:.\-]?\s*",
+        "",
+        titolo
+    )
 
     # Elimina punteggiatura e spazi ripetuti
     titolo = re.sub(r"[^a-z0-9\s]", " ", titolo)
     titolo = re.sub(r"\s+", " ", titolo).strip()
 
     return titolo
+
+
 def recupera_episodi():
     url = (
         "https://itunes.apple.com/lookup"
@@ -49,7 +59,7 @@ def recupera_episodi():
             "data": item.get("releaseDate", "")
         })
 
-     print(f"Episodi Apple Podcasts trovati: {len(episodi)}")
+    print(f"Episodi Apple Podcasts trovati: {len(episodi)}")
 
     print("\nMERON - TEST CONFRONTO TITOLI")
 
@@ -65,6 +75,7 @@ def recupera_episodi():
         print(
             f"{episodio['id']} - {episodio['titolo']}"
         )
+
 
 if __name__ == "__main__":
     recupera_episodi()
