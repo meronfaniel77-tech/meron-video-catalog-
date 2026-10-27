@@ -1,3 +1,4 @@
+import json
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -11,7 +12,12 @@ FEED_URL = (
 
 print("MERON - Controllo video ufficiali")
 
-with urllib.request.urlopen(FEED_URL, timeout=20) as response:
+request = urllib.request.Request(
+    FEED_URL,
+    headers={"User-Agent": "Mozilla/5.0"}
+)
+
+with urllib.request.urlopen(request, timeout=20) as response:
     xml_data = response.read()
 
 root = ET.fromstring(xml_data)
@@ -38,3 +44,14 @@ print(f"Video recenti trovati: {len(videos)}")
 for video in videos:
     print(f"- {video['title']}")
     print(f"  {video['url']}")
+
+# MERON - Salva i video per il confronto con Apple Podcasts
+with open("video_recenti.json", "w", encoding="utf-8") as file:
+    json.dump(
+        {"videos": videos},
+        file,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print("MERON - File video_recenti.json creato correttamente!")
