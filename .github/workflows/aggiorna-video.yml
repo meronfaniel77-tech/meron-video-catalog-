@@ -35,9 +35,19 @@ jobs:
       - name: Recupera archivio storico YouTube
         run: python recupera_archivio_youtube.py
 
-      - name: Salva archivio YouTube come artifact
+      - name: Salva archivio YouTube
         uses: actions/upload-artifact@v4
         with:
           name: meron-archivio-youtube
           path: archivio_youtube.json
+          retention-days: 30
+
+      - name: Confronta episodi e archivio storico
+        run: python confronta_archivio.py
+
+      - name: Salva corrispondenze da verificare
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-corrispondenze
+          path: corrispondenze_da_verificare.json
           retention-days: 30
