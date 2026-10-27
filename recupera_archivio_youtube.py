@@ -3,8 +3,7 @@ import json
 import subprocess
 import sys
 
-# MERON - Recupera l'archivio pubblico dei video YouTube
-# Canale ufficiale Elisa True Crime
+# MERON - Archivio video Elisa True Crime
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
 CHANNEL_URL = (
@@ -44,10 +43,15 @@ def recupera_archivio():
     try:
         dati = json.loads(risultato.stdout)
     except json.JSONDecodeError:
-        print("MERON - YouTube non ha restituito dati JSON validi")
+        print(
+            "MERON - YouTube non ha restituito "
+            "dati JSON validi"
+        )
         sys.exit(1)
 
     videos = []
+    descrizioni_trovate = 0
+    ids_visti = set()
 
     for entry in dati.get("entries", []):
         if not entry:
@@ -59,26 +63,64 @@ def recupera_archivio():
         if not video_id or not titolo:
             continue
 
+        if video_id in ids_visti:
+            continue
+
+        ids_visti.add(video_id)
+
+        descrizione = entry.get("description") or ""
+
+        if not isinstance(descrizione, str):
+            descrizione = ""
+
+        if descrizione.strip():
+            descrizioni_trovate += 1
+
         videos.append({
+            "id": video_id,
             "title": titolo,
-            "url": f"https://www.youtube.com/watch?v={video_id}"
+            "description": descrizione[:5000],
+            "url": (
+                "https://www.youtube.com/watch?v="
+                + video_id
+            )
         })
 
-    print(f"MERON - Video storici recuperati: {len(videos)}")
+    if not videos:
+        print("ERRORE: nessun video recuperato")
+        sys.exit(1)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+    print(
+        "MERON - Video storici recuperati:",
+        len(videos)
+    )
+
+    print(
+        "MERON - Descrizioni disponibili:",
+        descrizioni_trovate
+    )
+
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
         json.dump(
             {"videos": videos},
             file,
             ensure_ascii=False,
             indent=2
         )
+        file.write("\n")
 
-    print(f"MERON - Archivio salvato in {OUTPUT_FILE}")
+    print(
+        "MERON - Archivio salvato in",
+        OUTPUT_FILE
+    )
 
-    for video in videos[:10]:
-        print(f"- {video['title']}")
-        print(f"  {video['url']}")
+    for video in videos[:5]:
+        print("- " + video["title"])
+        print("  " + video["url"])
 
 
 if __name__ == "__main__":
