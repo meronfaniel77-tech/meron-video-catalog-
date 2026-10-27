@@ -25,3 +25,5 @@ jobs:
           echo "Catalogo MerON valido!"
       - name: Controlla i video YouTube di Elisa True Crime
         run: python controlla_video.py
+      - name: Recupera gli episodi Apple Podcasts di Elisa True Crime
+        run: python controlla_episodi.py
