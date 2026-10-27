@@ -1,0 +1,25 @@
+name: MerON - Aggiorna video ufficiali
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  controlla-video:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Verifica il catalogo MerON
+        run: |
+          python -m json.tool videos.json > /dev/null
+          echo "Catalogo MerON valido!"
