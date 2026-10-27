@@ -25,6 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install yt-dlp requests
 
+      - name: Test descrizione YouTube
+        run: python test_descrizione.py
+
       - name: Controlla catalogo esistente
         run: |
           python -m json.tool videos.json > /dev/null
