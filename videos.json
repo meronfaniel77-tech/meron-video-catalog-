@@ -287,6 +287,215 @@
       "episode": "Ep.39: La famiglia Hamlin \"Mamma è il diavolo\"",
       "youtubeUrl": "https://www.youtube.com/watch?v=y7vKB-MIVWM",
       "verified": false
+    },
+    "1000784235581": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.173 L'ASSURDA, SCIOCCANTE STORIA DI DEE DEE E GIPSY ROSE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XHA5G7LE-aM",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE ABSURD, SHOCKING STORY OF DEE DEE AND GYPSY ROSE",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000782887878": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.172: SPINTO ALLA MORTE DA UN CHATBOT",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IaVw8NKqImo",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "PUSHED TO DEATH BY A CHATBOT",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000779994199": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.171: IL MACELLAIO DI ROSTOV",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3PY7I0vihM8",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE BUTCHER OF ROSTOV",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000777822103": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep..169: TUTTA LA VERITÀ SU TED MAHER PT.2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=y_IHOdVKARk",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE WHOLE TRUTH ABOUT TED MAHER PT. 2",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000771975534": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 162: IL MOSTRO DI UDINE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zAW7fdUp6CI",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE MONSTER OF UDINE",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000761449644": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 155: L'ULTIMO MESSAGGIO DI JASMINE PACE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B1tJcWaXn20",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "JASMINE'S LAST MESSAGE",
+      "matchRule": "Confronto bilingue con riferimento distintivo e contesto",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000760176867": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 154: A DIECI GIORNI DALLA MORTE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mH9uvE3c19A",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "A DIECI GIORNI DALLA MORTE",
+      "matchRule": "Titolo identico dopo la normalizzazione",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000735331350": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 132: 105 GIORNI DA INCUB0: LA STORIA DI JESSICA",
+      "youtubeUrl": "https://www.youtube.com/watch?v=GbopDePtI0c",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "105 DAYS OF NIGHTMARE: JESSICA'S STORY",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000724671944": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 123: Uccidere a 14 anni: Kim e Lucas, i \"Twilight killers\"",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kkyMWMwT_3M",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "IL CASO DEI TWILIGHT K!LLERS",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000720833414": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 119: Il massacro di Farmville",
+      "youtubeUrl": "https://www.youtube.com/watch?v=CGRPqxx5EkQ",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE FARMVILLE MASS4CRO",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000705497669": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 105: Iniziazione e morte di Sanda Dia, ucciso a 20 anni",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Qb5SN5cWveU",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE LAST NIGHT OF SANDA DIA",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000699764793": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 98: Il sorriso spietato di Taylor Schabusiness",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BYJ8WdQh9Ls",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "LO SCIOCCANTE CASO DI TAYLOR SСHABUSINESS",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000679155066": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 83: L'ultimo log-in di Megan",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Bi6K-7MGj7k",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "MEGAN'S LAST LOG-IN",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000672306016": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 75: Il cecchino di Guidonia",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B1PGlxHhRSc",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "The Sniper of Guidonia",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000662474461": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 66: Elisa Pomarelli",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Jhv2mO47LTg",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "ELISA POMARELLI: KILLED BY A GIANT, YES, BUT NOT A \"GOOD\" ONE",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000660260593": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 63: Il delitto di Via Poma",
+      "youtubeUrl": "https://www.youtube.com/watch?v=fsYOXUGrdNY",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "VIA POMA: WHAT HAPPENED THAT DAY?",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000654877268": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 56: Elisa Claps PT.1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jF9sA1K4e_E",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE DISAPPEARANCE OF ELISA CLAPS | PT. 1",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000634087136": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.45: Bianca Devins “Diretta di sangue”",
+      "youtubeUrl": "https://www.youtube.com/watch?v=T4RBZONyWJ4",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "IL CASO DI BIANCA DƎVINS",
+      "matchRule": "Almeno due riferimenti distintivi e copertura sufficiente",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
+    },
+    "1000568691689": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.5: Il caso Gucci",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Pi6ObFeFzPE",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "controllo-bilingue-2",
+      "matchedVideoTitle": "THE GUCCI CASE",
+      "matchRule": "Termini equivalenti e riferimento distintivo condiviso",
+      "addedAt": "2026-10-28T15:03:00.365620+00:00"
     }
   }
 }
