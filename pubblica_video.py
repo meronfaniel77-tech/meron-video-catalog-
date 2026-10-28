@@ -1,7 +1,10 @@
 import json
 import math
+import os
+import tempfile
 import re
 from collections import Counter
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
@@ -11,9 +14,13 @@ from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI, normalizza
 BASE = Path(__file__).resolve().parent
 CONTROLLO = BASE / "controllo_video_meron.json"
 CATALOGO = BASE / "videos.json"
-REPORT = BASE / "simulazione_pubblicazione.json"
+REPORT = BASE / "report_pubblicazione.json"
 
-# Questa versione scrive SOLO il report, mai videos.json.
+# True: aggiunge i collegamenti.
+# False: esegue soltanto la simulazione.
+PUBBLICA = True
+
+# I filtri della simulazione V2 restano invariati.
 ESCLUSE = (set(STOPWORDS) - {"elisa"}) | set("""
 for of to at on by is was are be it its his her she he my your our
 has had did do does an as but not out all you us we they them
@@ -22,7 +29,8 @@ ha ho si no ne non mi ti ci vi piu gia sia ep pt parte part jr
 """.split())
 
 DESCRITTIVE = set(GENERICHE) | {
-    traduzione for parola, traduzione in TRADUZIONI.items()
+    traduzione
+    for parola, traduzione in TRADUZIONI.items()
     if parola != traduzione
 } | set("""
 lato oscuro dark side sides light nulla niente davvero siamo stati
@@ -34,7 +42,8 @@ scompare ritrovato scomparsa morte giorno giorni anno anni
 """.split())
 
 TRADOTTE = {
-    parola for parola, traduzione in TRADUZIONI.items()
+    parola
+    for parola, traduzione in TRADUZIONI.items()
     if parola != traduzione
 }
 
@@ -59,7 +68,6 @@ def titolo_pulito(testo):
         flags=re.I
     )
 
-    # Rimuove il nome del canale solo quando e' un suffisso.
     testo = re.sub(
         r"\s*[|\-]\s*Elisa True Crime\s*$",
         "",
@@ -71,15 +79,14 @@ def titolo_pulito(testo):
 
 
 def termini(testo):
-    # Mantiene anche nomi brevi e numeri significativi,
-    # ma non usa il numero della parte come prova aggiuntiva.
+    # Mantiene anche nomi brevi e numeri significativi.
+    risultato = set()
+
     pulito = re.sub(
         r"\b(?:pt|part|parte)\s*(?:\d+|iii|ii|iv|vi|v|i)\b",
         "",
         titolo_pulito(testo)
     )
-
-    risultato = set()
 
     for parola in pulito.split():
         tradotta = TRADUZIONI.get(parola, parola)
@@ -94,7 +101,7 @@ def termini(testo):
 
 
 def riferimenti(testo):
-    # Indizi distintivi, NON un riconoscimento
+    # Indizi distintivi, non un riconoscimento
     # certificato dei nomi propri.
     return {
         parola
@@ -296,8 +303,6 @@ def verifica(episodio, video, id_usati, conteggi):
 
     score = numero(video.get("score"))
 
-    # Confronta il punteggio con tutti gli altri
-    # candidati disponibili, non soltanto il secondo.
     altri = [
         numero(candidato.get("score"))
         for candidato in episodio.get("candidates", [])
@@ -340,24 +345,86 @@ def verifica(episodio, video, id_usati, conteggi):
     }
 
 
+def salva_atomico(percorso, dati):
+    """Prepara il JSON completo prima di sostituire il file."""
+    contenuto = json.dumps(
+        dati,
+        ensure_ascii=False,
+        indent=2,
+        allow_nan=False
+    ) + "\n"
+
+    temporaneo = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            dir=percorso.parent,
+            prefix=percorso.name + ".",
+            suffix=".tmp",
+            delete=False
+        ) as file:
+            temporaneo = Path(file.name)
+            file.write(contenuto)
+            file.flush()
+            os.fsync(file.fileno())
+
+        os.replace(temporaneo, percorso)
+
+    finally:
+        if temporaneo is not None and temporaneo.exists():
+            temporaneo.unlink()
+
+
 def main():
+    # Conserva una fotografia del catalogo prima di lavorarci.
+    originale = CATALOGO.read_bytes()
+    catalogo = json.loads(
+        originale.decode("utf-8-sig")
+    )
     controllo = leggi_json(CONTROLLO)
-    catalogo = leggi_json(CATALOGO)
 
     risultati = controllo.get("results")
-    videos = catalogo.get("videos")
+    videos = (
+        catalogo.get("videos")
+        if isinstance(catalogo, dict)
+        else None
+    )
 
     if (
         not isinstance(risultati, list)
         or not isinstance(videos, dict)
     ):
-        raise ValueError("Formato JSON non valido")
+        raise ValueError(
+            "Formato JSON non valido: catalogo non modificato"
+        )
+
+    # Un ID ripetuto nel report non deve causare aggiunte ambigue.
+    ids = set()
+
+    for episodio in risultati:
+        if not isinstance(episodio, dict):
+            raise ValueError("Voce episodio non valida")
+
+        identificativo = str(
+            episodio.get("trackId") or ""
+        )
+
+        if (
+            not identificativo.isdigit()
+            or identificativo in ids
+        ):
+            raise ValueError(
+                "ID episodio mancante, non valido o ripetuto"
+            )
+
+        ids.add(identificativo)
 
     forti = [
-        risultato
-        for risultato in risultati
-        if isinstance(risultato, dict)
-        and risultato.get("status") == "CANDIDATO_FORTE"
+        episodio
+        for episodio in risultati
+        if episodio.get("status") == "CANDIDATO_FORTE"
     ]
 
     id_usati = {
@@ -368,25 +435,25 @@ def main():
 
     conteggi = Counter(
         youtube_id(
-            risultato["candidates"][0].get("url")
+            episodio["candidates"][0].get("url")
         )
-        for risultato in forti
+        for episodio in forti
         if isinstance(
-            risultato.get("candidates"), list
+            episodio.get("candidates"), list
         )
-        and risultato["candidates"]
+        and episodio["candidates"]
         and isinstance(
-            risultato["candidates"][0], dict
+            episodio["candidates"][0], dict
         )
     )
 
     verifiche = []
 
     for episodio in forti:
-        if str(episodio.get("trackId")) in videos:
+        if str(episodio["trackId"]) in videos:
             continue
 
-        candidati = episodio.get("candidates", [])
+        candidati = episodio.get("candidates")
 
         if (
             not isinstance(candidati, list)
@@ -395,6 +462,16 @@ def main():
         ):
             raise ValueError(
                 "Candidato forte senza dettagli utilizzabili"
+            )
+
+        if (
+            not isinstance(episodio.get("episode"), str)
+            or not isinstance(
+                candidati[0].get("title"), str
+            )
+        ):
+            raise ValueError(
+                "Titolo episodio o video non valido"
             )
 
         verifiche.append(
@@ -406,20 +483,89 @@ def main():
             )
         )
 
-    superano = sum(
-        verifica_video["esito"] == "SUPERA_FILTRI"
+    selezionati = [
+        verifica_video
         for verifica_video in verifiche
-    )
+        if verifica_video["esito"] == "SUPERA_FILTRI"
+    ]
+
+    aggiunte = {}
+    data_utc = datetime.now(
+        timezone.utc
+    ).isoformat()
+
+    for candidato in selezionati:
+        episodio_id = candidato["trackId"]
+        video_id = youtube_id(candidato["url"])
+
+        # Ultimo controllo: nessuna sovrascrittura.
+        if (
+            episodio_id in videos
+            or episodio_id in aggiunte
+            or video_id is None
+            or video_id in id_usati
+        ):
+            raise ValueError(
+                "Conflitto nelle aggiunte: catalogo non modificato"
+            )
+
+        aggiunte[episodio_id] = {
+            "podcast": "Elisa True Crime",
+            "episode": candidato["episode"],
+            "youtubeUrl": (
+                "https://www.youtube.com/watch?v="
+                + video_id
+            ),
+            "verified": False,
+            "automaticMatch": True,
+            "matchMethod": "controllo-bilingue-2",
+            "matchedVideoTitle": candidato["video"],
+            "matchRule": candidato["regola"],
+            "addedAt": data_utc
+        }
+
+        id_usati.add(video_id)
+
+    prima = len(videos)
+    aggiunti = 0
+
+    if PUBBLICA and aggiunte:
+        # Conserva le voci e gli altri campi gia presenti.
+        aggiornato = {
+            **catalogo,
+            "videos": {
+                **videos,
+                **aggiunte
+            }
+        }
+
+        if CATALOGO.read_bytes() != originale:
+            raise RuntimeError(
+                "Catalogo cambiato durante il controllo: ripetere"
+            )
+
+        salva_atomico(CATALOGO, aggiornato)
+        aggiunti = len(aggiunte)
 
     riepilogo = {
-        "modalita": "SOLO_SIMULAZIONE",
+        "modalita": (
+            "PUBBLICAZIONE_AUTOMATICA"
+            if PUBBLICA
+            else "SOLO_SIMULAZIONE"
+        ),
         "versione": "controllo-bilingue-2",
         "candidati_forti": len(forti),
-        "gia_nel_catalogo": len(forti) - len(verifiche),
+        "gia_nel_catalogo": (
+            len(forti) - len(verifiche)
+        ),
         "nuovi_da_esaminare": len(verifiche),
-        "superano_filtri": superano,
-        "da_rivedere": len(verifiche) - superano,
-        "totale_catalogo_invariato": len(videos)
+        "superano_filtri": len(selezionati),
+        "da_rivedere": (
+            len(verifiche) - len(selezionati)
+        ),
+        "nuovi_collegamenti_aggiunti": aggiunti,
+        "totale_catalogo_prima": prima,
+        "totale_catalogo_dopo": prima + aggiunti
     }
 
     frequenze = Counter(
@@ -428,20 +574,16 @@ def main():
         for motivo in verifica_video["motivi"]
     )
 
-    with REPORT.open("w", encoding="utf-8") as file:
-        json.dump(
-            {
-                "riepilogo": riepilogo,
-                "motivi": dict(frequenze),
-                "verifiche": verifiche
-            },
-            file,
-            ensure_ascii=False,
-            indent=2
-        )
-        file.write("\n")
+    salva_atomico(
+        REPORT,
+        {
+            "riepilogo": riepilogo,
+            "motivi": dict(frequenze),
+            "verifiche": verifiche
+        }
+    )
 
-    print("MERON - SIMULAZIONE CONTROLLO AUTOMATICO V2")
+    print("MERON - PUBBLICAZIONE AUTOMATICA V2")
 
     for nome, valore in riepilogo.items():
         print(f"{nome}: {valore}")
@@ -454,21 +596,40 @@ def main():
     for motivo, quanti in frequenze.most_common():
         print(f"{quanti}: {motivo}")
 
-    print("\nESITI DEI NUOVI CANDIDATI")
-
-    for verifica_video in verifiche:
-        print(
-            f"{verifica_video['esito']} | "
-            f"{verifica_video['episode']} | "
-            f"{verifica_video['video']}"
+    for candidato in selezionati:
+        azione = (
+            "AGGIUNTO"
+            if PUBBLICA
+            else "SELEZIONATO"
         )
 
-    print("Creato: simulazione_pubblicazione.json")
-    print("videos.json NON modificato")
+        print(
+            f"{azione} | "
+            f"{candidato['episode']} | "
+            f"{candidato['video']}"
+        )
+
+    print("Creato:", REPORT.name)
 
     print(
-        "Superare i filtri non dimostra l'identita "
-        "dei contenuti o la disponibilita del video."
+        "videos.json AGGIORNATO"
+        if aggiunti
+        else "videos.json NON modificato"
+    )
+
+    print(
+        "Nuovi collegamenti automatici: "
+        "verified resta false."
+    )
+
+    print(
+        "Disponibilita e contenuto dei video "
+        "non verificati online."
+    )
+
+    print(
+        "Il salvataggio su GitHub avviene "
+        "nel successivo passo del workflow."
     )
 
 
