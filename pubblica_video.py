@@ -1,154 +1,167 @@
 import json
-import math
 import os
-import tempfile
 import re
-from collections import Counter
+import subprocess
+import sys
+import tempfile
+import unicodedata
+from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-# Riusa i dizionari completi: non carica il modello bilingue.
-from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI, normalizza
+# Riutilizza tutti i dizionari del programma gia installato.
+from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 
 BASE = Path(__file__).resolve().parent
-CONTROLLO = BASE / "controllo_video_meron.json"
-CATALOGO = BASE / "videos.json"
-REPORT = BASE / "report_pubblicazione.json"
 
-# True: aggiunge i collegamenti.
-# False: esegue soltanto la simulazione.
-PUBBLICA = True
+# Per una simulazione si puo impostare MERON_SIMULAZIONE=1.
+PUBBLICA = os.environ.get("MERON_SIMULAZIONE", "0") != "1"
 
-# I filtri della simulazione V2 restano invariati.
-ESCLUSE = (set(STOPWORDS) - {"elisa"}) | set("""
-for of to at on by is was are be it its his her she he my your our
-has had did do does an as but not out all you us we they them
-nel al ai ad ed sul tra fra dei il lo la le gli un una e o a
-ha ho si no ne non mi ti ci vi piu gia sia ep pt parte part jr
+# Il recupero italiano e' facoltativo: se fallisce,
+# il programma continua con l'archivio disponibile.
+CERCA_ITALIANO = (
+    os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
+)
+
+CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
+
+# Integrazioni ai dizionari esistenti, non loro sostituzioni.
+TRAD = dict(TRADUZIONI)
+
+TRAD.update({
+    "new": "nuova",
+    "latest": "nuova",
+    "truth": "verita",
+    "happened": "successo",
+    "happens": "successo",
+    "that": "quella",
+    "night": "notte",
+    "macabre": "macabro",
+    "plan": "piano",
+    "twins": "gemelle",
+    "twin": "gemelle",
+    "cult": "setta",
+    "zizians": "ziziani",
+    "gypsy": "gipsy",
+    "scheme": "schema",
+    "secrets": "segreti",
+    "personalities": "personalita",
+    "freeway": "superstrada",
+    "phantom": "fantasma",
+    "hiding": "nascondeva",
+    "wanted": "voleva",
+    "ice": "ghiaccio",
+    "lady": "donna",
+    "whole": "tutta",
+    "dark": "oscuro",
+    "side": "lato",
+    "sides": "lato",
+    "light": "luce",
+    "killers": "assassini",
+    "monster": "mostro",
+    "butcher": "macellaio",
+    "sniper": "cecchino",
+    "massacre": "massacro",
+    "barn": "fienile",
+    "letters": "lettere",
+    "books": "libri",
+    "lies": "bugie",
+    "other": "altre",
+    "death": "morte",
+    "pushed": "spinto",
+    "courage": "coraggio",
+    "last": "ultimo",
+    "message": "messaggio",
+    "everything": "tutto",
+    "seemed": "sembrava",
+    "decided": "deciso",
+    "already": "gia",
+})
+
+# Conserva anche parole che distinguono versioni diverse
+# e nomi brevi come Ed.
+STOP = (
+    set(STOPWORDS)
+    - {
+        "elisa", "nuova", "new", "truth", "verita",
+        "notte", "successo", "morte", "giorni", "ed"
+    }
+) | set("""
+for of to at on by is was are be it its his her she he my your our has had
+an as but out all you us we they them nel al ai ad sul tra fra ha ho
+si non mi ti ci vi piu gia sia ep pt jr this that what which cos lei noi
 """.split())
 
-DESCRITTIVE = set(GENERICHE) | {
-    traduzione
-    for parola, traduzione in TRADUZIONI.items()
-    if parola != traduzione
-} | set("""
-lato oscuro dark side sides light nulla niente davvero siamo stati
-fatto fine vita mondo caso casi storia storie racconti puntata puntate
-nuovo nuova nuove nuovi serial made italiani mediatici dietro sempre
-ultimo ultima ultime vero falsa falso verita mistero mostro
-tragedia assurdo assurda scioccante incredibile famoso famosi
-scompare ritrovato scomparsa morte giorno giorni anno anni
+DESCRITTIVE = (
+    set(GENERICHE)
+    | {k for k, v in TRAD.items() if k != v}
+    | {v for k, v in TRAD.items() if k != v}
+    | set("""
+lato oscuro luce nulla niente davvero siamo stati fatto fine vita mondo
+caso casi storia storie racconti puntata puntate nuovo nuove nuovi
+serial made italiani mediatici dietro sempre ultimo ultima ultime vero
+falsa falso mistero mostro tragedia assurdo assurda scioccante incredibile
+famoso famosi scompare ritrovato scomparsa morte giorno giorni anno anni
+suo suoi loro mamma uomo donna piccolo piccola bambini amica amante
+assassina assassino crimine delitto verita nuova quella notte successo
+orrore inquietante terribile misterioso misteriosi nascosto nascosta
+profondo grande prima dopo durante soltanto solo mente dentro fuori
+setta sparizione schiava vittima vittime morte morto morta ucciso uccisa
+shot mr mrs full entire complete crimes bambini bambine proprio stessa
+aggiornamento update inedito intervista con senza vita segreti segreto
+famiglia famigliare celebrity edition supersnatural supernatural
 """.split())
+)
 
-TRADOTTE = {
-    parola
-    for parola, traduzione in TRADUZIONI.items()
-    if parola != traduzione
-}
+PART_RE = re.compile(
+    r"\b(?:pt|part|parte)\s*(\d+|viii|vii|vi|iv|iii|ii|v|i)\b"
+)
 
 
-def leggi_json(percorso):
-    with percorso.open(encoding="utf-8-sig") as file:
+def leggi(nome):
+    with (BASE / nome).open(encoding="utf-8-sig") as file:
         dati = json.load(file)
 
     if not isinstance(dati, dict):
-        raise ValueError(
-            f"Oggetto JSON atteso in {percorso.name}"
-        )
+        raise ValueError(f"Formato non valido: {nome}")
 
     return dati
 
 
-def titolo_pulito(testo):
-    testo = re.sub(
-        r"^\s*(?:ep|episodio|episode)\s*\.*\s*\d+\s*[:.\-]?\s*",
-        "",
-        str(testo or ""),
-        flags=re.I
-    )
+def salva(nome, dati):
+    destinazione = BASE / nome
 
-    testo = re.sub(
-        r"\s*[|\-]\s*Elisa True Crime\s*$",
-        "",
-        testo,
-        flags=re.I
-    )
+    contenuto = json.dumps(
+        dati,
+        ensure_ascii=False,
+        indent=2,
+        allow_nan=False
+    ) + "\n"
 
-    return normalizza(testo)
+    temporaneo = None
 
+    try:
+        with tempfile.NamedTemporaryFile(
+            "w",
+            encoding="utf-8",
+            dir=BASE,
+            suffix=".tmp",
+            delete=False
+        ) as file:
+            temporaneo = Path(file.name)
+            file.write(contenuto)
+            file.flush()
+            os.fsync(file.fileno())
 
-def termini(testo):
-    # Mantiene anche nomi brevi e numeri significativi.
-    risultato = set()
+        os.replace(temporaneo, destinazione)
 
-    pulito = re.sub(
-        r"\b(?:pt|part|parte)\s*(?:\d+|iii|ii|iv|vi|v|i)\b",
-        "",
-        titolo_pulito(testo)
-    )
-
-    for parola in pulito.split():
-        tradotta = TRADUZIONI.get(parola, parola)
-
-        if (
-            (len(tradotta) >= 3 or tradotta.isdigit())
-            and tradotta not in ESCLUSE
-        ):
-            risultato.add(tradotta)
-
-    return risultato
+    finally:
+        if temporaneo is not None and temporaneo.exists():
+            temporaneo.unlink()
 
 
-def riferimenti(testo):
-    # Indizi distintivi, non un riconoscimento
-    # certificato dei nomi propri.
-    return {
-        parola
-        for parola in titolo_pulito(testo).split()
-        if len(parola) >= 3
-        and not parola.isdigit()
-        and parola not in ESCLUSE
-        and parola not in DESCRITTIVE
-        and parola not in TRADOTTE
-    }
-
-
-def parte(testo):
-    match = re.search(
-        r"\b(?:pt|part|parte)\s*(\d+|iii|ii|iv|vi|v|i)\b",
-        titolo_pulito(testo)
-    )
-
-    if not match:
-        return None
-
-    valore = match.group(1)
-
-    if valore.isdigit():
-        return int(valore)
-
-    return {
-        "i": 1,
-        "ii": 2,
-        "iii": 3,
-        "iv": 4,
-        "v": 5,
-        "vi": 6
-    }[valore]
-
-
-def aggiornamento(testo):
-    return bool(
-        re.search(
-            r"\b(?:aggiornamento|aggiornamenti|update|updates)\b|"
-            r"\bnuov[ae] verita\b|\bnew truth\b",
-            titolo_pulito(testo)
-        )
-    )
-
-
-def youtube_id(url):
+def video_id(url):
     if not isinstance(url, str):
         return None
 
@@ -170,7 +183,7 @@ def youtube_id(url):
             valore = valori[0] if len(valori) == 1 else ""
 
         elif parsed.netloc == "youtu.be":
-            valore = parsed.path.removeprefix("/")
+            valore = parsed.path.lstrip("/")
 
         else:
             return None
@@ -184,368 +197,561 @@ def youtube_id(url):
         return None
 
 
-def numero(valore):
+def normalizza(testo):
+    testo = str(testo or "").casefold()
+
+    # Caratteri stilizzati presenti nei titoli.
+    testo = testo.translate(str.maketrans({
+        "\u01dd": "e",
+        "\u018e": "e",
+        "\u2200": "a",
+        "\u044f": "r",
+        "\u0441": "c",
+        "\u0438": "n",
+        "\u043e": "o",
+        "\u0430": "a",
+    }))
+
+    correzioni = {
+        "k!ller": "killer",
+        "l!sa": "lisa",
+        "c!rce0": "circeo",
+        "assasslna": "assassina",
+        "madlson": "madison",
+    }
+
+    for originale, corretto in correzioni.items():
+        testo = testo.replace(originale, corretto)
+
+    # Corregge numeri dentro le parole, non numeri
+    # autonomi come 764.
+    testo = re.sub(
+        r"[a-z][a-z0-9!]*[a-z0-9]",
+        lambda match: match[0].translate(
+            str.maketrans({
+                "0": "o",
+                "4": "a",
+                "3": "e",
+                "!": "i"
+            })
+        ),
+        testo
+    )
+
+    testo = unicodedata.normalize("NFKD", testo)
+    testo = "".join(
+        carattere
+        for carattere in testo
+        if not unicodedata.combining(carattere)
+    )
+
+    # Conserva iniziali come H.H. e O.J.
+    testo = re.sub(
+        r"\b([a-z])\.\s*([a-z])(?:\.(?=\W|$)|\b)",
+        r"\1\2",
+        testo
+    )
+
+    testo = re.sub(r"[^a-z0-9 ]", " ", testo)
+    return re.sub(r"\s+", " ", testo).strip()
+
+
+def dettagli(titolo):
+    testo = re.sub(
+        r"^\s*(?:ep|episodio|episode)\s*\.*\s*\d+\s*[:.\-]?\s*",
+        "",
+        str(titolo or ""),
+        flags=re.I
+    )
+
+    testo = re.sub(
+        r"\s*[|\-]\s*Elisa True Crime\s*$",
+        "",
+        testo,
+        flags=re.I
+    )
+
+    testo = normalizza(testo)
+
+    testo = re.sub(
+        r"\bvanished without a trace\b",
+        "scomparsa nel nulla",
+        testo
+    )
+
+    parti = PART_RE.findall(testo)
+
+    romani = {
+        "i": 1, "ii": 2, "iii": 3, "iv": 4,
+        "v": 5, "vi": 6, "vii": 7, "viii": 8
+    }
+
+    parte = None
+
+    if parti:
+        parte = (
+            int(parti[0])
+            if parti[0].isdigit()
+            else romani.get(parti[0])
+        )
+
+    corpo = PART_RE.sub(" ", testo)
+
+    lista = [
+        parola
+        for parola in corpo.split()
+        if parola not in STOP and len(parola) >= 2
+    ]
+
+    termini = {
+        TRAD.get(parola, parola)
+        for parola in lista
+    } - STOP
+
+    indizi = {
+        parola
+        for parola in lista
+        if parola not in DESCRITTIVE
+        and not parola.isdigit()
+    }
+
+    aggiornamento = bool(re.search(
+        r"\b(?:aggiornamento|update|updates)\b|"
+        r"\bnew truth\b|\bnuova verita\b",
+        testo
+    ))
+
+    return {
+        "testo": testo,
+        "termini": termini,
+        "indizi": indizi,
+        "parte": parte,
+        "aggiornamento": aggiornamento,
+        "trailer": "trailer" in corpo.split()
+    }
+
+
+def titoli_italiani(archivio):
+    if not CERCA_ITALIANO:
+        return "DISATTIVATO", 0
+
+    comando = [
+        sys.executable,
+        "-m",
+        "yt_dlp",
+        "--ignore-config",
+        "--flat-playlist",
+        "--skip-download",
+        "--dump-single-json",
+        "--socket-timeout", "10",
+        "--retries", "1",
+        "--extractor-retries", "1",
+        "--extractor-args", "youtube:lang=it",
+        f"https://www.youtube.com/channel/{CHANNEL_ID}/videos"
+    ]
+
+    try:
+        risultato = subprocess.run(
+            comando,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+            timeout=120
+        )
+
+        if risultato.returncode:
+            raise RuntimeError(risultato.stderr[-300:])
+
+        dati = json.loads(risultato.stdout)
+
+        if (
+            dati.get("channel_id")
+            and dati["channel_id"] != CHANNEL_ID
+        ):
+            raise ValueError("Canale inatteso")
+
+        entrate = dati.get("entries")
+
+        if not isinstance(entrate, list) or not entrate:
+            raise ValueError("Elenco vuoto")
+
+        nuovi = 0
+
+        for video in entrate:
+            if (
+                not isinstance(video, dict)
+                or video.get("id") not in archivio
+            ):
+                continue
+
+            titolo = video.get("title")
+            titoli = archivio[video["id"]]["titoli"]
+
+            if (
+                isinstance(titolo, str)
+                and titolo.strip()
+                and titolo not in titoli
+            ):
+                titoli.append(titolo)
+                nuovi += 1
+
+        return "RIUSCITO_TITOLI_NON_GARANTITI_IN_ITALIANO", nuovi
+
+    except (
+        OSError,
+        ValueError,
+        RuntimeError,
+        subprocess.TimeoutExpired
+    ) as errore:
+        print(
+            "Titoli in italiano non recuperati; "
+            "uso l'archivio disponibile:",
+            str(errore)[:250]
+        )
+
+        return "NON_DISPONIBILE", 0
+
+
+def valuta(apple, youtube, titolo_video, identificativo):
+    comuni = apple["termini"] & youtube["termini"]
+    indizi = apple["indizi"] & youtube["indizi"]
+
+    copertura_apple = (
+        len(comuni) / len(apple["termini"])
+        if apple["termini"]
+        else 0
+    )
+
+    copertura_video = (
+        len(comuni) / len(youtube["termini"])
+        if youtube["termini"]
+        else 0
+    )
+
+    copertura = min(copertura_apple, copertura_video)
+
+    livello = 0
+    regola = "Indizi insufficienti"
+
     if (
-        isinstance(valore, bool)
-        or not isinstance(valore, (int, float))
+        apple["testo"] == youtube["testo"]
+        and len(apple["testo"].split()) >= 3
     ):
-        return None
+        livello = 4
+        regola = "Titolo completo coincidente"
 
-    return float(valore) if math.isfinite(valore) else None
-
-
-def verifica(episodio, video, id_usati, conteggi):
-    titolo = episodio.get("episode", "")
-    titolo_video = video.get("title", "")
-    identificativo = str(episodio.get("trackId") or "")
-    video_id = youtube_id(video.get("url"))
-    motivi = []
-
-    if (
-        not identificativo.isdigit()
-        or not titolo
-        or not titolo_video
+    elif (
+        apple["termini"] == youtube["termini"]
+        and len(comuni) >= 2
+        and (
+            indizi
+            or any(parola.isdigit() for parola in comuni)
+        )
     ):
-        motivi.append("Dati incompleti")
-
-    if video_id is None:
-        motivi.append("URL YouTube non valido")
-
-    if video_id in id_usati:
-        motivi.append(
-            "Video gia collegato a un altro episodio"
-        )
-
-    if video_id and conteggi[video_id] > 1:
-        motivi.append(
-            "Video proposto per piu candidati forti"
-        )
-
-    testi = (
-        titolo_pulito(titolo)
-        + " "
-        + titolo_pulito(titolo_video)
-    )
-
-    if re.search(r"\btrailer\b", testi):
-        motivi.append(
-            "Trailer: non associato automaticamente"
-        )
-
-    if (
-        parte(titolo) != parte(titolo_video)
-        or video.get("parte_incerta") is True
-    ):
-        motivi.append("Parte episodio non confermata")
-
-    if aggiornamento(titolo) != aggiornamento(titolo_video):
-        motivi.append(
-            "Aggiornamento e versione originale da distinguere"
-        )
-
-    parole_apple = termini(titolo)
-    parole_video = termini(titolo_video)
-    comuni = parole_apple & parole_video
-
-    indizi = (
-        riferimenti(titolo)
-        & riferimenti(titolo_video)
-    )
-
-    copertura = (
-        len(comuni) / min(
-            len(parole_apple),
-            len(parole_video)
-        )
-        if parole_apple and parole_video
-        else 0.0
-    )
-
-    identico = (
-        bool(titolo_pulito(titolo))
-        and titolo_pulito(titolo)
-        == titolo_pulito(titolo_video)
-    )
-
-    # Criteri di selezione, non probabilita di correttezza.
-    regola = None
-
-    if identico:
-        regola = "Titolo identico dopo la normalizzazione"
-
-    elif indizi and parole_apple == parole_video:
+        livello = 3
         regola = (
-            "Termini equivalenti e riferimento "
-            "distintivo condiviso"
+            "Titoli equivalenti con nomi "
+            "o numeri distintivi"
         )
 
-    elif len(indizi) >= 2 and copertura >= 0.60:
+    elif len(indizi) >= 2 and copertura >= 0.35:
+        livello = 2
         regola = (
-            "Almeno due riferimenti distintivi "
-            "e copertura sufficiente"
+            "Almeno due indizi distintivi "
+            "e contesto coerente"
         )
 
     elif (
         indizi
-        and len(comuni) >= 2
-        and copertura >= 0.80
+        and len(comuni) >= 3
+        and copertura >= 0.75
     ):
+        livello = 2
         regola = (
-            "Confronto bilingue con riferimento "
-            "distintivo e contesto"
+            "Indizio distintivo e forte copertura bilingue"
         )
 
-    if regola is None:
-        motivi.append(
-            "Indizi insufficienti per "
-            "l'abbinamento automatico"
+    # La descrizione aiuta soltanto quando un riferimento
+    # coincide gia nel titolo.
+    supporto = (
+        apple.get("descr_indizi", set())
+        & youtube["indizi"]
+    )
+
+    if (
+        livello < 2
+        and indizi
+        and len(indizi | supporto) >= 2
+        and youtube["indizi"] <= (indizi | supporto)
+    ):
+        livello = 2
+        regola = (
+            "Riferimento nel titolo confermato "
+            "dalla descrizione Apple"
         )
 
-    score = numero(video.get("score"))
+    blocchi = []
 
-    altri = [
-        numero(candidato.get("score"))
-        for candidato in episodio.get("candidates", [])
-        if isinstance(candidato, dict)
-        and youtube_id(candidato.get("url")) != video_id
-    ]
+    if apple["trailer"] or youtube["trailer"]:
+        blocchi.append("TRAILER")
 
-    altri = [
-        punteggio
-        for punteggio in altri
-        if punteggio is not None
-    ]
+    # Stesso caso non significa stessa parte.
+    if apple["parte"] != youtube["parte"]:
+        blocchi.append("PARTI_NON_ALLINEATE")
 
-    if score is None:
-        motivi.append("Punteggio mancante o non valido")
-
-    elif altri and score <= max(altri) * 1.5:
-        motivi.append(
-            "Margine sul migliore degli altri "
-            "candidati insufficiente"
-        )
+    if apple["aggiornamento"] != youtube["aggiornamento"]:
+        blocchi.append("VERSIONI_DIVERSE")
 
     return {
-        "trackId": identificativo,
-        "episode": titolo,
-        "video": titolo_video,
-        "url": video.get("url"),
-        "esito": (
-            "DA_RIVEDERE"
-            if motivi
-            else "SUPERA_FILTRI"
+        "videoId": identificativo,
+        "title": titolo_video,
+        "url": (
+            "https://www.youtube.com/watch?v="
+            + identificativo
         ),
+        "livello": livello,
         "regola": regola,
-        "termini_comuni": sorted(comuni),
-        "riferimenti_condivisi": sorted(indizi),
-        "copertura_titolo_piu_breve": round(
-            copertura, 3
-        ),
-        "motivi": motivi
+        "blocchi": blocchi,
+        "indizi": sorted(indizi),
+        "comuni": sorted(comuni),
+        "copertura": round(copertura, 3),
+        "priorita": (
+            livello,
+            len(indizi),
+            round(copertura, 3),
+            len(comuni)
+        )
     }
 
 
-def salva_atomico(percorso, dati):
-    """Prepara il JSON completo prima di sostituire il file."""
-    contenuto = json.dumps(
-        dati,
-        ensure_ascii=False,
-        indent=2,
-        allow_nan=False
-    ) + "\n"
-
-    temporaneo = None
-
-    try:
-        with tempfile.NamedTemporaryFile(
-            mode="w",
-            encoding="utf-8",
-            dir=percorso.parent,
-            prefix=percorso.name + ".",
-            suffix=".tmp",
-            delete=False
-        ) as file:
-            temporaneo = Path(file.name)
-            file.write(contenuto)
-            file.flush()
-            os.fsync(file.fileno())
-
-        os.replace(temporaneo, percorso)
-
-    finally:
-        if temporaneo is not None and temporaneo.exists():
-            temporaneo.unlink()
-
-
 def main():
-    # Conserva una fotografia del catalogo prima di lavorarci.
-    originale = CATALOGO.read_bytes()
+    percorso = BASE / "videos.json"
+    originale = percorso.read_bytes()
+
     catalogo = json.loads(
         originale.decode("utf-8-sig")
     )
-    controllo = leggi_json(CONTROLLO)
 
+    episodi = leggi("episodi_apple.json").get("episodes")
+    video = leggi("archivio_youtube.json").get("videos")
+    controllo = leggi("controllo_video_meron.json")
     risultati = controllo.get("results")
-    videos = (
+
+    salvati = (
         catalogo.get("videos")
         if isinstance(catalogo, dict)
         else None
     )
 
     if (
-        not isinstance(risultati, list)
-        or not isinstance(videos, dict)
+        not isinstance(episodi, list)
+        or not episodi
+        or not isinstance(video, list)
+        or not video
+        or not isinstance(salvati, dict)
+        or not isinstance(risultati, list)
     ):
         raise ValueError(
-            "Formato JSON non valido: catalogo non modificato"
+            "Archivi mancanti, vuoti o non validi: "
+            "catalogo intatto"
         )
 
-    # Un ID ripetuto nel report non deve causare aggiunte ambigue.
-    ids = set()
-
-    for episodio in risultati:
-        if not isinstance(episodio, dict):
-            raise ValueError("Voce episodio non valida")
-
-        identificativo = str(
-            episodio.get("trackId") or ""
-        )
-
-        if (
-            not identificativo.isdigit()
-            or identificativo in ids
-        ):
-            raise ValueError(
-                "ID episodio mancante, non valido o ripetuto"
-            )
-
-        ids.add(identificativo)
-
-    forti = [
-        episodio
-        for episodio in risultati
-        if episodio.get("status") == "CANDIDATO_FORTE"
+    ids = [
+        str(episodio.get("id", ""))
+        if isinstance(episodio, dict)
+        else ""
+        for episodio in episodi
     ]
 
-    id_usati = {
-        youtube_id(video.get("youtubeUrl"))
-        for video in videos.values()
-        if isinstance(video, dict)
-    } - {None}
-
-    conteggi = Counter(
-        youtube_id(
-            episodio["candidates"][0].get("url")
+    if (
+        any(not identificativo.isdigit() for identificativo in ids)
+        or len(set(ids)) != len(ids)
+    ):
+        raise ValueError(
+            "ID Apple non validi o duplicati: catalogo intatto"
         )
-        for episodio in forti
-        if isinstance(
-            episodio.get("candidates"), list
-        )
-        and episodio["candidates"]
-        and isinstance(
-            episodio["candidates"][0], dict
-        )
-    )
 
-    verifiche = []
+    archivio = {}
 
-    for episodio in forti:
-        if str(episodio["trackId"]) in videos:
+    for elemento in video:
+        if not isinstance(elemento, dict):
             continue
 
-        candidati = episodio.get("candidates")
+        identificativo = video_id(elemento.get("url"))
+        titolo = elemento.get("title")
 
         if (
-            not isinstance(candidati, list)
-            or not candidati
-            or not isinstance(candidati[0], dict)
+            identificativo
+            and isinstance(titolo, str)
+            and titolo.strip()
         ):
-            raise ValueError(
-                "Candidato forte senza dettagli utilizzabili"
+            archivio.setdefault(
+                identificativo, {"titoli": []}
+            )["titoli"].append(titolo)
+
+    if not archivio:
+        raise ValueError("Nessun video utilizzabile")
+
+    lingua, varianti = titoli_italiani(archivio)
+
+    for elemento in archivio.values():
+        elemento["dettagli"] = [
+            (titolo, dettagli(titolo))
+            for titolo in dict.fromkeys(elemento["titoli"])
+        ]
+
+    stato_precedente = {
+        str(risultato.get("trackId")): risultato.get("status")
+        for risultato in risultati
+        if isinstance(risultato, dict)
+    }
+
+    usati = {
+        video_id(elemento.get("youtubeUrl"))
+        for elemento in salvati.values()
+        if isinstance(elemento, dict)
+    } - {None}
+
+    esiti = []
+
+    # Esamina TUTTI gli episodi senza collegamento.
+    # Non filtra piu soltanto CANDIDATO_FORTE.
+    for episodio, episodio_id in zip(episodi, ids):
+        if episodio_id in salvati:
+            continue
+
+        titolo = episodio.get("titolo", "")
+
+        if not isinstance(titolo, str) or not titolo.strip():
+            raise ValueError("Titolo Apple mancante")
+
+        apple = dettagli(titolo)
+        apple["descr_indizi"] = dettagli(
+            episodio.get("descrizione", "")
+        )["indizi"]
+
+        candidati = []
+
+        for identificativo, elemento in archivio.items():
+            valutazioni = [
+                valuta(apple, youtube, titolo_video, identificativo)
+                for titolo_video, youtube in elemento["dettagli"]
+            ]
+
+            # Una sola proposta per ogni ID YouTube,
+            # anche quando esistono titoli in due lingue.
+            candidato = max(
+                valutazioni,
+                key=lambda valore: (
+                    not valore["blocchi"],
+                    valore["priorita"]
+                )
             )
 
-        if (
-            not isinstance(episodio.get("episode"), str)
-            or not isinstance(
-                candidati[0].get("title"), str
-            )
-        ):
-            raise ValueError(
-                "Titolo episodio o video non valido"
-            )
+            if candidato["comuni"]:
+                candidati.append(candidato)
 
-        verifiche.append(
-            verifica(
-                episodio,
-                candidati[0],
-                id_usati,
-                conteggi
-            )
+        utilizzabili = sorted(
+            [
+                candidato
+                for candidato in candidati
+                if candidato["livello"] >= 2
+                and not candidato["blocchi"]
+            ],
+            key=lambda candidato: candidato["priorita"],
+            reverse=True
         )
 
-    selezionati = [
-        verifica_video
-        for verifica_video in verifiche
-        if verifica_video["esito"] == "SUPERA_FILTRI"
-    ]
+        stato = "DATI_INSUFFICIENTI"
+        scelto = None
+
+        if apple["trailer"]:
+            stato = "TRAILER"
+
+        elif utilizzabili:
+            candidato = utilizzabili[0]
+
+            if (
+                len(utilizzabili) > 1
+                and utilizzabili[1]["livello"] >= candidato["livello"]
+            ):
+                stato = "PIU_VIDEO_COMPATIBILI"
+
+            elif candidato["videoId"] in usati:
+                stato = "VIDEO_GIA_ASSOCIATO"
+
+            else:
+                stato = "SELEZIONATO"
+                scelto = candidato
+
+        elif any(
+            candidato["livello"] >= 2
+            and "PARTI_NON_ALLINEATE" in candidato["blocchi"]
+            for candidato in candidati
+        ):
+            stato = "PARTI_NON_ALLINEATE"
+
+        elif any(
+            candidato["livello"] >= 2
+            and "VERSIONI_DIVERSE" in candidato["blocchi"]
+            for candidato in candidati
+        ):
+            stato = "VERSIONI_DIVERSE"
+
+        proposte = sorted(
+            candidati,
+            key=lambda candidato: candidato["priorita"],
+            reverse=True
+        )[:5]
+
+        esiti.append({
+            "trackId": episodio_id,
+            "episode": titolo,
+            "stato_precedente": stato_precedente.get(episodio_id),
+            "esito": stato,
+            "selezionato": scelto,
+            "proposte": proposte
+        })
+
+    # Evita di assegnare automaticamente lo stesso video
+    # a due episodi diversi.
+    assegnazioni = defaultdict(list)
+
+    for risultato in esiti:
+        if risultato["esito"] == "SELEZIONATO":
+            identificativo = risultato["selezionato"]["videoId"]
+            assegnazioni[identificativo].append(risultato)
+
+    for gruppo in assegnazioni.values():
+        if len(gruppo) > 1:
+            for risultato in gruppo:
+                risultato["esito"] = "VIDEO_CONDIVISO_DA_DISTINGUERE"
+                risultato["selezionato"] = None
 
     aggiunte = {}
-    data_utc = datetime.now(
-        timezone.utc
-    ).isoformat()
+    data = datetime.now(timezone.utc).isoformat()
 
-    for candidato in selezionati:
-        episodio_id = candidato["trackId"]
-        video_id = youtube_id(candidato["url"])
+    for risultato in esiti:
+        if risultato["esito"] != "SELEZIONATO":
+            continue
 
-        # Ultimo controllo: nessuna sovrascrittura.
-        if (
-            episodio_id in videos
-            or episodio_id in aggiunte
-            or video_id is None
-            or video_id in id_usati
-        ):
-            raise ValueError(
-                "Conflitto nelle aggiunte: catalogo non modificato"
-            )
+        candidato = risultato["selezionato"]
 
-        aggiunte[episodio_id] = {
+        aggiunte[risultato["trackId"]] = {
             "podcast": "Elisa True Crime",
-            "episode": candidato["episode"],
-            "youtubeUrl": (
-                "https://www.youtube.com/watch?v="
-                + video_id
-            ),
+            "episode": risultato["episode"],
+            "youtubeUrl": candidato["url"],
             "verified": False,
             "automaticMatch": True,
-            "matchMethod": "controllo-bilingue-2",
-            "matchedVideoTitle": candidato["video"],
+            "matchMethod": "recupero-tutti-v3",
+            "matchedVideoTitle": candidato["title"],
             "matchRule": candidato["regola"],
-            "addedAt": data_utc
+            "addedAt": data
         }
 
-        id_usati.add(video_id)
-
-    prima = len(videos)
-    aggiunti = 0
-
-    if PUBBLICA and aggiunte:
-        # Conserva le voci e gli altri campi gia presenti.
-        aggiornato = {
-            **catalogo,
-            "videos": {
-                **videos,
-                **aggiunte
-            }
-        }
-
-        if CATALOGO.read_bytes() != originale:
-            raise RuntimeError(
-                "Catalogo cambiato durante il controllo: ripetere"
-            )
-
-        salva_atomico(CATALOGO, aggiornato)
-        aggiunti = len(aggiunte)
+    nuovi = len(aggiunte) if PUBBLICA else 0
+    conteggi = Counter(risultato["esito"] for risultato in esiti)
 
     riepilogo = {
         "modalita": (
@@ -553,83 +759,87 @@ def main():
             if PUBBLICA
             else "SOLO_SIMULAZIONE"
         ),
-        "versione": "controllo-bilingue-2",
-        "candidati_forti": len(forti),
-        "gia_nel_catalogo": (
-            len(forti) - len(verifiche)
+        "versione": "recupero-tutti-v3",
+        "episodi_apple": len(episodi),
+        "video_archivio": len(archivio),
+        "recupero_titoli_italiani": lingua,
+        "varianti_aggiuntive": varianti,
+        "episodi_gia_collegati": len(episodi) - len(esiti),
+        "episodi_senza_collegamento_esaminati": len(esiti),
+        "selezionati": len(aggiunte),
+        "recuperati_da_DA_VERIFICARE": sum(
+            risultato["esito"] == "SELEZIONATO"
+            and risultato["stato_precedente"] == "DA_VERIFICARE"
+            for risultato in esiti
         ),
-        "nuovi_da_esaminare": len(verifiche),
-        "superano_filtri": len(selezionati),
-        "da_rivedere": (
-            len(verifiche) - len(selezionati)
-        ),
-        "nuovi_collegamenti_aggiunti": aggiunti,
-        "totale_catalogo_prima": prima,
-        "totale_catalogo_dopo": prima + aggiunti
+        "nuovi_collegamenti_aggiunti": nuovi,
+        "totale_catalogo_prima": len(salvati),
+        "totale_catalogo_dopo": len(salvati) + nuovi,
+        "episodi_senza_collegamento_dopo": len(esiti) - nuovi,
+        "motivi_attesa": dict(conteggi)
     }
 
-    frequenze = Counter(
-        motivo
-        for verifica_video in verifiche
-        for motivo in verifica_video["motivi"]
-    )
+    if PUBBLICA and aggiunte:
+        if percorso.read_bytes() != originale:
+            raise RuntimeError(
+                "Catalogo modificato durante il controllo: "
+                "nessuna scrittura"
+            )
 
-    salva_atomico(
-        REPORT,
-        {
-            "riepilogo": riepilogo,
-            "motivi": dict(frequenze),
-            "verifiche": verifiche
-        }
-    )
+        salva(
+            "videos.json",
+            {
+                **catalogo,
+                "videos": {
+                    **salvati,
+                    **aggiunte
+                }
+            }
+        )
 
-    print("MERON - PUBBLICAZIONE AUTOMATICA V2")
+    report = {
+        "riepilogo": riepilogo,
+        "verifiche": esiti
+    }
+
+    salva("report_pubblicazione.json", report)
+
+    # Il workflow carica gia questo file:
+    # includiamo anche l'esito finale aggiornato.
+    controllo["recupero_v3"] = report
+    salva("controllo_video_meron.json", controllo)
+
+    print("MERON - RECUPERO DI TUTTI GLI EPISODI V3")
 
     for nome, valore in riepilogo.items():
         print(f"{nome}: {valore}")
 
-    print(
-        "\nMOTIVI DI REVISIONE "
-        "(possono sovrapporsi)"
-    )
+    for risultato in esiti:
+        candidato = risultato["selezionato"]
 
-    for motivo, quanti in frequenze.most_common():
-        print(f"{quanti}: {motivo}")
-
-    for candidato in selezionati:
-        azione = (
-            "AGGIUNTO"
-            if PUBBLICA
-            else "SELEZIONATO"
+        riga = (
+            f"{risultato['esito']} | "
+            f"{risultato['episode']}"
         )
 
-        print(
-            f"{azione} | "
-            f"{candidato['episode']} | "
-            f"{candidato['video']}"
-        )
+        if candidato:
+            riga += f" | {candidato['title']}"
 
-    print("Creato:", REPORT.name)
+        print(riga)
 
     print(
-        "videos.json AGGIORNATO"
-        if aggiunti
-        else "videos.json NON modificato"
-    )
-
-    print(
-        "Nuovi collegamenti automatici: "
+        "Nessuna voce precedente eliminata o sovrascritta. "
         "verified resta false."
     )
 
     print(
-        "Disponibilita e contenuto dei video "
-        "non verificati online."
+        "Titoli compatibili non provano contenuti identici "
+        "o riproducibilita."
     )
 
     print(
-        "Il salvataggio su GitHub avviene "
-        "nel successivo passo del workflow."
+        "Il passo successivo del workflow salva "
+        "videos.json su GitHub."
     )
 
 
