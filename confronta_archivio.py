@@ -249,20 +249,39 @@ def bonus_nomi_specifici(titolo_apple, titolo_video, frequenze):
     parole_video = parole_importanti(titolo_video)
     parole_apple = parole_importanti(titolo_apple)
 
-    # Solo parole distintive; non assegniamo un bonus per "nulla", "anni", ecc.
-    escluse = GENERICHE | {"nulla", "vita", "caso", "storia", "vero", "falso", "sparita", "scomparsa"}
-    centrali = [p for p in parole_intestazione[:4]
-               if len(p) >= 4 and p not in STOPWORDS and p not in escluse]
+    # Escludiamo parole generiche, incluse espressioni come 'lato oscuro' e 'dietro'.
+    escluse = GENERICHE | {"nulla", "vita", "caso", "storia", "vero", "falso", "sparita", "scomparsa", "dietro", "lato", "oscuro", "famoso", "verita", "segreto", "mistero"}
+    centrali = [p for p in parole_intestazione
+               if len(p) >= 4 and p not in STOPWORDS and p not in escluse][:4]
     corrispondenze = [p for p in centrali if p in parole_video]
 
     bonus = 0.0
     if corrispondenze:
         # Forte priorita al soggetto del caso, anche quando coincide solo il nome.
-        bonus += 7.0 + 3.0 * (len(corrispondenze) - 1)
+        bonus += 10.0 + 3.0 * (len(corrispondenze) - 1)
 
     altre = (parole_apple & parole_video) - set(centrali) - escluse
     bonus += min(1.0 * sum(frequenze.get(p, 0) <= 3 for p in altre), 2.0)
     return bonus
+
+
+def falso_forte_generico(titolo_apple, candidato, candidati):
+    """Blocca un forte basato su una frase generica se esiste un video sul soggetto.
+
+    Non modifica il punteggio lessicale: interviene solo su casi palesemente
+    ambigui e lascia intatto il catalogo pubblicato.
+    """
+    parole_generiche = {"lato", "oscuro", "dietro", "storia", "verita", "famoso"}
+    comuni = set(candidato.get('common', []))
+    if not comuni or not comuni.issubset(parole_generiche):
+        return False
+    titolo_pulito = re.sub(r"^\s*ep\.?\s*\d+\s*[:.\-]?\s*", "", str(titolo_apple), flags=re.I)
+    # Escludiamo parole descrittive: ci interessa un nome distintivo del caso.
+    soggetti = parole_importanti(titolo_pulito) - parole_generiche - GENERICHE
+    return any(
+        (parole_importanti(altro['title']) & soggetti)
+        for altro in candidati if altro is not candidato
+    )
 
 
 def carica_modello():
@@ -332,6 +351,8 @@ def controlla():
             if (forte and migliore['score'] >= 5 and not migliore['parte_incerta'] and
                     (secondo == 0 or migliore['score'] > secondo * 1.5)):
                 stato = 'CANDIDATO_FORTE'
+        if stato == 'CANDIDATO_FORTE' and falso_forte_generico(titolo, migliore, candidati):
+            stato = 'DA_VERIFICARE'
         # Se e' forte, teniamo al primo posto il candidato valutato dal vecchio algoritmo.
         # Negli altri casi mostriamo 5 proposte ordinate usando anche il modello bilingue.
         if stato == 'CANDIDATO_FORTE':
