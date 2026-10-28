@@ -236,20 +236,32 @@ def punteggio_base(titolo, descrizione, titolo_video, frequenze, totale):
 
 
 def bonus_nomi_specifici(titolo_apple, titolo_video, frequenze):
-    """Bonus solo per ordinare i candidati DA_VERIFICARE."""
-    parole_apple = parole_importanti(titolo_apple)
+    """Bonus di ordinamento, non di classificazione: riconosce il soggetto del titolo.
+
+    Nei titoli Apple la parte iniziale dopo "Ep. N:" e spesso il nome del caso.
+    Una coincidenza in questa posizione vale piu di parole generiche come
+    "scomparsa" o "nulla". Non deduce nomi da maiuscole arbitrarie.
+    """
+    pulito = re.sub(r"^\s*ep\.?\s*\d+\s*[:.\-]?\s*", "", str(titolo_apple), flags=re.I)
+    # Titolo prima del sottotitolo, normalmente il nome del caso.
+    intestazione = re.split(r"\s*[:,;–—]\s*", pulito, maxsplit=1)[0]
+    parole_intestazione = list(dict.fromkeys(normalizza(intestazione).split()))
     parole_video = parole_importanti(titolo_video)
-    comuni = (parole_apple & parole_video) - GENERICHE
+    parole_apple = parole_importanti(titolo_apple)
 
-    # Parole poco frequenti nei video: spesso nomi, cognomi o luoghi.
-    rare = [p for p in comuni if frequenze.get(p, 0) <= 3]
-    bonus = min(len(rare) * 2.5, 7.5)
+    # Solo parole distintive; non assegniamo un bonus per "nulla", "anni", ecc.
+    escluse = GENERICHE | {"nulla", "vita", "caso", "storia", "vero", "falso", "sparita", "scomparsa"}
+    centrali = [p for p in parole_intestazione[:4]
+               if len(p) >= 4 and p not in STOPWORDS and p not in escluse]
+    corrispondenze = [p for p in centrali if p in parole_video]
 
-    # Se due parole specifiche coincidono, e' piu' probabile
-    # che il video tratti la stessa persona o lo stesso luogo.
-    if len(comuni) >= 2:
-        bonus += 2.0
+    bonus = 0.0
+    if corrispondenze:
+        # Forte priorita al soggetto del caso, anche quando coincide solo il nome.
+        bonus += 7.0 + 3.0 * (len(corrispondenze) - 1)
 
+    altre = (parole_apple & parole_video) - set(centrali) - escluse
+    bonus += min(1.0 * sum(frequenze.get(p, 0) <= 3 for p in altre), 2.0)
     return bonus
 
 
