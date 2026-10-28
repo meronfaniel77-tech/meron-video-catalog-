@@ -117,7 +117,7 @@ TRADUZIONI = {
     "twins": "gemelle",
     "twin": "gemelle",
     "clown": "clown",
-        "ponzi": "ponzi",
+    "ponzi": "ponzi",
     "truth": "verita",
     "waking": "aperto",
     "night": "notte",
@@ -235,6 +235,24 @@ def punteggio_base(titolo, descrizione, titolo_video, frequenze, totale):
             'rare_matches': len(rare), 'rare_words': sorted(rare)}
 
 
+def bonus_nomi_specifici(titolo_apple, titolo_video, frequenze):
+    """Bonus solo per ordinare i candidati DA_VERIFICARE."""
+    parole_apple = parole_importanti(titolo_apple)
+    parole_video = parole_importanti(titolo_video)
+    comuni = (parole_apple & parole_video) - GENERICHE
+
+    # Parole poco frequenti nei video: spesso nomi, cognomi o luoghi.
+    rare = [p for p in comuni if frequenze.get(p, 0) <= 3]
+    bonus = min(len(rare) * 2.5, 7.5)
+
+    # Se due parole specifiche coincidono, e' piu' probabile
+    # che il video tratti la stessa persona o lo stesso luogo.
+    if len(comuni) >= 2:
+        bonus += 2.0
+
+    return bonus
+
+
 def carica_modello():
     try:
         from sentence_transformers import SentenceTransformer
@@ -290,7 +308,7 @@ def controlla():
                             'parte_incerta': parte_incerta,
                             'ranking_score': round(analisi['score'] + max(0, sem - 0.40) * 3, 3)})
             candidati.append(analisi)
-            
+
         # La decisione 'forte' usa gli stessi criteri del codice ripristinato.
         candidati_base = sorted(candidati, key=lambda c: c['score'], reverse=True)
         stato = 'DA_VERIFICARE' if candidati else 'NESSUNA_CORRISPONDENZA'
@@ -309,7 +327,16 @@ def controlla():
                            key=lambda c: c['ranking_score'], reverse=True)
             migliori = [migliore] + altri[:4]
         else:
-            migliori = sorted(candidati, key=lambda c: c['ranking_score'], reverse=True)[:5]
+            migliori = sorted(
+                candidati,
+                key=lambda c: (
+                    c['ranking_score'] + bonus_nomi_specifici(
+                        titolo, c['title'], frequenze
+                    ),
+                    c['ranking_score']
+                ),
+                reverse=True
+            )[:5]
         risultati.append({'trackId': episodio.get('id'), 'episode': titolo,
                           'status': stato, 'candidates': migliori})
 
