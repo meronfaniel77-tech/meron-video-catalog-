@@ -1717,6 +1717,39 @@
       "matchedVideoTitle": "Brooke Skylar: \"I Tried to Cremate Her... A Little Bit\"",
       "matchRule": "V6: Nomi distintivi condivisi tra titolo YouTube e descrizione Apple",
       "addedAt": "2026-10-30T14:37:38.848066+00:00"
+    },
+    "1000725826007": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 124: James Leininger, il bambino che ricordava di essere morto in guerra",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4PtPjdraDqI",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v7",
+      "matchedVideoTitle": "LA PRECEDENTE VITA DEL PICCOLO JAMES | SUPERNATURAL",
+      "matchRule": "V7: La precedente vita del piccolo James e il caso di James Leininger, identificato anche nella descrizione Apple",
+      "addedAt": "2026-10-30T15:12:20.351821+00:00"
+    },
+    "1000678357033": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 82: Stephen McDaniels, timido e spietato",
+      "youtubeUrl": "https://www.youtube.com/watch?v=g4GCafibNTg",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v7",
+      "matchedVideoTitle": "SMASCHERATO IN DIRETTA TV: IL CASO LAUREN GIDDINGS",
+      "matchRule": "V7: Il caso di Lauren Giddings riguarda Stephen McDaniel; il video ufficiale e incentrato sulla vittima",
+      "addedAt": "2026-10-30T15:12:20.351821+00:00"
+    },
+    "1000655619715": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 57: Elisa Claps PT.2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qw-zmbv1ZWE",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v7",
+      "matchedVideoTitle": "DANILO: THE HAIRDRESSER FROM POTENZA | PT. 2",
+      "matchRule": "V7: Il video ufficiale su Danilo Restivo e PT.2; la descrizione rimanda esplicitamente a Elisa Claps PT.1",
+      "addedAt": "2026-10-30T15:12:20.351821+00:00"
     }
   }
 }
