@@ -198,9 +198,32 @@ def video_id(url):
 
 
 def normalizza(testo):
-    testo = str(testo or "").casefold()
+    testo = str(testo or "")
 
-    # Caratteri stilizzati presenti nei titoli.
+    # Corregge una l minuscola usata come I dentro una parola
+    # quasi tutta maiuscola, prima di perdere questa informazione.
+    def correggi_i_stilizzata(match):
+        parola = match.group(0)
+        resto = parola.replace("l", "")
+
+        if (
+            "l" in parola
+            and len(resto) >= 4
+            and resto.isupper()
+            and all(c.isupper() for c in resto if c.isalpha())
+        ):
+            return parola.replace("l", "I")
+
+        return parola
+
+    testo = re.sub(
+        r"[^\W\d_]+",
+        correggi_i_stilizzata,
+        testo
+    )
+
+    testo = testo.casefold()
+
     testo = testo.translate(str.maketrans({
         "\u01dd": "e",
         "\u018e": "e",
@@ -212,37 +235,54 @@ def normalizza(testo):
         "\u0430": "a",
     }))
 
-    correzioni = {
+    # Mantiene tutte le correzioni specifiche gia presenti.
+    for originale, corretto in {
         "k!ller": "killer",
         "l!sa": "lisa",
         "c!rce0": "circeo",
         "assasslna": "assassina",
-        "madlson": "madison",
-    }
-
-    for originale, corretto in correzioni.items():
+        "madlson": "madison"
+    }.items():
         testo = testo.replace(originale, corretto)
 
-    # Corregge numeri dentro le parole, non numeri
-    # autonomi come 764.
+    testo = unicodedata.normalize("NFKD", testo)
+
+    testo = "".join(
+        c for c in testo
+        if not unicodedata.combining(c)
+    )
+
+    # Il punto esclamativo vale I solo DENTRO una parola.
     testo = re.sub(
-        r"[a-z][a-z0-9!]*[a-z0-9]",
-        lambda match: match[0].translate(
-            str.maketrans({
-                "0": "o",
-                "4": "a",
-                "3": "e",
-                "!": "i"
-            })
-        ),
+        r"(?<=[a-z])!(?=[a-z])",
+        "i",
         testo
     )
 
-    testo = unicodedata.normalize("NFKD", testo)
-    testo = "".join(
-        carattere
-        for carattere in testo
-        if not unicodedata.combining(carattere)
+    def correggi_cifre(match):
+        parola = match.group(0)
+
+        # Non altera 764, 105, gli anni o sigle come PT10.
+        if parola.isdigit() or re.fullmatch(
+            r"(?:pt|part|parte|ep)\d+",
+            parola
+        ):
+            return parola
+
+        if re.search(r"[a-z]", parola):
+            return parola.translate(str.maketrans({
+                "0": "o",
+                "4": "a",
+                "3": "e"
+            }))
+
+        return parola
+
+    # Include anche lo zero INIZIALE: 0DI0 diventa odio.
+    testo = re.sub(
+        r"\b[a-z0-9]+\b",
+        correggi_cifre,
+        testo
     )
 
     # Conserva iniziali come H.H. e O.J.
@@ -253,8 +293,8 @@ def normalizza(testo):
     )
 
     testo = re.sub(r"[^a-z0-9 ]", " ", testo)
-    return re.sub(r"\s+", " ", testo).strip()
 
+    return re.sub(r"\s+", " ", testo).strip()
 
 def dettagli(titolo):
     testo = re.sub(
