@@ -14,9 +14,9 @@ from urllib.parse import parse_qs, urlparse
 from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 
 BASE = Path(__file__).resolve().parent
-# V5: in prima esecuzione e' SEMPRE una simulazione.
-# Dopo aver letto il report, si puo abilitare con MERON_PUBBLICA_V5=1.
-PUBBLICA = True
+# V5: pubblica automaticamente i collegamenti che superano i filtri.
+# Per fare una simulazione, imposta MERON_SIMULAZIONE=1 nel workflow.
+PUBBLICA = False  # V6: prima esecuzione SOLO_SIMULAZIONE, nessuna aggiunta
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
@@ -586,6 +586,144 @@ def recupera_ancore_v5(esiti, archivio, usati):
     return aggiunti
 
 
+
+# V6: recupero prudente dei titoli abbreviati e dei nomi presenti
+# nella descrizione Apple. Mantiene tutti i controlli V3-V5.
+# Un caso documentato da fonti ufficiali: episodio e video parlano
+# entrambi di Sierah Joughin, in Ohio nel 2016. Non usa titoli generici.
+V6_CASI_DOCUMENTATI = {
+    "1000773987869": ("7CwHU_RVO7s", "Stesso caso Sierah Joughin confermato dalle descrizioni pubbliche Apple e YouTube"),
+}
+
+V6_ESCLUSE = set(STOP) | set(DESCRITTIVE) | set("""
+che cosa caso famiglia hanno fatto delle deglli della nello laltro
+con from this that when where been quella quello anche affatto
+storia queste questi della primo il gli lei lui loro loro ecco un uno una
+then what happen happened really mystery little delling
+""".split())
+
+
+def titoli_v6(testo):
+    # Allinea la stessa rimozione del numero Ep. della V5.
+    return normalizza(re.sub(
+        r"^\s*(?:ep|episodio|episode)\s*\.*\s*\d+\s*[:.\-]?\s*",
+        "", str(testo or ""), flags=re.I
+    ))
+
+
+def recupera_descrizioni_v6(esiti, archivio, usati, episodi):
+    """Seleziona solo evidenze specifiche; le altre restano da rivedere.
+
+    Le descrizioni arrivano da episodi_apple.json prodotto gia dal workflow.
+    Non scarica singole pagine YouTube e non usa trascrizioni automatiche.
+    """
+    apple_per_id = {str(e.get('id')): e for e in episodi if isinstance(e, dict)}
+    in_uso = set(usati)
+    in_uso.update(
+        r['selezionato']['videoId'] for r in esiti
+        if isinstance(r.get('selezionato'), dict)
+    )
+
+    frequenze = Counter()
+    for vid, item in archivio.items():
+        tutte = set()
+        for titolo, _ in item['dettagli']:
+            tutte.update(titoli_v6(titolo).split())
+        frequenze.update(tutte)
+
+    proposte = defaultdict(list)
+    for r in esiti:
+        if r.get('esito') != 'DATI_INSUFFICIENTI':
+            continue
+        apple = apple_per_id.get(str(r.get('trackId')))
+        if not apple:
+            continue
+        titolo = titoli_v6(apple.get('titolo', ''))
+        descrizione = normalizza(apple.get('descrizione', ''))
+        parole_titolo = set(titolo.split())
+        parole_descrizione = set(descrizione.split())
+        possibili = []
+        for vid, item in archivio.items():
+            if vid in in_uso:
+                continue
+            # Non associare un titolo senza parte a un video PT.1/PT.2.
+            if any(b['parte'] is not None for _, b in item['dettagli']):
+                continue
+            alternative = []
+            for titolo_video, video_info in item['dettagli']:
+                if video_info['trailer']:
+                    continue
+                ty = titoli_v6(titolo_video)
+                parole_video = ty.split()
+                tokens = set(parole_video)
+                comuni_rari = {
+                    w for w in tokens & parole_descrizione
+                    if len(w) >= 4 and w not in V6_ESCLUSE
+                    and frequenze[w] <= 3
+                }
+                condivisi_titolo = comuni_rari & parole_titolo
+
+                grado, ragione = 0, ''
+                evidenze = []
+                if str(r['trackId']) in V6_CASI_DOCUMENTATI:
+                    atteso, motivazione = V6_CASI_DOCUMENTATI[str(r['trackId'])]
+                    if vid == atteso:
+                        grado, ragione = 100, motivazione
+                        evidenze = ['sierah', 'joughin']
+                if not grado and len(parole_video) >= 5:
+                    # Frase narrativa lunga condivisa letteralmente,
+                    # come "che fine hanno fatto le gemelle".
+                    if ' '.join(parole_video) in titolo:
+                        note = {w for w in tokens & parole_titolo
+                                if len(w) >= 5 and w not in STOP and w not in {'storia', 'video', 'episodio', 'podcast'}}
+                        if note:
+                            grado, ragione = 95, 'Frase distintiva del titolo YouTube contenuta nel titolo Apple'
+                            evidenze = sorted(note)
+                if (not grado and len(comuni_rari) >= 2
+                        and condivisi_titolo and descrizione):
+                    # Nomi presenti in una descrizione Apple e almeno
+                    # uno anche nel titolo Apple. Per Skylar + Brooke,
+                    # ad esempio, esclude il video su Skylar Neese.
+                    grado, ragione = 90, 'Nomi distintivi condivisi tra titolo YouTube e descrizione Apple'
+                    evidenze = sorted(comuni_rari)
+                if grado:
+                    alternative.append({
+                        'videoId': vid,
+                        'title': titolo_video,
+                        'url': 'https://www.youtube.com/watch?v=' + vid,
+                        'livello': 2,
+                        'regola': 'V6: ' + ragione,
+                        'blocchi': [], 'indizi': evidenze,
+                        'comuni': evidenze,
+                        'priorita': (grado, len(evidenze)),
+                        'gradoV6': grado,
+                        'confermaCopertura': False,
+                    })
+            if alternative:
+                possibili.append(max(alternative, key=lambda v:v['priorita']))
+        possibili.sort(key=lambda v:v['priorita'], reverse=True)
+        r['proposte_v6'] = possibili[:5]
+        if not possibili:
+            continue
+        if len(possibili) > 1 and possibili[0]['gradoV6'] <= possibili[1]['gradoV6']:
+            r['esito'] = 'V6_AMBIGUO'
+            continue
+        proposte[possibili[0]['videoId']].append((r, possibili[0]))
+
+    nuovi = 0
+    for vid, gruppo in proposte.items():
+        if len(gruppo) != 1:
+            continue
+        r, candidato = gruppo[0]
+        if candidato['videoId'] in in_uso:
+            continue
+        r['esito'] = 'V6_CORRISPONDENZA'
+        r['selezionato'] = candidato
+        r['sharedCaseVideo'] = False
+        in_uso.add(vid)
+        nuovi += 1
+    return nuovi
+
 def main():
     percorso = BASE / "videos.json"
     originale = percorso.read_bytes()
@@ -664,17 +802,18 @@ def main():
     # che puntano al medesimo video privo di numerazione.
     coppie_video_del_caso = collega_video_del_caso(esiti, usati, archivio)
     nuovi_v5 = recupera_ancore_v5(esiti, archivio, usati)
+    nuovi_v6 = recupera_descrizioni_v6(esiti, archivio, usati, episodi)
 
     aggiunte = {}
     data = datetime.now(timezone.utc).isoformat()
     for r in esiti:
-        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO"):
+        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO", "V6_CORRISPONDENZA"):
             continue
         c = r["selezionato"]
         condiviso = r["esito"] in ("VIDEO_DEL_CASO_CONDIVISO", "V5_VIDEO_DEL_CASO_CONDIVISO")
         record = {"podcast": "Elisa True Crime", "episode": r["episode"],
             "youtubeUrl": c["url"], "verified": False, "automaticMatch": True,
-            "matchMethod": "recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3"),
+            "matchMethod": "titoli-descrizioni-v6" if r["esito"].startswith("V6_") else ("recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3")),
             "matchedVideoTitle": c["title"],
             "matchRule": ("Stesso video ufficiale del caso per PT.1 e PT.2; "
                           "copertura intera da confermare" if condiviso
@@ -690,8 +829,8 @@ def main():
     nuovi = len(aggiunte) if PUBBLICA else 0
     conteggi = Counter(r["esito"] for r in esiti)
     riepilogo = {"modalita": "PUBBLICAZIONE_AUTOMATICA" if PUBBLICA else "SOLO_SIMULAZIONE",
-        "versione": "recupero-ancore-v5", "episodi_apple": len(episodi),
-        "nuovi_abbinamenti_v5": nuovi_v5,
+        "versione": "titoli-descrizioni-v6", "episodi_apple": len(episodi),
+        "nuovi_abbinamenti_v5": nuovi_v5, "nuovi_abbinamenti_v6": nuovi_v6,
         "coppie_pt1_pt2_con_video_del_caso": coppie_video_del_caso,
         "episodi_collegati_a_video_del_caso": 2 * coppie_video_del_caso,
         "video_archivio": len(archivio), "recupero_titoli_italiani": lingua,
@@ -711,7 +850,7 @@ def main():
     # Il workflow carica gia questo file: include anche l'esito finale aggiornato.
     controllo["recupero_v3"] = report
     salva("controllo_video_meron.json", controllo)
-    print("MERON - SIMULAZIONE RECUPERO NOMI E TITOLI V5" if not PUBBLICA else "MERON - RECUPERO NOMI E TITOLI V5")
+    print("MERON - SIMULAZIONE RECUPERO TITOLI E DESCRIZIONI V6" if not PUBBLICA else "MERON - RECUPERO TITOLI E DESCRIZIONI V6")
     for nome, valore in riepilogo.items():
         print(f"{nome}: {valore}")
     for r in esiti:
