@@ -881,6 +881,28 @@
       "matchedVideoTitle": "\"IO APPARTENGO ALLE ACQUE...\" - COS'È SUCCESSO AD YLENIA?",
       "matchRule": "Riferimento nel titolo confermato dalla descrizione Apple",
       "addedAt": "2026-10-28T15:37:09.199529+00:00"
+    },
+    "1000776857609": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.167: IL CACCIATORE DI ANORESSICHE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vAbPim3q0xA",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "recupero-tutti-v3",
+      "matchedVideoTitle": "IL CACCIATORE DI ANORESSlCHE",
+      "matchRule": "Titolo completo coincidente",
+      "addedAt": "2026-10-30T12:02:16.142922+00:00"
+    },
+    "1000741632783": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 138: \"L'HO FATTO PERCHÈ ODIO I LUNEDÌ!\"",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Rt-bfqcwmf4",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "recupero-tutti-v3",
+      "matchedVideoTitle": "\"L'HO FATTO PERCHÈ 0DI0 I LUNEDÌ!\"",
+      "matchRule": "Titolo completo coincidente",
+      "addedAt": "2026-10-30T12:02:16.142922+00:00"
     }
   }
 }
