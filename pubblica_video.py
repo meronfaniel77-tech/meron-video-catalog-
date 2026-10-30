@@ -16,7 +16,7 @@ from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 BASE = Path(__file__).resolve().parent
 # V5: pubblica automaticamente i collegamenti che superano i filtri.
 # Per fare una simulazione, imposta MERON_SIMULAZIONE=1 nel workflow.
-PUBBLICA = False  # V8: SOLO_SIMULAZIONE; nessuna modifica al catalogo
+PUBBLICA = True
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
