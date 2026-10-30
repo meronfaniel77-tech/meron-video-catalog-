@@ -14,7 +14,9 @@ from urllib.parse import parse_qs, urlparse
 from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 
 BASE = Path(__file__).resolve().parent
-PUBBLICA = os.environ.get("MERON_SIMULAZIONE", "0") != "1"
+# V5: in prima esecuzione e' SEMPRE una simulazione.
+# Dopo aver letto il report, si puo abilitare con MERON_PUBBLICA_V5=1.
+PUBBLICA = os.environ.get("MERON_PUBBLICA_V5", "0") == "1"
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
@@ -334,6 +336,256 @@ def collega_video_del_caso(esiti, usati, archivio):
             aggiunte += 1
     return aggiunte // 2
 
+
+# V5: riconosce titoli diversi con un soggetto raro condiviso.
+# Non si affida a parole genericamente associate al true crime.
+ANCORA_NON_SICURA = set("""
+madre padre figlia figlio famiglia bimbo bambini bambino donna uomo esperimento
+clown killer assassino assassina storie storia scomparsa scomparso
+orrore incubo mistero vittima morte delitto crimine rapito rubata
+star famoso famiglia timido spietato scena scuola guerra
+soldi finale video incredibile quel quella questo questa niente
+la notte episodio indagine anni giorni strage tragico
+questo primavera intervista esclusiva
+""".split())
+
+
+def testo_con_alias(testo):
+    t = normalizza(testo)
+    # Alias contestuali, NON sostituzioni arbitrarie di nomi.
+    t = re.sub(r"\blady di\b", "lady diana", t)
+    t = re.sub(r"\bjung yoo jung\b", "jung yoojung", t)
+    t = re.sub(r"\byoo jung\b", "yoojung", t)
+    t = re.sub(r"\bray rivera\b", "rey rivera", t)
+    return t
+
+
+def informazioni_v5(testo):
+    normale = dettagli(testo)
+    alias = testo_con_alias(normale['testo'])
+    # Nuove parole solo nei casi di alias effettivamente rilevati.
+    parole = alias.split()
+    termini = set(normale['termini'])
+    for p in parole:
+        if p in ('yoojung', 'rey', 'rivera', 'diana'):
+            termini.add(p)
+    if 'ray' in termini and 'rey' in termini:
+        termini.discard('ray')
+    riferimenti = {p for p in termini if p not in DESCRITTIVE and p not in STOP
+                   and p not in ANCORA_NON_SICURA and len(p) >= 4}
+    return {**normale, 'testo_alias': alias,
+            'termini_v5': termini, 'riferimenti_v5': riferimenti}
+
+
+def contraddizione_nome(testo_apple, testo_video, parola):
+    # Esempio: "Giovanna Comunale" NON e' "Joey Comunale".
+    # Rileva la differenza quando in entrambe le fonti e' espresso
+    # un nome immediatamente prima del cognome condiviso.
+    def prima(testo):
+        parole = testo_con_alias(testo).split()
+        for pos, p in enumerate(parole):
+            if p == parola and pos >= 1:
+                precedente = parole[pos-1]
+                if (len(precedente) >= 3 and precedente not in STOP
+                        and precedente not in DESCRITTIVE
+                        and precedente not in {'the', 'del', 'della', 'dello', 'di', 'la', 'le',
+                                                'a', 'caso', 'story', 'storia', 'famiglia', 'casa'}):
+                    return precedente
+        return None
+    a, b = prima(testo_apple), prima(testo_video)
+    return bool(a and b and a != b)
+
+
+def valuta_ancore_v5(titolo_apple, titolo_video, videoid, frequenze):
+    a = informazioni_v5(titolo_apple)
+    b = informazioni_v5(titolo_video)
+
+    if a['trailer'] or b['trailer'] or a['aggiornamento'] != b['aggiornamento']:
+        return None
+    if b['parte'] is not None and b['parte'] != a['parte']:
+        return None
+
+    comuni = a['termini_v5'] & b['termini_v5']
+    if not comuni:
+        return None
+    ancore = a['riferimenti_v5'] & b['riferimenti_v5']
+    rare = {p for p in ancore if len(frequenze.get(p, set())) == 1}
+    if any(contraddizione_nome(titolo_apple, titolo_video, p) for p in rare):
+        return None
+    # "Jeffrey Dahmer" non deve diventare "Jeffrey Lundgren".
+    ta = a['testo_alias'].split()
+    tb = b['testo_alias'].split()
+    if (len(ta) >= 2 and len(tb) >= 2
+            and ta[0] == tb[0] and ta[0] not in STOP
+            and ta[0] not in DESCRITTIVE
+            and len(ta[0]) >= 4
+            and ta[1] != tb[1]
+            and len(ta[1]) >= 4 and len(tb[1]) >= 4
+            and ta[1] not in DESCRITTIVE and tb[1] not in DESCRITTIVE
+            and ta[1] not in STOP and tb[1] not in STOP
+            and tb[1] not in {'must', 'should', 'could', 'would', 'will', 'does', 'do', 'did', 'have', 'has', 'was', 'were', 'had', 'not', 'never'}):
+        return None
+
+    parole_a = a['termini_v5']
+    parole_b = b['termini_v5']
+    perfetta = (parole_a == parole_b and len(comuni) >= 2)
+    # Esempio Freeway Phantom -> Il Fantasma della Superstrada.
+    bilingue_esatta = (perfetta and
+                      any(len(frequenze.get(p,set())) == 1 for p in comuni if len(p) >= 5))
+    # Solo quando i nomi sono davvero presenti in ENTRAMBI i titoli.
+    due_nomi = len(rare) >= 2
+    # Parola molto rara, chiaramente riferita al caso.
+    titolo_b = b['testo_alias'].split()
+    token_in_primo_piano = any(p in titolo_b[:4] or p in titolo_b[-2:] for p in rare)
+    # Anche una frase citata puo costituire un segnale molto distintivo.
+    frase_comune = False
+    base_a = a['testo_alias']
+    base_b = b['testo_alias']
+    for n in range(4, min(8, len(base_a.split())) + 1):
+        pa = base_a.split()
+        if any(' '.join(pa[k:k+n]) in base_b
+               for k in range(0, len(pa) - n + 1)):
+            frase_comune = True
+            break
+
+    grado, motivo = 0, None
+    if (a['testo_alias'] == b['testo_alias']
+            and len(base_a.split()) >= 2):
+        grado, motivo = 100, 'Titoli coincidenti dopo le correzioni'
+    elif ("lady diana" in a['testo_alias'] and
+          "lady diana" in b['testo_alias']):
+        grado, motivo = 96, 'Alias riconosciuto: Lady Diana / Lady Di'
+    elif bilingue_esatta:
+        grado, motivo = 94, 'Titoli equivalenti dopo la traduzione' 
+    elif due_nomi:
+        grado, motivo = 92, 'Due riferimenti distintivi rari in comune'
+    elif (rare and len(comuni) >= 2 and
+          (len(comuni) / max(1, min(len(parole_a), len(parole_b)))) >= 0.6):
+        grado, motivo = 86, 'Riferimento raro e contesto coerente'
+    elif rare and token_in_primo_piano:
+        grado, motivo = 81, 'Riferimento raro al centro del video'
+    elif rare and frase_comune:
+        grado, motivo = 80, 'Frase distintiva condivisa'
+    elif (a['parte'] is not None and b['parte'] is None
+          and len(titolo_b) <= 5
+          and {'strage', 'massacro', 'delitto'} & parole_a
+          and any(p in titolo_b[:3] and len(frequenze[p]) <= 3
+                  and p not in ANCORA_NON_SICURA and p not in DESCRITTIVE
+                  for p in (comuni & a['riferimenti_v5']))):
+        grado, motivo = 79, 'Caso geografico specifico, video breve e focalizzato'
+
+    # Una sola parola come "rubata", "clown" o "madre" non basta.
+    if not grado:
+        return None
+
+    # Per evitare false associazioni di omonimi usiamo il controllo
+    # delle identita' prima del punteggio (Giovanna != Joey Comunale).
+
+    return {
+        'videoId': videoid,
+        'title': titolo_video,
+        'url': 'https://www.youtube.com/watch?v=' + videoid,
+        'livello': 2,
+        'regola': 'V5: ' + motivo,
+        'blocchi': ['PARTI_NON_ALLINEATE'] if a['parte'] != b['parte'] else [],
+        'indizi': sorted(rare),
+        'comuni': sorted(comuni),
+        'copertura': round(len(comuni) / max(1, min(len(parole_a), len(parole_b))), 3),
+        'priorita': (grado, len(rare), len(comuni), -len(parole_b)),
+        'gradoV5': grado,
+        'motivoV5': motivo,
+    }
+
+
+def recupera_ancore_v5(esiti, archivio, usati):
+    """Aggiunge proposte V5 senza confondere persone o parti.
+
+    Se lo stesso video e' proposto per entrambe le parti, pubblica
+    solo se entrambe riconducono allo stesso caso.
+    """
+    frequenze = defaultdict(set)
+    for vid, archivio_video in archivio.items():
+        for titolo, _ in archivio_video['dettagli']:
+            for token in informazioni_v5(titolo)['termini_v5']:
+                frequenze[token].add(vid)
+
+    gia_assegnati = {x['selezionato']['videoId'] for x in esiti
+                     if x.get('selezionato')}
+    possibili = defaultdict(list)
+
+    for r in esiti:
+        if r['esito'] not in ('DATI_INSUFFICIENTI', 'PARTI_NON_ALLINEATE'):
+            continue
+        titolo = r['episode']
+        aa = informazioni_v5(titolo)
+        if aa['trailer']:
+            continue
+        matches = []
+        for vid, info in archivio.items():
+            if vid in usati or vid in gia_assegnati:
+                continue
+            valutazioni = [valuta_ancore_v5(titolo, t, vid, frequenze)
+                           for t, _ in info['dettagli']]
+            valutazioni = [v for v in valutazioni if v]
+            if valutazioni:
+                matches.append(max(valutazioni, key=lambda v: v['priorita']))
+
+        # Esclude candidati di parti specifiche non allineate.
+        matches = [m for m in matches
+                   if not m['blocchi'] or m['blocchi'] == ['PARTI_NON_ALLINEATE']]
+        matches.sort(key=lambda x: x['priorita'], reverse=True)
+        r['proposte_v5'] = matches[:5]
+        if not matches:
+            continue
+        primo = matches[0]
+        # Non pubblica in caso di pareggio significativo fra due video.
+        if len(matches) > 1 and matches[1]['gradoV5'] >= primo['gradoV5']:
+            r['esito'] = 'V5_AMBIGUO'
+            continue
+        possibili[primo['videoId']].append((r, primo))
+
+    aggiunti = 0
+    for vid, gruppo in possibili.items():
+        if len(gruppo) == 1:
+            r, c = gruppo[0]
+            if c['blocchi']:
+                # Parte dichiarata senza prova della parte su YouTube:
+                # attendere la coppia dello stesso caso.
+                continue
+            r['esito'] = 'V5_CORRISPONDENZA'
+            r['selezionato'] = c
+            r['sharedCaseVideo'] = False
+            aggiunti += 1
+            continue
+        if len(gruppo) != 2:
+            continue
+        (a, ca), (b, cb) = gruppo
+        pa = informazioni_v5(a['episode'])['parte']
+        pb = informazioni_v5(b['episode'])['parte']
+        if {pa, pb} != {1, 2}:
+            continue
+        # Entrambe devono parlare dello stesso caso e non solo
+        # di una generica parola condivisa.
+        ea = informazioni_v5(a['episode'])
+        eb = informazioni_v5(b['episode'])
+        nomi_comuni = (ea['riferimenti_v5'] & eb['riferimenti_v5'])
+        if not nomi_comuni:
+            continue
+        if (ca['gradoV5'] < 79 or cb['gradoV5'] < 79):
+            continue
+        # Il video NON deve avere una parte numerata.
+        if any(informazioni_v5(t)['parte'] is not None
+               for t, _ in archivio[vid]['dettagli']):
+            continue
+        for r, c in gruppo:
+            r['esito'] = 'V5_VIDEO_DEL_CASO_CONDIVISO'
+            r['selezionato'] = c
+            r['sharedCaseVideo'] = True
+            r['sharedCoverageConfirmed'] = False
+            aggiunti += 1
+    return aggiunti
+
+
 def main():
     percorso = BASE / "videos.json"
     originale = percorso.read_bytes()
@@ -411,17 +663,18 @@ def main():
     # Dopo il controllo standard, valuta le coppie PT.1 / PT.2
     # che puntano al medesimo video privo di numerazione.
     coppie_video_del_caso = collega_video_del_caso(esiti, usati, archivio)
+    nuovi_v5 = recupera_ancore_v5(esiti, archivio, usati)
 
     aggiunte = {}
     data = datetime.now(timezone.utc).isoformat()
     for r in esiti:
-        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO"):
+        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO"):
             continue
         c = r["selezionato"]
-        condiviso = r["esito"] == "VIDEO_DEL_CASO_CONDIVISO"
+        condiviso = r["esito"] in ("VIDEO_DEL_CASO_CONDIVISO", "V5_VIDEO_DEL_CASO_CONDIVISO")
         record = {"podcast": "Elisa True Crime", "episode": r["episode"],
             "youtubeUrl": c["url"], "verified": False, "automaticMatch": True,
-            "matchMethod": "recupero-tutti-v4" if condiviso else "recupero-tutti-v3",
+            "matchMethod": "recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3"),
             "matchedVideoTitle": c["title"],
             "matchRule": ("Stesso video ufficiale del caso per PT.1 e PT.2; "
                           "copertura intera da confermare" if condiviso
@@ -437,7 +690,8 @@ def main():
     nuovi = len(aggiunte) if PUBBLICA else 0
     conteggi = Counter(r["esito"] for r in esiti)
     riepilogo = {"modalita": "PUBBLICAZIONE_AUTOMATICA" if PUBBLICA else "SOLO_SIMULAZIONE",
-        "versione": "recupero-tutti-v4", "episodi_apple": len(episodi),
+        "versione": "recupero-ancore-v5", "episodi_apple": len(episodi),
+        "nuovi_abbinamenti_v5": nuovi_v5,
         "coppie_pt1_pt2_con_video_del_caso": coppie_video_del_caso,
         "episodi_collegati_a_video_del_caso": 2 * coppie_video_del_caso,
         "video_archivio": len(archivio), "recupero_titoli_italiani": lingua,
@@ -457,7 +711,7 @@ def main():
     # Il workflow carica gia questo file: include anche l'esito finale aggiornato.
     controllo["recupero_v3"] = report
     salva("controllo_video_meron.json", controllo)
-    print("MERON - RECUPERO VIDEO CONDIVISI PT.1 / PT.2 V4")
+    print("MERON - SIMULAZIONE RECUPERO NOMI E TITOLI V5" if not PUBBLICA else "MERON - RECUPERO NOMI E TITOLI V5")
     for nome, valore in riepilogo.items():
         print(f"{nome}: {valore}")
     for r in esiti:
@@ -466,6 +720,7 @@ def main():
     print("Un video del caso puo apparire in entrambe le parti, senza")
     print("confermare automaticamente che il contenuto copra entrambe.")
     print("Nessuna voce precedente eliminata o sovrascritta. verified resta false.")
+    if not PUBBLICA: print("SIMULAZIONE: videos.json non modificato; esaminare i risultati V5.")
     print("Titoli compatibili non provano contenuti identici o riproducibilita.")
     print("Il passo successivo del workflow salva videos.json su GitHub.")
 
