@@ -16,7 +16,7 @@ from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 BASE = Path(__file__).resolve().parent
 # V5: pubblica automaticamente i collegamenti che superano i filtri.
 # Per fare una simulazione, imposta MERON_SIMULAZIONE=1 nel workflow.
-PUBBLICA = True
+PUBBLICA = False  # V8: SOLO_SIMULAZIONE; nessuna modifica al catalogo
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
@@ -843,6 +843,161 @@ def recupera_casi_v7(esiti, archivio, usati):
     return len(nuovi), da_confermare
 
 
+
+# V8: collega solo casi verificati con una corrispondenza puntuale
+# di ID Apple, ID YouTube ufficiale e titolo identificativo atteso.
+# I video fuori dall'archivio ufficiale NON vengono aggiunti alla cieca.
+V8_CASI_SINGOLI = (
+    {
+        'apple': '1000567793323',
+        'video': 'BpJmww9p6SM',
+        'apple_tokens': ('elisabeth', 'fritzl'),
+        'youtube_varianti': (('basement', '24', 'years'),
+                            ('seminterrato', '24', 'anni')),
+        'regola': ('Il video ufficiale \"In quel seminterrato per 24 anni\" '
+                   'racconta il caso di Elisabeth Fritzl, come documentato '
+                   'nel confronto tra i creator e il caso Fritzl.'),
+    },
+    {
+        'apple': '1000674091242',
+        'video': 'Esgum7SkSXo',
+        'apple_tokens': ('esperimento', 'carcerario', 'stanford'),
+        'youtube_varianti': (('esperimento',), ('experiment',)),
+        'regola': ('Il video ufficiale \"L esperimento\" e identificato '
+                   'da un riferimento pubblico al video YouTube come '
+                   'esperimento del professor Philip Zimbardo; '
+                   'non si presume identita del montaggio podcast/video.'),
+    },
+    {
+        # Se il workflow in futuro include questo video ufficiale,
+        # l'abbinamento avverra automaticamente. Per ora e FUORI ARCHIVIO.
+        'apple': '1000680775583',
+        'video': 'cY6bMWXm4A0',
+        'apple_tokens': ('delitto', 'cattolica'),
+        'youtube_varianti': (('simonetta', 'ferrero', 'cattolica'),),
+        'regola': ('Video ufficiale intitolato espressamente '
+                   '\"Simonetta Ferrero: Il delitto della Cattolica\"; '
+                   'ammesso solo se presente nell archivio video ufficiale.'),
+    },
+)
+
+V8_COPPIA_NICHOLAS = {
+    'apple_pt1': '1000718555235',
+    'apple_pt2': '1000719742166',
+    'video': '4eUJVp24eWo',
+    'apple_tokens': ('nicholas', 'barclay'),
+    'youtube_tokens': ('scompare', 'ritrovato', 'anni', 'mondo'),
+    'regola': ('Il video ufficiale \"Scompare nel nulla e viene ritrovato '
+               'anni dopo dall altra parte del mondo\" e identificato '
+               'come la storia di Nicholas Barclay dal sito Elisa True Crime; '
+               'si tratta del video sul caso, non di due puntate integrali.'),
+}
+
+# I due dubbi preesistenti (Marlene Warren e Simonetta dal solo nome)
+# restano nel report V7. V8 registra in piu il video ufficiale Ferrero
+# non incluso nell archivio, senza creare un collegamento arbitrario.
+
+
+def recupera_casi_v8(esiti, archivio, usati):
+    """Recupera casi documentati, senza riutilizzare video di altri casi.
+
+    Per PT.1/PT.2 Nicholas associa un video sul CASO, non asserisce
+    la copertura completa di entrambe le parti.
+    """
+    per_id = {r['trackId']: r for r in esiti}
+    occupati = set(usati)
+    occupati.update(r['selezionato']['videoId'] for r in esiti
+                    if isinstance(r.get('selezionato'), dict))
+    aggiunti, coppie = 0, 0
+
+    # L'ID video deve comparire nel catalogo ufficiale: mai URL generici.
+    for regola in V8_CASI_SINGOLI:
+        r = per_id.get(regola['apple'])
+        vid = regola['video']
+        if (not r or r['esito'] not in ('DATI_INSUFFICIENTI',
+                                      'PARTI_NON_ALLINEATE')
+                or vid not in archivio or vid in occupati):
+            continue
+        titolo_apple = set(normalizza(r['episode']).split())
+        if (not set(regola['apple_tokens']) <= titolo_apple
+                or dettagli(r['episode'])['trailer']
+                or dettagli(r['episode'])['parte'] is not None):
+            continue
+        validi = []
+        for t, i in archivio[vid]['dettagli']:
+            y = set(normalizza(t).split())
+            if (i['parte'] is None and not i['trailer']
+                    and any(set(alt) <= y for alt in regola['youtube_varianti'])):
+                validi.append(t)
+        if not validi:
+            continue
+        titolo_video = max(validi, key=len)
+        r['esito'] = 'V8_CASO_DOCUMENTATO'
+        r['selezionato'] = {
+            'videoId': vid, 'title': titolo_video,
+            'url': 'https://www.youtube.com/watch?v=' + vid,
+            'livello': 2, 'regola': 'V8: ' + regola['regola'],
+            'blocchi': [], 'indizi': list(regola['apple_tokens']),
+            'comuni': [], 'priorita': (99, 0, 0),
+        }
+        r['sharedCaseVideo'] = False
+        occupati.add(vid)
+        aggiunti += 1
+
+    # Solo se ENTRAMBE le parti sono presenti, non collegate, con
+    # titoli sullo stesso caso. Vietato se il video e esplicitamente PT1/PT2.
+    nc = V8_COPPIA_NICHOLAS
+    a = per_id.get(nc['apple_pt1'])
+    b = per_id.get(nc['apple_pt2'])
+    vid = nc['video']
+    if (a and b and a is not b and vid in archivio and vid not in occupati
+            and a['esito'] in ('DATI_INSUFFICIENTI', 'PARTI_NON_ALLINEATE')
+            and b['esito'] in ('DATI_INSUFFICIENTI', 'PARTI_NON_ALLINEATE')):
+        caso_a, parte_a = chiave_caso_condiviso(a['episode'])
+        caso_b, parte_b = chiave_caso_condiviso(b['episode'])
+        termini_a = set(normalizza(a['episode']).split())
+        termini_b = set(normalizza(b['episode']).split())
+        titoli_video = [t for t, i in archivio[vid]['dettagli']
+                        if (set(nc['youtube_tokens']) <= set(normalizza(t).split())
+                            and i['parte'] is None and not i['trailer'])]
+        if (caso_a == caso_b and caso_a and parte_a == 1 and parte_b == 2
+                and set(nc['apple_tokens']) <= termini_a
+                and set(nc['apple_tokens']) <= termini_b
+                and titoli_video):
+            titolo_video = max(titoli_video, key=len)
+            for r in (a, b):
+                r['esito'] = 'V8_VIDEO_DEL_CASO_CONDIVISO'
+                r['selezionato'] = {
+                    'videoId': vid, 'title': titolo_video,
+                    'url': 'https://www.youtube.com/watch?v=' + vid,
+                    'livello': 2, 'regola': 'V8: ' + nc['regola'],
+                    'blocchi': [], 'indizi': list(nc['apple_tokens']),
+                    'comuni': [], 'priorita': (98, 0, 0),
+                }
+                r['sharedCaseVideo'] = True
+                r['sharedCoverageConfirmed'] = False
+                aggiunti += 1
+            occupati.add(vid)
+            coppie += 1
+
+    da_confermare = []
+    # Video ufficiale con ID confermato da YouTube esterno, ma non
+    # presente nell archivio locale: NON lo pubblica senza validazione.
+    eid, vid = '1000680775583', 'cY6bMWXm4A0'
+    r = per_id.get(eid)
+    if r is not None and vid not in archivio and r['esito'] in (
+            'DATI_INSUFFICIENTI', 'PARTI_NON_ALLINEATE'):
+        da_confermare.append({
+            'trackId': eid, 'episode': r['episode'],
+            'videoId': vid,
+            'url': 'https://www.youtube.com/watch?v=' + vid,
+            'videoTitoli': ['SIMONETTA FERRERO: IL DELITTO DELLA CATTOLICA'],
+            'stato': 'VIDEO_UFFICIALE_FUORI_ARCHIVIO',
+            'motivo': 'Video trovato sul canale ufficiale, ma non nel '
+                      'file archivio_youtube.json: nessuna pubblicazione.',
+        })
+    return aggiunti, coppie, da_confermare
+
 def main():
     percorso = BASE / "videos.json"
     originale = percorso.read_bytes()
@@ -923,17 +1078,25 @@ def main():
     nuovi_v5 = recupera_ancore_v5(esiti, archivio, usati)
     nuovi_v6 = recupera_descrizioni_v6(esiti, archivio, usati, episodi)
     nuovi_v7, da_confermare_v7 = recupera_casi_v7(esiti, archivio, usati)
+    nuovi_v8, coppie_v8, da_confermare_v8 = recupera_casi_v8(esiti, archivio, usati)
+    # Una vecchia proposta non deve restare "da confermare" se V8
+    # ha trovato e selezionato nel frattempo un video distinto e sicuro.
+    ancora_irrisolti = {r['trackId'] for r in esiti
+                         if r['esito'] in ('DATI_INSUFFICIENTI',
+                                           'PARTI_NON_ALLINEATE')}
+    da_confermare_v7 = [x for x in da_confermare_v7
+                        if x['trackId'] in ancora_irrisolti]
 
     aggiunte = {}
     data = datetime.now(timezone.utc).isoformat()
     for r in esiti:
-        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO", "V6_CORRISPONDENZA", "V7_CASO_DOCUMENTATO"):
+        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO", "V6_CORRISPONDENZA", "V7_CASO_DOCUMENTATO", "V8_CASO_DOCUMENTATO", "V8_VIDEO_DEL_CASO_CONDIVISO"):
             continue
         c = r["selezionato"]
-        condiviso = r["esito"] in ("VIDEO_DEL_CASO_CONDIVISO", "V5_VIDEO_DEL_CASO_CONDIVISO")
+        condiviso = r["esito"] in ("VIDEO_DEL_CASO_CONDIVISO", "V5_VIDEO_DEL_CASO_CONDIVISO", "V8_VIDEO_DEL_CASO_CONDIVISO")
         record = {"podcast": "Elisa True Crime", "episode": r["episode"],
             "youtubeUrl": c["url"], "verified": False, "automaticMatch": True,
-            "matchMethod": "casi-documentati-v7" if r["esito"] == "V7_CASO_DOCUMENTATO" else ("titoli-descrizioni-v6" if r["esito"].startswith("V6_") else ("recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3"))),
+            "matchMethod": "casi-documentati-v8" if r["esito"].startswith("V8_") else ("casi-documentati-v7" if r["esito"] == "V7_CASO_DOCUMENTATO" else ("titoli-descrizioni-v6" if r["esito"].startswith("V6_") else ("recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3")))),
             "matchedVideoTitle": c["title"],
             "matchRule": ("Stesso video ufficiale del caso per PT.1 e PT.2; "
                           "copertura intera da confermare" if condiviso
@@ -949,9 +1112,11 @@ def main():
     nuovi = len(aggiunte) if PUBBLICA else 0
     conteggi = Counter(r["esito"] for r in esiti)
     riepilogo = {"modalita": "PUBBLICAZIONE_AUTOMATICA" if PUBBLICA else "SOLO_SIMULAZIONE",
-        "versione": "casi-documentati-v7", "episodi_apple": len(episodi),
+        "versione": "casi-documentati-v8", "episodi_apple": len(episodi),
         "nuovi_abbinamenti_v5": nuovi_v5, "nuovi_abbinamenti_v6": nuovi_v6,
-        "nuovi_abbinamenti_v7": nuovi_v7, "casi_da_confermare_v7": len(da_confermare_v7),
+        "nuovi_abbinamenti_v7": nuovi_v7, "nuovi_abbinamenti_v8": nuovi_v8,
+        "coppie_pt1_pt2_v8": coppie_v8, "casi_da_confermare_v7": len(da_confermare_v7),
+        "casi_da_confermare_v8": len(da_confermare_v8),
         "coppie_pt1_pt2_con_video_del_caso": coppie_video_del_caso,
         "episodi_collegati_a_video_del_caso": 2 * coppie_video_del_caso,
         "video_archivio": len(archivio), "recupero_titoli_italiani": lingua,
@@ -967,12 +1132,13 @@ def main():
             raise RuntimeError("Catalogo modificato durante il controllo: nessuna scrittura")
         salva("videos.json", {**catalogo, "videos": {**salvati, **aggiunte}})
     report = {"riepilogo": riepilogo, "verifiche": esiti,
-              "da_confermare_v7": da_confermare_v7}
+              "da_confermare_v7": da_confermare_v7,
+              "da_confermare_v8": da_confermare_v8}
     salva("report_pubblicazione.json", report)
     # Il workflow carica gia questo file: include anche l'esito finale aggiornato.
     controllo["recupero_v3"] = report
     salva("controllo_video_meron.json", controllo)
-    print("MERON - SIMULAZIONE CASI DOCUMENTATI V7" if not PUBBLICA else "MERON - RECUPERO CASI DOCUMENTATI V7")
+    print("MERON - SIMULAZIONE CASI DOCUMENTATI V8" if not PUBBLICA else "MERON - RECUPERO CASI DOCUMENTATI V8")
     for nome, valore in riepilogo.items():
         print(f"{nome}: {valore}")
     for r in esiti:
@@ -985,7 +1151,11 @@ def main():
         print("CASI DA CONFERMARE (NON PUBBLICATI):")
         for x in da_confermare_v7:
             print("DA_CONFERMARE | " + x['episode'] + " | " + ", ".join(x['videoTitoli'][:1]))
-    if not PUBBLICA: print("SIMULAZIONE: videos.json non modificato; controllare il report V7.")
+    if da_confermare_v8:
+        print("V8 DA CONFERMARE (NON PUBBLICATI):")
+        for x in da_confermare_v8:
+            print(x['stato'] + ' | ' + x['episode'] + ' | ' + ', '.join(x['videoTitoli'][:1]))
+    if not PUBBLICA: print("SIMULAZIONE: videos.json non modificato; controllare il report V8.")
     print("Titoli compatibili non provano contenuti identici o riproducibilita.")
     print("Il passo successivo del workflow salva videos.json su GitHub.")
 
