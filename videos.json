@@ -1750,6 +1750,58 @@
       "matchedVideoTitle": "DANILO: THE HAIRDRESSER FROM POTENZA | PT. 2",
       "matchRule": "V7: Il video ufficiale su Danilo Restivo e PT.2; la descrizione rimanda esplicitamente a Elisa Claps PT.1",
       "addedAt": "2026-10-30T15:12:20.351821+00:00"
+    },
+    "1000719742166": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 118: L'identità rubata: il mistero di Nicholas Barclay PT.2",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4eUJVp24eWo",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v8",
+      "matchedVideoTitle": "SCOMPARE NEL NULLA E VIENE RITROVATO ANNI DOPO DALL’ALTRA PARTE DEL MONDO… MA NIENTE È COME SEMBRA",
+      "matchRule": "Stesso video ufficiale del caso per PT.1 e PT.2; copertura intera da confermare",
+      "addedAt": "2026-10-30T15:41:20.179241+00:00",
+      "sharedCaseVideo": true,
+      "videoRelation": "video_del_caso",
+      "videoLabel": "Guarda il video sul caso",
+      "coversBothPartsConfirmed": false
+    },
+    "1000718555235": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 117: L'identità rubata: il mistero di Nicholas Barclay PT.1",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4eUJVp24eWo",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v8",
+      "matchedVideoTitle": "SCOMPARE NEL NULLA E VIENE RITROVATO ANNI DOPO DALL’ALTRA PARTE DEL MONDO… MA NIENTE È COME SEMBRA",
+      "matchRule": "Stesso video ufficiale del caso per PT.1 e PT.2; copertura intera da confermare",
+      "addedAt": "2026-10-30T15:41:20.179241+00:00",
+      "sharedCaseVideo": true,
+      "videoRelation": "video_del_caso",
+      "videoLabel": "Guarda il video sul caso",
+      "coversBothPartsConfirmed": false
+    },
+    "1000674091242": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 77: L'esperimento carcerario di Stanford",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Esgum7SkSXo",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v8",
+      "matchedVideoTitle": "THE EXPERIMENT",
+      "matchRule": "V8: Il video ufficiale \"L esperimento\" e identificato da un riferimento pubblico al video YouTube come esperimento del professor Philip Zimbardo; non si presume identita del montaggio podcast/video.",
+      "addedAt": "2026-10-30T15:41:20.179241+00:00"
+    },
+    "1000567793323": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.4: Elisabeth Fritzl",
+      "youtubeUrl": "https://www.youtube.com/watch?v=BpJmww9p6SM",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "casi-documentati-v8",
+      "matchedVideoTitle": "IN QUEL SEMINTERRATO PER 24 ANNI...",
+      "matchRule": "V8: Il video ufficiale \"In quel seminterrato per 24 anni\" racconta il caso di Elisabeth Fritzl, come documentato nel confronto tra i creator e il caso Fritzl.",
+      "addedAt": "2026-10-30T15:41:20.179241+00:00"
     }
   }
 }
