@@ -1684,6 +1684,39 @@
       "matchedVideoTitle": "GLORIA & THE THOUSAND FACES OF GABRIELE",
       "matchRule": "V5: Riferimento raro al centro del video",
       "addedAt": "2026-10-30T14:04:25.154837+00:00"
+    },
+    "1000773987869": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep.164: UN INCUBO DENTRO AL FIENILE",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7CwHU_RVO7s",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "titoli-descrizioni-v6",
+      "matchedVideoTitle": "IL FIENILE DEGLI ORRORI",
+      "matchRule": "V6: Stesso caso Sierah Joughin confermato dalle descrizioni pubbliche Apple e YouTube",
+      "addedAt": "2026-10-30T14:37:38.848066+00:00"
+    },
+    "1000750257619": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 147: CHE FINE HANNO FATTO LE GEMELLE SCHEPP?",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PBG3jzDkmjM",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "titoli-descrizioni-v6",
+      "matchedVideoTitle": "CHE FINE HANNO FATTO LE GEMELLE?",
+      "matchRule": "V6: Frase distintiva del titolo YouTube contenuta nel titolo Apple",
+      "addedAt": "2026-10-30T14:37:38.848066+00:00"
+    },
+    "1000702803078": {
+      "podcast": "Elisa True Crime",
+      "episode": "Ep. 102: Skylar, la cheerleader che non voleva diventare madre",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4BUCcMR6t9s",
+      "verified": false,
+      "automaticMatch": true,
+      "matchMethod": "titoli-descrizioni-v6",
+      "matchedVideoTitle": "Brooke Skylar: \"I Tried to Cremate Her... A Little Bit\"",
+      "matchRule": "V6: Nomi distintivi condivisi tra titolo YouTube e descrizione Apple",
+      "addedAt": "2026-10-30T14:37:38.848066+00:00"
     }
   }
 }
