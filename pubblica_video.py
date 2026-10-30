@@ -16,7 +16,7 @@ from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 BASE = Path(__file__).resolve().parent
 # V5: in prima esecuzione e' SEMPRE una simulazione.
 # Dopo aver letto il report, si puo abilitare con MERON_PUBBLICA_V5=1.
-PUBBLICA = os.environ.get("MERON_PUBBLICA_V5", "0") == "1"
+PUBBLICA = True
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
