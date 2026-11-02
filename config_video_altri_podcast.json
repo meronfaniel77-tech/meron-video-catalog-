@@ -1,0 +1,7 @@
+{
+  "topPodcastLimit": 40,
+  "maxPodcastsPerRun": 40,
+  "maxEpisodesPerPodcast": 120,
+  "excludePodcastIds": ["1628126740"],
+  "extraPodcastIds": []
+}
