@@ -14,9 +14,9 @@ from urllib.parse import parse_qs, urlparse
 from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 
 BASE = Path(__file__).resolve().parent
-# V5: pubblica automaticamente i collegamenti che superano i filtri.
-# Per fare una simulazione, imposta MERON_SIMULAZIONE=1 nel workflow.
-PUBBLICA = True
+# V9: primo avvio in sola simulazione, pubblicazione disattivata.
+# Passare a PUBBLICA = True solo dopo avere verificato il log della simulazione.
+PUBBLICA = False  # V9: primo avvio SOLO_SIMULAZIONE; non modifica videos.json
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
@@ -998,6 +998,95 @@ def recupera_casi_v8(esiti, archivio, usati):
         })
     return aggiunti, coppie, da_confermare
 
+
+
+# V9: stesso video ufficiale sul caso di Gabby Petito, per le DUE
+# parti Apple. Non dichiara che il video riproduca entrambe le
+# puntate integralmente; e' una risorsa video relativa allo stesso caso.
+# Prove: Apple PT.1/PT.2 (13/20 giugno 2022), YouTube Elisa True Crime
+# 22 novembre 2021, video ndo2EJsE9V4.
+V9_COPPIA_GABBY = {
+    'apple_pt1': '1000566192297',
+    'apple_pt2': '1000567086694',
+    'video': 'ndo2EJsE9V4',
+    'apple_tokens': ('gabby', 'petito'),
+    'youtube_tokens': ('gabby', 'petito', 'brian', 'laundrie'),
+    'regola': ('Le due parti del podcast Apple e il video originale di '
+               'Elisa True Crime del 22 novembre 2021 raccontano il caso '
+               'di Gabby Petito e Brian Laundrie; nessuna conferma che '
+               'il video includa le due puntate integrali.'),
+}
+
+
+def recupera_casi_v9(esiti, archivio, usati, salvati, episodi):
+    """Associa il video del CASO Gabby a PT.1 e PT.2 solo insieme.
+
+    Non usa URL esterni all'archivio. Riutilizza un video esistente solo
+    se gia' associato allo STESSO caso (e lo segnala nel report).
+    Non equipara aggiornamenti e parti: presenta solo un video sul caso.
+    Se manca una delle due puntate, non propone alcun link.
+    """
+    per_id = {r['trackId']: r for r in esiti}
+    assegnati_ora = {r['selezionato']['videoId'] for r in esiti
+                     if isinstance(r.get('selezionato'), dict)}
+    c = V9_COPPIA_GABBY
+    a, b, vid = per_id.get(c['apple_pt1']), per_id.get(c['apple_pt2']), c['video']
+    if not (a and b and a is not b and vid in archivio and vid not in assegnati_ora):
+        return 0, 0, []
+
+    # Alcuni cataloghi precedenti possono gia' usare il video originale
+    # in un AGGIORNAMENTO di Gabby Petito. Lo riutilizziamo solo come
+    # "video sul caso", e solo se ogni uso esistente parla certamente
+    # dello stesso caso; non cambiamo ne cancelliamo alcun record.
+    titoli_apple = {str(e.get('id')): e.get('titolo', '') for e in episodi
+                    if isinstance(e, dict)}
+    usi_gia_presenti = []
+    for id_apple, record in salvati.items():
+        if not isinstance(record, dict) or video_id(record.get('youtubeUrl')) != vid:
+            continue
+        titolo_salvato = str(record.get('episode') or titoli_apple.get(str(id_apple), ''))
+        if not {'gabby', 'petito'} <= set(normalizza(titolo_salvato).split()):
+            # Associazione con persona/caso diverso, nessun riuso.
+            return 0, 0, []
+        usi_gia_presenti.append({'trackId': str(id_apple), 'episode': titolo_salvato})
+    if vid in usati and not usi_gia_presenti:
+        return 0, 0, []
+    stati_ammessi = {'DATI_INSUFFICIENTI', 'PARTI_NON_ALLINEATE'}
+    if a['esito'] not in stati_ammessi or b['esito'] not in stati_ammessi:
+        return 0, 0, []
+    base_a, parte_a = chiave_caso_condiviso(a['episode'])
+    base_b, parte_b = chiave_caso_condiviso(b['episode'])
+    if not (base_a and base_a == base_b and parte_a == 1 and parte_b == 2):
+        return 0, 0, []
+    for episodio in (a, b):
+        i = dettagli(episodio['episode'])
+        if (i['trailer'] or i['aggiornamento'] or
+                not set(c['apple_tokens']) <= set(normalizza(episodio['episode']).split())):
+            return 0, 0, []
+
+    titoli = []
+    for titolo, info in archivio[vid]['dettagli']:
+        if (not info['trailer'] and info['parte'] is None and
+                not info['aggiornamento'] and
+                set(c['youtube_tokens']) <= set(normalizza(titolo).split())):
+            titoli.append(titolo)
+    if not titoli:
+        return 0, 0, []
+    titolo_video = max(titoli, key=len)
+    for episodio in (a, b):
+        episodio['esito'] = 'V9_VIDEO_DEL_CASO_CONDIVISO'
+        episodio['selezionato'] = {
+            'videoId': vid, 'title': titolo_video,
+            'url': 'https://www.youtube.com/watch?v=' + vid,
+            'livello': 2, 'regola': 'V9: ' + c['regola'],
+            'blocchi': [], 'indizi': list(c['apple_tokens']),
+            'comuni': list(c['apple_tokens']),
+            'priorita': (99, 0, 0),
+        }
+        episodio['sharedCaseVideo'] = True
+        episodio['sharedCoverageConfirmed'] = False
+    return 2, 1, usi_gia_presenti
+
 def main():
     percorso = BASE / "videos.json"
     originale = percorso.read_bytes()
@@ -1079,6 +1168,7 @@ def main():
     nuovi_v6 = recupera_descrizioni_v6(esiti, archivio, usati, episodi)
     nuovi_v7, da_confermare_v7 = recupera_casi_v7(esiti, archivio, usati)
     nuovi_v8, coppie_v8, da_confermare_v8 = recupera_casi_v8(esiti, archivio, usati)
+    nuovi_v9, coppie_v9, video_gabby_usi_precedenti = recupera_casi_v9(esiti, archivio, usati, salvati, episodi)
     # Una vecchia proposta non deve restare "da confermare" se V8
     # ha trovato e selezionato nel frattempo un video distinto e sicuro.
     ancora_irrisolti = {r['trackId'] for r in esiti
@@ -1090,13 +1180,13 @@ def main():
     aggiunte = {}
     data = datetime.now(timezone.utc).isoformat()
     for r in esiti:
-        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO", "V6_CORRISPONDENZA", "V7_CASO_DOCUMENTATO", "V8_CASO_DOCUMENTATO", "V8_VIDEO_DEL_CASO_CONDIVISO"):
+        if r["esito"] not in ("SELEZIONATO", "VIDEO_DEL_CASO_CONDIVISO", "V5_CORRISPONDENZA", "V5_VIDEO_DEL_CASO_CONDIVISO", "V6_CORRISPONDENZA", "V7_CASO_DOCUMENTATO", "V8_CASO_DOCUMENTATO", "V8_VIDEO_DEL_CASO_CONDIVISO", "V9_VIDEO_DEL_CASO_CONDIVISO"):
             continue
         c = r["selezionato"]
-        condiviso = r["esito"] in ("VIDEO_DEL_CASO_CONDIVISO", "V5_VIDEO_DEL_CASO_CONDIVISO", "V8_VIDEO_DEL_CASO_CONDIVISO")
+        condiviso = r["esito"] in ("VIDEO_DEL_CASO_CONDIVISO", "V5_VIDEO_DEL_CASO_CONDIVISO", "V8_VIDEO_DEL_CASO_CONDIVISO", "V9_VIDEO_DEL_CASO_CONDIVISO")
         record = {"podcast": "Elisa True Crime", "episode": r["episode"],
             "youtubeUrl": c["url"], "verified": False, "automaticMatch": True,
-            "matchMethod": "casi-documentati-v8" if r["esito"].startswith("V8_") else ("casi-documentati-v7" if r["esito"] == "V7_CASO_DOCUMENTATO" else ("titoli-descrizioni-v6" if r["esito"].startswith("V6_") else ("recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3")))),
+            "matchMethod": "casi-documentati-v9" if r["esito"].startswith("V9_") else ("casi-documentati-v8" if r["esito"].startswith("V8_") else ("casi-documentati-v7" if r["esito"] == "V7_CASO_DOCUMENTATO" else ("titoli-descrizioni-v6" if r["esito"].startswith("V6_") else ("recupero-ancore-v5" if r["esito"].startswith("V5_") else ("recupero-tutti-v4" if condiviso else "recupero-tutti-v3"))))),
             "matchedVideoTitle": c["title"],
             "matchRule": ("Stesso video ufficiale del caso per PT.1 e PT.2; "
                           "copertura intera da confermare" if condiviso
@@ -1112,9 +1202,11 @@ def main():
     nuovi = len(aggiunte) if PUBBLICA else 0
     conteggi = Counter(r["esito"] for r in esiti)
     riepilogo = {"modalita": "PUBBLICAZIONE_AUTOMATICA" if PUBBLICA else "SOLO_SIMULAZIONE",
-        "versione": "casi-documentati-v8", "episodi_apple": len(episodi),
+        "versione": "casi-documentati-v9", "episodi_apple": len(episodi),
         "nuovi_abbinamenti_v5": nuovi_v5, "nuovi_abbinamenti_v6": nuovi_v6,
         "nuovi_abbinamenti_v7": nuovi_v7, "nuovi_abbinamenti_v8": nuovi_v8,
+        "nuovi_abbinamenti_v9": nuovi_v9, "coppie_pt1_pt2_v9": coppie_v9,
+        "video_gabby_gia_usato_stesso_caso": len(video_gabby_usi_precedenti),
         "coppie_pt1_pt2_v8": coppie_v8, "casi_da_confermare_v7": len(da_confermare_v7),
         "casi_da_confermare_v8": len(da_confermare_v8),
         "coppie_pt1_pt2_con_video_del_caso": coppie_video_del_caso,
@@ -1133,12 +1225,13 @@ def main():
         salva("videos.json", {**catalogo, "videos": {**salvati, **aggiunte}})
     report = {"riepilogo": riepilogo, "verifiche": esiti,
               "da_confermare_v7": da_confermare_v7,
-              "da_confermare_v8": da_confermare_v8}
+              "da_confermare_v8": da_confermare_v8,
+              "video_gabby_usi_precedenti": video_gabby_usi_precedenti}
     salva("report_pubblicazione.json", report)
     # Il workflow carica gia questo file: include anche l'esito finale aggiornato.
     controllo["recupero_v3"] = report
     salva("controllo_video_meron.json", controllo)
-    print("MERON - SIMULAZIONE CASI DOCUMENTATI V8" if not PUBBLICA else "MERON - RECUPERO CASI DOCUMENTATI V8")
+    print("MERON - SIMULAZIONE CASI DOCUMENTATI V9" if not PUBBLICA else "MERON - RECUPERO CASI DOCUMENTATI V9")
     for nome, valore in riepilogo.items():
         print(f"{nome}: {valore}")
     for r in esiti:
@@ -1155,7 +1248,12 @@ def main():
         print("V8 DA CONFERMARE (NON PUBBLICATI):")
         for x in da_confermare_v8:
             print(x['stato'] + ' | ' + x['episode'] + ' | ' + ', '.join(x['videoTitoli'][:1]))
-    if not PUBBLICA: print("SIMULAZIONE: videos.json non modificato; controllare il report V8.")
+    if video_gabby_usi_precedenti:
+        print("V9 NOTA: video originale Gabby gia collegato allo stesso caso:")
+        for x in video_gabby_usi_precedenti:
+            print("V9_GABBY_GIA_IN_CATALOGO | " + x['episode'])
+        print("Verificare separatamente la correttezza delle eventuali voci AGGIORNAMENTO.")
+    if not PUBBLICA: print("SIMULAZIONE: videos.json non modificato; controllare il report V9.")
     print("Titoli compatibili non provano contenuti identici o riproducibilita.")
     print("Il passo successivo del workflow salva videos.json su GitHub.")
 
