@@ -16,7 +16,7 @@ from confronta_archivio import GENERICHE, STOPWORDS, TRADUZIONI
 BASE = Path(__file__).resolve().parent
 # V9: primo avvio in sola simulazione, pubblicazione disattivata.
 # Passare a PUBBLICA = True solo dopo avere verificato il log della simulazione.
-PUBBLICA = False  # V9: primo avvio SOLO_SIMULAZIONE; non modifica videos.json
+PUBBLICA = True
 CERCA_ITALIANO = os.environ.get("MERON_TITOLI_ITALIANI", "1") != "0"
 CHANNEL_ID = "UCxH0MkY6v0sjZzmMgW9TSRQ"
 
