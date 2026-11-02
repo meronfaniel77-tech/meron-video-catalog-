@@ -1,0 +1,42 @@
+{
+  "maxAppleEpisodesPerPodcast": 180,
+  "maxYoutubeVideosPerChannel": 160,
+  "channelTimeoutSeconds": 150,
+  "podcasts": [
+    {
+      "appleCollectionId": "1649904820",
+      "name": "Passa dal BSMT",
+      "youtubeChannelId": "UC0Ku9Mx_Q6MYrnrLpv5R-KA",
+      "officialUrl": "https://www.aboutgg.com/",
+      "evidence": "Sito di Gianluca Gazzoli: guarda su YouTube -> @bsmt_basement"
+    },
+    {
+      "appleCollectionId": "1434243021",
+      "name": "Tintoria",
+      "youtubeChannelId": "UCvbLX67F72gQBrqE4IX5yGA",
+      "officialUrl": "https://www.deejay.it/podcast/tintoria/",
+      "evidence": "Pagina del podcast: youtube.com/@tintoriapodcast"
+    },
+    {
+      "appleCollectionId": "1781213268",
+      "name": "PULP PODCAST",
+      "youtubeChannelId": "UCY99TnBJ8xyat2lpeN_hcEA",
+      "officialUrl": "https://www.youtube.com/channel/UCY99TnBJ8xyat2lpeN_hcEA",
+      "evidence": "Canale intestato Pulp Podcast (Fedez e Mr. Marra)"
+    },
+    {
+      "appleCollectionId": "1661637004",
+      "name": "PoretCast di Giacomo Poretti",
+      "youtubeChannelId": "UCR34kAAMqN7wVdJ4hoo2qWg",
+      "officialUrl": "https://incamminati.teatrooscar.it/poretcast/",
+      "evidence": "Teatro Oscar e canale ufficiale @poretcast"
+    },
+    {
+      "appleCollectionId": "1537557135",
+      "name": "ONE MORE TIME di Luca Casadei",
+      "youtubeChannelId": "UCXuc_HVyuWFoWQa1zyyuqJw",
+      "officialUrl": "https://linktr.ee/podcastonemoretime",
+      "evidence": "Pagina ufficiale del podcast rimanda a YouTube @onemoretimepodcast"
+    }
+  ]
+}
