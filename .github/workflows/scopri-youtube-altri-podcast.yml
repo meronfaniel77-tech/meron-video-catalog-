@@ -1,0 +1,32 @@
+name: Scopri video YouTube altri podcast
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ricerca-youtube:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installa yt-dlp
+        run: python -m pip install --upgrade yt-dlp
+      - name: Cerca video sui canali verificati (solo simulazione)
+        run: python scopri_youtube_altri_podcast.py
+      - name: Salva rapporto e candidati
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-altri-podcast-youtube
+          path: |
+            altri_podcast_youtube_report.json
+            altri_podcast_youtube_candidati.csv
+          if-no-files-found: warn
