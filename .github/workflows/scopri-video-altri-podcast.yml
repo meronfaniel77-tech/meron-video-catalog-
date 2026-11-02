@@ -1,0 +1,28 @@
+name: Scopri video degli altri podcast
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ricerca-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scansiona feed dei podcast
+        run: python scopri_video_altri_podcast.py
+      - name: Salva report (senza modificare il catalogo)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-altri-podcast-video
+          path: altri_podcast_video_report.json
+          if-no-files-found: warn
