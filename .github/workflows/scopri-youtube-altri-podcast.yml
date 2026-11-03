@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   ricerca-youtube:
@@ -21,7 +21,9 @@ jobs:
         run: python -m pip install --upgrade yt-dlp
       - name: Cerca video sui canali verificati (solo simulazione)
         run: python scopri_youtube_altri_podcast.py
-      - name: Salva rapporto e candidati
+      - name: Controlla duplicati e simula pubblicazione
+        run: python pubblica_video_altri_podcast.py
+      - name: Salva rapporti e anteprima
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -29,4 +31,18 @@ jobs:
           path: |
             altri_podcast_youtube_report.json
             altri_podcast_youtube_candidati.csv
+            anteprima_video_altri_podcast.json
+            anteprima_video_altri_podcast.csv
           if-no-files-found: warn
+      - name: Salva catalogo su GitHub (solo dopo autorizzazione)
+        if: success()
+        run: |
+          if git diff --quiet -- videos.json; then
+            echo 'SIMULAZIONE: nessuna modifica a videos.json, nessun push'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add videos.json
+          git commit -m 'MerON: video ufficiali altri podcast'
+          git push origin HEAD:main
