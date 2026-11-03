@@ -1,0 +1,56 @@
+name: MerON - Video di tutti i podcast
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Scansiona ogni giorno un gruppo nuovo; non pubblica mai videos.json.
+    - cron: '37 5 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meron-scansione-tutti-podcast
+  cancel-in-progress: false
+
+jobs:
+  scansione-universale:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installa yt-dlp
+        run: python -m pip install --upgrade yt-dlp
+      - name: Scopri podcast e video ufficiali (solo simulazione)
+        run: python scopri_video_tutti_podcast.py
+      - name: Salva il rapporto della scansione
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-video-tutti-podcast
+          path: |
+            rapporto_video_tutti_podcast.json
+            anteprima_video_tutti_podcast.json
+            anteprima_video_tutti_podcast.csv
+            rapporto_youtube_batch_tutti_podcast.json
+            config_batch_video_tutti_podcast.json
+          if-no-files-found: warn
+      - name: Ricorda i podcast gia controllati (non pubblica video)
+        if: success()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- stato_video_tutti_podcast.json
+          if git diff --cached --quiet; then
+            echo 'Nessun nuovo stato da salvare'
+            exit 0
+          fi
+          git commit -m 'MerON: aggiorna stato scansione podcast'
+          git pull --rebase origin main
+          git push origin HEAD:main
