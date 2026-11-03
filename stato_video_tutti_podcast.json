@@ -157,6 +157,164 @@
       "lastAttempt": "2026-11-03T11:50:49.301085+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1627694492": {
+      "name": "Una Parola al Giorno - il podcast",
+      "lastAttempt": "2026-11-03T11:55:34.656244+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1650539882": {
+      "name": "3 Fattori - Il podcast di Mariangela Pira",
+      "lastAttempt": "2026-11-03T11:55:36.045581+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1872105369": {
+      "name": "Storie per Dormire Bene",
+      "lastAttempt": "2026-11-03T11:55:38.182819+00:00",
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1434243021": {
+      "name": "Tintoria",
+      "status": "GIA_COPERTO_DAL_CATALOGO",
+      "lastAttempt": "2026-11-03T11:55:40.934345+00:00",
+      "youtubeChannelId": "UCvbLX67F72gQBrqE4IX5yGA",
+      "source": "videos.json"
+    },
+    "6827490676": {
+      "name": "I profeti del codice",
+      "lastAttempt": "2026-11-03T11:55:40.934368+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1483404084": {
+      "name": "STORIE DI BRAND",
+      "lastAttempt": "2026-11-03T11:55:45.542095+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1666594164": {
+      "name": "Ma perché?",
+      "lastAttempt": "2026-11-03T11:55:47.293154+00:00",
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "SCANSIONATO"
+    },
+    "1708281258": {
+      "name": "Non Aprite Quella Podcast",
+      "lastAttempt": "2026-11-03T11:55:58.383360+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1694669718": {
+      "name": "De Core - Podcast",
+      "lastAttempt": "2026-11-03T11:55:59.472358+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1624729929": {
+      "name": "Rame",
+      "lastAttempt": "2026-11-03T11:56:01.818747+00:00",
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1648645980": {
+      "name": "Altri Orienti",
+      "lastAttempt": "2026-11-03T11:56:05.336572+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1719454472": {
+      "name": "Tavolo Parcheggio",
+      "lastAttempt": "2026-11-03T11:56:08.654611+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1626183517": {
+      "name": "Sky Crime Podcast",
+      "lastAttempt": "2026-11-03T11:56:11.245737+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "465501415": {
+      "name": "Scientificast, la scienza come non l'hai mai sentita",
+      "lastAttempt": "2026-11-03T11:56:14.261410+00:00",
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCFRP3ZXT1kxG9qbxei7AV-g",
+      "status": "SCANSIONATO"
+    },
+    "1661637004": {
+      "name": "PoretCast di Giacomo Poretti",
+      "status": "GIA_COPERTO_DAL_CATALOGO",
+      "lastAttempt": "2026-11-03T11:56:27.248999+00:00",
+      "youtubeChannelId": "UCR34kAAMqN7wVdJ4hoo2qWg",
+      "source": "videos.json"
+    },
+    "135067274": {
+      "name": "Global News Podcast",
+      "lastAttempt": "2026-11-03T11:56:27.249017+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1765112255": {
+      "name": "Qui si fa l'Italia",
+      "lastAttempt": "2026-11-03T11:56:27.459791+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "560454583": {
+      "name": "Tutti convocati",
+      "lastAttempt": "2026-11-03T11:56:30.813350+00:00",
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "SCANSIONATO"
+    },
+    "1835998425": {
+      "name": "Impara l'inglese",
+      "lastAttempt": "2026-11-03T11:56:38.084364+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "308039446": {
+      "name": "24 Mattino",
+      "lastAttempt": "2026-11-03T11:56:38.465920+00:00",
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "SCANSIONATO"
+    },
+    "1547953350": {
+      "name": "Altre/Storie Americane",
+      "lastAttempt": "2026-11-03T11:56:45.581575+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "291685321": {
+      "name": "Focus economia",
+      "lastAttempt": "2026-11-03T11:56:46.780711+00:00",
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "SCANSIONATO"
+    },
+    "262026947": {
+      "name": "6 Minute English",
+      "lastAttempt": "2026-11-03T11:56:53.613334+00:00",
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1756062803": {
+      "name": "Cenni storici per fare lo splendido",
+      "lastAttempt": "2026-11-03T11:56:53.977429+00:00",
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "SCANSIONATO"
     }
   },
   "chartShows": {
