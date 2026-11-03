@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "description": "Coda persistente candidati video per i podcast di MerON; NON significa pubblicato",
+  "pending": [
+    {
+      "trackId": "1000670351018",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Buchi neri omomorfici",
+        "youtubeUrl": "https://www.youtube.com/watch?v=i_Rwzis_G0k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Buchi neri omomorfici",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3579
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000666599327",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "La centrale delle scimmie - La vendetta",
+        "youtubeUrl": "https://www.youtube.com/watch?v=p42jriXHY3c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La centrale delle scimmie - La vendetta",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3469
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000662940676",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Neutroni esagitati e pesci instagrammabili",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yPfHN0-UC-E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Neutroni esagitati e pesci instagrammabili",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 4245
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000661503626",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Onde gravitazionali da asteroidi acquosi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gCGVEYvK-6E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Onde gravitazionali da asteroidi acquosi",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 2634
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000660784111",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "La musica dei muoni a RNA",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qhzLifH9UPU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La musica dei muoni a RNA",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3428
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000658410509",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Pollici opponibili e pulsar lumaca",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hXTiCBGyOAk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Pollici opponibili e pulsar lumaca",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3290
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000655374512",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "La memoria delle seppie spaziali",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WZx61QGARik",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La memoria delle seppie spaziali",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 4218
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000653164900",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Le nonne dei sistemi autonomi macrofagi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ykAJs1txlYI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Le nonne dei sistemi autonomi macrofagi",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3539
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000651054521",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Orche che cantano ai batteriofagi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GyHTzw5WUWw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Orche che cantano ai batteriofagi",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3292
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000648718454",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Stelle nane crittografate",
+        "youtubeUrl": "https://www.youtube.com/watch?v=a6T0YcB74Mc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stelle nane crittografate",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3396
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000641675730",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "La calda monetina antibiotico-resistente",
+        "youtubeUrl": "https://www.youtube.com/watch?v=26nPZe_5CFU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La calda monetina antibiotico-resistente",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 2893
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000640860881",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Cipolle criptate in atmosfere lontane",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IEWBuAUAc3k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cipolle criptate in atmosfere lontane",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3609
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000639633516",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "L'inflazione del deposito spaziale",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_W4xx6yiQ0k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'inflazione del deposito spaziale",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3156
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000637387981",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Raggi cosmici pseudo-primi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2rGRWls_eVQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Raggi cosmici pseudo-primi",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 2472
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000636611345",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Fulminati di stelle",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QuWQ3BkGyHQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Fulminati di stelle",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3251
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000633789725",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Magnetizzare pesci zebra equilibristi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QiNIPdzhKJ8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Magnetizzare pesci zebra equilibristi",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3687
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000632236013",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Vecchi virus smemorati",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kLVoiBJJFG0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Vecchi virus smemorati",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 3476
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    },
+    {
+      "trackId": "1000628211565",
+      "score": 112,
+      "record": {
+        "podcast": "Scientificast, la scienza come non l'hai mai sentita",
+        "episode": "Qui un tempo era tutto Big Bang",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Vsl2tdlLwwo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Qui un tempo era tutto Big Bang",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-03T11:57:04.677776+00:00",
+        "appleCollectionId": "465501415",
+        "youtubeChannelId": "UCFRP3ZXT1kxG9qbxei7AV-g",
+        "youtubeDurationSeconds": 2993
+      },
+      "sourceGeneratedAt": "2026-11-03T11:57:04.673265+00:00",
+      "source": "rapporto-video-tutti-podcast-2026-11-03-scientificast"
+    }
+  ]
+}
