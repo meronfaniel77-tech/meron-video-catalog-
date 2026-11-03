@@ -2,8 +2,18 @@ name: MerON - Video di tutti i podcast
 
 on:
   workflow_dispatch:
+    inputs:
+      modalita:
+        description: 'Scansiona nuovi podcast, controlla la coda o pubblica quelli gia approvati'
+        type: choice
+        required: true
+        default: scansione
+        options:
+          - scansione
+          - anteprima_coda
+          - pubblicazione
   schedule:
-    # Scansiona ogni giorno un gruppo nuovo; non pubblica mai videos.json.
+    # Scansione automatica quotidiana: aggiunge solo candidati alla coda.
     - cron: '37 5 * * *'
 
 permissions:
@@ -26,10 +36,17 @@ jobs:
         with:
           python-version: '3.12'
       - name: Installa yt-dlp
+        if: github.event_name == 'schedule' || inputs.modalita == 'scansione'
         run: python -m pip install --upgrade yt-dlp
       - name: Scopri podcast e video ufficiali (solo simulazione)
+        if: github.event_name == 'schedule' || inputs.modalita == 'scansione'
         run: python scopri_video_tutti_podcast.py
-      - name: Salva il rapporto della scansione
+      - name: Aggiorna coda e controlla pubblicazione
+        env:
+          MERON_MODALITA: ${{ github.event_name == 'workflow_dispatch' && inputs.modalita == 'pubblicazione' && 'PUBBLICAZIONE' || 'SIMULAZIONE' }}
+          MERON_LEGGI_LOTTO: ${{ (github.event_name == 'schedule' || inputs.modalita == 'scansione') && '1' || '0' }}
+        run: python gestisci_video_tutti_podcast.py
+      - name: Salva rapporto della scansione e coda
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -40,17 +57,19 @@ jobs:
             anteprima_video_tutti_podcast.csv
             rapporto_youtube_batch_tutti_podcast.json
             config_batch_video_tutti_podcast.json
+            anteprima_coda_video_tutti_podcast.json
+            anteprima_coda_video_tutti_podcast.csv
           if-no-files-found: warn
-      - name: Ricorda i podcast gia controllati (non pubblica video)
+      - name: Salva stato, coda e catalogo su GitHub
         if: success()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- stato_video_tutti_podcast.json
+          git add -- stato_video_tutti_podcast.json coda_video_tutti_podcast.json videos.json
           if git diff --cached --quiet; then
-            echo 'Nessun nuovo stato da salvare'
+            echo 'Nessuna modifica da salvare'
             exit 0
           fi
-          git commit -m 'MerON: aggiorna stato scansione podcast'
+          git commit -m 'MerON: aggiorna coda e catalogo video dei podcast'
           git pull --rebase origin main
           git push origin HEAD:main
