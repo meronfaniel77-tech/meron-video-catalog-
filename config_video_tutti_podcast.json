@@ -1,0 +1,18 @@
+{
+  "mode": "SOLO_SIMULAZIONE",
+  "country": "IT",
+  "chartLimit": 100,
+  "genres": [
+    "1301", "1303", "1304", "1305", "1307", "1309", "1310", "1311", "1314",
+    "1315", "1316", "1318", "1321", "1323", "1324", "1325", "1488", "1489", "1511", "1512", "1514"
+  ],
+  "maxShowsPerRun": 22,
+  "maxYoutubeChannelsPerRun": 7,
+  "maxAppleEpisodesPerPodcast": 180,
+  "maxYoutubeVideosPerChannel": 160,
+  "channelTimeoutSeconds": 150,
+  "daysUntilRescan": 14,
+  "daysUntilRetryWithoutChannel": 45,
+  "excludedPodcastIds": ["1628126740"],
+  "additionalPodcastIds": []
+}
