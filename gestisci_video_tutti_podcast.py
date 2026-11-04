@@ -61,9 +61,18 @@ def save_json(path, data):
 
 
 def normalized_title(text):
+    """Titoli equivalenti se coincidono tutte le parole e tutti i numeri.
+
+    Accetta solo differenze di maiuscole, accenti, apostrofi e
+    punteggiatura. NON ignora parole, parti, date, ospiti o numeri.
+    Il controllo a valle richiede comunque score >= 110 e la regola
+    ``Titolo identico``, oltre a ID e video univoci.
+    """
     if not isinstance(text, str):
         return ''
-    return ' '.join(unicodedata.normalize('NFKC', text).casefold().split())
+    folded = unicodedata.normalize('NFKD', text.casefold())
+    folded = ''.join(c for c in folded if not unicodedata.combining(c))
+    return ' '.join(re.findall(r'[^\W_]+', folded))
 
 
 def valid_utc(value):
