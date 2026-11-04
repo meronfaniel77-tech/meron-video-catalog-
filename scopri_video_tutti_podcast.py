@@ -55,14 +55,39 @@ CHANNEL_URL = re.compile(
 TAG_LINK = re.compile(r'<(?:[A-Za-z_][\w.-]*:)?link\s*>(.*?)</(?:[A-Za-z_][\w.-]*:)?link\s*>', re.I | re.S)
 CHANNEL_START = re.compile(r'<(?:[\w.-]+:)?channel(?:\s[^>]*)?>', re.I)
 ITEM_START = re.compile(r'<(?:[\w.-]+:)?item(?:\s[^>]*)?>', re.I)
+ITEM_END = re.compile(r'</(?:[\w.-]+:)?item\s*>', re.I)
 MAX_READ_SITE = 350 * 1024
 MAX_READ_RSS_HEAD = 280 * 1024
 MAX_READ_APPLE = 3 * 1024 * 1024
 APPLE_MIN_INTERVAL = 3.1  # Documentazione Apple: circa 20 richieste al minuto
 LAST_APPLE_REQUEST = 0.0
-DISCOVERY_REVISION = 3
+DISCOVERY_REVISION = 4
 MAX_INTERNAL_PAGES = 3  # non seguire un intero sito, solo pagine rilevanti
 MAX_RUN_SECONDS = 2700  # interrompe in sicurezza prima del timeout di GitHub Actions
+
+# Canali verificati da fonti pubbliche riconducibili al podcast. Sono pochi
+# casi documentati, NON una ricerca euristica che indovina i proprietari.
+# Anche qui il programma pubblica soltanto tramite l'altro workflow.
+CANALI_DOCUMENTATI_V4 = {
+    '1616476688': {
+        'name': 'Indagini',
+        'youtubeUrl': 'https://www.youtube.com/channel/UCm6hxoiPOykrgjVG8y6wY3g',
+        'proof': 'Canale Indagini: descrizione ufficiale Il Post / Stefano Nazzi',
+        'sourceUrl': 'https://www.youtube.com/channel/UCm6hxoiPOykrgjVG8y6wY3g',
+    },
+    '1775666184': {
+        'name': 'SUPERNOVA',
+        'youtubeUrl': 'https://www.youtube.com/@StaseraAleCattelan',
+        'proof': 'Link al canale riportato nella descrizione delle puntate SUPERNOVA',
+        'sourceUrl': 'https://choramedia.com/podcast/supernova/',
+    },
+    '1694669718': {
+        'name': 'De Core - Podcast',
+        'youtubeUrl': 'https://www.youtube.com/@decore_podcast',
+        'proof': 'Linktree del programma con corrispondenze Apple e YouTube per numero e ospite',
+        'sourceUrl': 'https://linktr.ee/decore_podcast',
+    },
+}
 
 
 def now():
@@ -262,6 +287,43 @@ def rss_channel_meta(raw):
     return website, extract_channels(body)
 
 
+def repeated_rss_channel(raw, min_episodes=3):
+    """Canale citato in almeno 3 episodi del FEED del publisher.
+
+    Non basta un link in un singolo episodio, che potrebbe essere
+    di un ospite o di un canale di terzi. Se due canali ricorrono
+    con frequenze simili, il risultato resta ambiguo.
+    """
+    src = decode_markup(raw)
+    first = ITEM_START.search(src)
+    if not first:
+        return None
+    counts = Counter()
+    end_from = first.start()
+    scanned = 0
+    while scanned < 30:
+        start = ITEM_START.search(src, end_from)
+        if not start:
+            break
+        end = ITEM_END.search(src, start.end())
+        if not end:
+            break
+        body = src[start.end():end.start()]
+        for channel_url in set(extract_channels(body)):
+            counts[channel_url] += 1
+        scanned += 1
+        end_from = end.end()
+    if not counts:
+        return None
+    ranked = counts.most_common(2)
+    best, n = ranked[0]
+    if n < min_episodes:
+        return None
+    if len(ranked) > 1 and ranked[1][1] >= n:
+        return None
+    return best
+
+
 def apple_show(cid, country):
     data = apple_get(f'https://itunes.apple.com/lookup?id={cid}&country={country.upper()}')
     for item in data.get('results', []):
@@ -365,13 +427,19 @@ def choose_official_channel(show, *, get=fetch_limited):
     if not public_https(feed_url):
         return None, 'FEED_NON_HTTPS_O_NON_PUBBLICO'
     try:
-        site, direct = rss_channel_meta(get(feed_url, MAX_READ_RSS_HEAD, 17))
+        rss_head = get(feed_url, MAX_READ_RSS_HEAD, 17)
+        site, direct = rss_channel_meta(rss_head)
     except (ValueError, OSError, urllib.error.URLError) as exc:
         return None, 'FEED_INACCESSIBILE: ' + str(exc)[:110]
     if len(direct) == 1:
         return direct[0], 'LINK_NEL_FEED_APPLE'
     if len(direct) > 1:
         return None, 'PIU_CANALI_YOUTUBE_NEL_FEED'
+    # Nei feed molti editori indicano il proprio YouTube nella descrizione
+    # di ogni episodio, ma NON nell'intestazione <channel>.
+    repeating = repeated_rss_channel(rss_head)
+    if repeating:
+        return repeating, 'STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED'
     if not site or not public_https(site):
         return None, 'CANALE_YOUTUBE_NON_VERIFICABILE'
     # URL <channel><link> del feed: la sorgente e' scelta dal publisher.
@@ -560,22 +628,31 @@ def main():
             sources.setdefault(cid, item)
     for cid, item in known_map.items():
         sources.setdefault(cid, {'name': item.get('name', cid), 'source': 'CANALE_GIA_VERIFICATO'})
+    for cid, item in CANALI_DOCUMENTATI_V4.items():
+        sources.setdefault(cid, {'name': item['name'], 'source': 'CANALE_DOCUMENTATO_V4'})
 
     # Lotti progressivi: prima i canali gia' scoperti ma ancora da scansionare,
     # poi i podcast MAI controllati, infine gli aggiornamenti periodici.
     # Senza questo ordine, i ricontrolli ogni 14 giorni potrebbero impedire
     # di raggiungere le categorie piu' lontane della classifica.
+    def canale_nuovo_gia_documentato(cid, previous):
+        return (not previous or not previous.get('youtubeChannelId')) and (
+            cid in known_map or cid in CANALI_DOCUMENTATI_V4)
+
     def order(index_item):
         index, (cid, _) = index_item
         previous = state['shows'].get(cid)
         if previous and previous.get('status') == 'DA_SCANSIONARE':
             return (0, str(previous.get('lastAttempt', '')), index)
-        if (previous and previous.get('status') == 'SENZA_CANALE_VERIFICABILE'
-                and previous.get('discoveryRevision', 0) < DISCOVERY_REVISION):
-            return (1, str(previous.get('lastAttempt', '')), index)
+        if canale_nuovo_gia_documentato(cid, previous):
+            return (1, '', index)
+        # Non riprovare immediatamente 40 fallimenti: esploriamo prima i nuovi.
         if not previous:
             return (2, '', index)
-        return (3, str(previous.get('lastAttempt', '')), index)
+        if (previous and previous.get('status') == 'SENZA_CANALE_VERIFICABILE'
+                and previous.get('discoveryRevision', 0) < DISCOVERY_REVISION):
+            return (3, str(previous.get('lastAttempt', '')), index)
+        return (4, str(previous.get('lastAttempt', '')), index)
 
     todo = [item for _, item in sorted(enumerate(sources.items()), key=order)]
     logs = []
@@ -584,6 +661,7 @@ def main():
     youtube_success = []
     youtube_reports = []
     riesaminati = 0
+    canali_documentati_scansionati = 0
     stopped_for_time = False
     for cid, listing in todo:
         if time.monotonic() - start_monotonic > MAX_RUN_SECONDS:
@@ -600,7 +678,7 @@ def main():
                 'source': 'videos.json',
             }
             continue
-        if not status_due(previous, conf):
+        if not status_due(previous, conf) and not canale_nuovo_gia_documentato(cid, previous):
             continue
         if examined >= conf['maxShowsPerRun']:
             break
@@ -619,6 +697,12 @@ def main():
             if cid in known_map:
                 cid_channel = known_map[cid]['youtubeChannelId']
                 record.update({'youtubeChannelId': cid_channel, 'channelProof': 'CONFIGURAZIONE_PREESISTENTE'})
+            if not cid_channel and cid in CANALI_DOCUMENTATI_V4:
+                doc = CANALI_DOCUMENTATI_V4[cid]
+                cid_channel = resolve_channel(doc['youtubeUrl'])
+                record.update({'youtubeChannelId': cid_channel,
+                               'channelProof': 'CANALE_DOCUMENTATO_V4: ' + doc['proof'],
+                               'youtubeSourceUrl': doc['sourceUrl']})
             if not cid_channel:
                 apple_show_data = apple_show(cid, conf['country'])
                 record['name'] = apple_show_data['name']
@@ -638,6 +722,8 @@ def main():
                 print('  Canale trovato; la scansione YouTube proseguirà nel prossimo lotto', flush=True)
             else:
                 youtube_scanned += 1
+                if cid in CANALI_DOCUMENTATI_V4:
+                    canali_documentati_scansionati += 1
                 # Scansione Apple + YouTube tramite l'algoritmo già verificato.
                 batch_entry = {'appleCollectionId': cid, 'name': record['name'],
                                'youtubeChannelId': cid_channel,
@@ -678,6 +764,7 @@ def main():
         'podcastUniciNellaCoda': len(sources) - len(excludes & sources.keys()),
         'podcastControllatiInQuestoLotto': examined,
         'canaliYoutubeControllatiInQuestoLotto': youtube_scanned,
+        'canaliDocumentatiV4Scansionati': canali_documentati_scansionati,
         'canaliYoutubeScansionatiConSuccesso': len(youtube_success),
         'trovatiSenzaCanaleVerificabile': sum(r['status'] == 'SENZA_CANALE_VERIFICABILE' for r in logs),
         'podcastRiesaminatiConRicercaMigliorata': riesaminati,
