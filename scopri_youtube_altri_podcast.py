@@ -196,54 +196,69 @@ def apple_lookup(collection_id, max_episodes):
     return out
 
 
+# Alcuni podcast archiviano le puntate nella scheda "Dirette" (/streams).
+# Scansioniamo solo le registrazioni pubbliche, mai gli Shorts.
+MAX_YOUTUBE_STREAMS = 120
+
+
 def youtube_channel(channel_id, max_videos, timeout=150):
+    """Elenco video standard + dirette registrate dallo STESSO canale ufficiale.
+
+    Il numero di upload ordinari e' quello configurato (massimo 250), mentre
+    per i livestream si legge un numero limitato per contenere i tempi di GH.
+    """
     if not ID_YT.fullmatch(channel_id):
         raise ValueError('ID canale non valido')
-    cmd = [sys.executable, '-m', 'yt_dlp', '--ignore-config', '--flat-playlist',
-           '--skip-download', '--dump-single-json', '--no-warnings',
-           '--playlist-end', str(max_videos), '--socket-timeout', '15',
-           '--retries', '1', '--extractor-retries', '1',
-           'https://www.youtube.com/channel/' + channel_id + '/videos']
-    try:
-        result = subprocess.run(cmd, capture_output=True, text=True,
-                                encoding='utf-8', errors='replace', timeout=timeout)
-    except subprocess.TimeoutExpired as exc:
-        raise RuntimeError('YouTube: tempo massimo superato') from exc
-    if result.returncode != 0:
-        raise RuntimeError('YouTube: ' + (result.stderr[-280:] or 'yt-dlp non riuscito'))
-    try:
-        data = json.loads(result.stdout)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError('Risposta YouTube non leggibile') from exc
-    if not isinstance(data, dict) or not isinstance(data.get('entries'), list):
-        raise ValueError('Elenco YouTube mancante')
-    actual = data.get('channel_id')
-    if actual and actual != channel_id:
-        raise ValueError('Canale YouTube non corrispondente a quello verificato')
-    root_id = data.get('id')
-    if (isinstance(root_id, str) and root_id.startswith(('UC', 'UU')) and len(root_id) == 24
-            and root_id not in {channel_id, 'UU' + channel_id[2:]}):
-        raise ValueError('ID del canale restituito inatteso')
+
     videos = []
     seen = set()
-    for item in data['entries']:
-        if not isinstance(item, dict):
-            continue
-        if item.get('channel_id') and item['channel_id'] != channel_id:
-            continue
-        vid = item.get('id')
-        title = item.get('title')
-        if not isinstance(vid, str) or not ID_VIDEO.fullmatch(vid) or vid in seen:
-            continue
-        if not isinstance(title, str) or not title.strip():
-            continue
-        seen.add(vid)
-        videos.append({'videoId': vid, 'title': title.strip(),
-                       'youtubeUrl': 'https://www.youtube.com/watch?v=' + vid,
-                       'duration': item.get('duration'),
-                       'uploadDate': item.get('upload_date') or item.get('release_date')})
+    problems = []
+    tabs = [('videos', max_videos), ('streams', min(MAX_YOUTUBE_STREAMS, max_videos))]
+    for tab, cap in tabs:
+        url = 'https://www.youtube.com/channel/' + channel_id + '/' + tab
+        cmd = [sys.executable, '-m', 'yt_dlp', '--ignore-config', '--flat-playlist',
+               '--skip-download', '--dump-single-json', '--no-warnings',
+               '--playlist-end', str(cap), '--socket-timeout', '15',
+               '--retries', '1', '--extractor-retries', '1', url]
+        try:
+            result = subprocess.run(cmd, capture_output=True, text=True,
+                                    encoding='utf-8', errors='replace',
+                                    timeout=max(45, timeout // 2))
+            if result.returncode:
+                raise RuntimeError('YouTube: ' + (result.stderr[-220:] or 'yt-dlp non riuscito'))
+            data = json.loads(result.stdout)
+            if not isinstance(data, dict) or not isinstance(data.get('entries'), list):
+                raise ValueError('Elenco YouTube mancante')
+            actual = data.get('channel_id')
+            if actual and actual != channel_id:
+                raise ValueError('Canale YouTube differente dal canale verificato')
+            root_id = data.get('id')
+            if (isinstance(root_id, str) and root_id.startswith(('UC', 'UU'))
+                    and len(root_id) == 24
+                    and root_id not in {channel_id, 'UU' + channel_id[2:]}):
+                raise ValueError('ID del canale restituito inatteso')
+            for item in data['entries']:
+                if not isinstance(item, dict):
+                    continue
+                if item.get('channel_id') and item['channel_id'] != channel_id:
+                    continue
+                if item.get('live_status') in ('is_live', 'is_upcoming'):
+                    continue
+                vid, title = item.get('id'), item.get('title')
+                if (not isinstance(vid, str) or not ID_VIDEO.fullmatch(vid)
+                        or vid in seen or not isinstance(title, str) or not title.strip()):
+                    continue
+                seen.add(vid)
+                videos.append({'videoId': vid, 'title': title.strip(),
+                               'youtubeUrl': 'https://www.youtube.com/watch?v=' + vid,
+                               'duration': item.get('duration'),
+                               'uploadDate': item.get('upload_date') or item.get('release_date')})
+        except (RuntimeError, ValueError, json.JSONDecodeError, subprocess.TimeoutExpired) as exc:
+            problems.append(tab + ': ' + str(exc)[:170])
     if not videos:
-        raise ValueError('Nessun video YouTube leggibile')
+        raise RuntimeError('Nessun video ufficiale leggibile. ' + '; '.join(problems))
+    if problems:
+        print('  AVVISO scansione parziale:', '; '.join(problems)[:260], flush=True)
     return videos
 
 
