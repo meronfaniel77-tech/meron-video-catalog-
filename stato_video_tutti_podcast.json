@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-04T08:50:10.336176+00:00",
+      "lastAttempt": "2026-11-04T13:15:37.433715+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -664,39 +664,39 @@
     },
     "1537596607": {
       "name": "Nova Lectio - Storie di Geopolitica",
-      "lastAttempt": "2026-11-04T08:51:47.069362+00:00",
+      "lastAttempt": "2026-11-04T13:15:14.258994+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCRCWJCFoZUvkkWzIqzfBy6g",
       "youtubeSourceUrl": "https://www.youtube.com/c/NovaLectio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6827654844": {
       "name": "BOM Voyage",
-      "lastAttempt": "2026-11-04T08:51:47.873476+00:00",
+      "lastAttempt": "2026-11-04T13:15:23.109380+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCrczK055BA5NP7AIpw-U-3Q",
       "youtubeSourceUrl": "https://www.youtube.com/@bomvoyageofficial",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1546749645": {
       "name": "Don Chisciotte",
-      "lastAttempt": "2026-11-04T08:51:50.851200+00:00",
+      "lastAttempt": "2026-11-04T13:15:24.331462+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
       "youtubeSourceUrl": "https://www.youtube.com/@DonChisciottePodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1291423644": {
       "name": "The Diary Of A CEO with Steven Bartlett",
-      "lastAttempt": "2026-11-04T08:52:15.151758+00:00",
+      "lastAttempt": "2026-11-04T13:15:28.744902+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
       "youtubeSourceUrl": "https://www.youtube.com/c/TheDiaryOfACEO",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1392985832": {
       "name": "Morgana",
@@ -780,6 +780,283 @@
       "lastAttempt": "2026-11-04T08:52:54.991791+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1868305324": {
+      "name": "I Podcast di Filosofia",
+      "lastAttempt": "2026-11-04T13:15:38.084081+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "SCANSIONATO"
+    },
+    "1853859399": {
+      "name": "Il podcast di Heloola",
+      "lastAttempt": "2026-11-04T13:15:44.522558+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1718258155": {
+      "name": "Bla Bla Blush",
+      "lastAttempt": "2026-11-04T13:15:44.945570+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1603639955": {
+      "name": "1984 - George Orwell",
+      "lastAttempt": "2026-11-04T13:15:48.073126+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1539229661": {
+      "name": "La storia dell'arte (spiegata facile)",
+      "lastAttempt": "2026-11-04T13:15:51.037255+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1506830291": {
+      "name": "Sherlock Holmes - Audiolibri",
+      "lastAttempt": "2026-11-04T13:15:56.171608+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1538698298": {
+      "name": "PDR - Il Podcast di Daniele Rielli",
+      "lastAttempt": "2026-11-04T13:15:59.071442+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCkwrzDcqyKYS4mU7f0Rufrg",
+      "status": "SCANSIONATO"
+    },
+    "1732000011": {
+      "name": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+      "lastAttempt": "2026-11-04T13:16:06.708754+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "SCANSIONATO"
+    },
+    "6817775001": {
+      "name": "Contorni",
+      "lastAttempt": "2026-11-04T13:16:13.101863+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1546010377": {
+      "name": "Il Maestro e Margherita - M. Bulgakov",
+      "lastAttempt": "2026-11-04T13:16:13.392831+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1568932617": {
+      "name": "Audiolibri H.P. Lovecraft",
+      "lastAttempt": "2026-11-04T13:16:20.095008+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "SCANSIONATO"
+    },
+    "1502945960": {
+      "name": "Audiolibro L'Isola Misteriosa - J. Verne",
+      "lastAttempt": "2026-11-04T13:16:25.867744+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "SCANSIONATO"
+    },
+    "1605347745": {
+      "name": "FAVOLANDIA - Fiabe, Storie Tradizionali, Leggende",
+      "lastAttempt": "2026-11-04T13:16:32.604918+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCtpdt1HrvHEs2I-9Eq4TzvQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@hypercaststudio",
+      "status": "SCANSIONATO"
+    },
+    "347663659": {
+      "name": "Storia dell'arte",
+      "lastAttempt": "2026-11-04T13:16:43.791465+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "84983267": {
+      "name": "Feltrinelli",
+      "lastAttempt": "2026-11-04T13:16:46.963871+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1692900475": {
+      "name": "Il Mondo Invisibile",
+      "lastAttempt": "2026-11-04T13:16:53.348688+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCuL5oCnno2qy0e3fq-eSu1A",
+      "youtubeSourceUrl": "https://www.youtube.com/@ilmondoinvisibilepodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "394775318": {
+      "name": "99% Invisible",
+      "lastAttempt": "2026-11-04T13:16:54.249592+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1593184705": {
+      "name": "Audiolibro Il Conte di Montecristo - Alexandre Dumas",
+      "lastAttempt": "2026-11-04T13:16:58.331283+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "DA_SCANSIONARE"
+    },
+    "1582119137": {
+      "name": "岩中花述",
+      "lastAttempt": "2026-11-04T13:17:00.886292+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1889457163": {
+      "name": "Trafug’Arte  - Sky Tg24",
+      "lastAttempt": "2026-11-04T13:17:04.300580+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1818782552": {
+      "name": "Kinghiana",
+      "lastAttempt": "2026-11-04T13:17:08.952634+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1812926355": {
+      "name": "Felici Pochi",
+      "lastAttempt": "2026-11-04T13:17:12.095459+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1095138637": {
+      "name": "The Magnus Archives",
+      "lastAttempt": "2026-11-04T13:17:14.602866+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCAfn5ahWLpQmCIN7D0E1YQg",
+      "youtubeSourceUrl": "https://www.youtube.com/@RustyQuill",
+      "status": "DA_SCANSIONARE"
+    },
+    "1818899887": {
+      "name": "Shakespeare a Palla",
+      "lastAttempt": "2026-11-04T13:17:18.578215+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1685445763": {
+      "name": "Bevoforte",
+      "lastAttempt": "2026-11-04T13:17:20.892169+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCObrLPS6a3oMnnYL5NyrxRA",
+      "youtubeSourceUrl": "https://www.youtube.com/@Bevoforte",
+      "status": "DA_SCANSIONARE"
+    },
+    "1814659485": {
+      "name": "Vedere voci",
+      "lastAttempt": "2026-11-04T13:17:22.981382+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCF0dvAZfYVJmL7R_uhVbeBg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/AdelphiEdizioni",
+      "status": "DA_SCANSIONARE"
+    },
+    "1556852270": {
+      "name": "Audiolibro Alle montagne della Follia - H.P. Lovecraft",
+      "lastAttempt": "2026-11-04T13:17:28.873306+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "DA_SCANSIONARE"
+    },
+    "1542266952": {
+      "name": "Il Ritratto di Dorian Gray 🎧 Audiolibro 🎧",
+      "lastAttempt": "2026-11-04T13:17:29.735644+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCEbExqa-4IN7ZI1HVfS57Hg",
+      "youtubeSourceUrl": "https://www.youtube.com/@la_musifavolista",
+      "status": "DA_SCANSIONARE"
+    },
+    "1770374897": {
+      "name": "La malattia dell'ostrica",
+      "lastAttempt": "2026-11-04T13:17:34.924801+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1818337291": {
+      "name": "Service95 Book Club With Dua Lipa",
+      "lastAttempt": "2026-11-04T13:17:39.482744+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCY_3wo8FmYeHkp9zoBPBWJA",
+      "youtubeSourceUrl": "https://www.youtube.com/@service95",
+      "status": "DA_SCANSIONARE"
+    },
+    "1680441411": {
+      "name": "Shelf. Il posto dei libri",
+      "lastAttempt": "2026-11-04T13:17:40.789555+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6784982671": {
+      "name": "Respiro del Tempo - storie di orologi",
+      "lastAttempt": "2026-11-04T13:17:46.409630+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoTZ8LLBibXqjj8RslKCdug",
+      "youtubeSourceUrl": "https://www.youtube.com/@RespirodelTempo",
+      "status": "DA_SCANSIONARE"
+    },
+    "1575895459": {
+      "name": "pordenonelegge.it - festa del libro e della libertà",
+      "lastAttempt": "2026-11-04T13:17:50.194724+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC6MJEVrJaH7khQKCY0fCv-w",
+      "youtubeSourceUrl": "https://www.youtube.com/user/pordenoneleggeit",
+      "status": "DA_SCANSIONARE"
+    },
+    "1540264168": {
+      "name": "Letture notturne",
+      "lastAttempt": "2026-11-04T13:17:52.543979+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: Remote end closed connection without response",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "120315179": {
+      "name": "The Book Review",
+      "lastAttempt": "2026-11-04T13:17:54.798514+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
       "status": "SENZA_CANALE_VERIFICABILE"
     }
   },

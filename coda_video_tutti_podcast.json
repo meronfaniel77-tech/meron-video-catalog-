@@ -1361,6 +1361,4246 @@
       },
       "sourceGeneratedAt": "2026-11-04T08:52:55.211635+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799467226",
+      "score": 108,
+      "record": {
+        "podcast": "BOM Voyage",
+        "episode": "Streghe a Triora: BOM Voyage ep.1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kL42j2aJnP0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Streghe a Triora: BOM Voyage ep.1",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "6827654844",
+        "youtubeChannelId": "UCrczK055BA5NP7AIpw-U-3Q",
+        "youtubeDurationSeconds": 2014
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793467160",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Conti senza margini: il DPFP certifica che l’Italia può programmare tutto, tranne la spesa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=up-Qv9Q5f4E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Conti senza margini: il DPFP certifica che l’Italia può programmare tutto, tranne la spesa",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4179
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792208396",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Eni fa il pieno di Stato: il prezzo calmierato arriva anche alla pompa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YOWkNmZkG1s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Eni fa il pieno di Stato: il prezzo calmierato arriva anche alla pompa",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4024
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791128344",
+      "score": 104,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il paradosso del Patto di Stabilità: se l’Italia taglia il deficit si guadagna il diritto di spenderne di più",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mJ7mjpJGPLo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Patto di Stabilità: se l’Italia taglia il deficit si guadagna il diritto di spenderne di più",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3760
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000789059005",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Proprietà privata, regole pubbliche: Bruxelles entra nelle case messe a reddito",
+        "youtubeUrl": "https://www.youtube.com/watch?v=as9dG7Vi_r4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Proprietà privata, regole pubbliche: Bruxelles entra nelle case messe a reddito",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4377
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000786523534",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Gulf of America, Lake America: l’impero del pennarello",
+        "youtubeUrl": "https://www.youtube.com/watch?v=l5-QibQJeJM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Gulf of America, Lake America: l’impero del pennarello",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3975
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000785792393",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il funerale del Woke: la bara è vuota e nessuno porta i fiori",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y32SszaeLYA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il funerale del Woke: la bara è vuota e nessuno porta i fiori",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3898
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777083023",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Ferrari: Parte da Maranello la rivincita dell’industria europea",
+        "youtubeUrl": "https://www.youtube.com/watch?v=omWUVOYm9NY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ferrari: Parte da Maranello la rivincita dell’industria europea",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4709
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000773446375",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La FED cambia rotta",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6WfCZttCP7Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La FED cambia rotta",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772970052",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La Rivincita dell’Iran e l’Umiliazione del Golfo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_Gp97eY5I5Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La Rivincita dell’Iran e l’Umiliazione del Golfo",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3912
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772378740",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "FIFA 2026: Il più grande spettacolo (digitale) del mondo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=C9fDvWicE54",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "FIFA 2026: Il più grande spettacolo (digitale) del mondo",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3525
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769654104",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "L'enciclica è res nova, ma non convince su dati, monopolio e lavoro.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZaUMyyjx5kw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'enciclica è res nova, ma non convince su dati, monopolio e lavoro.",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3352
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766780775",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il governo decide quanto costa casa tua",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BwgZV2Yz0xA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il governo decide quanto costa casa tua",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766449070",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il rapporto tra scienza e magistratura si è fermato a Garlasco.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y4YtdDmgAzE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il rapporto tra scienza e magistratura si è fermato a Garlasco.",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000763399743",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Troppo deficit, ma vorremmo farne ancora di più",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TjXNnYInln0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Troppo deficit, ma vorremmo farne ancora di più",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3760
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000762016382",
+      "score": 104,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "I numeri veri sugli effetti economici e fiscali della spesa per la difesa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ljOQkgtXaZU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Titolo: I numeri veri sugli effetti economici e fiscali della spesa per la difesa",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000761371888",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il controblocco di Trump: erratico o razionale?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=udEOz5fMPeI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il controblocco di Trump: erratico o razionale?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000760652006",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Quello che non si capisce delle condizioni della tregua USA e Iran",
+        "youtubeUrl": "https://www.youtube.com/watch?v=g1V-0gBln5Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Quello che non si capisce delle condizioni della tregua USA e Iran",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000759025810",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Numeri e impatti del fallimento nazionale nel calcio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CZ9q61cSKcA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Numeri e impatti del fallimento nazionale nel calcio.",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000758423010",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "L'ennesima imboscata fiscale retroattiva contro le imprese che investono in efficienza energetica",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ehfNMCSI6O4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'ennesima imboscata fiscale retroattiva contro le imprese che investono in efficienza energetica",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4045
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757069470",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Perché ha vinto il NO",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_Qq9IcZ4v2U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Perché ha vinto il NO",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 8590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000753639365",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "L'Italia è minacciata da questa guerra?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tY88DmcXfWU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'Italia è minacciata da questa guerra?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3853
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000752903095",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "A che cosa mirano davvero le bombe di Trump sull’Iran?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=g-SGR00u8Fg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "A che cosa mirano davvero le bombe di Trump sull’Iran?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3670
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751898330",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Trump attacca l'Unione",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZL1WPCwYcgc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Trump attacca l'Unione",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4784
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751213037",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "L'incertezza fa più male del dazio: gli effetti perversi del colpo di coda di Trump",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VAYLCPzoaAQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'incertezza fa più male del dazio: gli effetti perversi del colpo di coda di Trump",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3959
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750668258",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Bollette più basse con tasse più alte: che cosa prevede il decreto energia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=H2PphZ9m2R8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Bollette più basse con tasse più alte: che cosa prevede il decreto energia",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4225
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750153135",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Giovani costretti a vivere con la famiglia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zquXMIjO3Vc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Giovani costretti a vivere con la famiglia",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4014
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749621606",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Stellantis: Anatomia di una \"Confessione Industriale\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=17G4eGaZoSo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stellantis: Anatomia di una \"Confessione Industriale\"",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4237
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749106300",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La sintesi olimpica e industriale di Milano e Cortina",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AUPKAVlFth8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La sintesi olimpica e industriale di Milano e Cortina",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4451
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748256562",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "L'oro di Warsh. La reazione dei mercati al nuovo presidente della FED",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ya76Bki8T_0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'oro di Warsh. La reazione dei mercati al nuovo presidente della FED",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4281
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747399016",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "L'Italia in dissesto: idrogeologico e di cultura della protezione assicurativa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wdkklmpJklY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'Italia in dissesto: idrogeologico e di cultura della protezione assicurativa",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4002
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000746347594",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La sfida alla democrazia di Davos",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-V0p_MR-TlI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La sfida alla democrazia di Davos",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4024
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000746031481",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Chi paga i dazi di Trump?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1GOx9Q2uVro",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Chi paga i dazi di Trump?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3900
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000745565240",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Caro carrello e spesa alimentare degli italiani",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rIk2j3lzdjk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Caro carrello e spesa alimentare degli italiani",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4086
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744992547",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Fermate l'Internet, c'è il calcio online.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hi5PFAA20h8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Fermate l'Internet, c'è il calcio online.",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4237
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744126365",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Da Caracas a Nuuk, dall'Ucraina al Mercosur: sfide e opportunità per l'Italia e l'Europa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cKGcLfllqWY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Da Caracas a Nuuk, dall'Ucraina al Mercosur: sfide e opportunità per l'Italia e l'Europa",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3915
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743319195",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il Bilancio donchisciottesco del 2025",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7ppCsmNzBtw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il Bilancio donchisciottesco del 2025",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3650
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000742488874",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Un'Italia con 32 milioni di assistiti. E un welfare disfunzionale che fa aumentare i poveri.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vDf8nIBVhBk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Un'Italia con 32 milioni di assistiti. E un welfare disfunzionale che fa aumentare i poveri.",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3962
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000742007030",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il governo si vergogna di dire che taglierà (di poco) la spesa pensionistica",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RGG2zWQBE-s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il governo si vergogna di dire che taglierà (di poco) la spesa pensionistica",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4251
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741069774",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La UE congela gli asset finanziari della Banca Centrale Russa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jh6maWcok5U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La UE congela gli asset finanziari della Banca Centrale Russa",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4495
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000740440505",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La nuova strategia USA per la DIFESA e SICUREZZA",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9BPHDVHs70w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La nuova strategia USA per la DIFESA e SICUREZZA",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4053
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000739875350",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Scende lo spread con il Bund ma sale lo spread dell'analfabetismo economico",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cAEpjZATU9U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Scende lo spread con il Bund ma sale lo spread dell'analfabetismo economico",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4001
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000739540806",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il lento suicidio regolatorio dell'Europa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GENOef1IZdY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il lento suicidio regolatorio dell'Europa",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3613
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738302682",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Elezioni regionali amare per Meloni",
+        "youtubeUrl": "https://www.youtube.com/watch?v=uwSIdjRgbeY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Elezioni regionali amare per Meloni",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4531
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737838446",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Morire d'invidia della bolla",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QXzQbcR5DUY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Morire d'invidia della bolla",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3537
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737252511",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Ripensare l'orario di lavoro",
+        "youtubeUrl": "https://www.youtube.com/watch?v=18iy6S7WbHU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ripensare l'orario di lavoro",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4245
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736750784",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Le amare tangenti di Kiev",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kv3uG1TJMCU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Le amare tangenti di Kiev",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3712
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736260047",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "La bufala dei regali fiscali ai presunti \"ricchi\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZkU1wmRDae4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La bufala dei regali fiscali ai presunti \"ricchi\"",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4393
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735705224",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "MAMDANI sbanca New York City",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pi7Eq78NXY8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "MAMDANI sbanca New York City",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4402
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000734474342",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il Ponte è già \"sospeso\". Ma non sullo Stretto, alla Corte dei Conti",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iIvvDE0RgPk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il Ponte è già \"sospeso\". Ma non sullo Stretto, alla Corte dei Conti",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4264
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000733891884",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Milei ce l'ha fatta ancora",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-JfJqNg4LKk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Milei ce l'ha fatta ancora",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4551
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000733328977",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Ecco perché gli imprenditori giovani scappano all'estero",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IJ45OHcb9sI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ecco perché gli imprenditori giovani scappano all'estero",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4266
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732834499",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Il debito italiano sta su con la lacca. La surreale campagna pubblicitaria del MEF sul BTP Valore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SuvnfhhGdZU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il debito italiano sta su con la lacca. La surreale campagna pubblicitaria del MEF sul BTP Valore",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3980
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732315056",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Intelligenza artificiale per la produttività industriale",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wK-g4e1rUsg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Intelligenza artificiale per la produttività industriale",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4218
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000731815961",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Gaza: è possibile una pace senza una prospettiva di sostenbilità economica?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ylDrxazvbyI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Gaza: è possibile una pace senza una prospettiva di sostenbilità economica?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4273
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000729898144",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "SCIOPERI e MANIFESTAZIONI per Gaza: hanno senso?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pynfh8YsyAQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "SCIOPERI e MANIFESTAZIONI per Gaza: hanno senso?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3915
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000729533853",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Piano di Trump per GAZA: che cosa convince (e che cosa no)?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BY7CtinJSdY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Piano di Trump per GAZA: che cosa convince (e che cosa no)?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4281
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000728221454",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Perché l’Italia ha perso PRODUTTIVITÀ (e come uscirne)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CR4mBoxS2h4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Perché l’Italia ha perso PRODUTTIVITÀ (e come uscirne)",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4038
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000727575312",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "Startup e Venture Capital: perché l’Italia è indietro (e come può recuperare)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1q6A2wIlp7M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Startup e Venture Capital: perché l’Italia è indietro (e come può recuperare)",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4305
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000725922689",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "FRANCIA tra sfiducia politica e mercati: cosa sta succedendo?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tWSfsPaOeAs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "FRANCIA tra sfiducia politica e mercati: cosa sta succedendo?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 3492
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000720749499",
+      "score": 112,
+      "record": {
+        "podcast": "Don Chisciotte",
+        "episode": "I DAZI di TRUMP quando entrano in vigore?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IyZ6zLpktOE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "I DAZI di TRUMP quando entrano in vigore?",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1546749645",
+        "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+        "youtubeDurationSeconds": 4315
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796433193",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yePLuwL3FbM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Phone Addiction Scientist: Doing This Gives You An Hour Back Every Day! | Dr Sahar Yousef",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8095
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000795890178",
+      "score": 104,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Eric Weinstein: The Secret Alien Programs Nobody Is Talking About",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IkhmdTqSvJw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6778
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793184695",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Dana White: This Generation Thinks You Can Build A Business From Home, It's Impossible!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Q-DFC0AnbY4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Dana White: This Generation Thinks You Can Build A Business From Home, It's Impossible!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5292
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792511121",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Shawn Ryan: There's A Battle For Your Soul, It's Happening Right Now",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UQ3O04Wtqa4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Shawn Ryan: There's A Battle For Your Soul, It's Happening Right Now",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5982
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791404329",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Druski: They're Lying To You About Overnight Success!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UhzI1fg8rCA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Druski: They're Lying To You About Overnight Success!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6522
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788799351",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable",
+        "youtubeUrl": "https://www.youtube.com/watch?v=q2cg1gEYWJQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Vanessa Van Edwards: The Conversation Habit That Makes Smart People Unlikable",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8786
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000787575267",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MGxcosNuC8k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8208
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000785404599",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ppyt3MptX5k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Testosterone Expert: The Truth About DAD BOD & Why Women Find Fathers More Attractive!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5339
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000783070620",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Dr Andy Galpin: Why Weight Loss Is Easy but People Still Don't Do It",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dmz--DQty8o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7939
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000781369884",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin",
+        "youtubeUrl": "https://www.youtube.com/watch?v=g7AxxkywiFI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6786
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000780182439",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Top Bitcoin Holder: Ask AI To Do THIS, Stop Trying To Out-Work The Robots! | Michael Saylor",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1aGpJQ8BMLI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Top Bitcoin Holder: Ask AI To Do THIS, Stop Trying To Out-Work The Robots! | Michael Saylor",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5995
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000779045112",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Ray Dalio: I Predicted The 2008 Crash, I Know What Comes Next",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Bu0xNDLNORU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5417
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774645856",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HwVn3WMv5oI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Women’s Fitness Expert: What You NEED To Know About Dieting & Exercise | Dr. Stephanie Estima",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5708
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774144260",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Billionaire's WARNING: I'm SELLING. The Crash Is Already Here!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=32u5T6lO8qk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Billionaire's WARNING: I'm SELLING. The Crash Is Already Here!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6352
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772723812",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Creatine Expert: Creatine Is The Secret To Weight Loss",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Jk7RAkFN4vk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Creatine Expert: Creatine Is The Secret To Weight Loss",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 4533
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772156319",
+      "score": 103,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Archaeology WARNING:  They Secretly Found Antarctica 300 Years Before Us - Graham Hancock",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Xs94KBeIiAo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Graham Hancock: They May Have Secretly Found Antarctica  300 Years Before Us!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7000
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000770514890",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Tech Whistleblower: You Only Have 3 Years Left Before This Hits! - Mo Gawdat",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RwlgFC6S-OE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ex-Google Officer: You Only Have 3 Years Left Before It Hits! - Mo Gawdat",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7320
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768858559",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "World-Renowned Physicist: The Truth About Aliens! UFOs Are Definitely Robotic - Michio Kaku",
+        "youtubeUrl": "https://www.youtube.com/watch?v=opB7_JXL0LA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "World-Renowned Physicist: They Are Lying To You About UFOs & Reality - Michio Kaku",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5952
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768340474",
+      "score": 102,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Fatty Liver Expert: Your Liver Is Filling With Fat Right Now - Dr David Unwin",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zc8Nh4TMB1s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Fatty Liver Expert: The Toxic Ingredient Silently Filling Your Liver With Fat - Dr David Unwin",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7880
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767698231",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "UFO Roundtable: CIA Physicist Proves Aliens Exist",
+        "youtubeUrl": "https://www.youtube.com/watch?v=V-z0k5xu1hM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "UFO Roundtable: Former CIA Scientist Proves Aliens Exist!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5227
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000764635995",
+      "score": 100,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Money Expert: Buying A House Is A Mistake! Becoming Rich is Simple But You Won’t Do It!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jLFG_FZKbks",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stock Expert: Becoming Rich Is Simple, But You Won’t Do It!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6049
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000763196256",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=m-nnyNZ0TQ0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stanford Neuroscientist: Can’t Remember Your Dreams? Your Brain May Be Warning You!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5599
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000761037833",
+      "score": 106,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "The Iran War Expert: The Most Dangerous Stage Begins Now",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pDKlaJM_vys",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Iran War Expert: The Most Dangerous Stage Begins Now (STAGE 4)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5809
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000758149607",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PyhmvAL-iYw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 9590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757434212",
+      "score": 103,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "AI Whistleblower: We Are Being Gaslit By The AI Companies! They’re Hiding The Truth About AI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Cn8HBj8QAbk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "AI Whistleblower: We Are Being Gaslit By AI Companies, They’re Hiding The Truth! - Karen Hao",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7753
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000756702328",
+      "score": 106,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DnvWAP99r3Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8947
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000755513967",
+      "score": 102,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Daniel Priestley: Plumbers Will Earn More Than Lawyers! I Predicted 2008, Now I'm Warning About 2029",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fpETS6q1Hww",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Daniel Priestley: AI Will Make Plumbers Earn More Than Lawyers! (2029 PREDICTION)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7357
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000754800458",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "The Iran War Expert: I Simulated The Iran War for 20 Years. Here’s What Happens Next",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xcXfcXJvMXg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Iran War Expert: I Simulated The Iran War for 20 Years. Here’s What Happens Next",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5338
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000753955113",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nrwNSSyKuD4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "No.1 Christianity Expert: The Truth About Christianity! The Case For Jesus (Historian's Proof)",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8814
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749925123",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Brain Rot Emergency: These Internal Documents Prove They’re Controlling You!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EScgrk7oEwU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Brain Rot Emergency: These Internal Documents Prove They’re Controlling You!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8325
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748325689",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0t_DD5568RA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cognitive Decline Expert: The Disease That Starts in Your 30s but Kills You in Your 70s",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7483
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747656416",
+      "score": 104,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "I Met An Uncontacted Tribe: They Killed My Friend!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sR7S2Q3c04g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "I Met An Uncontacted Tribe: They Killed My Friend! (VIDEO PROOF)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 9944
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747136511",
+      "score": 106,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Early Retirement Expert: A House Vs Stocks, Here's The Truth!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=99xyy1nUpug",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Early Retirement Expert: A House Vs Stocks... (Here Is The Truth)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6577
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000746649187",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=w3dTmyZq4Qk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Microbiome Doctor: Doctors Were Wrong! The 3 Foods You Should Eat For Perfect Gut Health!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5920
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000746166043",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "The Man Warning The West: Trump Is Changing The World Behind The Scenes!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nJeU72Rgjh4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Man Warning The West: Trump Is Changing The World Behind The Scenes",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5726
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000745247666",
+      "score": 100,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Tony Robbins: No One Is Ready For What's Coming! Why The Next Decade Will Break People!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=I_w81rptxkc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tony Robbins: \"Honestly, No One Is Ready For What's Coming With AI.\"",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7240
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744763946",
+      "score": 103,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Passive Income Expert: Buying A House Makes You Poorer Than Renting! Crypto Isn't A Smart Investment",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FoeQUNASmTU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Passive Income Expert: Buying A House Makes You Poorer Than Renting!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8103
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744246976",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Top Insulin Expert: Insulin Is More Dangerous Than Sugar! This Will Strip Fat Faster Than Anything!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NyFSkGMWP5Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Insulin & Glucose Doctor: This Will Strip Your Fat Faster Than Anything!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 9831
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741310444",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Harvard’s Behaviour Expert: The Psychology Of Why People Don't Like You!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TYXzR5KahEg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Top Harvard Professor: The Psychology Of Why People Don't Like You!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 9094
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000740171790",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Passive Income Expert: How To Make 10k Per Month In 90 Days!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4QLWlcneJig",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Passive Income Expert: How To Make $10k Per Month In 90 Days!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7904
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738076411",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KVXnVe8eOkM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Insulin Doctor: This Is The First Sign Of Dementia! The Shocking Link Between Keto & Brain Decline!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6699
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737549061",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Kevin Hart: They're Lying To You About How To Become A Millionaire! I Was Doing 28 Sets A Weekend!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=5sCGZAcXKWg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Kevin Hart: They're Lying To You About How To Become A Millionaire! I Was Doing 28 Sets A Weekend!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5794
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737045389",
+      "score": 105,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Sleep Habit Increases Heart Disease 57%",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qxxnRMT9C-8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "World No.1 Sleep Expert: Magnesium Isn’t Helping You Sleep! This Habit Increases Heart Disease 57%!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8247
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736054842",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "The Woman Who Makes Millionaires: Only 1% of People Do This! The PPF Framework Will 10x Your Income!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VsTMXuIV3OM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Woman Who Makes Millionaires: Only 1% of People Do This! The PPF Framework Will 10x Your Income!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6341
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735514289",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "No.1 Brain Scientist: Your Brain Is Lying To You! Here's How I Discovered The Truth!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hQaN5w3YwtM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "No.1 Brain Scientist: Your Brain Is Lying To You! Here's How I Discovered The Truth!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5756
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000734169498",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Kamala Harris: America Is At Breaking Point & I'm Deeply Concerned About The State Of The Country!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=D3lhrrXb4WI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Kamala Harris: America Is At Breaking Point & I'm Deeply Concerned About The State Of The Country!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 6358
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000733086819",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Oz Pearlman (Mentalist): This Small Mistake Makes People Dislike You! They Do This, They’re Lying!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4qfxHfBJ3Mw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Oz Pearlman (Mentalist): This Small Mistake Makes People Dislike You! They Do This, They’re Lying!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 4768
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732601167",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Jürgen Klopp: Would You Go Back To Manage LFC...? The Real Reason I Fell In Love With Liverpool!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UMy6GESNkDc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jürgen Klopp: Would You Go Back To Manage LFC...? The Real Reason I Fell In Love With Liverpool!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 8906
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000730938704",
+      "score": 106,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Louis Tomlinson: \"The Room Was Cold That Day\". When The Police Knocked... I Just Knew",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lylGyddTiGg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Louis Tomlinson: When The Police Knocked... I Just Knew! \"The Room Was Cold That Day\".",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7101
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000730355829",
+      "score": 104,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Financial Expert: Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jFlnRBO8mcg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Savings Expert: Passive Income Is A Scam! Post-Traumatic Broke Syndrome Is Controlling Millions!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7630
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000727294114",
+      "score": 100,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Matthew McConaughey: The Silent Crisis No One Is Talking About! The Harsh Truth About Living Without Faith",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QMzxNfX-uAg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Matthew McConaughey: The Silent Crisis No One Is Talking About! I Sabotaged My Own Career!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7575
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000726852324",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XTGlde-Pbd8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "No.1 Money Saving Experts: Do Not Buy A House! Putting Money In A Bank Makes You Poorer!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7796
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000726013716",
+      "score": 112,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Ray Dalio: We’re Heading Into Very, Very Dark Times! America & The UK’s Decline Is Coming!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=49RT6SQ8n0Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ray Dalio: We’re Heading Into Very, Very Dark Times! America & The UK’s Decline Is Coming!",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5657
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000724933846",
+      "score": 102,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Roman Yampolskiy: These Are The Only 5 Jobs That Will Remain In 2030 & Proof We're Living In a Simulation!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UclrVWafRAI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The AI Safety Expert: These Are The Only 5 Jobs That Will Remain In 2030! - Dr. Roman Yampolskiy",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 5258
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000723833940",
+      "score": 102,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Former CIA Spies: \"The CIA Tried To Ban This Story!\" We're Leaving The US by 2030!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fu6bYPTp_kE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Former CIA Spies (NEW): Leave the USA Before 2030! The CIA Tried To Ban This Story!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 9150
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000723390181",
+      "score": 100,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Fat Burning Expert: The Real Reason You Can’t Lose Weight! PCOS, Menopause & Stubborn Belly Fat",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3C185Gkgg0U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Fat Burning Expert: The REAL Reason You’re Not Losing Belly Fat (and How To Fix It Fast!)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7590
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000720552607",
+      "score": 102,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Ex-Google Exec (Mo Gawdat) on AI: The Next 15 Years Will Be Hell Before We Get To Heaven… And Only These 5 Jobs Will Remain!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=S9a1nLw70p0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ex-Google Exec (WARNING): The Next 15 Years Will Be Hell Before We Get To Heaven! - Mo Gawdat",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 9252
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000719953283",
+      "score": 102,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Top Psychologist & Scientist (Donald Hoffman): Science Has the Answer to Why Seeing True Reality Would Kill You!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=W0vTZrZny6A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Top Psychologist, Donald Hoffman: Seeing True Reality Would Kill Us! I Can Prove It To You!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 7263
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000719453074",
+      "score": 101,
+      "record": {
+        "podcast": "The Diary Of A CEO with Steven Bartlett",
+        "episode": "Anti-Aging Expert on How Missing This Vitamin Is As Bad As Smoking, and What You Should Know About Creatine!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JCTb3QSrGMQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Anti-Aging Expert: Missing This Vitamin Is Like Smoking! The Truth About Creatine! - Rhonda Patrick",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1291423644",
+        "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "youtubeDurationSeconds": 10729
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744759241",
+      "score": 112,
+      "record": {
+        "podcast": "I Podcast di Filosofia",
+        "episode": "L’Anello di Gige – Il Potere dell’Invisibilità - Podcast di Filosofia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YsCECsUej6s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L’Anello di Gige – Il Potere dell’Invisibilità | Podcast di Filosofia",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1868305324",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 744
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751920295",
+      "score": 102,
+      "record": {
+        "podcast": "I Podcast di Filosofia",
+        "episode": "Socrate e l’Immortalità dell’Anima – Il Fedone Spiegato",
+        "youtubeUrl": "https://www.youtube.com/watch?v=M-7iMXJIqpM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Socrate e l’Immortalità dell’Anima – Il Dialogo Finale di Platone Spiegato",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1868305324",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1207
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769531962",
+      "score": 104,
+      "record": {
+        "podcast": "I Podcast di Filosofia",
+        "episode": "IL SOLE come METAFORA del BENE | Platone",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xTYphiPcPKo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "IL SOLE come METAFORA del BENE | Platone e la Filosofia della Verità",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1868305324",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1495
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777771354",
+      "score": 103,
+      "record": {
+        "podcast": "I Podcast di Filosofia",
+        "episode": "La Nave dello Stato – Platone e il problema di chi dovrebbe governare",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Be6lEuRRiQQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "LA NAVE DELLO STATO di Platone – Chi dovrebbe davvero governare?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1868305324",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1338
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000787194456",
+      "score": 106,
+      "record": {
+        "podcast": "I Podcast di Filosofia",
+        "episode": "La Linea Divisa di Platone – I 4 Gradi della Conoscenza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TkVNUi40yrY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "LA LINEA DIVISA di PLATONE | I 4 Gradi della Conoscenza e la Verità",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1868305324",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1295
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797040378",
+      "score": 103,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR XTRA Lo Stregone – ANDREA MINUZ, GIOVANNA LUCARELLI DANIELE RIELLI @Spazio 7",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IVuygxNLFVU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR XTRA The Sorcerer – ANDREA MINUZ, GIOVANNA LUCARELLI DANIELE RIELLI @Spazio 7",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3089
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796265231",
+      "score": 103,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR 128 COME APRIRE UNA LIBRERIA (E NON FALLIRE) con VITTORIO GRAZIANI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=INh8x1yI5ec",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "(Full, abbonati sostenitori) PDR 128 COME APRIRE UNA LIBRERIA (E NON FALLIRE) con VITTORIO GRAZIANI",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 9227
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000785763556",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR 124 Chi controlla la cultura in Italia? con ANDREA MINUZ (versione Free)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pQ_GZzWZKU0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR 124 Chi controlla la cultura in Italia? con ANDREA MINUZ (versione Free)",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7686
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000780001813",
+      "score": 100,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR 123 Avv. Massimiliano Dona. Guida estiva del consumatore: rimborsi per voli cancellati, spiagge libere e molto altro (Versione free)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IGyR8QlrToI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "(Completo) PDR 123 Avvocato Dona: Guida del consumatore: voli cancellati, spiagge e molto altro",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7495
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000755738175",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR 113  È davvero tutta colpa del neoliberismo?  – ALBERTO MINGARDI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-zZf8J6ZIzs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR 113 - È DAVVERO TUTTA COLPA DEL NEOLIBERISMO? Con ALBERTO MINGARDI",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7501
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743458074",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #108 CARLO PALLAVICINO: Ci chiamavano sciacalli",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KYGlTmXWv7Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #108 CARLO PALLAVICINO: Confessions of a Football Agent",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5692
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741969223",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #107 Claudio Giunta: Guida definitiva alla Divina Commedia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=oFnD5nW0Hr0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #107 CLAUDIO GIUNTA: Guida definitiva alla Divina Commedia",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 8368
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000739660460",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #106 ROBERTA LIPPI (Love Bombing): \"Nella mente di guru, profeti e manipolatori\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BtBFDTrOeKg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #106 ROBERTA LIPPI \"Come funziona la mente di un manipolatore?\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7719
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737766383",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #105 RICCARDO SPADA (The Bull): Perchè gli Italiani capiscono poco di finanza e qualche consiglio pratico.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Y0tVBxp__kg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #105 RICCARDO SPADA (The Bull): The mistake Italians make with their money",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4886
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735529551",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #104 FABIO MACALUSO Vita da manager bipolare",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vatRi9NDiOI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #104 FABIO MACALUSO: My Life with Bipolar Disorder",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5797
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000730944734",
+      "score": 104,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #102 GIPI: Cosa c'era nella cassetta nera?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LyHXTGaGeNw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #102 GIPI: Cose che ho fatto da giovane e che non rifarei",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7110
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000728356443",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR STREGA II - ANNA FOA: Il suic*dio di Israele e la distruzione di G*za.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2znH-TbCKpk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR STREGA II - ANNA FOA: Il suic*dio di Israele e la distruzione di G*za",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4343
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000727286943",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #101 GIORGIO BUONANNO: L'errore clamoroso nella gestione della pandemia.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aqpCcRjlX04",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #101 GIORGIO BUONANNO: The glaring error in the management of the pand*mic",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7144
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000721896969",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #99 ANTONIO TALIA: Caccia al più grande narcotrafficante del mondo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6OeIngmLpz8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #99 ANTONIO TALIA - The hunt for the world's biggest trafficker.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5928
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000719946293",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #98 PIERO TRELLINI - I misteri della Renault 4 di Aldo Moro",
+        "youtubeUrl": "https://www.youtube.com/watch?v=A4d52AlKgWw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #98 PIERO TRELLINI - I misteri della Renault 4 di Aldo Moro",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5176
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000715435331",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #97 SILVIA BENCIVELLI - Perché sempre più persone non hanno fiducia nella scienza?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KKEdRAtxYs8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #97 SILVIA BENCIVELLI - Perché crediamo alle bufale scientifiche?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7489
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713383889",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #96 GIORGIO VALLORTIGARA: la verità non serve a sopravvivere",
+        "youtubeUrl": "https://www.youtube.com/watch?v=uZLYthtGffY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #96 GIORGIO VALLORTIGARA: Non sempre la verità è utile alla sopravvivenza",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7389
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000710961316",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #95 STEFANO BOLLANI: Leonardo da Vinci, musica e alieni.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=usnzjn4YfIg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #95 STEFANO BOLLANI: Leonardo da Vinci, music and aliens.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5871
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000706467447",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #93 FILOSOFIA COATTA (Giulio Armeni): Il Re dei Meme",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NYaCcm9tRnw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #93 FILOSOFIA COATTA (Giulio Armeni): Il Re dei Meme",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6163
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000704398044",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #92 PIERO GENOVESI: I politici erano stati avvisati che gli orsi in Trentino potevano uccidere",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TO1vVCTJJgY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #92 PIERO GENOVESI. Orsi, lupi e granchi blu: Specie aliene e reintrodotte, i rischi per l'uomo",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6582
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000702664342",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #91 NICOLA LAGIOIA: Salone del Libro, IA e psichedelici",
+        "youtubeUrl": "https://www.youtube.com/watch?v=20aL4UC6EEQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #91 NICOLA LAGIOIA: Cosa resta dell’umanità?Coscienza, Intelligenza artificiale e arte",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6827
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000700702453",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #90 ROBERTO TADDEO: Guida definitiva al Mostro di Firenze",
+        "youtubeUrl": "https://www.youtube.com/watch?v=X6HAOXrv8cw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #90 ROBERTO TADDEO \"Guida definitiva al Mostro di Firenze\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 11450
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000649014311",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "GIANUMBERTO ACCINELLI: Storie incredibili di animali e di insetti",
+        "youtubeUrl": "https://www.youtube.com/watch?v=E0DocXI3E-I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR#64 GIANUMBERTO ACCINELLI: Storie incredibili di animali e di insetti",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6114
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000644200951",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #62 GIUSEPPE CAPROTTI: La guerra per l'Esselunga - \"Succession \"all'italiana",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Dq3BkPbwSCI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #62 GIUSEPPE CAPROTTI: La guerra per l'Esselunga - \"Succession\" all'italiana.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6401
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000643163118",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #61 EMANUELE TREVI - Il figlio del mago",
+        "youtubeUrl": "https://www.youtube.com/watch?v=oO5rZlUqlYU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #61 EMANUELE TREVI - Il figlio del mago",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7975
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000640882493",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #60 FILIPPO GIARDINA: Il veterano della stand up comedy italiana",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GjLQddXQyLE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #60 FILIPPO GIARDINA - The Veteran of Italian Stand-Up Comedy",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6322
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000639031454",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #59 YASMINA PANI: \"Il linguaggio non è patriarcale\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iFYDiqga9Bk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #59 YASMINA PANI: \"Language is NOT patriarchal\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6286
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000637531147",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #58 FABIO VOLO: \"Libri, radio e sciamani: alla ricerca del senso della vita\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ApIYiJ31GRc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #58 FABIO VOLO: \"Books, radio, shamans: the search for happiness\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4630
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000635031268",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #57 “FRANCESCO COSTA SPIEGATO BENE”",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CtuLyj31G2M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #57 \"FRANCESCO COSTA explained well\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5477
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000633080503",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #56 GIPI \"Ad attaccarmi sono stati quelli che credevo amici\".",
+        "youtubeUrl": "https://www.youtube.com/watch?v=c_VW7IfNb1E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #56 GIPI \"Ad attaccarmi sono stati quelli che credevo amici\".",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 8530
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000631584668",
+      "score": 104,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #55 GIACOMO PORETTI \"Con 30 mila lire ce l'hanno fatta meglio\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_v6eQloMoiU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #55 GIACOMO PORETTI: \"They made it better for 30,000 lire\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4282
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000629860409",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #54 ANTONIO PASCALE: \"Contro i motivatori: elogio del pessimismo\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dPWQy66l6Xs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #54 ANTONIO PASCALE: \"In Praise of Pessimism\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4131
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000628175868",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #53 EDOARDO PESCE: da Tor Bella Monaca a HBO",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2T_hloIia8I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #53 EDOARDO PESCE: From Tor Bella Monaca to TV Series",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3845
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000626618963",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #52 Giuseppe \"MANDRAKE\" Ninno : \"Come creo i miei personaggi\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sDFUyYcyt2E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #52 Giuseppe \"MANDRAKE\" Ninno : \"Come ho creato la famiglia IMBARAZZI\"",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3619
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000624392207",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #51 ROCCO TANICA “da Super Giovane all’intelligenza artificiale” live@rocAntica",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eiWcEN4U8B0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #51 ROCCO TANICA. \"From Supergiovane to Artificial Intelligence\" live@RocAntica",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6424
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000614746852",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #50 ROBERTO DEFEZ: La verità scientifica su biodinamico, omeopatia e Ogm.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=A7_dhgpmMdY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #50 ROBERTO DEFEZ la verità scientifica su biodinamico, Ogm e omeopatia",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 8101
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000611432563",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #49 FRANCESCO MONTANARI - \"Quando ero l'ottavo re di Roma\".",
+        "youtubeUrl": "https://www.youtube.com/watch?v=K6Odlswzlx0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #49 FRANCESCO MONTANARI: \"Quando ero l'ottavo re di Roma\".",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6215
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000608304231",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #48 IL FUOCO INVISIBILE: la vera storia della strage degli ulivi. Daniele Rielli e Amedeo Balbi live a Studio 33",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lKp_zMsbI-I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #48 IL FUOCO INVISIBILE: la vera storia della strage degli ulivi. Daniele Rielli e Amedeo Balbi",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5429
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000604619039",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #47 GERO ARNONE La vita della mia ex tutto sommato non è male",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sBKutLDgVu0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #47 GERO ARNONE La vita della mia ex tutto sommato non è male",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6056
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000602630108",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #46 DANIELE TINTI - Fare stand up comedy in Italia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TJ5zeinaGV8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #46 DANIELE TINTI- Fare stand up comedy in Italia",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4252
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000601406680",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #45 ROBERTO MERCADINI - La storia della mela, della Gioconda e della bomba atomica.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=h6Zr-yCUdVI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #45 ROBERTO MERCADINI - La storia della mela, della Gioconda e della bomba atomica.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3684
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000600306499",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #44 Come nasce la guerra in Ucraina? - Con Francesco Dalmazio Casini di ALISEO",
+        "youtubeUrl": "https://www.youtube.com/watch?v=w-lMsVO3MyQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #44 \"Come nasce la guerra in Ucraina?\" – con Francesco Dalmazio Casini di ALISEO",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6983
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000591186137",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #43 L’uomo che è stato in tutti i Paesi del mondo: Flavio Ferrari Zumbini",
+        "youtubeUrl": "https://www.youtube.com/watch?v=H9fmNPlkCnQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #43 L’uomo che è stato in tutti i Paesi del mondo: Flavio Ferrari Zumbini",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 10746
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000581894637",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #41 WANNA MARCHI con Alessandro Garramone",
+        "youtubeUrl": "https://www.youtube.com/watch?v=28eQHuxuHU0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #41 \"WANNA\" con Alessandro Garramone",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4423
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000569504120",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #38 FRANCESCO LETTIERI - Cinema, Calcutta, Liberato e la trap",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DoXAxprr3TU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #38 FRANCESCO LETTIERI - Cinema, Calcutta, Liberato e la trap",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6828
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000566077363",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #37 FRANCESCO TARGHETTA - Poesia, lavoro, realtà.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AkyLR2uwwpA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #37 FRANCESCO TARGHETTA - Poesia, lavoro, realtà.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5325
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000562151858",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #36 IRENE GRAZIOSI - La morale degli influencer",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Kfa-7xsb51E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #36 IRENE GRAZIOSI - La morale degli influencer",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4076
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000559464527",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #35 RAFFAELE MAURO: La nuova corsa allo Spazio.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-PTp9XxOzSE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #35 Raffaele Mauro: The new space race.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6664
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000558127406",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #34 CLAUDIO GIUNTA: La scuola, l'educazione civica e Fantozzi.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=b6VkFxM8PnY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #34 CLAUDIO GIUNTA - School, civics, and Fantozzi.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6444
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000531367920",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #32 LASCIA STARE LA GALLINA live in Lecce",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gcvvlFhd4-Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #32 LASCIA STARE LA GALLINA live in LECCE",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3708
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000523988324",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #31 WALTER SITI - Contro la letteratura impegnata",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RuJztt2dxWk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #31 - WALTER SITI: Against committed literature",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4807
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000523988325",
+      "score": 104,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #30 LUCA BARCELLONA - Scrivere a mano nell’era dei social",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hQ9aH4Qh3aQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #30: LUCA BARCELLONA - Professione calligrafo",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 8811
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000523988327",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #29 CHIARA BARZINI - VIVERE IN CALIFORNIA",
+        "youtubeUrl": "https://www.youtube.com/watch?v=maenYjU0jFQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #29 CHIARA BARZINI - VIVERE IN CALIFORNIA",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3785
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000523988326",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR#28 FABRIZIO GATTI - LA CINA, L'ITALIA E IL COVID storia di un'epidemia che si poteva evitare",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bKnY_34fFr4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR#28: LA CINA, L'ITALIA E IL COVID  storia di un'epidemia che si poteva evitare con FABRIZIO GATTI",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6882
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000519506233",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #27 GIORGIO VALLORTIGARA – Cervello e coscienza fra animali e uomini.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QgzNpbH7Xr4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #27 GIORGIO VALLORTIGARA: Il cervello umano e quello animale.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6534
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000517377962",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #26 FABIO MARTINI: La fabbrica delle verità",
+        "youtubeUrl": "https://www.youtube.com/watch?v=daGZoUXMIEE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #26 FABIO MARTINI The propaganda machine: history of the media in Italy",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5180
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000516401015",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #25 GABRIELE FERRARESI: Trash e macchine veloci",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2vJ7gKzQ448",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #25 GABRIELE FERRARESI: Italian Trash Manual",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4543
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000515450519",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #24 VITALIANO TREVISAN - Il lavoro, la provincia, la vita.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7UE98YybOdo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #24 - VITALIANO TREVISAN - Il lavoro, la provincia, la vita.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4536
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000514430614",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #23 SUPREMAZIA QUANTISTICA - con SIMONE SEVERINI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-ldzSScvep8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #23 SUPREMAZIA QUANTISTICA - con SIMONE SEVERINI",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7007
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000513673249",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #22 - I SEGRETI DI \"SANPA\" con PAOLO BERNARDELLI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IUOp7Ke4wLU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #22 I SEGRETI DI \"SANPA\" con PAOLO BERNARDELLI",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6429
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000512658922",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #21 GUIA SONCINI - L'era della suscettibilità",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8wsreRBYXzY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #21 GUIA SONCINI - L'era della suscettibilità",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4567
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000511687635",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #20 ROBERTO RECCHIONI - Non cancellate le storie",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Nk3PPBU-tKg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #20 ROBERTO RECCHIONI - Non cancellate le storie.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 8377
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000510739375",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #19 WALTER VELTRONI - Il primo personal computer era italiano e altre storie.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=E0Cbrzhwg-U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #19 WALTER VELTRONI - Il primo personal computer era italiano.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4207
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000508713294",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #17 DOMENICO STARNONE - Basta il talento per fare l'artista?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lFl1i255AnQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #17 DOMENICO STARNONE - Is talent enough to be an artist?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6449
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000507828521",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #16 LUCA RAVENNA: La comicità ha dei limiti?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ezXXAQbFNU8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #16 LUCA RAVENNA: La comicità ha dei limiti?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7264
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000506976129",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #15 - GIANMARCO POZZECCO - Una vita clamorosa.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=93D6MEHF4us",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #15 GIANMARCO POZZECCO: Una vita clamorosa.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5322
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000506171740",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #14 STEFANO FELTRI: Il potere delle piattaforme, censura, Cerbero e fare un giornale oggi.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aIX3YgH7Lis",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #14 STEFANO FELTRI: Il potere delle piattaforme, censura e Cerbero",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 3452
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000505425359",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #13 ANNA ZAFESOVA - RUSSIA: Putin, gli oligarchi e il ribelle Navalny.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_bTihgXr7sQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #13 ANNA ZAFESOVA - RUSSIA: Putin, the oligarchs, and the rebel Navalny.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6364
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000504615424",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #12 AMEDEO BALBI - Viviamo in una simulazione?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=apW-q2refJQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #12 AMEDEO BALBI - Viviamo in una simulazione?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 9349
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000503960814",
+      "score": 110,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #11 EMANUELE FELICE - Perchè il Sud è più povero?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8h0Pg_3jwvQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #11 EMANUELE FELICE - perchè il Sud è più povero?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 5994
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000503399978",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #10 - IL TURISTA ESTREMO - FLAVIO FERRARI ZUMBINI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9SOTS7LS9Jc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #10 IL TURISTA ESTREMO - FLAVIO FERRARI ZUMBINI",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 9323
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000502676682",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #9 LUCA BIZZARRI -Il rischio di realizzare i propri sogni.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YOwqmO1iSh4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #9 LUCA BIZZARRI - Il rischio di realizzare i propri sogni",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4384
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000502153108",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #8 AGNESE CODIGNOLA - Lsd, ketamina e vaccini.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=utzmzYYZl-M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #8 AGNESE CODIGNOLA - Rinascimento psichedelico",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7269
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000501250530",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #7 LUCA RICOLFI - Quanto dura la società signorile di massa?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=n5-Oe9Qaslk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #7 LUCA RICOLFi - Quanto può durare la società signorile di massa?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7959
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000500489206",
+      "score": 106,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #6 NICOLÒ MELLI - Giocare nella NBA.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LC04gwf-sZk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #6 NICOLÒ MELLI - Playing in the NBA.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4629
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000499688196",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #5 BEATRICE MAUTINO- Cos'è naturale e cosa no? OGM, Cosmetici e la scienza ai tempi del Covid.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AZqBK5IKTdE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #5 BEATRICE MAUTINO - \"Cos'è naturale e cosa no?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7285
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000499015639",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #4 LUCIANO CAPONE - Storia del M5S da antisistema a Ka$ta (cit.).",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TJX4Y2TM51M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #4 LUCIANO CAPONE - Storia del M5S da antisistema a Ka$ta (cit.).",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 7295
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000498472287",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #3 OLIVIERO BERGAMINI- L’America dopo Trump",
+        "youtubeUrl": "https://www.youtube.com/watch?v=L-8O0zjR4SA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #3 OLIVIERO BERGAMINI - Gli Stati Uniti dopo Trump.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 4203
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000497953628",
+      "score": 112,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #2 NICOLA LAGIOIA - Roma e il delitto Varani.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FNSvlXBtrK8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #2 NICOLA LAGIOIA - Il delitto Varani e Roma.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 6734
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000497139201",
+      "score": 108,
+      "record": {
+        "podcast": "PDR - Il Podcast di Daniele Rielli",
+        "episode": "PDR #1 GIPI - Crescere negli anni del vittimismo.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=S1uZA8nEWAQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PDR #1 GIPI - Crescere nell'età del vittimismo.",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1538698298",
+        "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
+        "youtubeDurationSeconds": 8408
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000648554794",
+      "score": 112,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "Mitologia Greca 03 - Audiolibro I miti degli eroi parte 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-vqGpDt1Or4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mitologia Greca 03 - Audiolibro I miti degli eroi parte 2",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 2240
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000650801745",
+      "score": 112,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "Mitologia Greca 05 - Gli eroi della guerra di Troia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VMR3qRzd7PQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mitologia Greca 05 - Gli eroi della guerra di Troia",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1273
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738838449",
+      "score": 102,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "Le 12 Fatiche di Eracle – Audiolibro Completo | Mitologia Greca",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OJ5suC7oiRQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Le 12 fatiche di Eracle – Audiolibro Mitologia Greca (Narrazione Epica)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 2730
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741734428",
+      "score": 106,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "Il Minotauro e il Labirinto di Creta – Mito Greco (Audiolibro)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ArUbkd3PxOU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il Minotauro e il Labirinto di Creta – Mito Greco | Audiolibro Italiano",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1649
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000745384433",
+      "score": 112,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "Persefone e l’Oltretomba: il Segreto della Vita e della Morte",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TpZKZKgNCG0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Persefone e l’Oltretomba: il Segreto della Vita e della Morte",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 2013
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769428672",
+      "score": 112,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "ATALANTA – La Cacciatrice Invincibile della Mitologia Greca | Epica e Leggenda",
+        "youtubeUrl": "https://www.youtube.com/watch?v=P4NyNbM1OKk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ATALANTA – La Cacciatrice Invincibile della Mitologia Greca | Epica e Leggenda",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1147
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000784402504",
+      "score": 112,
+      "record": {
+        "podcast": "Mitologia Greca – Audiolibri, Miti ed Eroi",
+        "episode": "PERSEO – L’Eroe che Sconfisse Medusa | Mitologia Greca",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ky1xoysaZ6A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PERSEO – L’Eroe che Sconfisse Medusa - Mitologia Greca",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-04T13:17:57.045506+00:00",
+        "appleCollectionId": "1732000011",
+        "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+        "youtubeDurationSeconds": 1472
+      },
+      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }
