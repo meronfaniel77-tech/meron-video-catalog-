@@ -11,10 +11,12 @@
     },
     "1616476688": {
       "name": "Indagini",
-      "lastAttempt": "2026-11-04T08:29:29.643596+00:00",
-      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
-      "status": "SENZA_CANALE_VERIFICABILE",
-      "discoveryRevision": 3
+      "lastAttempt": "2026-11-04T08:50:00.117580+00:00",
+      "channelProof": "CANALE_DOCUMENTATO_V4: Canale Indagini: descrizione ufficiale Il Post / Stefano Nazzi",
+      "status": "SCANSIONATO",
+      "discoveryRevision": 4,
+      "youtubeChannelId": "UCm6hxoiPOykrgjVG8y6wY3g",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCm6hxoiPOykrgjVG8y6wY3g"
     },
     "1642167995": {
       "name": "Non hanno un amico",
@@ -102,10 +104,12 @@
     },
     "1775666184": {
       "name": "SUPERNOVA",
-      "lastAttempt": "2026-11-04T08:30:02.445535+00:00",
-      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
-      "status": "SENZA_CANALE_VERIFICABILE",
-      "discoveryRevision": 3
+      "lastAttempt": "2026-11-04T08:50:03.873200+00:00",
+      "channelProof": "CANALE_DOCUMENTATO_V4: Link al canale riportato nella descrizione delle puntate SUPERNOVA",
+      "status": "SCANSIONATO",
+      "discoveryRevision": 4,
+      "youtubeChannelId": "UCm8v8cj_Y9oXIOHo8McJTdA",
+      "youtubeSourceUrl": "https://choramedia.com/podcast/supernova/"
     },
     "1591647170": {
       "name": "Lo Zoo di 105",
@@ -237,10 +241,11 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-04T08:30:52.030071+00:00",
+      "lastAttempt": "2026-11-04T08:50:10.336176+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
-      "status": "SENZA_CANALE_VERIFICABILE",
-      "discoveryRevision": 3
+      "status": "ERRORE",
+      "discoveryRevision": 4,
+      "lastError": "YouTube: ERROR: [youtube:tab] @decore_podcast/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n"
     },
     "1624729929": {
       "name": "Rame",
@@ -493,6 +498,289 @@
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
       "status": "SCANSIONATO"
+    },
+    "1511551427": {
+      "name": "Storia in Podcast",
+      "lastAttempt": "2026-11-04T08:50:10.920293+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCcAff8iLU7m4FXeyta_fIbQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/focusitvideo",
+      "status": "SCANSIONATO"
+    },
+    "6825042769": {
+      "name": "Quello che il potere non dice",
+      "lastAttempt": "2026-11-04T08:50:18.839345+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6816897498": {
+      "name": "The Bull Playbook",
+      "lastAttempt": "2026-11-04T08:50:19.332403+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6816875625": {
+      "name": "Mappe. Capire il mondo",
+      "lastAttempt": "2026-11-04T08:50:22.344810+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1482972353": {
+      "name": "Mitologia: le meravigliose storie del mondo antico",
+      "lastAttempt": "2026-11-04T08:50:29.343034+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCbRZLgwT37437fYK4YYKhXQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCbRZLgwT37437fYK4YYKhXQ",
+      "status": "SCANSIONATO"
+    },
+    "1658343376": {
+      "name": "GURULANDIA",
+      "lastAttempt": "2026-11-04T08:50:32.086673+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1691855830": {
+      "name": "Fuori Da Qui",
+      "lastAttempt": "2026-11-04T08:50:33.955699+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1711012571": {
+      "name": "Miti da sfatare",
+      "lastAttempt": "2026-11-04T08:50:39.539580+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1558665560": {
+      "name": "Le news di Sky Tg 24",
+      "lastAttempt": "2026-11-04T08:50:40.777067+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1552722290": {
+      "name": "Dentro alla filosofia",
+      "lastAttempt": "2026-11-04T08:50:45.238977+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1561208999": {
+      "name": "Globally - La geopolitica spiegata in modo chiaro",
+      "lastAttempt": "2026-11-04T08:50:46.266472+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1708921578": {
+      "name": "Tressessanta",
+      "lastAttempt": "2026-11-04T08:50:52.801043+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCnD_bmUNQE-ya_xOmoiaHUA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCnD_bmUNQE-ya_xOmoiaHUA",
+      "status": "SCANSIONATO"
+    },
+    "290890570": {
+      "name": "2024",
+      "lastAttempt": "2026-11-04T08:50:56.962103+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "SCANSIONATO"
+    },
+    "127782776": {
+      "name": "Deejay Chiama Italia",
+      "lastAttempt": "2026-11-04T08:51:05.043189+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "SCANSIONATO"
+    },
+    "262026989": {
+      "name": "Learning English Conversations",
+      "lastAttempt": "2026-11-04T08:51:15.434546+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1823679448": {
+      "name": "Dentro il mistero",
+      "lastAttempt": "2026-11-04T08:51:15.775231+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UC60cne6i4dsubXTWxWkbUBQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@fabiosanvitale-criminiemisteri",
+      "status": "SCANSIONATO"
+    },
+    "1839917426": {
+      "name": "Crime Scene Podcast",
+      "lastAttempt": "2026-11-04T08:51:23.350304+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1544996218": {
+      "name": "Direful Tales",
+      "lastAttempt": "2026-11-04T08:51:27.715213+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCNBK91hUYkR2WDLwFvflSHQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@ladireful",
+      "status": "SCANSIONATO"
+    },
+    "1546146233": {
+      "name": "Love bombing - Storie di manipolazione",
+      "lastAttempt": "2026-11-04T08:51:31.764510+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1275152867": {
+      "name": "Il Caffettino di Mario Moroni",
+      "lastAttempt": "2026-11-04T08:51:32.025200+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCZtJSW0X3_I45ZyU6x4GCGg",
+      "youtubeSourceUrl": "https://www.youtube.com/@ilcaffettino-podcast",
+      "status": "SCANSIONATO"
+    },
+    "1603246523": {
+      "name": "KATIA",
+      "lastAttempt": "2026-11-04T08:51:43.709545+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1537596607": {
+      "name": "Nova Lectio - Storie di Geopolitica",
+      "lastAttempt": "2026-11-04T08:51:47.069362+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCRCWJCFoZUvkkWzIqzfBy6g",
+      "youtubeSourceUrl": "https://www.youtube.com/c/NovaLectio",
+      "status": "DA_SCANSIONARE"
+    },
+    "6827654844": {
+      "name": "BOM Voyage",
+      "lastAttempt": "2026-11-04T08:51:47.873476+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCrczK055BA5NP7AIpw-U-3Q",
+      "youtubeSourceUrl": "https://www.youtube.com/@bomvoyageofficial",
+      "status": "DA_SCANSIONARE"
+    },
+    "1546749645": {
+      "name": "Don Chisciotte",
+      "lastAttempt": "2026-11-04T08:51:50.851200+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UC3DsjI9qH2YOLVHNgVLyn2g",
+      "youtubeSourceUrl": "https://www.youtube.com/@DonChisciottePodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1291423644": {
+      "name": "The Diary Of A CEO with Steven Bartlett",
+      "lastAttempt": "2026-11-04T08:52:15.151758+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/TheDiaryOfACEO",
+      "status": "DA_SCANSIONARE"
+    },
+    "1392985832": {
+      "name": "Morgana",
+      "lastAttempt": "2026-11-04T08:52:16.478551+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1779458186": {
+      "name": "Nera",
+      "lastAttempt": "2026-11-04T08:52:18.532058+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1679913234": {
+      "name": "PENSIERO STUPENDO di Barbasophia",
+      "lastAttempt": "2026-11-04T08:52:22.157108+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1896175944": {
+      "name": "Non Ho Voglia di Leggere",
+      "lastAttempt": "2026-11-04T08:52:25.142208+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6825282458": {
+      "name": "Meramera - One Piece pezzo per pezzo",
+      "lastAttempt": "2026-11-04T08:52:29.651174+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1676929022": {
+      "name": "Comodino",
+      "lastAttempt": "2026-11-04T08:52:30.749095+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1690118522": {
+      "name": "Timbuctu",
+      "lastAttempt": "2026-11-04T08:52:36.993565+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1625109236": {
+      "name": "Voce ai libri - Intesa Sanpaolo On Air",
+      "lastAttempt": "2026-11-04T08:52:39.645684+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1294113498": {
+      "name": "Caffè Design",
+      "lastAttempt": "2026-11-04T08:52:42.501753+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1856558667": {
+      "name": "Discorsi in Osteria con Cesare Battisti",
+      "lastAttempt": "2026-11-04T08:52:43.889740+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1454385938": {
+      "name": "Copertina",
+      "lastAttempt": "2026-11-04T08:52:46.991427+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6811075082": {
+      "name": "Parla Piano",
+      "lastAttempt": "2026-11-04T08:52:54.991791+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
     }
   },
   "chartShows": {
