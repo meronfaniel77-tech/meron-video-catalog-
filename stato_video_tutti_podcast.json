@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-04T16:29:07.660359+00:00",
+      "lastAttempt": "2026-11-04T20:39:29.854979+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -1166,21 +1166,21 @@
     },
     "1714779047": {
       "name": "I podcast dell'Ateneo Veneto di Venezia",
-      "lastAttempt": "2026-11-04T16:29:56.191871+00:00",
+      "lastAttempt": "2026-11-04T20:39:12.407961+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCwMadr5bP7l18eDJiU6u59Q",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCwMadr5bP7l18eDJiU6u59Q",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1795041669": {
       "name": "Busy Teacher Podcast - The Best Books Reviews",
-      "lastAttempt": "2026-11-04T16:30:00.764821+00:00",
+      "lastAttempt": "2026-11-04T20:39:17.722691+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCZsUdy5HZJSr6D04fRTk--w",
       "youtubeSourceUrl": "https://www.youtube.com/@BusyProfessionall",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1859963290": {
       "name": "The New Society | culture from the New Statesman",
@@ -1233,12 +1233,12 @@
     },
     "1502945828": {
       "name": "Audiolibro 20000 Leghe sotto i mari - Jules Verne",
-      "lastAttempt": "2026-11-04T16:30:29.985350+00:00",
+      "lastAttempt": "2026-11-04T20:39:22.653963+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCpcVVWx3PKxJQD4ZzofSkMQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1768794307": {
       "name": "Fashion Neurosis with Bella Freud",
@@ -1264,6 +1264,270 @@
     "1749941505": {
       "name": "Sulla Nostalgia",
       "lastAttempt": "2026-11-04T16:30:42.585991+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1880043885": {
+      "name": "Anatomia di una lettura",
+      "lastAttempt": "2026-11-04T20:39:30.584780+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1502945947": {
+      "name": "Audiolibro Dracula - Bram Stoker",
+      "lastAttempt": "2026-11-04T20:39:33.298002+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "status": "SCANSIONATO"
+    },
+    "1770521697": {
+      "name": "Cose (molto) preziose",
+      "lastAttempt": "2026-11-04T20:39:40.781470+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1846387770": {
+      "name": "Dracula",
+      "lastAttempt": "2026-11-04T20:39:47.625504+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1439599078": {
+      "name": "Art and Talk - Il podcast dell'arte",
+      "lastAttempt": "2026-11-04T20:39:50.488780+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1750436622": {
+      "name": "Zerocalcare, tra virgolette",
+      "lastAttempt": "2026-11-04T20:39:57.459453+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
+      "youtubeSourceUrl": "https://www.youtube.com/@IlPostVideo",
+      "status": "SCANSIONATO"
+    },
+    "932498963": {
+      "name": "The Food Chain",
+      "lastAttempt": "2026-11-04T20:40:04.350339+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1374190347": {
+      "name": "The Waterstones Podcast",
+      "lastAttempt": "2026-11-04T20:40:05.451379+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1480160737": {
+      "name": "Audiolibri in Italiano",
+      "lastAttempt": "2026-11-04T20:40:07.977082+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1671669052": {
+      "name": "Tetragrammaton with Rick Rubin",
+      "lastAttempt": "2026-11-04T20:40:12.817215+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1895528293": {
+      "name": "Ciak e Sipario",
+      "lastAttempt": "2026-11-04T20:40:17.133826+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1585402834": {
+      "name": "Notre-Dame de Paris - V. Hugo",
+      "lastAttempt": "2026-11-04T20:40:21.137199+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "256945396": {
+      "name": "The New Yorker: Fiction",
+      "lastAttempt": "2026-11-04T20:40:21.568300+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1876049295": {
+      "name": "The Book Club",
+      "lastAttempt": "2026-11-04T20:40:25.023663+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1558992665": {
+      "name": "Il Salone presenta Albert Camus - \"La peste\" di Albert Camus",
+      "lastAttempt": "2026-11-04T20:40:27.758006+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6810230830": {
+      "name": "Volti di carta",
+      "lastAttempt": "2026-11-04T20:40:32.996838+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1661401108": {
+      "name": "Daniel Defoe – Audiolibro Storie di Pirati",
+      "lastAttempt": "2026-11-04T20:40:35.803364+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "SCANSIONATO"
+    },
+    "1536324130": {
+      "name": "Storia del teatro con Paolo Bosisio",
+      "lastAttempt": "2026-11-04T20:40:43.841168+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6789148656": {
+      "name": "Come inizia, e come finisce l'Odissea",
+      "lastAttempt": "2026-11-04T20:40:46.139034+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
+      "youtubeSourceUrl": "https://www.youtube.com/@IlPostVideo",
+      "status": "SCANSIONATO"
+    },
+    "1866163660": {
+      "name": "Enciclopedia di PK",
+      "lastAttempt": "2026-11-04T20:40:53.360386+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1108992116": {
+      "name": "The Glossy Podcast",
+      "lastAttempt": "2026-11-04T20:40:53.904543+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1546481589": {
+      "name": "Manzoni: I promessi sposi",
+      "lastAttempt": "2026-11-04T20:40:56.957374+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1483329097": {
+      "name": "Storie dal Giappone",
+      "lastAttempt": "2026-11-04T20:41:02.057570+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1502945961": {
+      "name": "Audiolibro Un canto di Natale - C. Dickens",
+      "lastAttempt": "2026-11-04T20:41:04.948866+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "status": "SCANSIONATO"
+    },
+    "1589448795": {
+      "name": "Gli Audiolibri Di Alexis",
+      "lastAttempt": "2026-11-04T20:41:11.675830+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1588851851": {
+      "name": "Orecchie e Segnalibri",
+      "lastAttempt": "2026-11-04T20:41:12.272361+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1765189781": {
+      "name": "كنوز السيرة للشيخ عثمان الخميس",
+      "lastAttempt": "2026-11-04T20:41:16.808525+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1809772659": {
+      "name": "Illumina Show",
+      "lastAttempt": "2026-11-04T20:41:18.737921+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1651156027": {
+      "name": "POV il podcast",
+      "lastAttempt": "2026-11-04T20:41:24.139857+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1887115770": {
+      "name": "Sabatalk",
+      "lastAttempt": "2026-11-04T20:41:24.960105+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "360084272": {
+      "name": "The Joe Rogan Experience",
+      "lastAttempt": "2026-11-04T20:41:29.520904+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1772574222": {
+      "name": "More Touchy Show",
+      "lastAttempt": "2026-11-04T20:41:30.576879+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1583132133": {
+      "name": "The Weekly Show with Jon Stewart",
+      "lastAttempt": "2026-11-04T20:41:33.914328+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCQlJ7XpBtiMLKNSd4RAJmRQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@weeklyshowpodcast",
+      "status": "SCANSIONATO"
+    },
+    "1566132743": {
+      "name": "Tyranny",
+      "lastAttempt": "2026-11-04T20:41:41.563801+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1418960261": {
+      "name": "Call Her Daddy",
+      "lastAttempt": "2026-11-04T20:41:43.978318+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1697425543": {
+      "name": "Smosh Reads Reddit Stories",
+      "lastAttempt": "2026-11-04T20:41:46.250738+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
