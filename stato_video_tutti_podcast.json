@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-04T13:15:37.433715+00:00",
+      "lastAttempt": "2026-11-04T16:29:07.660359+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -901,12 +901,12 @@
     },
     "1692900475": {
       "name": "Il Mondo Invisibile",
-      "lastAttempt": "2026-11-04T13:16:53.348688+00:00",
+      "lastAttempt": "2026-11-04T16:28:14.476962+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCuL5oCnno2qy0e3fq-eSu1A",
       "youtubeSourceUrl": "https://www.youtube.com/@ilmondoinvisibilepodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "394775318": {
       "name": "99% Invisible",
@@ -917,12 +917,12 @@
     },
     "1593184705": {
       "name": "Audiolibro Il Conte di Montecristo - Alexandre Dumas",
-      "lastAttempt": "2026-11-04T13:16:58.331283+00:00",
+      "lastAttempt": "2026-11-04T16:28:20.869127+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
       "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1582119137": {
       "name": "岩中花述",
@@ -954,12 +954,12 @@
     },
     "1095138637": {
       "name": "The Magnus Archives",
-      "lastAttempt": "2026-11-04T13:17:14.602866+00:00",
+      "lastAttempt": "2026-11-04T16:28:30.050271+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCAfn5ahWLpQmCIN7D0E1YQg",
       "youtubeSourceUrl": "https://www.youtube.com/@RustyQuill",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1818899887": {
       "name": "Shakespeare a Palla",
@@ -970,39 +970,39 @@
     },
     "1685445763": {
       "name": "Bevoforte",
-      "lastAttempt": "2026-11-04T13:17:20.892169+00:00",
+      "lastAttempt": "2026-11-04T16:28:37.002331+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCObrLPS6a3oMnnYL5NyrxRA",
       "youtubeSourceUrl": "https://www.youtube.com/@Bevoforte",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1814659485": {
       "name": "Vedere voci",
-      "lastAttempt": "2026-11-04T13:17:22.981382+00:00",
+      "lastAttempt": "2026-11-04T16:28:39.730265+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCF0dvAZfYVJmL7R_uhVbeBg",
       "youtubeSourceUrl": "https://www.youtube.com/user/AdelphiEdizioni",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1556852270": {
       "name": "Audiolibro Alle montagne della Follia - H.P. Lovecraft",
-      "lastAttempt": "2026-11-04T13:17:28.873306+00:00",
+      "lastAttempt": "2026-11-04T16:28:41.647839+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
       "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1542266952": {
       "name": "Il Ritratto di Dorian Gray 🎧 Audiolibro 🎧",
-      "lastAttempt": "2026-11-04T13:17:29.735644+00:00",
+      "lastAttempt": "2026-11-04T16:28:47.229520+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCEbExqa-4IN7ZI1HVfS57Hg",
       "youtubeSourceUrl": "https://www.youtube.com/@la_musifavolista",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1770374897": {
       "name": "La malattia dell'ostrica",
@@ -1013,12 +1013,12 @@
     },
     "1818337291": {
       "name": "Service95 Book Club With Dua Lipa",
-      "lastAttempt": "2026-11-04T13:17:39.482744+00:00",
+      "lastAttempt": "2026-11-04T16:28:53.236310+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCY_3wo8FmYeHkp9zoBPBWJA",
       "youtubeSourceUrl": "https://www.youtube.com/@service95",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1680441411": {
       "name": "Shelf. Il posto dei libri",
@@ -1029,21 +1029,21 @@
     },
     "6784982671": {
       "name": "Respiro del Tempo - storie di orologi",
-      "lastAttempt": "2026-11-04T13:17:46.409630+00:00",
+      "lastAttempt": "2026-11-04T16:28:56.807654+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoTZ8LLBibXqjj8RslKCdug",
       "youtubeSourceUrl": "https://www.youtube.com/@RespirodelTempo",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1575895459": {
       "name": "pordenonelegge.it - festa del libro e della libertà",
-      "lastAttempt": "2026-11-04T13:17:50.194724+00:00",
+      "lastAttempt": "2026-11-04T16:28:58.762041+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC6MJEVrJaH7khQKCY0fCv-w",
       "youtubeSourceUrl": "https://www.youtube.com/user/pordenoneleggeit",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1540264168": {
       "name": "Letture notturne",
@@ -1057,6 +1057,215 @@
       "lastAttempt": "2026-11-04T13:17:54.798514+00:00",
       "discoveryRevision": 4,
       "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1609087462": {
+      "name": "Inside books",
+      "lastAttempt": "2026-11-04T16:29:08.283452+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1896768539": {
+      "name": "Letteratura Unplugged",
+      "lastAttempt": "2026-11-04T16:29:11.935928+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1548698493": {
+      "name": "Racconti di Luce - Storie di Fotografia",
+      "lastAttempt": "2026-11-04T16:29:12.314173+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1048375034": {
+      "name": "The History of Literature",
+      "lastAttempt": "2026-11-04T16:29:15.329332+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1854562735": {
+      "name": "Reading Ferdowsi فردوسی خوانی",
+      "lastAttempt": "2026-11-04T16:29:22.305889+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1675905662": {
+      "name": "Ritratti d'artiste",
+      "lastAttempt": "2026-11-04T16:29:24.896257+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1093570212": {
+      "name": "The New Yorker: The Writer's Voice - New Fiction from The New Yorker",
+      "lastAttempt": "2026-11-04T16:29:28.529551+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1581278303": {
+      "name": "Passione Fotografia",
+      "lastAttempt": "2026-11-04T16:29:29.242163+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1492163935": {
+      "name": "Marlon and Jake Read Dead People",
+      "lastAttempt": "2026-11-04T16:29:34.444551+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1680813484": {
+      "name": "গল্প এবং তত্ত্ব By Amrit Roy",
+      "lastAttempt": "2026-11-04T16:29:35.807947+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1860014648": {
+      "name": "Full Frontal",
+      "lastAttempt": "2026-11-04T16:29:40.239259+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1575085870": {
+      "name": "Delitto e Castigo - Audiolibro Completo",
+      "lastAttempt": "2026-11-04T16:29:44.209119+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "152548644": {
+      "name": "The Guardian UK Culture Podcast",
+      "lastAttempt": "2026-11-04T16:29:46.875136+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1665528119": {
+      "name": "Una foto, una storia",
+      "lastAttempt": "2026-11-04T16:29:48.975595+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1519832218": {
+      "name": "PENDENTE: Una rubrica di Cinema, letteratura, fumetti, racconti ed esperienze culturali",
+      "lastAttempt": "2026-11-04T16:29:53.719367+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1714779047": {
+      "name": "I podcast dell'Ateneo Veneto di Venezia",
+      "lastAttempt": "2026-11-04T16:29:56.191871+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCwMadr5bP7l18eDJiU6u59Q",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCwMadr5bP7l18eDJiU6u59Q",
+      "status": "DA_SCANSIONARE"
+    },
+    "1795041669": {
+      "name": "Busy Teacher Podcast - The Best Books Reviews",
+      "lastAttempt": "2026-11-04T16:30:00.764821+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCZsUdy5HZJSr6D04fRTk--w",
+      "youtubeSourceUrl": "https://www.youtube.com/@BusyProfessionall",
+      "status": "DA_SCANSIONARE"
+    },
+    "1859963290": {
+      "name": "The New Society | culture from the New Statesman",
+      "lastAttempt": "2026-11-04T16:30:01.639062+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1510088408": {
+      "name": "Gli scimmioni non leggono Nietzsche",
+      "lastAttempt": "2026-11-04T16:30:06.213130+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1650430956": {
+      "name": "Riso patate e cactus",
+      "lastAttempt": "2026-11-04T16:30:10.571281+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1537619229": {
+      "name": "کتاب صوتی ناصر زراعتی  - Ketab soti",
+      "lastAttempt": "2026-11-04T16:30:11.332637+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1842350566": {
+      "name": "Meraviglia - Intesa Sanpaolo On Air",
+      "lastAttempt": "2026-11-04T16:30:17.839854+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1591389169": {
+      "name": "Il Giocatore, F. Dostoevskij | Integrale",
+      "lastAttempt": "2026-11-04T16:30:24.549430+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1501406518": {
+      "name": "Design Addicted",
+      "lastAttempt": "2026-11-04T16:30:26.979704+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1502945828": {
+      "name": "Audiolibro 20000 Leghe sotto i mari - Jules Verne",
+      "lastAttempt": "2026-11-04T16:30:29.985350+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1768794307": {
+      "name": "Fashion Neurosis with Bella Freud",
+      "lastAttempt": "2026-11-04T16:30:31.419135+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "291975625": {
+      "name": "Poetry Lectures",
+      "lastAttempt": "2026-11-04T16:30:34.432970+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1546990420": {
+      "name": "Bookatini",
+      "lastAttempt": "2026-11-04T16:30:37.471609+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1749941505": {
+      "name": "Sulla Nostalgia",
+      "lastAttempt": "2026-11-04T16:30:42.585991+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
     }
   },
