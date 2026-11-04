@@ -29,6 +29,8 @@ import urllib.parse
 import urllib.request
 from collections import Counter
 from datetime import datetime, timedelta, timezone
+from html.parser import HTMLParser
+import unicodedata
 from pathlib import Path
 
 import scopri_youtube_altri_podcast as yt
@@ -58,6 +60,9 @@ MAX_READ_RSS_HEAD = 280 * 1024
 MAX_READ_APPLE = 3 * 1024 * 1024
 APPLE_MIN_INTERVAL = 3.1  # Documentazione Apple: circa 20 richieste al minuto
 LAST_APPLE_REQUEST = 0.0
+DISCOVERY_REVISION = 3
+MAX_INTERNAL_PAGES = 3  # non seguire un intero sito, solo pagine rilevanti
+MAX_RUN_SECONDS = 2700  # interrompe in sicurezza prima del timeout di GitHub Actions
 
 
 def now():
@@ -269,8 +274,93 @@ def apple_show(cid, country):
     raise ValueError('Podcast non trovato tramite lookup Apple')
 
 
+
+class InternalSiteLinks(HTMLParser):
+    """Estrae solo i link HTML del sito dichiarato nel feed Apple."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.links = []
+        self.anchor = None
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() == 'a':
+            href = dict(attrs).get('href')
+            self.anchor = {'href': href, 'label': []} if isinstance(href, str) else None
+
+    def handle_data(self, data):
+        if self.anchor is not None:
+            self.anchor['label'].append(data)
+
+    def handle_endtag(self, tag):
+        if tag.lower() == 'a' and self.anchor is not None:
+            self.links.append((self.anchor['href'], ' '.join(self.anchor['label'])))
+            self.anchor = None
+
+
+def simplify(s):
+    t = unicodedata.normalize('NFKD', str(s).casefold())
+    t = ''.join(ch for ch in t if not unicodedata.combining(ch))
+    return ' '.join(re.findall(r'[a-z0-9]+', t))
+
+
+def site_internal_pages(html_text, site_url, show_name, *, max_items=MAX_INTERNAL_PAGES):
+    """Seleziona poche pagine interne che parlano del podcast.
+
+    Evita links a domini esterni, http, file, redirect e media. Il controllo DNS
+    e dei redirect resta obbligatorio durante fetch_limited().
+    """
+    parser = InternalSiteLinks()
+    try:
+        parser.feed(html_text)
+    except (ValueError, TypeError):
+        return []
+    root = urllib.parse.urlsplit(site_url)
+    host = (root.hostname or '').lower().removeprefix('www.')
+    show_words = {w for w in simplify(show_name).split()
+                  if len(w) >= 4 and w not in {'podcast', 'della', 'dello', 'degli',
+                                              'delle', 'with', 'italiano', 'italiana',
+                                              'show', 'stories', 'story', 'radio'}}
+    generic = {'podcast', 'podcasts', 'video', 'youtube', 'canale', 'ascolta',
+               'trasmissione', 'programma', 'programmi', 'show', 'chi-siamo',
+               'about', 'contatti', 'episodes', 'episodi', 'puntate'}
+    relevant = []
+    seen = set()
+    for href, label in parser.links:
+        if not isinstance(href, str) or not href.strip():
+            continue
+        u = urllib.parse.urljoin(site_url, html.unescape(href.strip()))
+        try:
+            p = urllib.parse.urlsplit(u)
+            h = (p.hostname or '').lower().removeprefix('www.')
+            port = p.port
+        except ValueError:
+            continue
+        if p.scheme != 'https' or h != host or port not in (None, 443):
+            continue
+        path = p.path.rstrip('/') or '/'
+        if path == (root.path.rstrip('/') or '/'):
+            continue
+        if (re.search(r'\.(?:jpg|jpeg|webp|png|gif|pdf|mp3|mp4|m4a|zip|xml|rss|json)$', path, re.I)
+                or len(path) > 220 or path in seen):
+            continue
+        seen.add(path)
+        cues = set(simplify(path + ' ' + label).split())
+        matches = len(show_words & cues)
+        score = (7 if show_words and matches >= min(2, len(show_words)) else
+                 4 if matches else 1 if generic & cues else 0)
+        if score:
+            # Elimina query e fragment: non sono parte della prova di origine.
+            relevant.append((score, path, f'https://{p.netloc}{path}'))
+    relevant.sort(key=lambda item: (-item[0], len(item[1]), item[1]))
+    return [(score, url) for score, _, url in relevant[:max_items]]
+
+
 def choose_official_channel(show, *, get=fetch_limited):
-    """Solo link presenti nel feed indicato da Apple o dal sito indicato dal feed."""
+    """Canale ammesso SOLO se collegato direttamente dal feed/sito ufficiale.
+
+    V3: se l'homepage non lo espone, controlla poche pagine interne realmente
+    pertinenti al podcast. Mai usare ytsearch come prova di ufficialita'.
+    """
     feed_url = show.get('feedUrl') or ''
     if not public_https(feed_url):
         return None, 'FEED_NON_HTTPS_O_NON_PUBBLICO'
@@ -282,21 +372,39 @@ def choose_official_channel(show, *, get=fetch_limited):
         return direct[0], 'LINK_NEL_FEED_APPLE'
     if len(direct) > 1:
         return None, 'PIU_CANALI_YOUTUBE_NEL_FEED'
-    if site and public_https(site):
-        # Un link diretto al canale in <channel><link> e' la prova piu forte.
-        direct_site = extract_channels(site)
-        if len(direct_site) == 1:
-            return direct_site[0], 'LINK_PRINCIPALE_DEL_FEED'
-        try:
-            page_links = extract_channels(decode_markup(get(site, MAX_READ_SITE, 13)))
-        except (ValueError, OSError, urllib.error.URLError) as exc:
-            return None, 'SITO_INACCESSIBILE: ' + str(exc)[:110]
-        if len(page_links) == 1:
-            return page_links[0], 'LINK_SUL_SITO_INDICATO_DAL_FEED'
-        if len(page_links) > 1:
-            return None, 'PIU_CANALI_YOUTUBE_SUL_SITO'
-    return None, 'CANALE_YOUTUBE_NON_VERIFICABILE'
+    if not site or not public_https(site):
+        return None, 'CANALE_YOUTUBE_NON_VERIFICABILE'
+    # URL <channel><link> del feed: la sorgente e' scelta dal publisher.
+    direct_site = extract_channels(site)
+    if len(direct_site) == 1:
+        return direct_site[0], 'LINK_PRINCIPALE_DEL_FEED'
+    if len(direct_site) > 1:
+        return None, 'PIU_CANALI_YOUTUBE_NEL_LINK_PRINCIPALE'
+    try:
+        page_text = decode_markup(get(site, MAX_READ_SITE, 13))
+    except (ValueError, OSError, urllib.error.URLError) as exc:
+        return None, 'SITO_INACCESSIBILE: ' + str(exc)[:110]
+    found = extract_channels(page_text)
+    if len(found) == 1:
+        return found[0], 'LINK_SUL_SITO_INDICATO_DAL_FEED'
 
+    # I siti multi-podcast (editori e network) spesso espongono il canale solo
+    # nella pagina dedicata al singolo show, non sulla homepage.
+    for score, url in site_internal_pages(page_text, site, show.get('name', '')):
+        if not public_https(url):
+            continue
+        try:
+            internal_text = decode_markup(get(url, MAX_READ_SITE, 7))
+        except (ValueError, OSError, urllib.error.URLError):
+            continue
+        internal = extract_channels(internal_text)
+        if len(internal) == 1 and (len(found) == 0 or score >= 4):
+            # Se la homepage contiene vari canali, accettiamo solo una pagina
+            # specifica per il podcast e un link univoco al canale.
+            return internal[0], 'LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST'
+    if len(found) > 1:
+        return None, 'PIU_CANALI_YOUTUBE_SUL_SITO'
+    return None, 'CANALE_YOUTUBE_NON_VERIFICABILE'
 
 def resolve_channel(url, timeout=55):
     match = re.fullmatch('https://www.youtube.com/channel/(UC[A-Za-z0-9_-]{22})', url)
@@ -329,6 +437,10 @@ def status_due(saved, conf):
     if not saved:
         return True
     flag = saved.get('status')
+    # Dopo un miglioramento del rilevamento canali, riprova subito gli show
+    # rimasti senza canale con una vecchia versione del programma.
+    if flag == 'SENZA_CANALE_VERIFICABILE' and saved.get('discoveryRevision', 0) < DISCOVERY_REVISION:
+        return True
     if flag in {'SCANSIONATO', 'GIA_COPERTO_DAL_CATALOGO'}:
         days = conf['daysUntilRescan']
     elif flag in {'DA_SCANSIONARE', 'IN_ATTESA_DI_SCANSIONE'}:
@@ -405,6 +517,7 @@ def preview_batch(report, catalog, batch_conf):
 
 
 def main():
+    start_monotonic = time.monotonic()
     conf = load_obj(CONFIG_FILE, None)
     if not conf:
         raise ValueError('config_video_tutti_podcast.json assente')
@@ -457,9 +570,12 @@ def main():
         previous = state['shows'].get(cid)
         if previous and previous.get('status') == 'DA_SCANSIONARE':
             return (0, str(previous.get('lastAttempt', '')), index)
+        if (previous and previous.get('status') == 'SENZA_CANALE_VERIFICABILE'
+                and previous.get('discoveryRevision', 0) < DISCOVERY_REVISION):
+            return (1, str(previous.get('lastAttempt', '')), index)
         if not previous:
-            return (1, '', index)
-        return (2, str(previous.get('lastAttempt', '')), index)
+            return (2, '', index)
+        return (3, str(previous.get('lastAttempt', '')), index)
 
     todo = [item for _, item in sorted(enumerate(sources.items()), key=order)]
     logs = []
@@ -467,7 +583,13 @@ def main():
     youtube_scanned = 0
     youtube_success = []
     youtube_reports = []
+    riesaminati = 0
+    stopped_for_time = False
     for cid, listing in todo:
+        if time.monotonic() - start_monotonic > MAX_RUN_SECONDS:
+            stopped_for_time = True
+            print("Tempo massimo del lotto raggiunto: proseguo al prossimo avvio.", flush=True)
+            break
         if cid in excludes:
             continue
         previous = state['shows'].get(cid)
@@ -485,8 +607,12 @@ def main():
         examined += 1
         label = (previous or {}).get('name') or listing.get('name') or cid
         print(f'[{examined}/{conf["maxShowsPerRun"]}] {label} - Apple {cid}', flush=True)
+        if (previous and previous.get('status') == 'SENZA_CANALE_VERIFICABILE'
+                and previous.get('discoveryRevision', 0) < DISCOVERY_REVISION):
+            riesaminati += 1
         record = dict(previous or {})
-        record.update({'name': label, 'lastAttempt': iso_now()})
+        record.update({'name': label, 'lastAttempt': iso_now(),
+                       'discoveryRevision': DISCOVERY_REVISION})
         status = 'ERRORE'
         try:
             cid_channel = record.get('youtubeChannelId')
@@ -554,6 +680,9 @@ def main():
         'canaliYoutubeControllatiInQuestoLotto': youtube_scanned,
         'canaliYoutubeScansionatiConSuccesso': len(youtube_success),
         'trovatiSenzaCanaleVerificabile': sum(r['status'] == 'SENZA_CANALE_VERIFICABILE' for r in logs),
+        'podcastRiesaminatiConRicercaMigliorata': riesaminati,
+        'versioneRicercaCanali': DISCOVERY_REVISION,
+        'lottoFermatoPerTempo': stopped_for_time,
         'erroriInQuestoLotto': sum(r['status'] == 'ERRORE' for r in logs),
         'podcastGiaControllatiNelloStato': len(state['shows']),
         'candidatiFortiNuovoLotto': batch_report['totalStrongCandidates'],
