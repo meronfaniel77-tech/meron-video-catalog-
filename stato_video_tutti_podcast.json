@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-05T08:40:06.614478+00:00",
+      "lastAttempt": "2026-11-05T09:15:33.426776+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -1818,6 +1818,787 @@
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1738121304": {
+      "name": "The Lonely Island and Seth Meyers Podcast",
+      "lastAttempt": "2026-11-05T09:15:34.238225+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1574959588": {
+      "name": "Il meglio di Roberta Lanfranchi e Claudio Guerrini",
+      "lastAttempt": "2026-11-05T09:15:36.678526+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_AAZ5xh5OOpGTpFFN9pXCw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/radiords",
+      "status": "SCANSIONATO"
+    },
+    "1763891818": {
+      "name": "Moral Of The Story",
+      "lastAttempt": "2026-11-05T09:15:48.133766+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC0JJtK3m8pwy6rVgnBz47Rw",
+      "youtubeSourceUrl": "https://www.youtube.com/@rottenmangopod",
+      "status": "SCANSIONATO"
+    },
+    "1575227634": {
+      "name": "Gli scherzi di Tutti Pazzi per RDS",
+      "lastAttempt": "2026-11-05T09:15:55.472674+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_AAZ5xh5OOpGTpFFN9pXCw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/radiords",
+      "status": "SCANSIONATO"
+    },
+    "1585156719": {
+      "name": "Meksika Açmazı",
+      "lastAttempt": "2026-11-05T09:16:03.511568+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1459416319": {
+      "name": "Hablando Huevadas",
+      "lastAttempt": "2026-11-05T09:16:05.080720+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6825726142": {
+      "name": "No Bad Ideas with Max Fosh",
+      "lastAttempt": "2026-11-05T09:16:07.218881+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1839956282": {
+      "name": "Il Tavolo Vicino al Bagno",
+      "lastAttempt": "2026-11-05T09:16:11.560532+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCGHXbVQuk8T4N7O-_HKCf-g",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCGHXbVQuk8T4N7O-_HKCf-g",
+      "status": "SCANSIONATO"
+    },
+    "1547562090": {
+      "name": "TROIE RADICALI",
+      "lastAttempt": "2026-11-05T09:16:19.101239+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1480311435": {
+      "name": "Office Ladies",
+      "lastAttempt": "2026-11-05T09:16:21.509139+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCyH2woxtXfTzGtAM0wT-Ztg",
+      "youtubeSourceUrl": "https://www.youtube.com/@officeladiespod",
+      "status": "SCANSIONATO"
+    },
+    "6816956549": {
+      "name": "Door Friends",
+      "lastAttempt": "2026-11-05T09:16:26.050644+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC4OlWtoQQMUuwKXj_CoBQFQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@DoorFriends4",
+      "status": "SCANSIONATO"
+    },
+    "1705406600": {
+      "name": "رختکن بازنده‌ها",
+      "lastAttempt": "2026-11-05T09:16:28.179102+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1585652389": {
+      "name": "Poveri ma belli",
+      "lastAttempt": "2026-11-05T09:16:30.787337+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1683771307": {
+      "name": "L’Alba dei Pazzi Viventi su RDS",
+      "lastAttempt": "2026-11-05T09:16:39.290712+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_AAZ5xh5OOpGTpFFN9pXCw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/radiords",
+      "status": "SCANSIONATO"
+    },
+    "1573789434": {
+      "name": "Baz a Tutti Pazzi per RDS",
+      "lastAttempt": "2026-11-05T09:16:52.771064+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_AAZ5xh5OOpGTpFFN9pXCw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/radiords",
+      "status": "SCANSIONATO"
+    },
+    "6808625592": {
+      "name": "Croque Monsieur : Bérengère Krief et Elodie Petit du magazine ELLE mettent les stars à nu",
+      "lastAttempt": "2026-11-05T09:17:02.284563+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1766740666": {
+      "name": "La chronique de Guillaume Meurice",
+      "lastAttempt": "2026-11-05T09:17:03.257807+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1859956236": {
+      "name": "Take Me Späti",
+      "lastAttempt": "2026-11-05T09:17:05.812204+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCilPj7OLq4iTGYXTVc89E4A",
+      "youtubeSourceUrl": "https://www.youtube.com/@takemespaeti",
+      "status": "SCANSIONATO"
+    },
+    "1646013525": {
+      "name": "Femminismo Basico",
+      "lastAttempt": "2026-11-05T09:17:10.841969+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1867727505": {
+      "name": "Die Windschnur-Show",
+      "lastAttempt": "2026-11-05T09:17:13.740339+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] @windschnur_gufidaun/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "1464406768": {
+      "name": "The KoolPals",
+      "lastAttempt": "2026-11-05T09:17:17.194432+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_SbhS8Zw1bRzesOSdxLjnQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC_SbhS8Zw1bRzesOSdxLjnQ",
+      "status": "SCANSIONATO"
+    },
+    "1764933682": {
+      "name": "Give My Head Podcast",
+      "lastAttempt": "2026-11-05T09:17:27.409934+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1568480164": {
+      "name": "RESET by Mariana Cabral",
+      "lastAttempt": "2026-11-05T09:17:28.648200+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1437890365": {
+      "name": "The Morning Show",
+      "lastAttempt": "2026-11-05T09:17:33.534928+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC5dguvfat39H72D6H5bAmcg",
+      "youtubeSourceUrl": "https://www.youtube.com/@RadioGloboFM",
+      "status": "SCANSIONATO"
+    },
+    "1894957498": {
+      "name": "Occasionally Funny",
+      "lastAttempt": "2026-11-05T09:17:42.707984+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCBRbly2jda4RrcQEiihtDyQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@occasionallyfunnypodcast",
+      "status": "SCANSIONATO"
+    },
+    "1723626781": {
+      "name": "Therapuss with Jake Shane",
+      "lastAttempt": "2026-11-05T09:17:45.036018+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1632720199": {
+      "name": "Saade Aala Radio",
+      "lastAttempt": "2026-11-05T09:17:47.798662+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC2iOVDWKiddCPKN89wBUhGg",
+      "youtubeSourceUrl": "https://www.youtube.com/c/saadeaalaradio",
+      "status": "SCANSIONATO"
+    },
+    "1455818214": {
+      "name": "La Ruina",
+      "lastAttempt": "2026-11-05T09:17:56.647846+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "265799883": {
+      "name": "The Bugle",
+      "lastAttempt": "2026-11-05T09:17:59.708642+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCY9DZKa4SilQC4k9rhS3-5g",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCY9DZKa4SilQC4k9rhS3-5g",
+      "status": "SCANSIONATO"
+    },
+    "1560176558": {
+      "name": "My Therapist Ghosted Me",
+      "lastAttempt": "2026-11-05T09:18:07.538972+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCTE59E4Mntk-xI3qtMur-Ew",
+      "youtubeSourceUrl": "https://www.youtube.com/@mtgmpod",
+      "status": "SCANSIONATO"
+    },
+    "1536352412": {
+      "name": "Giggly Squad",
+      "lastAttempt": "2026-11-05T09:18:12.707293+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1895360346": {
+      "name": "Jimmy Carr: Crowd Work",
+      "lastAttempt": "2026-11-05T09:18:14.568617+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCf9BO33b-MnIxB5y0azrxmg",
+      "youtubeSourceUrl": "https://www.youtube.com/@jimmycarr",
+      "status": "SCANSIONATO"
+    },
+    "1458792155": {
+      "name": "La Cotorrisa",
+      "lastAttempt": "2026-11-05T09:18:22.909562+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1821737353": {
+      "name": "Wanging On with Graham Norton and Maria McErlane",
+      "lastAttempt": "2026-11-05T09:18:23.811344+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCUPFHPcMK9Fr7aoNMgQVr5Q",
+      "youtubeSourceUrl": "https://www.youtube.com/@WangingOn",
+      "status": "SCANSIONATO"
+    },
+    "1693139666": {
+      "name": "La Venganza Será Terrible (oficial)",
+      "lastAttempt": "2026-11-05T09:18:31.034358+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCtFxKxvNeKbEGGtzEugzXsQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@LaVenganzaRadio",
+      "status": "SCANSIONATO"
+    },
+    "1765600990": {
+      "name": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+      "lastAttempt": "2026-11-05T09:18:41.517251+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1767565594": {
+      "name": "Frühstück bei Barbara",
+      "lastAttempt": "2026-11-05T09:18:42.413495+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCqdtue_8yB7YEEQ_DJtnpYw",
+      "youtubeSourceUrl": "https://www.youtube.com/@barba_radio",
+      "status": "SCANSIONATO"
+    },
+    "1838423659": {
+      "name": "Joe and James Fact Up",
+      "lastAttempt": "2026-11-05T09:18:49.465206+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1852976329": {
+      "name": "Vizi A Parte...",
+      "lastAttempt": "2026-11-05T09:18:49.938011+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1603580035": {
+      "name": "肥话连篇",
+      "lastAttempt": "2026-11-05T09:18:56.293400+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1044196249": {
+      "name": "My Dad Wrote A Porno",
+      "lastAttempt": "2026-11-05T09:18:56.438495+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1135137367": {
+      "name": "The Tim Dillon Show",
+      "lastAttempt": "2026-11-05T09:18:59.799053+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC4woSp8ITBoYDmjkukhEhxg",
+      "youtubeSourceUrl": "https://www.youtube.com/@TimDillonShow",
+      "status": "SCANSIONATO"
+    },
+    "1768650748": {
+      "name": "Tell 'Em Steve Dave Omnibus",
+      "lastAttempt": "2026-11-05T09:19:10.432019+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] @Art1sResistance/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "1475075289": {
+      "name": "Dick & Doof",
+      "lastAttempt": "2026-11-05T09:19:12.400143+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "265307784": {
+      "name": "Friday Night Comedy from BBC Radio 4",
+      "lastAttempt": "2026-11-05T09:19:17.122649+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1381410803": {
+      "name": "Le barzellette di Mamma che ridere a Tutti Pazzi per RDS",
+      "lastAttempt": "2026-11-05T09:19:17.539267+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_AAZ5xh5OOpGTpFFN9pXCw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/radiords",
+      "status": "DA_SCANSIONARE"
+    },
+    "1884447473": {
+      "name": "KÜB Podcast",
+      "lastAttempt": "2026-11-05T09:19:21.939976+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "788141885": {
+      "name": "Il Podcast di PsiNel",
+      "lastAttempt": "2026-11-05T09:19:24.320513+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCsfXsaO28PnYOtwvEdpKKRg",
+      "youtubeSourceUrl": "https://www.youtube.com/c/PsiNel-GennaroRomagnoli",
+      "status": "DA_SCANSIONARE"
+    },
+    "1706799203": {
+      "name": "Educati e Finanziati",
+      "lastAttempt": "2026-11-05T09:19:30.146760+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCCnqSU06KXxGvPESASofSQA",
+      "youtubeSourceUrl": "https://www.youtube.com/@PaoloColetti",
+      "status": "DA_SCANSIONARE"
+    },
+    "1291980917": {
+      "name": "Learning English from the News",
+      "lastAttempt": "2026-11-05T09:19:31.646886+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1742967932": {
+      "name": "Learning Easy English",
+      "lastAttempt": "2026-11-05T09:19:33.568819+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1880405314": {
+      "name": "Fuori Stagione",
+      "lastAttempt": "2026-11-05T09:19:36.682713+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1535401964": {
+      "name": "Thinking in English",
+      "lastAttempt": "2026-11-05T09:19:44.513753+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCnWxuf5Rt9OcSt4AiviCe1A",
+      "youtubeSourceUrl": "https://www.youtube.com/@thinkinginenglishpodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1726947236": {
+      "name": "Learning English For Work",
+      "lastAttempt": "2026-11-05T09:19:45.963685+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "312059190": {
+      "name": "Luke's ENGLISH Podcast - Learn British English with Luke Thompson",
+      "lastAttempt": "2026-11-05T09:19:47.911613+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1080974028": {
+      "name": "Learning English Grammar",
+      "lastAttempt": "2026-11-05T09:19:51.223705+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1646101002": {
+      "name": "The Mel Robbins Podcast",
+      "lastAttempt": "2026-11-05T09:19:54.132639+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "925326414": {
+      "name": "Learning English Stories",
+      "lastAttempt": "2026-11-05T09:19:58.239608+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1036379102": {
+      "name": "Learning English Vocabulary",
+      "lastAttempt": "2026-11-05T09:20:00.514150+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1505603790": {
+      "name": "Simple English News Daily",
+      "lastAttempt": "2026-11-05T09:20:03.456904+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1849180145": {
+      "name": "FUORI DAL BUIO",
+      "lastAttempt": "2026-11-05T09:20:06.566635+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "958179457": {
+      "name": "Coffee Break Italian",
+      "lastAttempt": "2026-11-05T09:20:10.000620+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCZDHXN2rMFQ8wFaXHXyisTQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@languageadventurescb",
+      "status": "DA_SCANSIONARE"
+    },
+    "1896946554": {
+      "name": "Baciati dalla fortuna",
+      "lastAttempt": "2026-11-05T09:20:19.412311+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1482297423": {
+      "name": "Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern",
+      "lastAttempt": "2026-11-05T09:20:19.607144+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1231472946": {
+      "name": "InnerFrench",
+      "lastAttempt": "2026-11-05T09:20:27.630749+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1872413120": {
+      "name": "Dritti ai Diritti - Cathy La Torre",
+      "lastAttempt": "2026-11-05T09:20:28.399861+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCQOWechC99nZSJRFjm4pdUQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@cnc_media_ita",
+      "status": "DA_SCANSIONARE"
+    },
+    "751574016": {
+      "name": "All Ears English Podcast",
+      "lastAttempt": "2026-11-05T09:20:32.948382+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCajKaiBJSwYcDFbfMICpSpA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCajKaiBJSwYcDFbfMICpSpA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1756726796": {
+      "name": "Podcast Italiano Principiante | Learn Italian (Beginners)",
+      "lastAttempt": "2026-11-05T09:20:34.771881+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCegEedDeryCYSVT7eBCm-RQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@PodcastItaliano",
+      "status": "DA_SCANSIONARE"
+    },
+    "1574650966": {
+      "name": "Valorizza il tuo tempo",
+      "lastAttempt": "2026-11-05T09:20:38.305825+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC-uf-4TM0R9MUS3LFHuXkGQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC-uf-4TM0R9MUS3LFHuXkGQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "281315460": {
+      "name": "TED Talks Daily",
+      "lastAttempt": "2026-11-05T09:20:41.697127+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1500388439": {
+      "name": "Learn English with Coffee Break English",
+      "lastAttempt": "2026-11-05T09:20:43.221106+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is n",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1719306022": {
+      "name": "Rilassati con Chiara ASMR",
+      "lastAttempt": "2026-11-05T09:20:47.193379+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1624981488": {
+      "name": "Easy French: Learn French through authentic conversations | Conversations authentiques pour apprendre le français",
+      "lastAttempt": "2026-11-05T09:20:49.746289+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoUWq2QawqdC3-nRXKk-JUw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCoUWq2QawqdC3-nRXKk-JUw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1332057550": {
+      "name": "Bringlese Daily - English Listening 🎧",
+      "lastAttempt": "2026-11-05T09:20:52.733894+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCYvueesLvTmjozg1nA8xaSw",
+      "youtubeSourceUrl": "https://www.youtube.com/@Bringlese",
+      "status": "DA_SCANSIONARE"
+    },
+    "1482648712": {
+      "name": "Learn Spanish: Fluency in Real Life with Handyspanish",
+      "lastAttempt": "2026-11-05T09:20:57.112483+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is n",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6806848231": {
+      "name": "Inglese per principianti Podcast: Impara il vocabolario inglese di base, la grammatica, la pronuncia, le frasi e le conversaz",
+      "lastAttempt": "2026-11-05T09:21:00.183998+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1048372492": {
+      "name": "Choses à Savoir - Culture générale",
+      "lastAttempt": "2026-11-05T09:21:03.136521+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1505855917": {
+      "name": "Rinascimento Culturale Podcast",
+      "lastAttempt": "2026-11-05T09:21:13.113617+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCqeIh2DOh4w4iXAGPFtb2Jw",
+      "youtubeSourceUrl": "https://www.youtube.com/@RinascimentoCulturale",
+      "status": "DA_SCANSIONARE"
+    },
+    "1489301603": {
+      "name": "English Learning for Curious Minds | A More Interesting Way To Learn English",
+      "lastAttempt": "2026-11-05T09:21:13.837601+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC06Z9Kp9DY8kC_JZHnUdn-g",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC06Z9Kp9DY8kC_JZHnUdn-g",
+      "status": "DA_SCANSIONARE"
+    },
+    "1456966267": {
+      "name": "American English Podcast",
+      "lastAttempt": "2026-11-05T09:21:16.611419+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCUZxgiuYQItSCoONrJHJ-tw",
+      "youtubeSourceUrl": "https://www.youtube.com/@americanenglishpodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "263170419": {
+      "name": "Coffee Break French",
+      "lastAttempt": "2026-11-05T09:21:22.325256+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCZDHXN2rMFQ8wFaXHXyisTQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@languageadventurescb",
+      "status": "DA_SCANSIONARE"
+    },
+    "1624917633": {
+      "name": "Questioni di Fava",
+      "lastAttempt": "2026-11-05T09:21:28.539700+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1895528660": {
+      "name": "Dal Dire Al Fare",
+      "lastAttempt": "2026-11-05T09:21:29.181149+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1688147351": {
+      "name": "Young Finance",
+      "lastAttempt": "2026-11-05T09:21:38.405215+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1618206468": {
+      "name": "L'Inglese Passo Passo",
+      "lastAttempt": "2026-11-05T09:21:47.255562+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC1cyqXp83lgxsZhfv5lHyuQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/mosaLingua",
+      "status": "DA_SCANSIONARE"
+    },
+    "1544098624": {
+      "name": "How to Be a Better Human",
+      "lastAttempt": "2026-11-05T09:21:51.082327+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCy9b8cNJQmxX8Y2bdE6mQNw",
+      "youtubeSourceUrl": "https://www.youtube.com/@TEDPods",
+      "status": "DA_SCANSIONARE"
+    },
+    "1556878879": {
+      "name": "Listening Time: English Practice",
+      "lastAttempt": "2026-11-05T09:21:52.042605+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1699150915": {
+      "name": "Acceleratore di apprendimento dell'inglese",
+      "lastAttempt": "2026-11-05T09:21:55.192772+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1764846386": {
+      "name": "Wissen mit Johnny",
+      "lastAttempt": "2026-11-05T09:21:57.922985+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1608769233": {
+      "name": "Easy Italian: Learn Italian with real conversations | Imparare l'italiano con conversazioni reali",
+      "lastAttempt": "2026-11-05T09:22:02.167969+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1217040140": {
+      "name": "Learn Italian with Joy of Languages",
+      "lastAttempt": "2026-11-05T09:22:04.022669+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCKRZ3VMW6p1JzTJbHoXxfmA",
+      "youtubeSourceUrl": "https://www.youtube.com/@joyoflanguages.italian",
+      "status": "DA_SCANSIONARE"
+    },
+    "1721113418": {
+      "name": "French Mornings with Elisa",
+      "lastAttempt": "2026-11-05T09:22:07.337316+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCbj8Qov-9b5WTU1X4y7Yt-w",
+      "youtubeSourceUrl": "https://www.youtube.com/@FrenchmorningswithElisa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1793498810": {
+      "name": "Beginner Italian Podcast | Italiano per principianti con Teacher Stefano",
+      "lastAttempt": "2026-11-05T09:22:10.656090+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "75908431": {
+      "name": "Speak English with ESLPod.com",
+      "lastAttempt": "2026-11-05T09:22:14.881626+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuOZb34VYjJMcVve_8mBS-A",
+      "youtubeSourceUrl": "https://www.youtube.com/user/eslpod",
+      "status": "DA_SCANSIONARE"
+    },
+    "1673785959": {
+      "name": "Thinking in English",
+      "lastAttempt": "2026-11-05T09:22:17.045087+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCnWxuf5Rt9OcSt4AiviCe1A",
+      "youtubeSourceUrl": "https://www.youtube.com/@thinkinginenglishpodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1201483158": {
+      "name": "Hoy Hablamos: Podcast diario para aprender español - Learn Spanish Daily Podcast",
+      "lastAttempt": "2026-11-05T09:22:19.916424+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "595399272": {
+      "name": "Coffee Break German",
+      "lastAttempt": "2026-11-05T09:22:31.675595+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCZDHXN2rMFQ8wFaXHXyisTQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@languageadventurescb",
+      "status": "DA_SCANSIONARE"
+    },
+    "1216879060": {
+      "name": "Speak English Now Podcast: Learn English | Speak English without grammar.",
+      "lastAttempt": "2026-11-05T09:22:37.549953+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1496496265": {
+      "name": "Inglese a noi due",
+      "lastAttempt": "2026-11-05T09:22:39.329993+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCJigk06TGJoJYg_zmQgF_VA",
+      "youtubeSourceUrl": "https://www.youtube.com/@ingleseanoidue",
+      "status": "DA_SCANSIONARE"
     }
   },
   "chartShows": {
