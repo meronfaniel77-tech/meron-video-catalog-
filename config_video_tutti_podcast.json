@@ -25,8 +25,8 @@
     "1512",
     "1514"
   ],
-  "maxShowsPerRun": 50,
-  "maxYoutubeChannelsPerRun": 12,
+  "maxShowsPerRun": 100,
+  "maxYoutubeChannelsPerRun": 20,
   "maxAppleEpisodesPerPodcast": 200,
   "maxYoutubeVideosPerChannel": 250,
   "channelTimeoutSeconds": 180,
