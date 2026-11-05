@@ -12,9 +12,6 @@ on:
           - scansione
           - anteprima_coda
           - pubblicazione
-  schedule:
-    # Scansione automatica quotidiana: aggiunge solo candidati alla coda.
-    - cron: '37 5 * * *'
 
 permissions:
   contents: write
