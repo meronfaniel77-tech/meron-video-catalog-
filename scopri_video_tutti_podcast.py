@@ -133,7 +133,8 @@ def validate_config(conf):
     if not isinstance(conf.get('country'), str) or not re.fullmatch('[A-Za-z]{2}', conf['country']):
         raise ValueError('country deve avere due lettere')
     for key, low, high in (
-        ('chartLimit', 1, 200), ('maxShowsPerRun', 1, 50),
+      
+        ('chartLimit', 1, 200), ('maxShowsPerRun', 1, 100),
         ('maxYoutubeChannelsPerRun', 1, 20), ('maxAppleEpisodesPerPodcast', 1, 200),
         ('maxYoutubeVideosPerChannel', 1, 250), ('channelTimeoutSeconds', 30, 240),
         ('daysUntilRescan', 1, 60), ('daysUntilRetryWithoutChannel', 1, 120),
