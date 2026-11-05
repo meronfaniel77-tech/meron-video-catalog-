@@ -4801,6 +4801,1926 @@
       },
       "sourceGeneratedAt": "2026-11-04T20:41:48.655296+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000754436216",
+      "score": 104,
+      "record": {
+        "podcast": "Good Hang with Amy Poehler",
+        "episode": "What Makes the Guests of 'Good Hang' Laugh",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IpTsoQ2ycwI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "What Makes the Guests of 'Good Hang' Laugh | Good Hang with Amy Poehler",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1795483480",
+        "youtubeChannelId": "UC1lg-nYUcZ1pjo6EC2Nj5Sw",
+        "youtubeDurationSeconds": 2678
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000718445341",
+      "score": 101,
+      "record": {
+        "podcast": "Good Hang with Amy Poehler",
+        "episode": "Abbi Jacobson and Ilana Glazer",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2EAcPYTQbJk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Abbi Jacobson and Ilana Glazer | Good Hang with Amy Poehler",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1795483480",
+        "youtubeChannelId": "UC1lg-nYUcZ1pjo6EC2Nj5Sw",
+        "youtubeDurationSeconds": 4183
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000705388332",
+      "score": 101,
+      "record": {
+        "podcast": "Good Hang with Amy Poehler",
+        "episode": "Paige DeSorbo and Hannah Berner",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0TCkVdKs1wI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Paige DeSorbo and Hannah Berner | Good Hang with Amy Poehler",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1795483480",
+        "youtubeChannelId": "UC1lg-nYUcZ1pjo6EC2Nj5Sw",
+        "youtubeDurationSeconds": 3630
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796458243",
+      "score": 104,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "291: Infamous Reddit Crimes Ft. Angela Giarratana & Amanda Lehan-Canto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KBQXFtoh-5k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Infamous Reddit Crimes Ft. Angela Giarratana & Amanda Lehan-Canto  || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6120
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793818795",
+      "score": 104,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "290: Unexplainable Reddit Stories.. Ft Damien Haas",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gKli-AT1Jgc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Unexplainable Reddit Stories Ft. Damien Haas || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5597
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790317856",
+      "score": 103,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "287: Nail Biting Updates Ft. Taylor Tomlinson",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JN69zV3MB3Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Nail Biting Reddit Updates Ft. Taylor Tomlinson || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5534
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000786182930",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "284: Serving Justice ft. Monet X Change",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EcZUPS_GrDY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Serving Justice ft. Monet X Change || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5770
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775117755",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "276: Unhealthy Relationships?! Ft. Atsuko Okatsuka",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dzmznaBpdro",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Unhealthy Relationships?! Ft. Atsuko Okatsuka || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 4901
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774188789",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "275: Imperfect People! Ft. Miles Bonsignore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=b9gmMkQZM-Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Imperfect People! Ft. Miles Bonsignore || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6533
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000773218338",
+      "score": 100,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "274: Can't Think Straight Ft. Hayley Kiyoko & Crew",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ny7QDzo3jHM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Can't Think Straight! Ft. Hayley Kiyoko || LGBTQ+ Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6586
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000771124998",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "271: Mind Your Business Ft. Hannah Berner",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IG-zNCofT1Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mind Your Business Reddit Stories! Ft. Hannah Berner || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5818
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769960434",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "270: Painful Truths? Ft. Joshua Bassett",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tult4vMfIpw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Painful Truths? Ft. Joshua Taylor Bassett || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 4966
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000760416774",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "263: Friendly Advice Ft. Nadine Bhabha",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JD_jPlZpmb4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Friendly Advice Ft. Nadine Bhabha || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 4820
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750450851",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "256: That's Suspicious Ft. Taylor Tomlinson",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SyMtZj8crxw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "That's Suspicious! Ft. Taylor Tomlinson || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5527
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744266127",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "250: Some Serious Characters.. Ft. Trevor Wallace",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zt8WL-CXSa8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Some Serious Characters.. Ft. Trevor Wallace || Reddit Stories  || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5899
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741808956",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "247: That's a Wrap Ft. Scott Evans",
+        "youtubeUrl": "https://www.youtube.com/watch?v=n-EVRLy4p_c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "That's a Wrap! Ft. Scott Evans || Reddit Stories || Two Hot Takes",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6705
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000739642014",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "245: That's Not Funny.. Ft. Hannah Berner",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GYamt4X2suI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "That's Not Funny.. Ft. Hannah Berner || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6690
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738605471",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "244: Ugly Hearts.. Ft. Gigi Gorgeous",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iR3Ydeqr6Vc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ugly Hearts.. Ft. Gigi Gorgeous || Reddit Stories || Two Hot Takes",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5018
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000721008048",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "228: Something's Amiss.. Ft. Kamie Crawford",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0RzBwvnMzPk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Something's Amiss.. Ft. Kamie Crawford || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 4754
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000716645139",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "224: More Drama Than a Country Song..",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tMcrQZOirtE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "More Drama Than a Country Song.. || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6411
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713742104",
+      "score": 104,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "221: More to the Story? Ft. Bob the Drag Queen",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LZoEFwG-Tc0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "More to the Story? Ft. Bob the Drag Queen || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5660
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000709455087",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "217: Luckily NOT a Deathbed Confession.. Ft. Kaelyn Moore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=5a11aZrrvDw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Luckily NOT a Deathbed Confession Ft. Kaelyn Moore || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5942
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000702022196",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "210: Fill Your Cup.. Ft. Rachel Lindsay",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jSjgq5bNWNc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Fill Your Cup Ft. Rachel Lindsay || Two Hot Takes Podcast || Reddit Readings",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6340
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000701030959",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "209: Paranoid or Perfectly Executed? Ft. Dylan Efron",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LpS8tGiYTpw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Paranoid or Perfectly Executed? Ft. Dylan Efron || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6983
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000699002488",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "207: That's Unfair?! Ft. Angela Giarratana",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6cMah_xCEUo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "That's Unfair!? Ft. Angela Giarratana || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6503
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000696864025",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "205: Please Say Psych! Ft. Jemma Sbeg",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aNp93uJ5e_k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Please Say Psych! Ft. Jemma Sbeg || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 7042
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000687052822",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Any Upside to Evil? Ft. Gabby Windey",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CW1ud6xfxzA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Any Upside to Evil? Ft. Gabby Windey || Two Hot Takes Podcast || Reddit Reactions",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5632
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000680942070",
+      "score": 103,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Naughty or Nice? Ft. Amanda Lehan-Canto & Tommy Bowe",
+        "youtubeUrl": "https://www.youtube.com/watch?v=f9LZGNB4v8I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Naughty or Nice? Ft. Amanda Lehan-Canto & Tommy Bowe || Two Hot Takes Podcast || Reddit Reactions",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 7927
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000679320431",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Makeup Possible Here? Ft. Bailey Sarian",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Yyh_LUE6Xlw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Makeup Possible Here? Ft. Bailey Sarian || Two Hot Takes Podcast || Reddit Reads",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5824
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000676925691",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Complicated Challenges.. Ft. Michelle Khare",
+        "youtubeUrl": "https://www.youtube.com/watch?v=heE8yOQ1Khc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Complicated Challenges.. Ft. Michelle Khare || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5921
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000672476072",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Simply so Weird.. Ft. Courtney Miller",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eCTYn__isV4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Simply so Weird.. Ft. Courtney Miller || Reddit Stories || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6441
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000670012995",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Things Are Not Swell.. Ft. Amanda Swell Entertainment",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Jccvx7Axk9M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Things Are Not Swell.. Ft. Amanda of Swell Entertainment || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 7554
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000666999058",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "So Wrong it Feels Illegal.. Ft. Rebmasel",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MIEFTahkihk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "So Wrong it Feels Illegal.. Ft. Rebmasel || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 7631
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000664704145",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Are Food Fights the Catalyst? Ft. Nicole Enayati",
+        "youtubeUrl": "https://www.youtube.com/watch?v=prB3cJYv-hk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Are Food Fights the Catalyst? Ft. Nicole Enayati || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 7102
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000663295848",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "What's the Best Case Scenario? Ft. Drea Knows Best",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fYAqmmAv3Ig",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "What's the Best Case Scenario? Ft. Drea Knows Best || Two Hot Takes Podcast || Reddit Readings",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6392
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000656027188",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Trying to Have a Good Time.. Ft. Zane and Heath Unfiltered",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-KHIHpyG6rc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Trying to Have a Good Time.. Ft. Zane and Heath Unfiltered || Two Hot Takes Podcast || Reddit Reads",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5591
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000655019740",
+      "score": 99,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Wanna Be a Fly on the Wall.. Ft. LyssieLooLoo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JzyzAK75w54",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Wanna Be a Fly on the Wall.. Ft. LyssieLooLoo Concretecrotchkiss || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6046
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000654257648",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Cheating the System.. Ft. Charlotte Dobre",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FGSkhMsH_XQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cheating the System.. Ft. Charlotte Dobre || Two Hot Takes Podcast || Reddit Reactions",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5524
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000648310590",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Suffer with Us.. Ft. Shayne Topp from Smosh",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SGPANz1pLUE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Suffer with Us.. Ft. Shayne Topp from Smosh || Two Hot Takes Podcast || Reddit Readings",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6119
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000646360032",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Were Cruel Intentions Involved?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=47oY9wNQ-ZI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Were Cruel Intentions Involved? || Reddit Readings || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6669
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000644595309",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Might Be Their First Rodeo.. Ft. Hannah Berner",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lhIIqD_XvXI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Might Be Their First Rodeo.. Ft. Hannah Berner || Reddit Readings || Two Hot Takes Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5005
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000642073725",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Frothing at the Mouth.. Ft. Michaela Okland & Ellie Schnitt",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KZpHLt2pGbI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Frothing at the Mouth Ft. Michaela Okland & Ellie Schnitt || Two Hot Takes Podcast || Reddit Stories",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5762
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000640510266",
+      "score": 101,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Division of Labor & Marital Bliss",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CeED7XAxqzU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Division of Labor & Marital Bliss || Two Hot Takes Podcast || Reddit Reactions",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 6191
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000630274366",
+      "score": 102,
+      "record": {
+        "podcast": "Two Hot Takes",
+        "episode": "Etiquette Blunders.. Ft. Help I Sexted My Boss",
+        "youtubeUrl": "https://www.youtube.com/watch?v=13OPx0tMxAM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Etiquette Blunders.. Ft. Help I Sexted My Boss || Two Hot Takes Podcast || Reddit Reactions",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1553199104",
+        "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+        "youtubeDurationSeconds": 5271
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793577352",
+      "score": 101,
+      "record": {
+        "podcast": "Off Menu with Ed Gamble and James Acaster",
+        "episode": "Paul F. Tompkins (Tasting Menu)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gKB_IAnOBqg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Paul F. Tompkins: Tasting Menu | Off Menu with Ed Gamble and James Acaster Podcast 🍽️",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1442950743",
+        "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+        "youtubeDurationSeconds": 4703
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777493450",
+      "score": 100,
+      "record": {
+        "podcast": "Off Menu with Ed Gamble and James Acaster",
+        "episode": "Tim Key (Tasting Menu – Live at the Royal Albert Hall)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ckAJpNm2BKU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tim Key smashes poppadoms (and floods hotel rooms) live at the Royal Albert Hall 🛁💥  | Off Menu",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1442950743",
+        "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+        "youtubeDurationSeconds": 601
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767507614",
+      "score": 101,
+      "record": {
+        "podcast": "Off Menu with Ed Gamble and James Acaster",
+        "episode": "Phil Wang (Tasting Menu)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RIaoqAIV8P0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Phil Wang: Tasting Menu 🍽️ | Off Menu with Ed Gamble and James Acaster Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1442950743",
+        "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+        "youtubeDurationSeconds": 4910
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750255373",
+      "score": 101,
+      "record": {
+        "podcast": "Off Menu with Ed Gamble and James Acaster",
+        "episode": "Fern Brady (Tasting Menu)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XbB5ttoUNC0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Fern Brady: Tasting Menu 🍽️ | Off Menu with Ed Gamble and James Acaster Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1442950743",
+        "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+        "youtubeDurationSeconds": 4429
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000724667348",
+      "score": 101,
+      "record": {
+        "podcast": "Off Menu with Ed Gamble and James Acaster",
+        "episode": "Neil Hannon (The Divine Comedy)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2nzSEHGclP8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Neil Hannon (The Divine Comedy) | Off Menu with Ed Gamble and James Acaster Podcast | Full episode",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1442950743",
+        "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+        "youtubeDurationSeconds": 3418
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000717454814",
+      "score": 112,
+      "record": {
+        "podcast": "Off Menu with Ed Gamble and James Acaster",
+        "episode": "Ep 300: Ed Gamble and James Acaster (with special guest genie AJ Odudu)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iM1XT7hpSeo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep 300: Ed Gamble and James Acaster, with special guest genie AJ Odudu | Off Menu Podcast | Full Ep",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1442950743",
+        "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+        "youtubeDurationSeconds": 6057
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799222149",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Halloween COSTUME Reveal, Horror Fest Date + Monster (Laser) Stories (10/30/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OuFdaWzGSMA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Halloween COSTUME Reveal, Horror Fest Date + Monster (Laser) Stories | FULL SHOW 10/30/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3804
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798915443",
+      "score": 102,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Something Sticky Down There",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PVz0HdIVdvc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Horror-fest Date! | Second Date Update: Shawn & Allie (Something Sticky Down There)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1107
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798541277",
+      "score": 99,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Float & Boat",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZOxjvFWdWOs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Deprivation Tank GONE WRONG! | Second Date Update: Taylor & Vince (Float & Boat) | Brooke & Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1130
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798373404",
+      "score": 99,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Awkward Tuesday: Haunting of Boyfriends Past",
+        "youtubeUrl": "https://www.youtube.com/watch?v=f2NPY-HbCiU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Better TOGETHER or NEVER? | Halloween Awkward Tuesday Phone Call: Hauntings of Boyfriends Past",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1055
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798014623",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Break Room Romeo Date, Jeff’s Busted Birthday + Brooke Goes to the Club (10/21/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=upYkjJo7468",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Break Room Romeo Date, Jeff’s Busted Birthday + Brooke Goes to the Club | FULL SHOW 10/21/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 4197
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797796240",
+      "score": 102,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Apple Picking For The 1 Percent",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JqMbuxAi0cM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Too Cheap For Love? | Second Date Update: Daniel & Lilly (Apple Picking For the 1 Percent)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1057
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797637811",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Awkward Thursday: HOA Candy Crackdown",
+        "youtubeUrl": "https://www.youtube.com/watch?v=T1GTo8kqJtE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Don't Come At The King! | Awkward Thursday Phone Call: Halloween Candy Crackdown |",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1053
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797454572",
+      "score": 100,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Microwaved Salad Guy",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eHDEuh-Su6M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Lunch Date Goes BAD... | Second Date Update: Eric & Regina (Microwaved Salad Guy) | Brooke & Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1130
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797099662",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Food Court Cutie",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RQEvPIefLH8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "We ROASTED this guy! | Second Date Update: Susan & Tim (Food Court Cutie) | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1116
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796918785",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Jeff’s Ode to Pasta, Overly Romantic Date + Dumbest Healthcare Questions (10/16/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FD7DE5_g8_4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jeff’s Ode to Pasta, Overly Romantic Date + Dumbest Healthcare Questions | FULL SHOW 10/16/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3975
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796508334",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update UPDATE: A Whole New Girlfriend",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YD2cyovxFmk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Disney Couple RETURNS! | Second Date Update UPDATE: Brian & Olivia (A Whole New Girlfriend)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1050
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796161636",
+      "score": 100,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Awkward Tuesday: A Rabbi Walks Into A Bar",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xXwuxfE0jD0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "This LIE is NOT Kosher! | Awkward Tuesday Phone Call: A Rabbi Walks Into A Bar | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1011
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000795969640",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: McLaren Missus Mishap",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cdF40AgLHH8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Sell ME on YOU! | Second Date Update: Evan & Sarah (McLaren Missus Mishap) | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1142
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000795252202",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Bridezilla Closure Call, Thanksgiving Sabotage Secret + Hot Pocket Lie (10/8/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bxBpRAHipMs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Bridezilla Closure Call, Thanksgiving Sabotage Secret + Hot Pocket Lie | FULL SHOW 10/8/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3232
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000794056196",
+      "score": 99,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update Classic: Burned By Beauties",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mP8U3sdRecE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ghosts of Exes Past! | CLASSIC 2nd Date Update: Riley & Dana (Burned By Beauties) | Brooke & Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1087
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793476087",
+      "score": 100,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Awkward Tuesday: Honeymoon Phase Ended",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vjeLkjqFaNM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Is she stealing from him? | Awkward Tuesday Phone Call: Honeymoon Phase Ended | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1039
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793269251",
+      "score": 102,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Dating Is Such A Chore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pggolf5SI_I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WHO was watching them? | Second Date Update: Mike & Chrissy (Dating Is Such A Chore) |",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1084
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793095223",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Hots for My Uncle Update UPDATE, Kid’s Lunch Goldmine + 30 Year Secret (10/1/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ap4ovzlMP0E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Hots for My Uncle Update UPDATE, Kid’s Lunch Goldmine + 30 Year Secret | FULL SHOW 10/1/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3265
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792856606",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: G-Wagon Naggin'",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mwHoWtF2SKs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "She WORE HIM DOWN! | Second Date Update: Hannah & Paul (G-Wagon Naggin')",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1118
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792405130",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: The Muffin Lady",
+        "youtubeUrl": "https://www.youtube.com/watch?v=f8v5ndLxJxk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "He's HER Stud Muffin! | Second Date Update: Vince & Jamie (The Muffin Lady) | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1087
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792043177",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Third Wheel Steal",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jNmr-iGdHoo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WHO has DIBS?? | Second Date Update: Nick & Stephanie (Third Wheel Steal) | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1108
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791867295",
+      "score": 104,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Evict My House Guest Awkward, Whatcha Doin’ at Oktoberfest + Prison Prank (9/22/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=i05yAzZ60lQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Evict My House Guest Awkward, Whatcha Doin’ at Octoberfest + Prison Prank | FULL SHOW 9/22/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3330
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791641467",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Unwritten Rules For Fools",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nG5_-sukV9Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "She CAUGHT HIM doing this! | Second Date Update: Jack & Sarah (Unwritten Rules For Fools)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1073
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791478455",
+      "score": 99,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Awkward Thursday: Hopsticle Course",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lBN1yN6W8E0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "He NEEDS this trip BADLY! | Awkward Thursday Phone Call: Hopsticle Course | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1051
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790786887",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Pet Food Tasting Dare, Naughty Pumpkin Song + Bridesmaid Confession (9/17/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1mSVQhByERM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Pet Food Tasting Dare, Naughty Pumpkin Song + Bridesmaid Confession | FULL SHOW 9/17/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3313
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790374458",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Summertime Challenge: Fancy (Pet) Food Reviews",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MOSy3gzaqVQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Can't believe they ATE this! | You Wouldn't Dare Summertime Challenge: Fancy (Pet) Food Reviews",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1145
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000789332713",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Hinge Coach Couple UPDATE, Zoo Scandal Secret + $250K Doritos Challenge (9/10/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jH_XOAsyeV4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Hinge Coach Couple UPDATE, Zoo Scandal Secret + $250K Doritos Challenge | FULL SHOW 9/10/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3208
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788870122",
+      "score": 100,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update UPDATE: Hired A Hinge Coach",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PTXwzkgnwJA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Does Dating COACHING really work? | Second Date Update UPDATE: Roman & Hailey (Hired A Hinge Coach)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1080
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788136623",
+      "score": 106,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "FULL SHOW: Don’t Arrest Me Say Yes to the Ex, Viral Bat in Mouth + Modern Dating Song (9/3/26)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=viOCHMP7pdI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Don’t Arrest Me Say Yes to the Ex, Viral Bat in Mouth + Modern Dating Song | FULL SHOW 9/3/26",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 3158
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000787433903",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Gammy's Bar Crawl",
+        "youtubeUrl": "https://www.youtube.com/watch?v=s2b62BDl858",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Is he dating a GRANDMA? | Second Date Update: Ava & Dean (Gammy's Bar Crawl) | Brooke and Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1099
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000783896035",
+      "score": 102,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Smells Like A Hamster",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pbekmIHwVEY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "He can't be serious... | In-Studio Second Date Update: Charles & Maggie (Smells Like A Hamster)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1519
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777735124",
+      "score": 99,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Awkward Tuesday: Awkward Family Reunion",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SEpgmYfxGcM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Are they RELATED? | In-Studio Awkward Tuesday Phone Call: Awkward Family Reunion | Brooke & Jeffrey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1239
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776925419",
+      "score": 101,
+      "record": {
+        "podcast": "Brooke and Jeffrey: Second Date Update",
+        "episode": "Second Date Update: Case of the Solo Shoe",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Jo4MS2Bqdsc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cinderella Story in 2026... | In-Studio Second Date Update: Will & Teri (The Case of the Solo Shoe)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1252638476",
+        "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+        "youtubeDurationSeconds": 1344
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713000339",
+      "score": 104,
+      "record": {
+        "podcast": "Libri Brutti Podcast",
+        "episode": "Ep. 48 - Calisutra",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qP_7Hgetnno",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep. 48 - Calisutra, the Kama Sutra by Franco Califano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1733472026",
+        "youtubeChannelId": "UCQ4k1QVtOlkWDWP4jD5E04g",
+        "youtubeDurationSeconds": 2573
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000710783127",
+      "score": 104,
+      "record": {
+        "podcast": "Libri Brutti Podcast",
+        "episode": "Ep. 46 - Tutti poeti con Claudio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tfZGugB-hyA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep.46 - Il libro sequestrato da Claudio Baglioni",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1733472026",
+        "youtubeChannelId": "UCQ4k1QVtOlkWDWP4jD5E04g",
+        "youtubeDurationSeconds": 1813
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000709822768",
+      "score": 104,
+      "record": {
+        "podcast": "Libri Brutti Podcast",
+        "episode": "Ep. 45 - Grande Fratello",
+        "youtubeUrl": "https://www.youtube.com/watch?v=C0hCDko5hBg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep.45 - Il leggendario libro del Grande Fratello",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1733472026",
+        "youtubeChannelId": "UCQ4k1QVtOlkWDWP4jD5E04g",
+        "youtubeDurationSeconds": 2109
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000708922942",
+      "score": 106,
+      "record": {
+        "podcast": "Libri Brutti Podcast",
+        "episode": "Ep. 44 - Cibo indiscreto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8hjZYhrswEg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep. 44 - Cibo indiscreto: a tavola con Andreotti e Stallone",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1733472026",
+        "youtubeChannelId": "UCQ4k1QVtOlkWDWP4jD5E04g",
+        "youtubeDurationSeconds": 2702
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000708029077",
+      "score": 106,
+      "record": {
+        "podcast": "Libri Brutti Podcast",
+        "episode": "Ep. 43 - Il labirinto femminile",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dhEf3EHCf60",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep. 43 - Il labirinto femminile: il libro più assurdo mai scritto in Italia?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1733472026",
+        "youtubeChannelId": "UCQ4k1QVtOlkWDWP4jD5E04g",
+        "youtubeDurationSeconds": 2061
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000787477114",
+      "score": 100,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "Don't Do This With Your Toothbrush",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ezZ1KZmWMbY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "If You Do This With Your TOOTHBRUSH We Need To Talk",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 2456
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000784155156",
+      "score": 100,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "The Scam In A Sydney Pub",
+        "youtubeUrl": "https://www.youtube.com/watch?v=t2Te59FOnuU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Sydney Pub Scam",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 2241
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000779930334",
+      "score": 100,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "Unethical Five Star Reviews",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FUW8g8SKFoY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How to Get Five Star Reviews",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 1713
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777764472",
+      "score": 100,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "Things You Can Say In a Resort And Also In The Bedroom",
+        "youtubeUrl": "https://www.youtube.com/watch?v=N06YagQtYhs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Things You Can Say In a Resort And Also In Bed",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 1755
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772851606",
+      "score": 104,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "I Snorted My Dead Brother's Ashes",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gw-Q93e6gww",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "CONFESSION: I Snorted My Dead Brother's Ashes",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 2093
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000760316566",
+      "score": 103,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "This Swedish Word Means Hooking Up | LIVE FROM STOCKHOLM",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4KALLaC1AvE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "This Swedish Word Means Hooking Up",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 1611
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000759286074",
+      "score": 101,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "WHAT% OF YOUR BFFS BODY HAVE YOU SEEN? | MOST REPLAYED OF March",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qlhmLu30Axc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "What % Of Your BFF'S Body Have You Seen?  | FUNNIEST MOMENTS OF MARCH",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 1604
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748685101",
+      "score": 106,
+      "record": {
+        "podcast": "Toni and Ryan",
+        "episode": "This Facebook Group Is A Death Trap | Most Replayed January",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6qpRwvXTepo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "This Facebook Group Is A Death Trap | MOST REPLAYED OF JANUARY",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-05T08:43:13.645685+00:00",
+        "appleCollectionId": "1526634903",
+        "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+        "youtubeDurationSeconds": 1267
+      },
+      "sourceGeneratedAt": "2026-11-05T08:43:13.516939+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }

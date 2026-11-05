@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-04T20:39:29.854979+00:00",
+      "lastAttempt": "2026-11-05T08:40:06.614478+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -1528,6 +1528,293 @@
     "1697425543": {
       "name": "Smosh Reads Reddit Stories",
       "lastAttempt": "2026-11-04T20:41:46.250738+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "840986946": {
+      "name": "No Such Thing As A Fish",
+      "lastAttempt": "2026-11-05T08:40:07.443350+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1795483480": {
+      "name": "Good Hang with Amy Poehler",
+      "lastAttempt": "2026-11-05T08:40:07.912679+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UC1lg-nYUcZ1pjo6EC2Nj5Sw",
+      "youtubeSourceUrl": "https://www.youtube.com/@Good-Hang-with-Amy-Poehler",
+      "status": "SCANSIONATO"
+    },
+    "1455784513": {
+      "name": "凹凸电波",
+      "lastAttempt": "2026-11-05T08:40:15.166881+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1438054347": {
+      "name": "Conan O’Brien Needs A Friend",
+      "lastAttempt": "2026-11-05T08:40:15.308265+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1862569378": {
+      "name": "Fuori di Cabello",
+      "lastAttempt": "2026-11-05T08:40:20.958874+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1644493181": {
+      "name": "Small Talk - Konbini",
+      "lastAttempt": "2026-11-05T08:40:21.789537+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "665143133": {
+      "name": "Nadie Sabe Nada",
+      "lastAttempt": "2026-11-05T08:40:25.017059+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1553199104": {
+      "name": "Two Hot Takes",
+      "lastAttempt": "2026-11-05T08:40:28.650454+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCvUW0xT38Ho7qyUmBgBZXQA",
+      "youtubeSourceUrl": "https://www.youtube.com/c/TwoHotTakes",
+      "status": "SCANSIONATO"
+    },
+    "1839982664": {
+      "name": "Tutto Bloccato",
+      "lastAttempt": "2026-11-05T08:40:39.873955+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1442950743": {
+      "name": "Off Menu with Ed Gamble and James Acaster",
+      "lastAttempt": "2026-11-05T08:40:40.244029+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCgFAyHxA0MBioGICaiU6amA",
+      "youtubeSourceUrl": "https://www.youtube.com/@offmenupodcast",
+      "status": "SCANSIONATO"
+    },
+    "1893060582": {
+      "name": "C'è figa. Il podcast live",
+      "lastAttempt": "2026-11-05T08:40:50.711126+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1694338196": {
+      "name": "Kaulitz Hills - Senf aus Hollywood",
+      "lastAttempt": "2026-11-05T08:40:57.264367+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1851290925": {
+      "name": "Drama, Tea & Therapy",
+      "lastAttempt": "2026-11-05T08:40:57.461817+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1434975247": {
+      "name": "Contiene Parolacce",
+      "lastAttempt": "2026-11-05T08:41:02.499968+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6793979371": {
+      "name": "Le Signore Ricevono",
+      "lastAttempt": "2026-11-05T08:41:04.085285+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1042361179": {
+      "name": "KILL TONY",
+      "lastAttempt": "2026-11-05T08:41:20.755110+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1752696647": {
+      "name": "the social bros.",
+      "lastAttempt": "2026-11-05T08:41:21.144689+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1252638476": {
+      "name": "Brooke and Jeffrey: Second Date Update",
+      "lastAttempt": "2026-11-05T08:41:26.436910+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCYmx9c2je1hEZL1iguPyvUg",
+      "youtubeSourceUrl": "https://www.youtube.com/c/BrookeandJeffrey",
+      "status": "SCANSIONATO"
+    },
+    "1774462541": {
+      "name": "Strong Message Here",
+      "lastAttempt": "2026-11-05T08:41:36.901550+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1532650317": {
+      "name": "Lo Zoo di 105 (2020/2021)",
+      "lastAttempt": "2026-11-05T08:41:37.394437+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1503858543": {
+      "name": "天才捕手FM-最带劲的职业故事",
+      "lastAttempt": "2026-11-05T08:41:40.146283+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1533822662": {
+      "name": "Sofia with an F",
+      "lastAttempt": "2026-11-05T08:41:56.662744+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1766751816": {
+      "name": "La chronique d'Aymeric Lompret",
+      "lastAttempt": "2026-11-05T08:41:57.284404+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1452619911": {
+      "name": "Shoot from the Hip",
+      "lastAttempt": "2026-11-05T08:42:00.406183+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1345682353": {
+      "name": "Armchair Expert with Dax Shepard",
+      "lastAttempt": "2026-11-05T08:42:04.034006+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1455978268": {
+      "name": "#100cosebelle",
+      "lastAttempt": "2026-11-05T08:42:07.381748+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCf8it1jsFdVJORJRphz-2uw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCf8it1jsFdVJORJRphz-2uw",
+      "status": "SCANSIONATO"
+    },
+    "1499610805": {
+      "name": "Hawi D'Ehre",
+      "lastAttempt": "2026-11-05T08:42:11.597263+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1733472026": {
+      "name": "Libri Brutti Podcast",
+      "lastAttempt": "2026-11-05T08:42:17.046119+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCQ4k1QVtOlkWDWP4jD5E04g",
+      "youtubeSourceUrl": "https://www.youtube.com/@LibriBruttiPodcast",
+      "status": "SCANSIONATO"
+    },
+    "1526634903": {
+      "name": "Toni and Ryan",
+      "lastAttempt": "2026-11-05T08:42:20.630245+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCkhy7g4GvHuzhbzTVjc8izQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@ToniandRyan",
+      "status": "SCANSIONATO"
+    },
+    "1521578868": {
+      "name": "SmartLess",
+      "lastAttempt": "2026-11-05T08:42:29.245602+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1034354283": {
+      "name": "The Basement Yard",
+      "lastAttempt": "2026-11-05T08:42:30.583021+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1334878780": {
+      "name": "The Daily Show: Ears Edition",
+      "lastAttempt": "2026-11-05T08:42:33.114134+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1779710854": {
+      "name": "GAIA E GUIA",
+      "lastAttempt": "2026-11-05T08:42:36.688109+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1532816291": {
+      "name": "The Bald and the Beautiful with Trixie and Katya",
+      "lastAttempt": "2026-11-05T08:42:38.952554+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1524693338": {
+      "name": "La Segreteria dell'Astrodisagio",
+      "lastAttempt": "2026-11-05T08:42:42.946798+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1592646595": {
+      "name": "不开玩笑 Jokes Aside",
+      "lastAttempt": "2026-11-05T08:42:45.491734+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: The read operation timed out",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1040481893": {
+      "name": "THE ADAM BUXTON PODCAST",
+      "lastAttempt": "2026-11-05T08:43:05.180194+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1488376434": {
+      "name": "Baywatch Berlin",
+      "lastAttempt": "2026-11-05T08:43:05.673982+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1840585190": {
+      "name": "4 Schwestern",
+      "lastAttempt": "2026-11-05T08:43:10.768267+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
