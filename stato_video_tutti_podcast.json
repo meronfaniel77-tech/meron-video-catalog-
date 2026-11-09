@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-08T12:00:44.972763+00:00",
+      "lastAttempt": "2026-11-09T08:23:12.604634+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -4349,12 +4349,12 @@
     },
     "1703796389": {
       "name": "FantascientifiCast",
-      "lastAttempt": "2026-11-08T12:00:45.586517+00:00",
+      "lastAttempt": "2026-11-09T08:21:53.399637+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCSymmaI7ZWwLnx0uC7m_dZg",
       "youtubeSourceUrl": "https://www.youtube.com/@ilmondodellafantascienzaSFW",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1483918693": {
       "name": "TFTC - Le Podcast",
@@ -4379,21 +4379,21 @@
     },
     "1596609186": {
       "name": "Sister Wives: Love Should Be Multiplied Not Divided",
-      "lastAttempt": "2026-11-08T12:00:58.970946+00:00",
+      "lastAttempt": "2026-11-09T08:22:02.868591+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCnLNjzPtdWoGpyrFDlUEcXQ",
       "youtubeSourceUrl": "https://www.youtube.com/@ShitTalkPodcast_",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "983315505": {
       "name": "Outcast Popcorn",
-      "lastAttempt": "2026-11-08T12:01:00.301185+00:00",
+      "lastAttempt": "2026-11-09T08:22:05.574959+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCkpXyYOdWwxC7nVKJzQ4uAg",
       "youtubeSourceUrl": "https://www.youtube.com/user/OutcastLive",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "392364162": {
       "name": "The Twilight Zone Podcast",
@@ -4453,12 +4453,12 @@
     },
     "1520438885": {
       "name": "SuonA Tipo Bene",
-      "lastAttempt": "2026-11-08T12:01:35.385346+00:00",
+      "lastAttempt": "2026-11-09T08:22:15.314366+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCA1-DjFxPEvZXfew2LxHIJQ",
       "youtubeSourceUrl": "https://www.youtube.com/@fabioantonellimusic",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1438241234": {
       "name": "Senti un po’",
@@ -4490,12 +4490,12 @@
     },
     "1652294391": {
       "name": "Clan acustico - Un podcast per percepire il mondo",
-      "lastAttempt": "2026-11-08T12:01:55.987384+00:00",
+      "lastAttempt": "2026-11-09T08:22:18.380802+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCtpdt1HrvHEs2I-9Eq4TzvQ",
       "youtubeSourceUrl": "https://www.youtube.com/@hypercaststudio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1669193291": {
       "name": "LA MATTINA ALL’OPERA, BUONGIORNO CON….",
@@ -4562,21 +4562,21 @@
     },
     "1646262089": {
       "name": "RadioAnimati All The Best",
-      "lastAttempt": "2026-11-08T12:02:32.253217+00:00",
+      "lastAttempt": "2026-11-09T08:22:23.786340+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCpLhKPhWxpu_YHKAY3fkINw",
       "youtubeSourceUrl": "https://www.youtube.com/@spot80tv",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1813344324": {
       "name": "Feedback Tales",
-      "lastAttempt": "2026-11-08T12:02:42.619539+00:00",
+      "lastAttempt": "2026-11-09T08:22:30.514946+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
       "youtubeSourceUrl": "https://www.youtube.com/@Feedbacktales",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "788236947": {
       "name": "Song Exploder",
@@ -4637,12 +4637,12 @@
     },
     "1738038834": {
       "name": "Ritmo Sincopato: il Jazz in Italia",
-      "lastAttempt": "2026-11-08T12:03:20.989626+00:00",
+      "lastAttempt": "2026-11-09T08:22:32.228596+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UC8We2IKQo4lbongz7uOn2vA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC8We2IKQo4lbongz7uOn2vA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1537555475": {
       "name": "bennuz podcast",
@@ -4660,12 +4660,12 @@
     },
     "1771409952": {
       "name": "But Beautiful. Cinque storie di jazz",
-      "lastAttempt": "2026-11-08T12:03:29.425642+00:00",
+      "lastAttempt": "2026-11-09T08:22:34.054235+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCuj4NoDsRj9kOcAHeUTFr0w",
       "youtubeSourceUrl": "https://www.youtube.com/@storieavvolgibili",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1547503899": {
       "name": "Bassa Fedeltà On Air",
@@ -4683,12 +4683,12 @@
     },
     "1776142885": {
       "name": "adessocapiamo",
-      "lastAttempt": "2026-11-08T12:03:39.560478+00:00",
+      "lastAttempt": "2026-11-09T08:22:38.325119+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCAnintp5rTcuGrMFWTFPQeg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCAnintp5rTcuGrMFWTFPQeg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1170048447": {
       "name": "Xam Xam Ak Sergine Abdou Rahmane Mbacké",
@@ -4713,12 +4713,12 @@
     },
     "1736221446": {
       "name": "Sleep & Relaxation Music to Calm the Nervous System",
-      "lastAttempt": "2026-11-08T12:03:55.985561+00:00",
+      "lastAttempt": "2026-11-09T08:22:43.378083+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCj0Lor46DchKyyaBWY_GzIA",
       "youtubeSourceUrl": "https://www.youtube.com/@somasound",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1507905703": {
       "name": "Suono Ma Nessuno Apre",
@@ -4743,12 +4743,12 @@
     },
     "1551303352": {
       "name": "Metalitalia Podcast",
-      "lastAttempt": "2026-11-08T12:04:06.701581+00:00",
+      "lastAttempt": "2026-11-09T08:22:45.693860+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCUdAwdGHsBnGMuKEmHDZ02Q",
       "youtubeSourceUrl": "https://www.youtube.com/user/Metalitaliacom",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "585193217": {
       "name": "Radio2 Guest Video",
@@ -4766,12 +4766,12 @@
     },
     "1895600337": {
       "name": "Pizza e Dischi",
-      "lastAttempt": "2026-11-08T12:04:15.116832+00:00",
+      "lastAttempt": "2026-11-09T08:22:52.641007+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCs__tRwVFBP6TyPCEI9wQgA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCs__tRwVFBP6TyPCEI9wQgA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1768609852": {
       "name": "Fondamentali",
@@ -4782,12 +4782,12 @@
     },
     "1530701242": {
       "name": "Rockonteurs with Gary Kemp and Guy Pratt",
-      "lastAttempt": "2026-11-08T12:04:22.899718+00:00",
+      "lastAttempt": "2026-11-09T08:22:54.271338+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCz902KiwFM9FthzFVd-WUlQ",
       "youtubeSourceUrl": "https://www.youtube.com/@rockonteurs",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1678953300": {
       "name": "Helvete/Inferno",
@@ -4840,12 +4840,12 @@
     },
     "1553746022": {
       "name": "OPERA POP - Lirica raccontata ad Arte",
-      "lastAttempt": "2026-11-08T12:04:51.646078+00:00",
+      "lastAttempt": "2026-11-09T08:23:00.493678+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCWy6WcPbGlEBaKukaejAMXg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCWy6WcPbGlEBaKukaejAMXg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "80302819": {
       "name": "Die größten Hits und ihre Geschichte",
@@ -4877,12 +4877,12 @@
     },
     "1896891853": {
       "name": "Divan khial | دیوان خیال",
-      "lastAttempt": "2026-11-08T12:05:24.484562+00:00",
+      "lastAttempt": "2026-11-09T08:23:04.641884+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCxJGUWOFfRA07PvKKbylrvA",
       "youtubeSourceUrl": "https://www.youtube.com/@DivaneKhial",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1073212119": {
       "name": "Vinyl Emergency",
@@ -4929,6 +4929,626 @@
     "1713365239": {
       "name": "Pezzi: dentro la musica",
       "lastAttempt": "2026-11-08T12:05:43.679808+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "897935770": {
+      "name": "Nora En Pure - Purified Radio",
+      "lastAttempt": "2026-11-09T08:23:13.182189+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1166214992": {
+      "name": "Nassau Beach Club Ibiza FOREVER ALEX",
+      "lastAttempt": "2026-11-09T08:23:13.230068+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCatAmP25npFYaefJFCVrPIA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCatAmP25npFYaefJFCVrPIA",
+      "status": "SCANSIONATO"
+    },
+    "507888150": {
+      "name": "Techno Music DJ Mix Sets - Techno Live Sets",
+      "lastAttempt": "2026-11-09T08:23:25.515679+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "387385712": {
+      "name": "Resident by Hernan Cattaneo",
+      "lastAttempt": "2026-11-09T08:23:25.606048+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "527682150": {
+      "name": "ERIC PRYDZ – EPIC RADIO",
+      "lastAttempt": "2026-11-09T08:23:28.911000+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1236253646": {
+      "name": "Oliver Heldens presents Heldeep Radio",
+      "lastAttempt": "2026-11-09T08:23:33.081417+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC-EVnno6x6-aAG6g1ZVoN3A",
+      "youtubeSourceUrl": "https://www.youtube.com/@OliverHeldens",
+      "status": "SCANSIONATO"
+    },
+    "413995650": {
+      "name": "Adam Beyer presents Drumcode",
+      "lastAttempt": "2026-11-09T08:23:43.608120+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "460107093": {
+      "name": "Markus Schulz presents Global DJ Broadcast",
+      "lastAttempt": "2026-11-09T08:23:45.129766+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1630164444": {
+      "name": "Gianluca Gazzoli",
+      "lastAttempt": "2026-11-09T08:23:47.471607+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "SCANSIONATO"
+    },
+    "1705683053": {
+      "name": "Rock and the City",
+      "lastAttempt": "2026-11-09T08:24:02.007412+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1683284403": {
+      "name": "Chopin visto da me",
+      "lastAttempt": "2026-11-09T08:24:09.798465+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCKC8ImzCKHxAZb_IdvVL7_g",
+      "youtubeSourceUrl": "https://www.youtube.com/user/ritacharbonnier",
+      "status": "SCANSIONATO"
+    },
+    "1463330049": {
+      "name": "Resident Shows",
+      "lastAttempt": "2026-11-09T08:24:15.736490+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1488285702": {
+      "name": "Mondo Jazz",
+      "lastAttempt": "2026-11-09T08:24:17.034422+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: The read operation timed out",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1494716686": {
+      "name": "Fabercast. De André canzone per canzone",
+      "lastAttempt": "2026-11-09T08:24:34.688767+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1694881146": {
+      "name": "Non è musica per vecchi | La musica classica come non l'hai MAI ascoltata",
+      "lastAttempt": "2026-11-09T08:24:36.938891+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCG00lWsZQJHxw2UoK-ghsPg",
+      "youtubeSourceUrl": "https://www.youtube.com/@novasymphoniapatavina",
+      "status": "DA_SCANSIONARE"
+    },
+    "1773384635": {
+      "name": "Storie di Musica",
+      "lastAttempt": "2026-11-09T08:24:38.772025+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "205578441": {
+      "name": "Deeper Shades of House - weekly Deep House Podcast with Lars Behrenroth",
+      "lastAttempt": "2026-11-09T08:24:42.911626+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1198989202": {
+      "name": "Jazz Anthology",
+      "lastAttempt": "2026-11-09T08:24:44.174079+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1729144160": {
+      "name": "La musica per pianoforte di Prokof’ev",
+      "lastAttempt": "2026-11-09T08:24:53.290378+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1443417194": {
+      "name": "Strong Songs",
+      "lastAttempt": "2026-11-09T08:25:03.525155+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCiSH1NcmxyE3rDcPt-UUKwQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@kirk_hamilton",
+      "status": "DA_SCANSIONARE"
+    },
+    "1695765425": {
+      "name": "Apertura musicale",
+      "lastAttempt": "2026-11-09T08:25:05.549312+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1849524488": {
+      "name": "Musica Narrata",
+      "lastAttempt": "2026-11-09T08:25:11.052078+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "500588081": {
+      "name": "\"Memoria polaroid\" - un blog alla radio",
+      "lastAttempt": "2026-11-09T08:25:12.817097+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1466720746": {
+      "name": "SOUND OF AFRICA COMPILATION",
+      "lastAttempt": "2026-11-09T08:25:14.387977+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1628083224": {
+      "name": "Flamenco Chiavi in Mano podcast",
+      "lastAttempt": "2026-11-09T08:25:17.777770+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1651860267": {
+      "name": "Metal Crue - Radio Statale",
+      "lastAttempt": "2026-11-09T08:25:20.835367+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCw25MuLgNWT_sv69MWwt4Qw",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiostatale",
+      "status": "DA_SCANSIONARE"
+    },
+    "1799913953": {
+      "name": "La poesia di Emily Dickinson e la musica americana del Novecento",
+      "lastAttempt": "2026-11-09T08:25:29.622301+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1768768275": {
+      "name": "Musica leggerissima",
+      "lastAttempt": "2026-11-09T08:25:40.040582+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1884361657": {
+      "name": "80's dance mixes",
+      "lastAttempt": "2026-11-09T08:25:44.262049+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1816926694": {
+      "name": "Note di storia",
+      "lastAttempt": "2026-11-09T08:25:45.303169+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1522862579": {
+      "name": "Nella Parola",
+      "lastAttempt": "2026-11-09T08:25:49.453127+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1447099791": {
+      "name": "Soli - I bambini di Osho",
+      "lastAttempt": "2026-11-09T08:25:51.944858+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1873032679": {
+      "name": "LeoPOP",
+      "lastAttempt": "2026-11-09T08:25:54.083933+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1477403807": {
+      "name": "A Piccoli Sorsi - Commento alla Parola del giorno delle Apostole della Vita Interiore",
+      "lastAttempt": "2026-11-09T08:25:58.300975+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1823510541": {
+      "name": "Ispirazioni mattutine con Lama Michel Rinpoche",
+      "lastAttempt": "2026-11-09T08:26:03.772023+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1823510766": {
+      "name": "Introduzione alla Filosoflia Buddhista",
+      "lastAttempt": "2026-11-09T08:26:05.743484+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1597089461": {
+      "name": "The Basement",
+      "lastAttempt": "2026-11-09T08:26:08.444028+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1513178238": {
+      "name": "No Small Endeavor with Lee C. Camp",
+      "lastAttempt": "2026-11-09T08:26:10.390698+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCkfQCfUYu-xZk9ebX-0UL8A",
+      "youtubeSourceUrl": "https://www.youtube.com/@SubtextShow",
+      "status": "DA_SCANSIONARE"
+    },
+    "6829796768": {
+      "name": "Sulla via di Emmaus",
+      "lastAttempt": "2026-11-09T08:26:14.081237+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "265264862": {
+      "name": "Tara Brach",
+      "lastAttempt": "2026-11-09T08:26:17.558077+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCE3E-d8dUieqIbKYIO5-pFg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/tarabrach",
+      "status": "DA_SCANSIONARE"
+    },
+    "1710170248": {
+      "name": "I MISTERI dell'OCCULTO di Paola Borrescio",
+      "lastAttempt": "2026-11-09T08:26:21.463518+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCAsnGV7IYulDwjamA41tEJw",
+      "youtubeSourceUrl": "https://www.youtube.com/@PaolaBorrescio.",
+      "status": "DA_SCANSIONARE"
+    },
+    "1657745574": {
+      "name": "فاهم",
+      "lastAttempt": "2026-11-09T08:26:23.599158+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCuIayeub56xP83u7u-_d-SQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuIayeub56xP83u7u-_d-SQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1458128893": {
+      "name": "Viaggio nella Bibbia",
+      "lastAttempt": "2026-11-09T08:26:25.779288+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "367236844": {
+      "name": "Lectio del Vangelo di Marco",
+      "lastAttempt": "2026-11-09T08:26:28.805139+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1875673487": {
+      "name": "信仰急診室",
+      "lastAttempt": "2026-11-09T08:26:31.757668+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UChntiluSnsVAWBBhmB-m0iQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UChntiluSnsVAWBBhmB-m0iQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1799745097": {
+      "name": "LA MENTE RISVEGLIATA - pensa come la foresta",
+      "lastAttempt": "2026-11-09T08:26:35.142665+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCkbHOQV08QUHAjd6BQphS7w",
+      "youtubeSourceUrl": "https://www.youtube.com/@nonterapia",
+      "status": "DA_SCANSIONARE"
+    },
+    "1814331027": {
+      "name": "PodCatt - Il podcast CATTolico",
+      "lastAttempt": "2026-11-09T08:26:39.634053+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1865311679": {
+      "name": "2026年基督徒平日讀經-每日活水",
+      "lastAttempt": "2026-11-09T08:26:42.027453+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1576691855": {
+      "name": "基督徒讀書會",
+      "lastAttempt": "2026-11-09T08:26:44.448524+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCNhSCnnqDq6Hms0Ptvqc_-Q",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCNhSCnnqDq6Hms0Ptvqc_-Q",
+      "status": "DA_SCANSIONARE"
+    },
+    "1475482826": {
+      "name": "Hazza Al Balushi",
+      "lastAttempt": "2026-11-09T08:26:47.326660+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "480787112": {
+      "name": "Thich Nhat Hanh Dharma Talks",
+      "lastAttempt": "2026-11-09T08:26:50.626750+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1579910767": {
+      "name": "The Way Out Is In",
+      "lastAttempt": "2026-11-09T08:26:56.640913+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCcv7KJIAsiddB2YRegvrF7g",
+      "youtubeSourceUrl": "https://www.youtube.com/user/plumvillageonline",
+      "status": "DA_SCANSIONARE"
+    },
+    "1770772872": {
+      "name": "Pr Madiama Fall",
+      "lastAttempt": "2026-11-09T08:27:00.508724+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6824189657": {
+      "name": "La Bhagavad-gita spiegata passo passo",
+      "lastAttempt": "2026-11-09T08:27:01.990125+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1676603854": {
+      "name": "Il Santo Rosario",
+      "lastAttempt": "2026-11-09T08:27:05.149670+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1474479604": {
+      "name": "Santo Rosario",
+      "lastAttempt": "2026-11-09T08:27:07.883416+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] ivooxaudiokiosko/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "1239069166": {
+      "name": "The Way Of The Righteous Series With Rabbi Mizrachi",
+      "lastAttempt": "2026-11-09T08:27:11.746479+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1239068573": {
+      "name": "The Path Of The Just Series with Rabbi Mizrachi",
+      "lastAttempt": "2026-11-09T08:27:13.620817+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1239066109": {
+      "name": "Psychology of the Mind Series with Rabbi Mizrachi",
+      "lastAttempt": "2026-11-09T08:27:16.538397+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1239062028": {
+      "name": "Jewish Holiday's Series with Rabbi Yosef Mizrachi",
+      "lastAttempt": "2026-11-09T08:27:19.511506+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1605382691": {
+      "name": "وعي",
+      "lastAttempt": "2026-11-09T08:27:22.537826+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1677363704": {
+      "name": "Liturgia del Giorno (Breviario e Vangelo)",
+      "lastAttempt": "2026-11-09T08:27:28.165426+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCg2a8JcKVptRj8M6CWN-GwA",
+      "youtubeSourceUrl": "https://www.youtube.com/@tvpater",
+      "status": "DA_SCANSIONARE"
+    },
+    "1641656955": {
+      "name": "Anima Ribelle Podcast con Ellis De Bona",
+      "lastAttempt": "2026-11-09T08:27:29.329565+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCEiWaRcmQLPPg1WqfJ41hiQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@ellisdebona",
+      "status": "DA_SCANSIONARE"
+    },
+    "1816897136": {
+      "name": "Al cuore dello Zen",
+      "lastAttempt": "2026-11-09T08:27:32.460468+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1020160983": {
+      "name": "Abdur-Rahman as-Sudais",
+      "lastAttempt": "2026-11-09T08:27:35.075986+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "518366323": {
+      "name": "Ram Dass Here And Now",
+      "lastAttempt": "2026-11-09T08:27:37.918245+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1532710846": {
+      "name": "ScuolaNonScuola Podcast- incontri con Pier Giorgio Caselli",
+      "lastAttempt": "2026-11-09T08:27:42.793918+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1556737234": {
+      "name": "Le audio omelie di don Paolo Alliata",
+      "lastAttempt": "2026-11-09T08:27:45.803315+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1787782009": {
+      "name": "Riflessioni Teologiche | Teologia per una fede adulta",
+      "lastAttempt": "2026-11-09T08:27:49.052549+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCusAY9PIwtde-nqovgGVYfw",
+      "youtubeSourceUrl": "https://www.youtube.com/@dr.davidegalliani",
+      "status": "DA_SCANSIONARE"
+    },
+    "1765532426": {
+      "name": "Voci Zen",
+      "lastAttempt": "2026-11-09T08:27:51.647627+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1319157910": {
+      "name": "Le catechesi di don Fabio Rosini",
+      "lastAttempt": "2026-11-09T08:27:54.774043+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1556244815": {
+      "name": "21 giorni di meditazione",
+      "lastAttempt": "2026-11-09T08:27:58.260848+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1161558295": {
+      "name": "Dante Gebel Live",
+      "lastAttempt": "2026-11-09T08:28:01.080411+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1729574211": {
+      "name": "Layene Digital",
+      "lastAttempt": "2026-11-09T08:28:13.607455+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 500: Internal Server Error",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1505436317": {
+      "name": "OnePath Podcast",
+      "lastAttempt": "2026-11-09T08:28:15.176330+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1656321282": {
+      "name": "Incantesimo Donna",
+      "lastAttempt": "2026-11-09T08:28:19.731498+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1376098779": {
+      "name": "Radio Anima (Sussurri Spirituali)",
+      "lastAttempt": "2026-11-09T08:28:29.292662+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1681365762": {
+      "name": "Safia t’en parle !",
+      "lastAttempt": "2026-11-09T08:28:30.597367+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6823183194": {
+      "name": "Qui Corea",
+      "lastAttempt": "2026-11-09T08:28:35.919810+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1869116982": {
+      "name": "JOTTAYOU MOURID | SERIGNE AHMADU MBACKE DARU MUHTY",
+      "lastAttempt": "2026-11-09T08:28:37.835414+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1504245255": {
+      "name": "Let's speak Magick by Nexus Arcanum",
+      "lastAttempt": "2026-11-09T08:28:40.847859+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCr7B6eobTBCJvbWaIA79reA",
+      "youtubeSourceUrl": "https://www.youtube.com/@AdMaioraVertite",
+      "status": "DA_SCANSIONARE"
+    },
+    "1595611362": {
+      "name": "Il Vangelo tutti i giorni",
+      "lastAttempt": "2026-11-09T08:28:43.057607+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1556909075": {
+      "name": "小老百姓神學健身房",
+      "lastAttempt": "2026-11-09T08:28:52.037963+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
