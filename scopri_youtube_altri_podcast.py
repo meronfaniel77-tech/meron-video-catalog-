@@ -117,16 +117,21 @@ def scoring(apple, video):
     jaccard = len(common) / max(1, len(union))
     same_number = a['number'] is not None and a['number'] == b['number']
     same_season = (a['season'] == b['season'] and a['season'] is not None)
-
+   
     # Per PoretCast i numeri ricominciano ogni stagione. Se soltanto uno dei
     # titoli dichiara la stagione, il numero da solo NON giustifica il match.
     uncertain_season = ((a['season'] is None) != (b['season'] is None))
-    if same_number and (same_season or not uncertain_season) and ratio >= 0.30:
-        score, rule = 102 + min(len(common), 5) * 2, 'Numero di episodio e ospite/argomento coerenti'
-    elif a['clean'] == b['clean'] and len(common) >= 2:
+
+    # Prima controlliamo se i titoli sono identici.
+    if a['clean'] == b['clean'] and len(common) >= 2:
         score, rule = 112, 'Titolo identico'
+
+    elif same_number and (same_season or not uncertain_season) and ratio >= 0.30:
+        score, rule = 102 + min(len(common), 5) * 2, 'Numero di episodio e ospite/argomento coerenti'
+
     elif len(common) >= 2 and ratio >= 0.70 and jaccard >= 0.30:
         score, rule = 84 + min(len(common), 4) * 3 + int(jaccard * 10), 'Almeno due riferimenti distintivi condivisi'
+
     else:
         return None
 
