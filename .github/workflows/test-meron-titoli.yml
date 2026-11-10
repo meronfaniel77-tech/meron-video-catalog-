@@ -1,0 +1,67 @@
+
+name: MerON - Test sicurezza titoli
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-titoli:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Controlla sintassi Python
+        run: python -m py_compile scopri_youtube_altri_podcast.py
+
+      - name: Test abbinamento titoli
+        run: |
+          python - <<'PY'
+          from scopri_youtube_altri_podcast import scoring
+
+          apple = {
+              'title': 'Episodio 25: Albert Einstein e fisica quantistica',
+              'releaseDate': '2026-11-01'
+          }
+          video = {
+              'title': apple['title'],
+              'duration': 1800,
+              'uploadDate': '20261102'
+          }
+
+          result = scoring(apple, video)
+          assert result is not None
+          assert result['score'] == 112, result
+          assert result['rule'] == 'Titolo identico', result
+          print('OK: titoli identici riconosciuti correttamente')
+
+          wrong = dict(video)
+          wrong['title'] = 'Episodio 26: Albert Einstein e fisica quantistica'
+          assert scoring(apple, wrong) is None
+          print('OK: numeri episodio differenti bloccati')
+
+          short = dict(video)
+          short['duration'] = 120
+          assert scoring(apple, short) is None
+          print('OK: video troppo corti bloccati')
+
+          uncertain = dict(video)
+          uncertain['title'] = (
+              'Stagione 1 Episodio 25: Albert Einstein e fisica quantistica'
+          )
+          result = scoring(apple, uncertain)
+          assert result is None or result['score'] < 110, result
+          print('OK: stagione incerta non approvata automaticamente')
+
+          print('MERON TEST TITOLI COMPLETATO')
+          PY
