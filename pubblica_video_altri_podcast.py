@@ -20,7 +20,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
 BASE = Path(__file__).resolve().parent
-PUBBLICA = True
+PUBBLICA = False
 
 RE_YT_ID = re.compile(r"[A-Za-z0-9_-]{11}\Z")
 RE_CHANNEL = re.compile(r"UC[A-Za-z0-9_-]{22}\Z")
