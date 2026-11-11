@@ -1,0 +1,113 @@
+name: MerON - Test rivalutazione coda
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  prova-recupero:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Controlla sintassi
+        run: python -m py_compile gestisci_video_tutti_podcast.py pubblica_video_altri_podcast.py
+
+      - name: Prova la rivalutazione solo su copie temporanee
+        run: |
+          python - <<'PY'
+          import copy
+          import hashlib
+          import json
+          import os
+          import tempfile
+          from collections import Counter
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          import gestisci_video_tutti_podcast as g
+
+          root = Path.cwd()
+          real_queue = root / 'coda_video_tutti_podcast.json'
+          real_catalog = root / 'videos.json'
+          queue_hash = hashlib.sha256(real_queue.read_bytes()).hexdigest()
+          catalog_hash = hashlib.sha256(real_catalog.read_bytes()).hexdigest()
+          queue = json.loads(real_queue.read_text(encoding='utf-8-sig'))
+          catalog = json.loads(real_catalog.read_text(encoding='utf-8-sig'))['videos']
+          tracks = Counter(str(x['trackId']) for x in queue['pending'])
+          urls = Counter(x['record']['youtubeUrl'] for x in queue['pending'])
+          used_urls = {r.get('youtubeUrl') for r in catalog.values() if isinstance(r, dict)}
+          now = datetime.now(timezone.utc)
+
+          eligible = [
+              x for x in queue['pending']
+              if type(x.get('score')) is int and x['score'] < 110
+              and x['record'].get('matchRule') != 'Titolo identico'
+              and g.normalized_title(x['record'].get('episode', ''))
+                  == g.normalized_title(x['record'].get('matchedVideoTitle', ''))
+              and g.normalized_title(x['record'].get('episode', ''))
+              and str(x['trackId']) not in catalog
+              and x['record']['youtubeUrl'] not in used_urls
+              and tracks[str(x['trackId'])] == 1
+              and urls[x['record']['youtubeUrl']] == 1
+              and g.valid_utc(x.get('sourceGeneratedAt')) is not None
+              and g.valid_utc(x['sourceGeneratedAt']) < now
+          ]
+          assert eligible, 'Nessun candidato di prova disponibile: occorre aggiornare il test'
+          old = copy.deepcopy(eligible[0])
+          new = copy.deepcopy(old)
+          new['score'] = 112
+          new['record']['matchRule'] = 'Titolo identico'
+          new['sourceGeneratedAt'] = now.isoformat()
+
+          with tempfile.TemporaryDirectory() as temp:
+              folder = Path(temp)
+              g.CATALOG_PATH = folder / 'videos.json'
+              g.QUEUE_PATH = folder / 'coda.json'
+              g.PREVIEW_JSON = folder / 'anteprima.json'
+              g.PREVIEW_CSV = folder / 'anteprima.csv'
+              g.CATALOG_PATH.write_bytes(real_catalog.read_bytes())
+              temp_catalog_hash = hashlib.sha256(g.CATALOG_PATH.read_bytes()).hexdigest()
+              g.collect_from_latest_report = lambda unused: ([copy.deepcopy(new)], 0, 0)
+              os.environ['MERON_MODALITA'] = 'SIMULAZIONE'
+              os.environ['MERON_LEGGI_LOTTO'] = '1'
+
+              def execute(flag, candidate):
+                  g.QUEUE_PATH.write_text(json.dumps({'version': 1, 'pending': [old]}), encoding='utf-8')
+                  g.collect_from_latest_report = lambda unused: ([copy.deepcopy(candidate)], 0, 0)
+                  if flag:
+                      os.environ['MERON_RIVALUTA_CODA'] = '1'
+                  else:
+                      os.environ.pop('MERON_RIVALUTA_CODA', None)
+                  assert g.main() == 0
+                  assert hashlib.sha256(g.CATALOG_PATH.read_bytes()).hexdigest() == temp_catalog_hash
+                  return json.loads(g.QUEUE_PATH.read_text(encoding='utf-8'))['pending'][0]
+
+              unchanged = execute(False, new)
+              assert unchanged['score'] == old['score']
+              print('OK: rivalutazione disattivata, nessun aggiornamento')
+
+              updated = execute(True, new)
+              assert updated['score'] == 112
+              assert updated['record']['matchRule'] == 'Titolo identico'
+              print('OK: aggiorna un candidato solo con nuova valutazione')
+
+              altered = copy.deepcopy(new)
+              altered['record']['matchedVideoTitle'] += ' EXTRA'
+              blocked = execute(True, altered)
+              assert blocked['score'] == old['score']
+              print('OK: cambio metadati bloccato')
+
+          assert hashlib.sha256(real_catalog.read_bytes()).hexdigest() == catalog_hash
+          assert hashlib.sha256(real_queue.read_bytes()).hexdigest() == queue_hash
+          print('MERON TEST RIVALUTAZIONE COMPLETATO: file originali invariati')
+          PY
