@@ -1,0 +1,117 @@
+name: MerON - Anteprima rivalutazione coda
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: meron-video-pipeline
+  cancel-in-progress: false
+
+jobs:
+  anteprima-rivalutazione:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Scarica repository senza credenziali di scrittura
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installa dipendenza YouTube
+        run: python -m pip install --upgrade yt-dlp
+
+      - name: Controlla sintassi
+        run: |
+          python -m py_compile scopri_video_tutti_podcast.py gestisci_video_tutti_podcast.py pubblica_video_altri_podcast.py
+
+      - name: Crea copia isolata della repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          workdir="$RUNNER_TEMP/meron-anteprima"
+          git worktree add --detach "$workdir" HEAD
+          echo "MERON_WORKDIR=$workdir" >> "$GITHUB_ENV"
+
+      - name: Scopri i video nella copia temporanea
+        working-directory: ${{ env.MERON_WORKDIR }}
+        run: python scopri_video_tutti_podcast.py
+
+      - name: Rivaluta la coda senza pubblicare
+        working-directory: ${{ env.MERON_WORKDIR }}
+        env:
+          MERON_MODALITA: SIMULAZIONE
+          MERON_LEGGI_LOTTO: '1'
+          MERON_RIVALUTA_CODA: '1'
+        run: python gestisci_video_tutti_podcast.py
+
+      - name: Conta i candidati recuperati dalla nuova scansione
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PYCODE'
+          import json
+          import os
+          from pathlib import Path
+
+          before = json.loads(Path('coda_video_tutti_podcast.json').read_text(encoding='utf-8-sig'))
+          workdir = Path(os.environ['MERON_WORKDIR'])
+          after = json.loads((workdir / 'coda_video_tutti_podcast.json').read_text(encoding='utf-8-sig'))
+          old_by_key = {
+              (str(item['trackId']), item['record']['youtubeUrl']): item
+              for item in before['pending']
+          }
+          upgraded = []
+          for item in after['pending']:
+              key = (str(item['trackId']), item['record']['youtubeUrl'])
+              old = old_by_key.get(key)
+              if not old:
+                  continue
+              old_score, new_score = old.get('score'), item.get('score')
+              if (type(old_score) is int and type(new_score) is int
+                      and old_score < 110 <= new_score
+                      and item['record'].get('matchRule') == 'Titolo identico'):
+                  upgraded.append({'trackId': key[0], 'youtubeUrl': key[1]})
+
+          summary = {
+              'candidatiInCodaPrima': len(before['pending']),
+              'candidatiInCodaDopoSimulazione': len(after['pending']),
+              'candidatiRivalutatiConSuccesso': len(upgraded),
+              'rivalutati': upgraded,
+          }
+          (workdir / 'rapporto_rivalutazione_coda.json').write_text(
+              json.dumps(summary, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          print('MERON - RIVALUTAZIONE SENZA PUBBLICAZIONE')
+          print('Candidati rivalutati con successo:', len(upgraded))
+          print('Catalogo originale: nessuna modifica prevista')
+          PYCODE
+
+      - name: Controlla che gli originali siano immutati
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --exit-code -- videos.json coda_video_tutti_podcast.json
+          if [ -f "$MERON_WORKDIR/videos.json" ]; then
+            cmp videos.json "$MERON_WORKDIR/videos.json"
+          fi
+          echo 'OK: nessuna modifica ai file originali e al catalogo nella copia.'
+
+      - name: Conserva il rapporto della simulazione
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-anteprima-rivalutazione
+          path: |
+            ${{ env.MERON_WORKDIR }}/anteprima_coda_video_tutti_podcast.json
+            ${{ env.MERON_WORKDIR }}/anteprima_coda_video_tutti_podcast.csv
+            ${{ env.MERON_WORKDIR }}/rapporto_rivalutazione_coda.json
+          if-no-files-found: warn
