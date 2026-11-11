@@ -413,7 +413,7 @@ def site_internal_pages(html_text, site_url, show_name, *, max_items=MAX_INTERNA
                  4 if matches else 1 if generic & cues else 0)
         if score:
             # Elimina query e fragment: non sono parte della prova di origine.
-            relevant.append((score, path, f'https://{p.netloc}{path}'))
+            relevant.append((score, path, f'https://{p.netloc}{urllib.parse.quote(path, safe="/%")}'))
     relevant.sort(key=lambda item: (-item[0], len(item[1]), item[1]))
     return [(score, url) for score, _, url in relevant[:max_items]]
 
