@@ -194,10 +194,56 @@ def main():
         incoming, excluded_at_source, existing_at_source = collect_from_latest_report(catalog)
         for item in incoming:
             key = candidate_key(item)
+            
             if key not in seen:
                 pending.append(item)
                 seen.add(key)
                 imported += 1
+
+            elif os.environ.get('MERON_RIVALUTA_CODA') == '1':
+                # Aggiorna solo candidati gia presenti con lo stesso
+                # episodio, video e metadati, dopo una nuova scansione sicura.
+                old = next(
+                    (x for x in pending if candidate_key(x) == key),
+                    None
+                )
+
+                if old is None:
+                    continue
+
+                old_record = old['record']
+                new_record = item['record']
+                old_score = old.get('score')
+                new_score = item.get('score')
+                old_date = valid_utc(old.get('sourceGeneratedAt'))
+                new_date = valid_utc(item.get('sourceGeneratedAt'))
+
+                same_data = all(
+                    old_record.get(field) == new_record.get(field)
+                    for field in (
+                        'podcast', 'episode', 'youtubeUrl',
+                        'matchedVideoTitle', 'appleCollectionId',
+                        'youtubeChannelId', 'youtubeDurationSeconds',
+                        'automaticMatch', 'matchMethod', 'verified'
+                    )
+                )
+
+                if (
+                    same_data
+                    and old_record.get('verified') is False
+                    and isinstance(old_score, int)
+                    and not isinstance(old_score, bool)
+                    and isinstance(new_score, int)
+                    and not isinstance(new_score, bool)
+                    and old_score < 110 <= new_score
+                    and new_record.get('matchRule') == 'Titolo identico'
+                    and new_date is not None
+                    and (old_date is None or new_date > old_date)
+                ):
+                    old['score'] = new_score
+                    old_record['matchRule'] = 'Titolo identico'
+                    old['sourceGeneratedAt'] = item['sourceGeneratedAt']
+
 
     # I video gia usati nel catalogo restano indisponibili per altri episodi.
     existing_urls = set()
