@@ -1,0 +1,256 @@
+name: MerON - Anteprima recupero storico mirato
+
+on:
+  workflow_dispatch:
+    inputs:
+      lotto:
+        description: 'Gruppo di podcast storici da controllare (prima 1, poi 2)'
+        required: true
+        default: '1'
+        type: choice
+        options:
+          - '1'
+          - '2'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: meron-video-pipeline
+  cancel-in-progress: false
+
+jobs:
+  recupero-storico-in-simulazione:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Scarica repository senza credenziali di scrittura
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installa dipendenza YouTube
+        run: python -m pip install --upgrade yt-dlp
+
+      - name: Controlla sintassi programmi
+        run: |
+          python -m py_compile scopri_youtube_altri_podcast.py gestisci_video_tutti_podcast.py pubblica_video_altri_podcast.py
+
+      - name: Prepara copia isolata
+        shell: bash
+        run: |
+          set -euo pipefail
+          workdir="$RUNNER_TEMP/meron-storici"
+          git worktree add --detach "$workdir" HEAD
+          echo "MERON_WORKDIR=$workdir" >> "$GITHUB_ENV"
+
+      - name: Seleziona solo i vecchi candidati con corrispondenza forte
+        working-directory: ${{ env.MERON_WORKDIR }}
+        env:
+          LOTTO: ${{ inputs.lotto }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PYCODE'
+          import json
+          import os
+          from collections import defaultdict
+          from pathlib import Path
+
+          import scopri_youtube_altri_podcast as yt
+          from gestisci_video_tutti_podcast import normalized_title
+
+          pending = json.loads(Path('coda_video_tutti_podcast.json').read_text(encoding='utf-8-sig'))['pending']
+          groups = defaultdict(list)
+          for item in pending:
+              r = item.get('record', {})
+              a, b = r.get('episode'), r.get('matchedVideoTitle')
+              if (r.get('matchRule') == 'Titolo identico' or
+                      not isinstance(a, str) or not isinstance(b, str) or
+                      not normalized_title(a) or normalized_title(a) != normalized_title(b)):
+                  continue
+              evidence = yt.scoring({'title': a}, {
+                  'title': b, 'duration': r.get('youtubeDurationSeconds')
+              })
+              if not evidence or evidence['score'] < 110 or evidence['rule'] != 'Titolo identico':
+                  continue
+              cid, channel = str(r.get('appleCollectionId', '')), r.get('youtubeChannelId')
+              if not (cid.isdigit() and isinstance(channel, str) and yt.ID_YT.fullmatch(channel)):
+                  continue
+              groups[cid].append(item)
+
+          valid_groups, ambiguous = [], []
+          for cid, items in groups.items():
+              channels = {x['record']['youtubeChannelId'] for x in items}
+              if len(channels) != 1:
+                  ambiguous.append(cid)
+                  continue
+              valid_groups.append((cid, items))
+          valid_groups.sort(key=lambda g: (-len(g[1]), g[0]))
+
+          per_lotto = 10
+          lotto = int(os.environ['LOTTO'])
+          selected = valid_groups[(lotto - 1) * per_lotto:lotto * per_lotto]
+          if not selected:
+              raise ValueError('Nessun podcast in questo lotto: non avvio la scansione')
+
+          config = {
+              'maxAppleEpisodesPerPodcast': 200,
+              'maxYoutubeVideosPerChannel': 250,
+              'channelTimeoutSeconds': 150,
+              'podcasts': [
+                  {
+                      'appleCollectionId': cid,
+                      'name': items[0]['record']['podcast'],
+                      'youtubeChannelId': items[0]['record']['youtubeChannelId'],
+                      'evidence': 'Canale gia verificato nella coda originale'
+                  }
+                  for cid, items in selected
+              ],
+          }
+          Path('config_batch_video_tutti_podcast.json').write_text(
+              json.dumps(config, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          info = {
+              'lotto': lotto,
+              'candidatiStoriciPotenzialiTotali': sum(len(items) for _, items in valid_groups),
+              'podcastStoriciTotali': len(valid_groups),
+              'podcastConCanaliAmbiguiEsclusi': ambiguous,
+              'podcastNelLotto': len(selected),
+              'candidatiStoriciNelLotto': sum(len(items) for _, items in selected),
+              'podcastSelezionati': [
+                  {'name': items[0]['record']['podcast'], 'appleCollectionId': cid,
+                   'candidati': len(items)} for cid, items in selected
+              ]
+          }
+          Path('rapporto_storici_target.json').write_text(
+              json.dumps(info, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          print('MERON - SCANSIONE STORICA MIRATA, LOTTO', lotto)
+          print('Candidati storici potenziali:', info['candidatiStoriciPotenzialiTotali'])
+          print('Podcast selezionati:', info['podcastNelLotto'])
+          print('Candidati nel lotto:', info['candidatiStoriciNelLotto'])
+          PYCODE
+
+      - name: Riscansiona soltanto questi podcast e registra gli errori
+        working-directory: ${{ env.MERON_WORKDIR }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PYCODE'
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          import scopri_youtube_altri_podcast as yt
+
+          path = Path('config_batch_video_tutti_podcast.json')
+          conf = json.loads(path.read_text(encoding='utf-8'))
+          successful, reports, errors = [], [], []
+          for show in conf['podcasts']:
+              part = yt.scan({**conf, 'podcasts': [show]})
+              if part['errors'] or len(part['podcasts']) != 1:
+                  errors.extend(part['errors'] or [{'podcast': show['name'], 'error': 'Scansione incompleta'}])
+                  continue
+              successful.append(show)
+              reports.extend(part['podcasts'])
+
+          conf['podcasts'] = successful
+          path.write_text(json.dumps(conf, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          batch = {
+              'generatedAt': datetime.now(timezone.utc).isoformat(),
+              'mode': 'SOLO_SIMULAZIONE', 'version': 'youtube-altri-podcast-v1',
+              'showsConfigured': len(successful), 'showsAnalyzed': len(reports),
+              'totalStrongCandidates': sum(s['strongCandidates'] for s in reports),
+              'totalToReview': sum(s['toReview'] for s in reports),
+              'errors': [], 'podcasts': reports,
+          }
+          Path('rapporto_youtube_batch_tutti_podcast.json').write_text(
+              json.dumps(batch, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          report = json.loads(Path('rapporto_storici_target.json').read_text(encoding='utf-8'))
+          report['podcastScansionatiConSuccesso'] = len(successful)
+          report['erroriScansione'] = errors
+          Path('rapporto_storici_target.json').write_text(
+              json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          print('Scansioni riuscite:', len(successful), '/', report['podcastNelLotto'])
+          print('Podcast con errori (esclusi, senza pubblicare):', len(errors))
+          print('Candidati forti dal nuovo report:', batch['totalStrongCandidates'])
+          PYCODE
+
+      - name: Rivaluta esclusivamente nella copia senza pubblicazione
+        working-directory: ${{ env.MERON_WORKDIR }}
+        env:
+          MERON_MODALITA: SIMULAZIONE
+          MERON_LEGGI_LOTTO: '1'
+          MERON_RIVALUTA_CODA: '1'
+        run: python gestisci_video_tutti_podcast.py
+
+      - name: Conta correttamente i vecchi candidati aggiornati
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PYCODE'
+          import json
+          import os
+          from pathlib import Path
+
+          original = json.loads(Path('coda_video_tutti_podcast.json').read_text(encoding='utf-8-sig'))['pending']
+          temp = Path(os.environ['MERON_WORKDIR'])
+          after = json.loads((temp / 'coda_video_tutti_podcast.json').read_text(encoding='utf-8-sig'))['pending']
+          old = {(str(x['trackId']), x['record']['youtubeUrl']): x for x in original}
+          upgrades = []
+          for new in after:
+              key = (str(new['trackId']), new['record']['youtubeUrl'])
+              prev = old.get(key)
+              if prev is None:
+                  continue
+              old_score, new_score = prev.get('score'), new.get('score')
+              old_rule = prev['record'].get('matchRule')
+              new_rule = new['record'].get('matchRule')
+              if (old_rule != 'Titolo identico' and new_rule == 'Titolo identico'
+                      and type(old_score) is int and type(new_score) is int
+                      and new_score >= max(110, old_score)):
+                  upgrades.append({
+                      'trackId': key[0], 'youtubeUrl': key[1],
+                      'scorePrima': old_score, 'scoreDopo': new_score,
+                      'regolaPrima': old_rule, 'regolaDopo': new_rule,
+                  })
+          report_path = temp / 'rapporto_storici_target.json'
+          report = json.loads(report_path.read_text(encoding='utf-8'))
+          report['candidatiInCodaPrima'] = len(original)
+          report['candidatiInCodaDopo'] = len(after)
+          report['vecchiCandidatiRivalutati'] = len(upgrades)
+          report['rivalutati'] = upgrades
+          report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print('VECCHI CANDIDATI RIVALUTATI IN SICUREZZA:', len(upgrades))
+          print('Nessun video pubblicato: questa e solo una simulazione.')
+          PYCODE
+
+      - name: Verifica che catalogo e coda originali non siano stati modificati
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --exit-code -- videos.json coda_video_tutti_podcast.json
+          if [ -f "$MERON_WORKDIR/videos.json" ]; then
+            cmp videos.json "$MERON_WORKDIR/videos.json"
+          fi
+          echo 'OK: catalogo e coda originali invariati.'
+
+      - name: Carica il rapporto della simulazione
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-storici-lotto-${{ inputs.lotto }}
+          path: |
+            ${{ env.MERON_WORKDIR }}/rapporto_storici_target.json
+            ${{ env.MERON_WORKDIR }}/anteprima_coda_video_tutti_podcast.json
+            ${{ env.MERON_WORKDIR }}/anteprima_coda_video_tutti_podcast.csv
+          if-no-files-found: warn
