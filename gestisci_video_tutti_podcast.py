@@ -234,8 +234,9 @@ def main():
                     and isinstance(old_score, int)
                     and not isinstance(old_score, bool)
                     and isinstance(new_score, int)
-                    and not isinstance(new_score, bool)
-                    and old_score < 110 <= new_score
+                    and not isinstance(new_score, bool)                   
+                    and old_record.get('matchRule') != 'Titolo identico'
+                    and new_score >= max(110, old_score)
                     and new_record.get('matchRule') == 'Titolo identico'
                     and new_date is not None
                     and (old_date is None or new_date > old_date)
