@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-12T13:53:24.669299+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163757+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -6549,12 +6549,12 @@
     },
     "1454106438": {
       "name": "Pensieri in codice",
-      "lastAttempt": "2026-11-12T13:53:24.669068+00:00",
+      "lastAttempt": "2026-11-13T13:12:31.539246+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC-os-sCgbIb-TIqknc4ekVw",
       "youtubeSourceUrl": "https://www.youtube.com/@ulti_media",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1741574582": {
       "name": "The TED AI Show",
@@ -6572,21 +6572,21 @@
     },
     "1771917740": {
       "name": "American Alchemy with Jesse Michels",
-      "lastAttempt": "2026-11-12T13:53:24.669101+00:00",
+      "lastAttempt": "2026-11-13T13:12:40.250412+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCuG2KzrIMe3qoNcuDVpwnXw",
       "youtubeSourceUrl": "https://www.youtube.com/@JesseMichels",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "842818711": {
       "name": "The a16z Show",
-      "lastAttempt": "2026-11-12T13:53:24.669120+00:00",
+      "lastAttempt": "2026-11-13T13:12:47.550370+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC9cn0TuPq4dnbTY-CBsm8XA",
       "youtubeSourceUrl": "https://www.youtube.com/@a16z",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1844436506": {
       "name": "Good Vibrations: Sviluppare Software nell'Era dell'AI",
@@ -6597,12 +6597,12 @@
     },
     "1498541229": {
       "name": "硅谷101",
-      "lastAttempt": "2026-11-12T13:53:24.669137+00:00",
+      "lastAttempt": "2026-11-13T13:12:57.385560+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UChnNjLyx_5rk_iDPQ2BQDQA",
       "youtubeSourceUrl": "https://www.youtube.com/@valley101podcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1752831322": {
       "name": "Dalla A alla I",
@@ -6634,12 +6634,12 @@
     },
     "1888617452": {
       "name": "RobTalk",
-      "lastAttempt": "2026-11-12T13:53:24.669152+00:00",
+      "lastAttempt": "2026-11-13T13:13:05.445884+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCTKSFkSx0hBWEYJ4G2aksAg",
       "youtubeSourceUrl": "https://www.youtube.com/@robco_therobotco",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1817002855": {
       "name": "shift – Häfen, Logistik, Zukunft",
@@ -6664,12 +6664,12 @@
     },
     "1170991978": {
       "name": "Future of Life Institute Podcast",
-      "lastAttempt": "2026-11-12T13:53:24.669167+00:00",
+      "lastAttempt": "2026-11-13T13:13:07.536723+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC-rCCy3FQ-GItDimSR9lhzw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC-rCCy3FQ-GItDimSR9lhzw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1214715973": {
       "name": "Marco Montemagno - Il Podcast",
@@ -6680,21 +6680,21 @@
     },
     "1518862081": {
       "name": "Made IT - Storie Italiane di Successo",
-      "lastAttempt": "2026-11-12T13:53:24.669183+00:00",
+      "lastAttempt": "2026-11-13T13:13:16.990702+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCRtM7DNnBhNbyDGn_XJR3xg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCRtM7DNnBhNbyDGn_XJR3xg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1522517610": {
       "name": "Marco Casario - Finanza Personale, Investimenti ed Economia",
-      "lastAttempt": "2026-11-12T13:53:24.669197+00:00",
+      "lastAttempt": "2026-11-13T13:13:22.377927+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCZp2KqGRkO1goEAaxX5Huyg",
       "youtubeSourceUrl": "https://www.youtube.com/user/marcocasario",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1785537065": {
       "name": "Chapeau",
@@ -6705,12 +6705,12 @@
     },
     "1746169285": {
       "name": "Too Big To Fail - Finanza personale a 3 voci",
-      "lastAttempt": "2026-11-12T13:53:24.669212+00:00",
+      "lastAttempt": "2026-11-13T13:13:35.457606+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCRaSHXXo9tVFUKWm9FofgMQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCRaSHXXo9tVFUKWm9FofgMQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1895353720": {
       "name": "Storie di finanza by Scalable Capital",
@@ -6749,12 +6749,12 @@
     },
     "1895157356": {
       "name": "Il Punto Economico Podcast",
-      "lastAttempt": "2026-11-12T13:53:24.669226+00:00",
+      "lastAttempt": "2026-11-13T13:13:40.364173+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCAlNOYv6A-WMZ799N1iLMFA",
       "youtubeSourceUrl": "https://www.youtube.com/@ilpuntoeconomico",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1880335505": {
       "name": "ETF sul Ring | La finanza senza esclusione di colpi",
@@ -6807,21 +6807,21 @@
     },
     "1589245479": {
       "name": "Il Rosso e Il Nero",
-      "lastAttempt": "2026-11-12T13:53:28.669003+00:00",
+      "lastAttempt": "2026-11-13T13:13:43.998891+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC-7bx04ZavmG9c4aXhuItzg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC-7bx04ZavmG9c4aXhuItzg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1590851609": {
       "name": "Market Flash",
-      "lastAttempt": "2026-11-12T13:53:33.700391+00:00",
+      "lastAttempt": "2026-11-13T13:13:52.522700+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC-7bx04ZavmG9c4aXhuItzg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC-7bx04ZavmG9c4aXhuItzg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1802845638": {
       "name": "Binario 11 – La storia della finanza mentre la stai vivendo",
@@ -6832,30 +6832,30 @@
     },
     "1691284824": {
       "name": "Unhedged",
-      "lastAttempt": "2026-11-12T13:53:41.630640+00:00",
+      "lastAttempt": "2026-11-13T13:13:59.335237+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC2slDVpvnUYR4_x06c287Cw",
       "youtubeSourceUrl": "https://www.youtube.com/@ftthestoryofmoney",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1830952526": {
       "name": "MARCELLO ASCANI PODCAST",
-      "lastAttempt": "2026-11-12T13:53:43.038882+00:00",
+      "lastAttempt": "2026-11-13T13:14:04.067290+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCEM7YSCFzowOeAVkh2eLhIQ",
       "youtubeSourceUrl": "https://www.youtube.com/@onepodcast_",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "948913991": {
       "name": "Exchanges",
-      "lastAttempt": "2026-11-12T13:53:47.772495+00:00",
+      "lastAttempt": "2026-11-13T13:14:10.533921+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCyz6-taovlaOkPsPtK4KNEg",
       "youtubeSourceUrl": "https://www.youtube.com/user/GoldmanSachs",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1608146066": {
       "name": "Grano",
@@ -6866,12 +6866,12 @@
     },
     "1515385282": {
       "name": "A Bit of Optimism",
-      "lastAttempt": "2026-11-12T13:53:53.042436+00:00",
+      "lastAttempt": "2026-11-13T13:14:19.509849+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCPmfPl-BsCd3wmE8i45LAoA",
       "youtubeSourceUrl": "https://www.youtube.com/@simonsinek",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1534754050": {
       "name": "Inglorious Globastards - PODCAST",
@@ -6882,12 +6882,12 @@
     },
     "1648228034": {
       "name": "Moonshots with Peter Diamandis",
-      "lastAttempt": "2026-11-12T13:53:57.506154+00:00",
+      "lastAttempt": "2026-11-13T13:14:29.097439+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCh2iw67YgoRcp-oYBn89c5g",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCh2iw67YgoRcp-oYBn89c5g",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1815806949": {
       "name": "The Gstaad Guy Podcast",
@@ -6905,12 +6905,12 @@
     },
     "990149481": {
       "name": "The Knowledge Project",
-      "lastAttempt": "2026-11-12T13:54:06.962369+00:00",
+      "lastAttempt": "2026-11-13T13:14:32.701959+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCLtTf_uKt0Itd0NG7txrwXA",
       "youtubeSourceUrl": "https://www.youtube.com/@tkppodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1854858291": {
       "name": "Reuters Morning Bid",
@@ -6921,12 +6921,12 @@
     },
     "6796653217": {
       "name": "Abisso",
-      "lastAttempt": "2026-11-12T13:54:13.029486+00:00",
+      "lastAttempt": "2026-11-13T13:14:38.709913+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCLWdbacC_r7g_3VEufPG7cw",
       "youtubeSourceUrl": "https://www.youtube.com/@WhaleStreet_YouTube",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1056200096": {
       "name": "Odd Lots",
@@ -6951,12 +6951,12 @@
     },
     "1650591741": {
       "name": "Business English from All Ears English",
-      "lastAttempt": "2026-11-12T13:54:27.496699+00:00",
+      "lastAttempt": "2026-11-13T13:14:40.218837+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCajKaiBJSwYcDFbfMICpSpA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCajKaiBJSwYcDFbfMICpSpA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1683948659": {
       "name": "HBR On Leadership",
@@ -7002,7 +7002,7 @@
     },
     "1788807380": {
       "name": "Storie di Capitali",
-      "lastAttempt": "2026-11-12T13:54:59.577110+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163453+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCIMvdBIGKK51JiRo9giujkQ",
@@ -7032,7 +7032,7 @@
     },
     "1141877104": {
       "name": "Founders",
-      "lastAttempt": "2026-11-12T13:55:15.532088+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163491+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCQ-rrUCsJLNjFdPtKq0YOfA",
@@ -7083,7 +7083,7 @@
     },
     "1523870200": {
       "name": "Il Podcast immobiliare",
-      "lastAttempt": "2026-11-12T13:55:40.581285+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163515+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCL2cbV1Pv6j8rfpPeiPBmog",
@@ -7106,7 +7106,7 @@
     },
     "1761379374": {
       "name": "Mittelstars | Der Mittelstands- und Unternehmerpodcast",
-      "lastAttempt": "2026-11-12T13:55:50.821270+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163537+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCvTClzXW_BSkGLrt63-v0sg",
@@ -7150,7 +7150,7 @@
     },
     "1638701618": {
       "name": "La Sicurezza Per Tutti | Il podcast che semplifica la sicurezza sul lavoro",
-      "lastAttempt": "2026-11-12T13:56:13.580543+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163559+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCW77_HdIgsezvH7HoxAFcNw",
@@ -7180,7 +7180,7 @@
     },
     "1893937319": {
       "name": "Caffè e Mercati - Investire.biz",
-      "lastAttempt": "2026-11-12T13:56:25.134192+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163577+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCZZlp4DXQYwVUIY9jgV_S1w",
@@ -7189,7 +7189,7 @@
     },
     "1310192007": {
       "name": "Animal Spirits Podcast",
-      "lastAttempt": "2026-11-12T13:56:28.138862+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163593+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCBRpqrzuuqE8TZcWw75JSdw",
@@ -7198,7 +7198,7 @@
     },
     "1692087258": {
       "name": "Ascolto Beltrami",
-      "lastAttempt": "2026-11-12T13:56:29.844831+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163609+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCKUPegpa61_iBfwTq7UDXhQ",
@@ -7214,7 +7214,7 @@
     },
     "1301122280": {
       "name": "Affari Miei Podcast",
-      "lastAttempt": "2026-11-12T13:56:35.547129+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163624+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCEkeiWgF8nD8kFWuQ34F8xg",
@@ -7237,7 +7237,7 @@
     },
     "1547740313": {
       "name": "Patrick Boyle On Finance",
-      "lastAttempt": "2026-11-12T13:56:45.268990+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163642+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCASM0cgfkJxQ1ICmRilfHLw",
@@ -7267,7 +7267,7 @@
     },
     "1744631325": {
       "name": "Prof G Markets",
-      "lastAttempt": "2026-11-12T13:56:58.646324+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163658+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCp4CBeq4nzeg9smAvdjPrig",
@@ -7283,7 +7283,7 @@
     },
     "1805575445": {
       "name": "Finanza Fronteretro - Oltre le notizie",
-      "lastAttempt": "2026-11-12T13:57:11.326989+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163676+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCmKzO67d1_oehLcUqUJKQRg",
@@ -7292,7 +7292,7 @@
     },
     "1079172742": {
       "name": "Macro Voices",
-      "lastAttempt": "2026-11-12T13:57:15.621834+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163692+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCtUOTh3VFMbtkVTEcRWFwnA",
@@ -7301,7 +7301,7 @@
     },
     "1513342799": {
       "name": "Weekly News 🗞️ - Marketing Espresso",
-      "lastAttempt": "2026-11-12T13:57:16.469643+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163708+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC8pPmdAV3QfAZ0pwrKez2FQ",
@@ -7317,12 +7317,488 @@
     },
     "1426530582": {
       "name": "The Rational Reminder Podcast",
-      "lastAttempt": "2026-11-12T13:57:22.141496+00:00",
+      "lastAttempt": "2026-11-13T13:14:49.163724+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCOErWFfNOQzXsgE7f5S_ULw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCOErWFfNOQzXsgE7f5S_ULw",
       "status": "DA_SCANSIONARE"
+    },
+    "1063239197": {
+      "name": "Merita Business Podcast",
+      "lastAttempt": "2026-11-13T13:14:49.904068+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1805575062": {
+      "name": "Macro e Mercati | Finanza e Trend globali",
+      "lastAttempt": "2026-11-13T13:14:50.185617+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCmKzO67d1_oehLcUqUJKQRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/WSWebsim",
+      "status": "DA_SCANSIONARE"
+    },
+    "1150510297": {
+      "name": "How I Built This with Guy Raz",
+      "lastAttempt": "2026-11-13T13:14:57.969769+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCNSfrxNEmCruNtjIzxCBHjg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCNSfrxNEmCruNtjIzxCBHjg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1789169776": {
+      "name": "Hot Smart Rich with Maggie Sellers Reum",
+      "lastAttempt": "2026-11-13T13:14:58.091608+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1447945996": {
+      "name": "La finanza amichevole",
+      "lastAttempt": "2026-11-13T13:15:03.138917+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1691595080": {
+      "name": "Financial Audit",
+      "lastAttempt": "2026-11-13T13:15:15.092683+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1760438314": {
+      "name": "Tiger Sisters",
+      "lastAttempt": "2026-11-13T13:15:15.342402+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1480059697": {
+      "name": "Morning Brew Daily",
+      "lastAttempt": "2026-11-13T13:15:19.354472+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCJGeBpBh9_Q0B_EKPmj14Pg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCJGeBpBh9_Q0B_EKPmj14Pg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1675310669": {
+      "name": "The Psychology of Money with Morgan Housel",
+      "lastAttempt": "2026-11-13T13:15:22.127846+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1792624809": {
+      "name": "OMBRE ITALIANE",
+      "lastAttempt": "2026-11-13T13:15:24.486748+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1435289295": {
+      "name": "Daily Cogito",
+      "lastAttempt": "2026-11-13T13:15:27.743997+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1740515572": {
+      "name": "Non lo faccio x moda",
+      "lastAttempt": "2026-11-13T13:15:34.187020+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1842396593": {
+      "name": "Numer1",
+      "lastAttempt": "2026-11-13T13:15:34.519396+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1564137097": {
+      "name": "La Giornata",
+      "lastAttempt": "2026-11-13T13:15:37.793341+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC9ePmjVRHLL8x8vq5fOKflg",
+      "youtubeSourceUrl": "https://www.youtube.com/@repubblica",
+      "status": "DA_SCANSIONARE"
+    },
+    "1609066518": {
+      "name": "Jeantoneria",
+      "lastAttempt": "2026-11-13T13:15:42.572586+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1639100799": {
+      "name": "Fatti di Mente - La Psicologia e le Neuroscienze nella vita di tutti i giorni",
+      "lastAttempt": "2026-11-13T13:15:43.621737+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCtpdt1HrvHEs2I-9Eq4TzvQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@hypercaststudio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1694514114": {
+      "name": "È solo sesso",
+      "lastAttempt": "2026-11-13T13:15:50.482969+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCsYN70T0gqR5U_xmWnZKcTQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCsYN70T0gqR5U_xmWnZKcTQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "6814188572": {
+      "name": "PIANETA B12",
+      "lastAttempt": "2026-11-13T13:15:51.843013+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCUCPluyiWzGaMM_S_L2erOw",
+      "youtubeSourceUrl": "https://www.youtube.com/@PianetaB12",
+      "status": "DA_SCANSIONARE"
+    },
+    "1766168883": {
+      "name": "ITALIA: Crescere con la Cultura",
+      "lastAttempt": "2026-11-13T13:15:55.893145+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "160904630": {
+      "name": "TED Talks Daily",
+      "lastAttempt": "2026-11-13T13:16:00.298028+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1744877541": {
+      "name": "NON HO MAI con RockandFiocc e Claves",
+      "lastAttempt": "2026-11-13T13:16:01.258661+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6811068111": {
+      "name": "Via della piccolezza",
+      "lastAttempt": "2026-11-13T13:16:03.588319+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1790373644": {
+      "name": "Controvento",
+      "lastAttempt": "2026-11-13T13:16:06.677501+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1875855512": {
+      "name": "il fienile",
+      "lastAttempt": "2026-11-13T13:16:10.290748+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6828821672": {
+      "name": "Al di là del buio",
+      "lastAttempt": "2026-11-13T13:16:14.901299+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1540120931": {
+      "name": "BAZAR ATOMICO",
+      "lastAttempt": "2026-11-13T13:16:15.971371+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCX1FJR_WLif_0WLDMBrM2KQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@digibatvideo",
+      "status": "DA_SCANSIONARE"
+    },
+    "1759967477": {
+      "name": "Filosofia e Caffeina Podcast",
+      "lastAttempt": "2026-11-13T13:16:19.710317+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "73802620": {
+      "name": "The Documentary Podcast",
+      "lastAttempt": "2026-11-13T13:16:22.167509+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6810979784": {
+      "name": "Oriana",
+      "lastAttempt": "2026-11-13T13:16:25.247497+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1718311688": {
+      "name": "Se domani non torno",
+      "lastAttempt": "2026-11-13T13:16:28.341065+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1895576132": {
+      "name": "Acciaio e silenzi - La storia dell'Ilva raccontata dai suoi testimoni",
+      "lastAttempt": "2026-11-13T13:16:31.493339+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1786132347": {
+      "name": "Mezzo Pieno",
+      "lastAttempt": "2026-11-13T13:16:34.839009+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1715340615": {
+      "name": "Nova Lectio - Storie di Geopolitica",
+      "lastAttempt": "2026-11-13T13:16:37.595731+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCRCWJCFoZUvkkWzIqzfBy6g",
+      "youtubeSourceUrl": "https://www.youtube.com/c/NovaLectio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1521869598": {
+      "name": "Alessandro Barbero. La storia, le storie - Intesa Sanpaolo On Air",
+      "lastAttempt": "2026-11-13T13:16:41.481785+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1872021023": {
+      "name": "Operazione Portobello - Il calvario di Enzo Tortora",
+      "lastAttempt": "2026-11-13T13:16:51.440763+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1612802974": {
+      "name": "Perché Pasolini?",
+      "lastAttempt": "2026-11-13T13:16:52.164062+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1548604447": {
+      "name": "The Ezra Klein Show",
+      "lastAttempt": "2026-11-13T13:16:57.359245+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1766037480": {
+      "name": "E poi il silenzio - Il disastro di Rigopiano",
+      "lastAttempt": "2026-11-13T13:17:00.252961+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCsYN70T0gqR5U_xmWnZKcTQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCsYN70T0gqR5U_xmWnZKcTQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1842111415": {
+      "name": "Un'ora sola ti vorrei",
+      "lastAttempt": "2026-11-13T13:17:02.082955+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1883679553": {
+      "name": "Inheritance",
+      "lastAttempt": "2026-11-13T13:17:03.971131+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1626082149": {
+      "name": "Deejay Adventures",
+      "lastAttempt": "2026-11-13T13:17:07.088258+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "201671138": {
+      "name": "This American Life",
+      "lastAttempt": "2026-11-13T13:17:11.451517+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6815192990": {
+      "name": "DIKELE",
+      "lastAttempt": "2026-11-13T13:17:14.319844+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1539194407": {
+      "name": "Cose Molto Americane di Gianpiero Kesten e Cristiano Valli",
+      "lastAttempt": "2026-11-13T13:17:18.212008+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1691906317": {
+      "name": "La Scomparsa: Emanuela Orlandi",
+      "lastAttempt": "2026-11-13T13:17:19.524267+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1602067079": {
+      "name": "Festival della Mente",
+      "lastAttempt": "2026-11-13T13:17:22.739049+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1716894402": {
+      "name": "Scatenate",
+      "lastAttempt": "2026-11-13T13:17:28.836921+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1858537950": {
+      "name": "Casa Zagato",
+      "lastAttempt": "2026-11-13T13:17:28.981755+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCr_oPGsoqgfCeGpoNFvPZIQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@Casazagato",
+      "status": "DA_SCANSIONARE"
+    },
+    "1679216760": {
+      "name": "Amare parole",
+      "lastAttempt": "2026-11-13T13:17:32.890445+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1896796682": {
+      "name": "Che segno che fa",
+      "lastAttempt": "2026-11-13T13:17:37.284305+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCT0Yh0LJJfyznEHQtcwFaBA",
+      "youtubeSourceUrl": "https://www.youtube.com/@chesegnochefa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1793322236": {
+      "name": "Rivoluzione porno",
+      "lastAttempt": "2026-11-13T13:17:39.134330+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1896928135": {
+      "name": "ExMo Podcast",
+      "lastAttempt": "2026-11-13T13:17:41.327292+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1772323196": {
+      "name": "Vale Tutto Podcast",
+      "lastAttempt": "2026-11-13T13:17:47.321211+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1728419013": {
+      "name": "Sulla gentilezza",
+      "lastAttempt": "2026-11-13T13:17:47.516343+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6818086431": {
+      "name": "Fly Me to the Moon (Stagione 2)",
+      "lastAttempt": "2026-11-13T13:17:52.175389+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1648290318": {
+      "name": "B-Side",
+      "lastAttempt": "2026-11-13T13:17:55.235328+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6817333034": {
+      "name": "American Pie: gli USA alla prova del Midterm",
+      "lastAttempt": "2026-11-13T13:18:28.561905+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "278981407": {
+      "name": "Stuff You Should Know",
+      "lastAttempt": "2026-11-13T13:18:28.687872+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1836106371": {
+      "name": "DISAGIO CLUB",
+      "lastAttempt": "2026-11-13T13:18:33.319412+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 503: Service Unavailable",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1825226148": {
+      "name": "Enclave - Sopravvivere a Srebrenica",
+      "lastAttempt": "2026-11-13T13:18:36.080205+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1737834340": {
+      "name": "History Telling",
+      "lastAttempt": "2026-11-13T13:18:39.473145+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6822360730": {
+      "name": "PIANO A - il Successo dopo il Successo",
+      "lastAttempt": "2026-11-13T13:18:43.344060+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1848291926": {
+      "name": "A Chi Interessa",
+      "lastAttempt": "2026-11-13T13:18:46.047219+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCPZBvPiDLnTiDG6YoFY7gYQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCPZBvPiDLnTiDG6YoFY7gYQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1652531571": {
+      "name": "Vite Scomode",
+      "lastAttempt": "2026-11-13T13:18:47.958449+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
     }
   },
   "chartShows": {
