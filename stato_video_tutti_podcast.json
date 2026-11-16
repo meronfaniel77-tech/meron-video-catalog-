@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-15T12:51:27.450127+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070216+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -8020,21 +8020,21 @@
     },
     "1703000388": {
       "name": "Dove nessuno guarda – Il caso Elisa Claps",
-      "lastAttempt": "2026-11-15T12:51:27.449998+00:00",
+      "lastAttempt": "2026-11-16T13:45:23.568938+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCsYN70T0gqR5U_xmWnZKcTQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCsYN70T0gqR5U_xmWnZKcTQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1728604174": {
       "name": "Sangue Loro - Il ragazzo mandato a uccidere",
-      "lastAttempt": "2026-11-15T12:51:27.450011+00:00",
+      "lastAttempt": "2026-11-16T13:45:28.544419+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCsYN70T0gqR5U_xmWnZKcTQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCsYN70T0gqR5U_xmWnZKcTQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1896911839": {
       "name": "Nicole Fornaro Stories",
@@ -8045,12 +8045,12 @@
     },
     "1865730671": {
       "name": "Luminol",
-      "lastAttempt": "2026-11-15T12:51:27.450020+00:00",
+      "lastAttempt": "2026-11-16T13:45:32.588053+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCuQBUErFs5Qx0gULV3ZQthg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuQBUErFs5Qx0gULV3ZQthg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1895889729": {
       "name": "Confini Sottili - Il Podcast del Mistero",
@@ -8068,12 +8068,12 @@
     },
     "1148175292": {
       "name": "In The Dark",
-      "lastAttempt": "2026-11-15T12:51:27.450028+00:00",
+      "lastAttempt": "2026-11-16T13:45:36.658792+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCsD-Qms-AkXDrsU962OicLw",
       "youtubeSourceUrl": "https://www.youtube.com/user/NewYorkerDotCom",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1835851658": {
       "name": "Sottovoce - Storie criminali",
@@ -8098,12 +8098,12 @@
     },
     "1517954480": {
       "name": "Rotten Mango",
-      "lastAttempt": "2026-11-15T12:51:27.450035+00:00",
+      "lastAttempt": "2026-11-16T13:45:41.129301+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC0JJtK3m8pwy6rVgnBz47Rw",
       "youtubeSourceUrl": "https://www.youtube.com/@rottenmangopod",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1890142597": {
       "name": "Fili Rossi",
@@ -8128,12 +8128,12 @@
     },
     "1486608425": {
       "name": "MORD AUF EX",
-      "lastAttempt": "2026-11-15T12:51:27.450044+00:00",
+      "lastAttempt": "2026-11-16T13:45:50.208904+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCcY2BoPprEhKwvDBWuoicXQ",
       "youtubeSourceUrl": "https://www.youtube.com/@mordaufex",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1801159250": {
       "name": "Il Banchiere di Dio",
@@ -8158,12 +8158,12 @@
     },
     "1537575625": {
       "name": "Missing Debbie | Bed of Lies",
-      "lastAttempt": "2026-11-15T12:51:27.450054+00:00",
+      "lastAttempt": "2026-11-16T13:45:53.393161+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UC8We2IKQo4lbongz7uOn2vA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC8We2IKQo4lbongz7uOn2vA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1853234178": {
       "name": "Tu non puoi capire",
@@ -8174,12 +8174,12 @@
     },
     "1799597269": {
       "name": "Come Il Crimine Podcast",
-      "lastAttempt": "2026-11-15T12:51:27.450062+00:00",
+      "lastAttempt": "2026-11-16T13:45:55.104487+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCF9N-hXArqIC6fxVXP57e-A",
       "youtubeSourceUrl": "https://www.youtube.com/@comeilcriminepodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6805984512": {
       "name": "Heart",
@@ -8190,12 +8190,12 @@
     },
     "1652721412": {
       "name": "Fantasma - Il caso Unabomber",
-      "lastAttempt": "2026-11-15T12:51:27.450071+00:00",
+      "lastAttempt": "2026-11-16T13:45:57.652192+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
       "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1864372379": {
       "name": "Podcast Criminale",
@@ -8262,12 +8262,12 @@
     },
     "1628639926": {
       "name": "Death of an Artist",
-      "lastAttempt": "2026-11-15T12:51:27.450078+00:00",
+      "lastAttempt": "2026-11-16T13:46:03.487462+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCyw1w33TPfPcYqLvUbdIo0w",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCyw1w33TPfPcYqLvUbdIo0w",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1669716123": {
       "name": "Detectives Don't Sleep",
@@ -8278,21 +8278,21 @@
     },
     "1773249041": {
       "name": "Cronache dell'ignoto",
-      "lastAttempt": "2026-11-15T12:51:27.450087+00:00",
+      "lastAttempt": "2026-11-16T13:46:08.734012+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC6g0GeDpQfmLRMPGEumaYDA",
       "youtubeSourceUrl": "https://www.youtube.com/@cronachedellignoto",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1759859424": {
       "name": "10 e 25 - La vera storia dietro alla strage di Bologna",
-      "lastAttempt": "2026-11-15T12:51:27.450095+00:00",
+      "lastAttempt": "2026-11-16T13:46:12.916802+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCEAg8-j9kyHjQ3mOr7RSSSA",
       "youtubeSourceUrl": "https://www.youtube.com/c/SlowNewsCom",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1710102706": {
       "name": "18 secondi. La strage di Linate",
@@ -8331,12 +8331,12 @@
     },
     "1831750398": {
       "name": "Crimini Dimenticati True Crime",
-      "lastAttempt": "2026-11-15T12:51:27.450103+00:00",
+      "lastAttempt": "2026-11-16T13:46:16.845434+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UC5EWgDKXPl09x67Ha0QpqOQ",
       "youtubeSourceUrl": "https://www.youtube.com/@criminidimenticati",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1731539225": {
       "name": "Casi Umani",
@@ -8403,21 +8403,21 @@
     },
     "1896900192": {
       "name": "Ombre - Il lato oscuro dei soldi",
-      "lastAttempt": "2026-11-15T12:51:54.767085+00:00",
+      "lastAttempt": "2026-11-16T13:46:19.562453+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCtcp08DZAbtMKSRkGFahBDg",
       "youtubeSourceUrl": "https://www.youtube.com/@borsaefinanza",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1692849734": {
       "name": "Inchiostro Nero",
-      "lastAttempt": "2026-11-15T12:52:00.112478+00:00",
+      "lastAttempt": "2026-11-16T13:46:24.394262+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCgWYgzMqnraaWzHOy6e4ZwQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCgWYgzMqnraaWzHOy6e4ZwQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1658362786": {
       "name": "Crime story",
@@ -8463,30 +8463,30 @@
     },
     "998568017": {
       "name": "Casefile True Crime",
-      "lastAttempt": "2026-11-15T12:52:20.172245+00:00",
+      "lastAttempt": "2026-11-16T13:46:27.789395+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCF73VZS_4MZcVleGJmykISA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCF73VZS_4MZcVleGJmykISA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1472201014": {
       "name": "ARD Crime Time – Der True Crime Podcast",
-      "lastAttempt": "2026-11-15T12:52:24.578492+00:00",
+      "lastAttempt": "2026-11-16T13:46:34.900428+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCvwE_EBBDWM552Vd9v8m9Gg",
       "youtubeSourceUrl": "https://www.youtube.com/c/mdr",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1777411513": {
       "name": "Ombre Su Torino",
-      "lastAttempt": "2026-11-15T12:52:29.923120+00:00",
+      "lastAttempt": "2026-11-16T13:46:43.325391+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCtpdt1HrvHEs2I-9Eq4TzvQ",
       "youtubeSourceUrl": "https://www.youtube.com/@hypercaststudio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6813530494": {
       "name": "Noir Italiano",
@@ -8546,12 +8546,12 @@
     },
     "1618084297": {
       "name": "Heart Starts Pounding: Horrors, Hauntings and Mysteries",
-      "lastAttempt": "2026-11-15T12:52:56.856339+00:00",
+      "lastAttempt": "2026-11-16T13:46:49.057880+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCR9md7CvNeB9YYGbSPebzwA",
       "youtubeSourceUrl": "https://www.youtube.com/@heartstartspounding",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "965818306": {
       "name": "48 Hours",
@@ -8583,12 +8583,12 @@
     },
     "673961966": {
       "name": "Nessun luogo è lontano",
-      "lastAttempt": "2026-11-15T12:53:14.714439+00:00",
+      "lastAttempt": "2026-11-16T13:46:56.219574+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1836438746": {
       "name": "SCANNER",
@@ -8599,7 +8599,7 @@
     },
     "1485097768": {
       "name": "Phastidio Podcast",
-      "lastAttempt": "2026-11-15T12:53:17.931336+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070007+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr12CMiV7C0aSwuf29z_AJw",
@@ -8608,7 +8608,7 @@
     },
     "6818609651": {
       "name": "Un punto sulla mappa",
-      "lastAttempt": "2026-11-15T12:53:21.969820+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070027+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8631,7 +8631,7 @@
     },
     "1814548989": {
       "name": "Wilson - Le notizie, spiegate bene",
-      "lastAttempt": "2026-11-15T12:53:31.460672+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070038+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
@@ -8640,7 +8640,7 @@
     },
     "6823568014": {
       "name": "Questioni di privacy",
-      "lastAttempt": "2026-11-15T12:53:35.132913+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070052+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8649,7 +8649,7 @@
     },
     "716679011": {
       "name": "Il Volo del Mattino",
-      "lastAttempt": "2026-11-15T12:53:38.475096+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070061+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
@@ -8665,7 +8665,7 @@
     },
     "1479855029": {
       "name": "24 Mattino - Le interviste",
-      "lastAttempt": "2026-11-15T12:53:47.605027+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070076+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8674,7 +8674,7 @@
     },
     "290928166": {
       "name": "Melog",
-      "lastAttempt": "2026-11-15T12:53:49.122936+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070092+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8690,7 +8690,7 @@
     },
     "673995033": {
       "name": "24 Mattino - Rassegna stampa",
-      "lastAttempt": "2026-11-15T12:53:54.344405+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070109+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8699,7 +8699,7 @@
     },
     "1438449989": {
       "name": "FT News Briefing",
-      "lastAttempt": "2026-11-15T12:53:58.291002+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070121+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCoUxsWakJucWg46KW5RsvPw",
@@ -8708,7 +8708,7 @@
     },
     "1435052305": {
       "name": "Uno, nessuno, 100Milan",
-      "lastAttempt": "2026-11-15T12:54:00.649860+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070131+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8759,7 +8759,7 @@
     },
     "1554071963": {
       "name": "Catteland",
-      "lastAttempt": "2026-11-15T12:54:25.035902+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070140+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
@@ -8775,7 +8775,7 @@
     },
     "128515507": {
       "name": "Chiamate Roma Triuno Triuno",
-      "lastAttempt": "2026-11-15T12:54:28.610811+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070148+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
@@ -8798,7 +8798,7 @@
     },
     "6827890406": {
       "name": "Marketing tracks",
-      "lastAttempt": "2026-11-15T12:54:38.878015+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070156+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8807,7 +8807,7 @@
     },
     "1584788102": {
       "name": "Matteo Caccia racconta",
-      "lastAttempt": "2026-11-15T12:54:41.899161+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070164+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8823,7 +8823,7 @@
     },
     "1732121464": {
       "name": "That's America",
-      "lastAttempt": "2026-11-15T12:54:50.159801+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070174+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8832,7 +8832,7 @@
     },
     "501023973": {
       "name": "Mister Gadget Daily",
-      "lastAttempt": "2026-11-15T12:54:51.707799+00:00",
+      "lastAttempt": "2026-11-16T13:47:03.070184+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC6801zjI-IUeQXZKmz_uS1w",
@@ -8844,6 +8844,491 @@
       "lastAttempt": "2026-11-15T12:54:55.068986+00:00",
       "discoveryRevision": 4,
       "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1440133626": {
+      "name": "Today in Focus",
+      "lastAttempt": "2026-11-16T13:47:03.843184+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCM22zDl9hUpkLBtPsebTwsA",
+      "youtubeSourceUrl": "https://www.youtube.com/@todayinfocuspodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1841328094": {
+      "name": "In Direzione Contraria",
+      "lastAttempt": "2026-11-16T13:47:05.564286+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1440282187": {
+      "name": "Zuppa di Porro",
+      "lastAttempt": "2026-11-16T13:47:09.649782+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCgV4QyKLoIDjNyYWHLma4qw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCgV4QyKLoIDjNyYWHLma4qw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1811531541": {
+      "name": "Fentanyl. La molecola del diavolo",
+      "lastAttempt": "2026-11-16T13:47:11.029485+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6815990373": {
+      "name": "Medium",
+      "lastAttempt": "2026-11-16T13:47:15.509538+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "DA_SCANSIONARE"
+    },
+    "6829665074": {
+      "name": "Sassolini",
+      "lastAttempt": "2026-11-16T13:47:18.724703+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCDMQJYNV2urZ33xjWqRWXxQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/AvvenireNEI",
+      "status": "DA_SCANSIONARE"
+    },
+    "1611374685": {
+      "name": "The Rest Is Politics",
+      "lastAttempt": "2026-11-16T13:47:22.729192+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "567990910": {
+      "name": "Giornale Radio",
+      "lastAttempt": "2026-11-16T13:47:23.035280+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1658096986": {
+      "name": "Linea mercati",
+      "lastAttempt": "2026-11-16T13:47:31.250673+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1792814565": {
+      "name": "L’oblò",
+      "lastAttempt": "2026-11-16T13:47:33.904093+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1867799420": {
+      "name": "Tecno",
+      "lastAttempt": "2026-11-16T13:47:40.873772+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1743030473": {
+      "name": "The Rest Is Politics: US",
+      "lastAttempt": "2026-11-16T13:47:42.626717+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1521428014": {
+      "name": "In Onda",
+      "lastAttempt": "2026-11-16T13:47:44.472920+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1708943121": {
+      "name": "Nessuno Escluso",
+      "lastAttempt": "2026-11-16T13:47:50.307854+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1687174172": {
+      "name": "2024 - Speciale Intelligenza Artificiale",
+      "lastAttempt": "2026-11-16T13:47:51.532477+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1642362071": {
+      "name": "TG Luna",
+      "lastAttempt": "2026-11-16T13:47:55.573453+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "151230264": {
+      "name": "Economist Podcasts",
+      "lastAttempt": "2026-11-16T13:48:02.238765+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1663863397": {
+      "name": "Bloomberg Daybreak: Europe Edition",
+      "lastAttempt": "2026-11-16T13:48:02.607259+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1481828326": {
+      "name": "ANSA Daily",
+      "lastAttempt": "2026-11-16T13:48:06.074554+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UC7dCZ28JQUZYno7TSlLKNoQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/Ansa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1570119588": {
+      "name": "Radio Radio",
+      "lastAttempt": "2026-11-16T13:48:12.845216+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1700432142": {
+      "name": "RONZHEIMER.",
+      "lastAttempt": "2026-11-16T13:48:13.906577+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC4QT_F-kQYGcxccNzU2jUMw",
+      "youtubeSourceUrl": "https://www.youtube.com/@ronzheimer",
+      "status": "DA_SCANSIONARE"
+    },
+    "1278866964": {
+      "name": "Due di denari",
+      "lastAttempt": "2026-11-16T13:48:18.039600+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "DA_SCANSIONARE"
+    },
+    "802899350": {
+      "name": "Deejay Training Center",
+      "lastAttempt": "2026-11-16T13:48:21.264394+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "DA_SCANSIONARE"
+    },
+    "1785212380": {
+      "name": "Orazio",
+      "lastAttempt": "2026-11-16T13:48:24.858077+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
+      "youtubeSourceUrl": "https://www.youtube.com/@IlPostVideo",
+      "status": "DA_SCANSIONARE"
+    },
+    "1777224839": {
+      "name": "Sotto la pelle dell'America",
+      "lastAttempt": "2026-11-16T13:48:27.377979+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "495637934": {
+      "name": "Smart City",
+      "lastAttempt": "2026-11-16T13:48:33.620769+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1140047128": {
+      "name": "Pinocchio",
+      "lastAttempt": "2026-11-16T13:48:35.326876+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "DA_SCANSIONARE"
+    },
+    "1650534351": {
+      "name": "Cripto",
+      "lastAttempt": "2026-11-16T13:48:38.362909+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1648096075": {
+      "name": "Leoni per Agnelli",
+      "lastAttempt": "2026-11-16T13:48:42.394398+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "DA_SCANSIONARE"
+    },
+    "146324637": {
+      "name": "Radio Radicale - Stampa e regime",
+      "lastAttempt": "2026-11-16T13:48:45.561561+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1665219519": {
+      "name": "Reuters World News",
+      "lastAttempt": "2026-11-16T13:48:46.303907+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 401: HTTP Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1565940244": {
+      "name": "La variante Parenzo",
+      "lastAttempt": "2026-11-16T13:48:49.716413+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1222114325": {
+      "name": "Up First from NPR",
+      "lastAttempt": "2026-11-16T13:48:53.990689+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1711630576": {
+      "name": "GeopolitiX",
+      "lastAttempt": "2026-11-16T13:48:57.623183+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCx7EWheHmjCW3vX8K2d09vg",
+      "youtubeSourceUrl": "https://www.youtube.com/c/geopop",
+      "status": "DA_SCANSIONARE"
+    },
+    "1791104321": {
+      "name": "BuongiornoMondo",
+      "lastAttempt": "2026-11-16T13:49:00.224796+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCxrPzaf2B_l6NvnmIRp5EKg",
+      "youtubeSourceUrl": "https://www.youtube.com/@La7",
+      "status": "DA_SCANSIONARE"
+    },
+    "1642348760": {
+      "name": "LINEE — Dentro lo Sport",
+      "lastAttempt": "2026-11-16T13:49:03.707420+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCklsbCWDfsY9vHw7dbJxraQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@LineePodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "283303807": {
+      "name": "Ciao Belli",
+      "lastAttempt": "2026-11-16T13:49:05.572473+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
+      "status": "DA_SCANSIONARE"
+    },
+    "1706061881": {
+      "name": "Chiacchiericcio",
+      "lastAttempt": "2026-11-16T13:49:09.198568+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1192761536": {
+      "name": "Pod Save America",
+      "lastAttempt": "2026-11-16T13:49:12.269421+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1687260829": {
+      "name": "No es el fin del mundo",
+      "lastAttempt": "2026-11-16T13:49:16.147623+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1747699316": {
+      "name": "Storia Orale della Diplomazia Italiana",
+      "lastAttempt": "2026-11-16T13:49:24.893248+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "494517111": {
+      "name": "The Interview",
+      "lastAttempt": "2026-11-16T13:49:27.522719+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6787921499": {
+      "name": "NATO DECLASSIFIED",
+      "lastAttempt": "2026-11-16T13:49:28.384401+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1795734509": {
+      "name": "The Oath and The Office",
+      "lastAttempt": "2026-11-16T13:49:32.435242+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1601195264": {
+      "name": "The Coming Storm",
+      "lastAttempt": "2026-11-16T13:49:36.859430+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1711838026": {
+      "name": "NATO Senior Mentors Podcast",
+      "lastAttempt": "2026-11-16T13:49:37.539719+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCZVDFcXJ_43rgyqxU7ptbRg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCZVDFcXJ_43rgyqxU7ptbRg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1538754681": {
+      "name": "Monografie",
+      "lastAttempt": "2026-11-16T13:49:44.441779+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1645885248": {
+      "name": "The Langley Files: CIA's Podcast",
+      "lastAttempt": "2026-11-16T13:49:45.111134+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1369904929": {
+      "name": "European Parliament - EPRS Podcasts, What Europe does for you",
+      "lastAttempt": "2026-11-16T13:49:47.875979+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1110775762": {
+      "name": "European Parliament - EPRS Science and Technology podcasts",
+      "lastAttempt": "2026-11-16T13:49:51.141110+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1086997208": {
+      "name": "European Parliament - EPRS Plenary podcasts",
+      "lastAttempt": "2026-11-16T13:49:54.140809+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1594573645": {
+      "name": "Romanzo Quirinale",
+      "lastAttempt": "2026-11-16T13:49:57.247230+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1525445350": {
+      "name": "Pekingology",
+      "lastAttempt": "2026-11-16T13:50:02.357824+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1326698855": {
+      "name": "Capitalisn't",
+      "lastAttempt": "2026-11-16T13:50:03.525354+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCKswq3xl9eEWpRgGf_-pw7w",
+      "youtubeSourceUrl": "https://www.youtube.com/@capitalisnt",
+      "status": "DA_SCANSIONARE"
+    },
+    "1441573078": {
+      "name": "Into Africa",
+      "lastAttempt": "2026-11-16T13:50:07.171376+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
+      "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
+      "status": "DA_SCANSIONARE"
+    },
+    "1245002955": {
+      "name": "The DSR Network",
+      "lastAttempt": "2026-11-16T13:50:10.766894+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1730468339": {
+      "name": "D|facto | weekjournaal",
+      "lastAttempt": "2026-11-16T13:50:12.884135+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1467297967": {
+      "name": "British Council Language Assistants",
+      "lastAttempt": "2026-11-16T13:50:15.863698+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1819446527": {
+      "name": "Competenze di fiscalità per gli Enti locali",
+      "lastAttempt": "2026-11-16T13:50:19.010963+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1462879154": {
+      "name": "El Orden Mundial",
+      "lastAttempt": "2026-11-16T13:50:23.867733+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/ondacero",
+      "status": "DA_SCANSIONARE"
+    },
+    "1679751422": {
+      "name": "Competenze per la finanza e l'economia locale",
+      "lastAttempt": "2026-11-16T13:50:26.546692+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1874451639": {
+      "name": "Your Favorite Black Lobbyist",
+      "lastAttempt": "2026-11-16T13:50:30.858344+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "728393144": {
+      "name": "Europolis: The Global Europe Podcast by ECDPM",
+      "lastAttempt": "2026-11-16T13:50:35.578300+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
     }
   },
