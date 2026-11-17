@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-16T13:47:03.070216+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578750+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -8599,21 +8599,21 @@
     },
     "1485097768": {
       "name": "Phastidio Podcast",
-      "lastAttempt": "2026-11-16T13:47:03.070007+00:00",
+      "lastAttempt": "2026-11-17T14:35:55.544056+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr12CMiV7C0aSwuf29z_AJw",
       "youtubeSourceUrl": "https://www.youtube.com/@MarioSeminerio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6818609651": {
       "name": "Un punto sulla mappa",
-      "lastAttempt": "2026-11-16T13:47:03.070027+00:00",
+      "lastAttempt": "2026-11-17T14:36:04.993831+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1869867257": {
       "name": "Complotti",
@@ -8631,30 +8631,30 @@
     },
     "1814548989": {
       "name": "Wilson - Le notizie, spiegate bene",
-      "lastAttempt": "2026-11-16T13:47:03.070038+00:00",
+      "lastAttempt": "2026-11-17T14:36:12.360441+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
       "youtubeSourceUrl": "https://www.youtube.com/@IlPostVideo",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6823568014": {
       "name": "Questioni di privacy",
-      "lastAttempt": "2026-11-16T13:47:03.070052+00:00",
+      "lastAttempt": "2026-11-17T14:36:19.415550+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "716679011": {
       "name": "Il Volo del Mattino",
-      "lastAttempt": "2026-11-16T13:47:03.070061+00:00",
+      "lastAttempt": "2026-11-17T14:36:25.986510+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
       "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1511917213": {
       "name": "Tg La7",
@@ -8665,21 +8665,21 @@
     },
     "1479855029": {
       "name": "24 Mattino - Le interviste",
-      "lastAttempt": "2026-11-16T13:47:03.070076+00:00",
+      "lastAttempt": "2026-11-17T14:36:37.178292+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "290928166": {
       "name": "Melog",
-      "lastAttempt": "2026-11-16T13:47:03.070092+00:00",
+      "lastAttempt": "2026-11-17T14:36:44.198724+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1637354322": {
       "name": "Circo Massimo - Lo spettacolo della politica",
@@ -8690,30 +8690,30 @@
     },
     "673995033": {
       "name": "24 Mattino - Rassegna stampa",
-      "lastAttempt": "2026-11-16T13:47:03.070109+00:00",
+      "lastAttempt": "2026-11-17T14:36:50.986014+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1438449989": {
       "name": "FT News Briefing",
-      "lastAttempt": "2026-11-16T13:47:03.070121+00:00",
+      "lastAttempt": "2026-11-17T14:36:58.093996+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCoUxsWakJucWg46KW5RsvPw",
       "youtubeSourceUrl": "https://www.youtube.com/@FinancialTimes",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1435052305": {
       "name": "Uno, nessuno, 100Milan",
-      "lastAttempt": "2026-11-16T13:47:03.070131+00:00",
+      "lastAttempt": "2026-11-17T14:37:08.037956+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1200361736": {
       "name": "The Daily",
@@ -8759,12 +8759,12 @@
     },
     "1554071963": {
       "name": "Catteland",
-      "lastAttempt": "2026-11-16T13:47:03.070140+00:00",
+      "lastAttempt": "2026-11-17T14:37:15.211352+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
       "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1796846274": {
       "name": "Limes - Il podcast di Geopolitica",
@@ -8775,12 +8775,12 @@
     },
     "128515507": {
       "name": "Chiamate Roma Triuno Triuno",
-      "lastAttempt": "2026-11-16T13:47:03.070148+00:00",
+      "lastAttempt": "2026-11-17T14:37:23.742793+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
       "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1654454285": {
       "name": "Globo",
@@ -8798,21 +8798,21 @@
     },
     "6827890406": {
       "name": "Marketing tracks",
-      "lastAttempt": "2026-11-16T13:47:03.070156+00:00",
+      "lastAttempt": "2026-11-17T14:37:32.091771+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1584788102": {
       "name": "Matteo Caccia racconta",
-      "lastAttempt": "2026-11-16T13:47:03.070164+00:00",
+      "lastAttempt": "2026-11-17T14:37:38.393017+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1380633567": {
       "name": "Poteri forti",
@@ -8823,21 +8823,21 @@
     },
     "1732121464": {
       "name": "That's America",
-      "lastAttempt": "2026-11-16T13:47:03.070174+00:00",
+      "lastAttempt": "2026-11-17T14:37:45.244049+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "501023973": {
       "name": "Mister Gadget Daily",
-      "lastAttempt": "2026-11-16T13:47:03.070184+00:00",
+      "lastAttempt": "2026-11-17T14:37:52.159731+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC6801zjI-IUeQXZKmz_uS1w",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC6801zjI-IUeQXZKmz_uS1w",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1627015614": {
       "name": "Veleno",
@@ -8848,12 +8848,12 @@
     },
     "1440133626": {
       "name": "Today in Focus",
-      "lastAttempt": "2026-11-16T13:47:03.843184+00:00",
+      "lastAttempt": "2026-11-17T14:38:01.700856+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCM22zDl9hUpkLBtPsebTwsA",
       "youtubeSourceUrl": "https://www.youtube.com/@todayinfocuspodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1841328094": {
       "name": "In Direzione Contraria",
@@ -8864,12 +8864,12 @@
     },
     "1440282187": {
       "name": "Zuppa di Porro",
-      "lastAttempt": "2026-11-16T13:47:09.649782+00:00",
+      "lastAttempt": "2026-11-17T14:38:12.115901+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCgV4QyKLoIDjNyYWHLma4qw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCgV4QyKLoIDjNyYWHLma4qw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1811531541": {
       "name": "Fentanyl. La molecola del diavolo",
@@ -8880,21 +8880,21 @@
     },
     "6815990373": {
       "name": "Medium",
-      "lastAttempt": "2026-11-16T13:47:15.509538+00:00",
+      "lastAttempt": "2026-11-17T14:38:20.774415+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCuiPzxEpLJLTRu2HXzY3gfA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6829665074": {
       "name": "Sassolini",
-      "lastAttempt": "2026-11-16T13:47:18.724703+00:00",
+      "lastAttempt": "2026-11-17T14:38:27.018375+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCDMQJYNV2urZ33xjWqRWXxQ",
       "youtubeSourceUrl": "https://www.youtube.com/user/AvvenireNEI",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1611374685": {
       "name": "The Rest Is Politics",
@@ -8954,7 +8954,7 @@
     },
     "1687174172": {
       "name": "2024 - Speciale Intelligenza Artificiale",
-      "lastAttempt": "2026-11-16T13:47:51.532477+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578351+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -8984,7 +8984,7 @@
     },
     "1481828326": {
       "name": "ANSA Daily",
-      "lastAttempt": "2026-11-16T13:48:06.074554+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578404+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UC7dCZ28JQUZYno7TSlLKNoQ",
@@ -9000,7 +9000,7 @@
     },
     "1700432142": {
       "name": "RONZHEIMER.",
-      "lastAttempt": "2026-11-16T13:48:13.906577+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578439+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC4QT_F-kQYGcxccNzU2jUMw",
@@ -9009,7 +9009,7 @@
     },
     "1278866964": {
       "name": "Due di denari",
-      "lastAttempt": "2026-11-16T13:48:18.039600+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578459+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -9018,7 +9018,7 @@
     },
     "802899350": {
       "name": "Deejay Training Center",
-      "lastAttempt": "2026-11-16T13:48:21.264394+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578477+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
@@ -9027,7 +9027,7 @@
     },
     "1785212380": {
       "name": "Orazio",
-      "lastAttempt": "2026-11-16T13:48:24.858077+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578488+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
@@ -9043,7 +9043,7 @@
     },
     "495637934": {
       "name": "Smart City",
-      "lastAttempt": "2026-11-16T13:48:33.620769+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578498+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -9052,7 +9052,7 @@
     },
     "1140047128": {
       "name": "Pinocchio",
-      "lastAttempt": "2026-11-16T13:48:35.326876+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578508+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
@@ -9068,7 +9068,7 @@
     },
     "1648096075": {
       "name": "Leoni per Agnelli",
-      "lastAttempt": "2026-11-16T13:48:42.394398+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578517+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -9091,7 +9091,7 @@
     },
     "1565940244": {
       "name": "La variante Parenzo",
-      "lastAttempt": "2026-11-16T13:48:49.716413+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578549+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
@@ -9107,7 +9107,7 @@
     },
     "1711630576": {
       "name": "GeopolitiX",
-      "lastAttempt": "2026-11-16T13:48:57.623183+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578573+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCx7EWheHmjCW3vX8K2d09vg",
@@ -9116,7 +9116,7 @@
     },
     "1791104321": {
       "name": "BuongiornoMondo",
-      "lastAttempt": "2026-11-16T13:49:00.224796+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578587+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCxrPzaf2B_l6NvnmIRp5EKg",
@@ -9125,7 +9125,7 @@
     },
     "1642348760": {
       "name": "LINEE — Dentro lo Sport",
-      "lastAttempt": "2026-11-16T13:49:03.707420+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578608+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCklsbCWDfsY9vHw7dbJxraQ",
@@ -9134,7 +9134,7 @@
     },
     "283303807": {
       "name": "Ciao Belli",
-      "lastAttempt": "2026-11-16T13:49:05.572473+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578630+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
@@ -9199,7 +9199,7 @@
     },
     "1711838026": {
       "name": "NATO Senior Mentors Podcast",
-      "lastAttempt": "2026-11-16T13:49:37.539719+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578649+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCZVDFcXJ_43rgyqxU7ptbRg",
@@ -9257,7 +9257,7 @@
     },
     "1326698855": {
       "name": "Capitalisn't",
-      "lastAttempt": "2026-11-16T13:50:03.525354+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578668+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCKswq3xl9eEWpRgGf_-pw7w",
@@ -9266,7 +9266,7 @@
     },
     "1441573078": {
       "name": "Into Africa",
-      "lastAttempt": "2026-11-16T13:50:07.171376+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578687+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
@@ -9303,7 +9303,7 @@
     },
     "1462879154": {
       "name": "El Orden Mundial",
-      "lastAttempt": "2026-11-16T13:50:23.867733+00:00",
+      "lastAttempt": "2026-11-17T14:38:32.578706+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
@@ -9327,6 +9327,462 @@
     "728393144": {
       "name": "Europolis: The Global Europe Podcast by ECDPM",
       "lastAttempt": "2026-11-16T13:50:35.578300+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1497785843": {
+      "name": "5-4",
+      "lastAttempt": "2026-11-17T14:38:33.280892+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCr5SRqzgG5Ut7sWS8a1QyLg",
+      "youtubeSourceUrl": "https://www.youtube.com/@fivefourpod",
+      "status": "DA_SCANSIONARE"
+    },
+    "1468315087": {
+      "name": "People in Tax Podcast",
+      "lastAttempt": "2026-11-17T14:38:35.916213+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1067649051": {
+      "name": "Audio Arguendo",
+      "lastAttempt": "2026-11-17T14:38:37.499448+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1450415116": {
+      "name": "AUSA’s Army Matters Podcast",
+      "lastAttempt": "2026-11-17T14:38:40.713730+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1818389132": {
+      "name": "State of Play",
+      "lastAttempt": "2026-11-17T14:38:42.913082+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1679768007": {
+      "name": "Leadership e gestione della complessità",
+      "lastAttempt": "2026-11-17T14:38:46.106550+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1796151138": {
+      "name": "Competenze e strumenti di IA",
+      "lastAttempt": "2026-11-17T14:38:52.415448+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "498897343": {
+      "name": "The Lawfare Podcast",
+      "lastAttempt": "2026-11-17T14:38:55.026908+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1380336613": {
+      "name": "The Trade Guys",
+      "lastAttempt": "2026-11-17T14:38:55.998831+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
+      "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
+      "status": "DA_SCANSIONARE"
+    },
+    "1691746364": {
+      "name": "Taken with Transportation",
+      "lastAttempt": "2026-11-17T14:39:00.150271+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1724754756": {
+      "name": "Big Take, Midterms 2026",
+      "lastAttempt": "2026-11-17T14:39:04.330413+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1577996421": {
+      "name": "Entitled",
+      "lastAttempt": "2026-11-17T14:39:06.764018+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1496000142": {
+      "name": "IIEA Talks",
+      "lastAttempt": "2026-11-17T14:39:08.940876+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1847986591": {
+      "name": "Disclosure",
+      "lastAttempt": "2026-11-17T14:39:12.738636+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1776391188": {
+      "name": "BLUF: Artorias Podcast",
+      "lastAttempt": "2026-11-17T14:39:15.483593+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1790305658": {
+      "name": "The Carbon Removal Scoop",
+      "lastAttempt": "2026-11-17T14:39:18.671982+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1639783484": {
+      "name": "الحل إيه؟ مع د. رباب المهدي",
+      "lastAttempt": "2026-11-17T14:39:23.211160+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCIBYr1IVf54Ho5fRV2s62QA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCIBYr1IVf54Ho5fRV2s62QA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1469168641": {
+      "name": "Strict Scrutiny",
+      "lastAttempt": "2026-11-17T14:39:25.589323+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1890552134": {
+      "name": "America, Actually with Astead Herndon",
+      "lastAttempt": "2026-11-17T14:39:29.106458+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1333127700": {
+      "name": "The Proceedings Podcast",
+      "lastAttempt": "2026-11-17T14:39:30.329410+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1048210550": {
+      "name": "U.S. Supreme Court Oral Arguments",
+      "lastAttempt": "2026-11-17T14:39:34.262147+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1787264319": {
+      "name": "BorgenUdenFilter",
+      "lastAttempt": "2026-11-17T14:39:37.513649+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "74849126": {
+      "name": "Law Report",
+      "lastAttempt": "2026-11-17T14:39:39.791310+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1564065871": {
+      "name": "Global Security Briefing",
+      "lastAttempt": "2026-11-17T14:39:45.934306+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1389951701": {
+      "name": "The Impossible State",
+      "lastAttempt": "2026-11-17T14:39:51.467119+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
+      "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
+      "status": "DA_SCANSIONARE"
+    },
+    "1711240452": {
+      "name": "NatSec Matters",
+      "lastAttempt": "2026-11-17T14:39:54.089336+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "456568775": {
+      "name": "Any Questions? and Any Answers?",
+      "lastAttempt": "2026-11-17T14:39:56.022168+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1542346813": {
+      "name": "Экономика на слух",
+      "lastAttempt": "2026-11-17T14:39:58.265218+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1242537529": {
+      "name": "What Trump Can Teach Us About Con Law",
+      "lastAttempt": "2026-11-17T14:40:04.070839+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1611816729": {
+      "name": "The DSR Daily",
+      "lastAttempt": "2026-11-17T14:40:05.707279+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1533560948": {
+      "name": "The Fact Hunter",
+      "lastAttempt": "2026-11-17T14:40:07.945973+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1011)>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1479562988": {
+      "name": "Red Lines",
+      "lastAttempt": "2026-11-17T14:40:10.905233+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1889690420": {
+      "name": "American Power",
+      "lastAttempt": "2026-11-17T14:40:13.963079+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1597496780": {
+      "name": "Fora do Baralho",
+      "lastAttempt": "2026-11-17T14:40:17.244611+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
+      "youtubeSourceUrl": "https://www.youtube.com/user/observadorontime",
+      "status": "DA_SCANSIONARE"
+    },
+    "1848760192": {
+      "name": "Playbook Canada",
+      "lastAttempt": "2026-11-17T14:40:21.837214+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "162722276": {
+      "name": "Today in Parliament",
+      "lastAttempt": "2026-11-17T14:40:23.565221+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1476872871": {
+      "name": "35 West",
+      "lastAttempt": "2026-11-17T14:40:26.139339+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1629454648": {
+      "name": "This Means War",
+      "lastAttempt": "2026-11-17T14:40:29.056454+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1681372480": {
+      "name": "Edi Rama Podcast",
+      "lastAttempt": "2026-11-17T14:40:34.245202+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1746325096": {
+      "name": "What's Wrong with Democracy?",
+      "lastAttempt": "2026-11-17T14:40:38.242996+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1554098455": {
+      "name": "The Land & Climate Podcast",
+      "lastAttempt": "2026-11-17T14:40:40.505140+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1500237436": {
+      "name": "Lignes de défense",
+      "lastAttempt": "2026-11-17T14:40:45.272912+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCm4fSpMpPIZ9z6KHoezLUAg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1550119748": {
+      "name": "L'Europa dei popoli",
+      "lastAttempt": "2026-11-17T14:40:48.145762+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1086996218": {
+      "name": "European Parliament - EPRS Policy podcasts",
+      "lastAttempt": "2026-11-17T14:40:51.929882+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1673010958": {
+      "name": "Los Podcast de la Fundación - FMM",
+      "lastAttempt": "2026-11-17T14:40:52.394007+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] ivooxaudiokiosko/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "1622204524": {
+      "name": "Sig det' løgn",
+      "lastAttempt": "2026-11-17T14:40:59.490931+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1661610411": {
+      "name": "Canada ouvre-toi!",
+      "lastAttempt": "2026-11-17T14:41:01.533885+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1437383375": {
+      "name": "Podcast vom Posten - Außenpolitik auf die Ohren!",
+      "lastAttempt": "2026-11-17T14:41:04.562612+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1734053538": {
+      "name": "Supreme Court Oral Arguments",
+      "lastAttempt": "2026-11-17T14:41:06.658903+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCuXmeHbNM_2q_z2jPZH6GCA",
+      "youtubeSourceUrl": "https://www.youtube.com/@SCOTUSOralArgument",
+      "status": "DA_SCANSIONARE"
+    },
+    "1555008284": {
+      "name": "Hear GDPR",
+      "lastAttempt": "2026-11-17T14:41:10.871312+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1649126301": {
+      "name": "The GeoPolitical",
+      "lastAttempt": "2026-11-17T14:41:12.688458+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1104535262": {
+      "name": "FDNY Pro",
+      "lastAttempt": "2026-11-17T14:41:15.446501+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1802722241": {
+      "name": "The Find Out Podcast",
+      "lastAttempt": "2026-11-17T14:41:21.048926+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCxxzEe3wqRrh0jtRu9UEF4w",
+      "youtubeSourceUrl": "https://www.youtube.com/@studio71",
+      "status": "DA_SCANSIONARE"
+    },
+    "1484895794": {
+      "name": "Ones Ready",
+      "lastAttempt": "2026-11-17T14:41:24.268616+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC9aFBBZoBcQk8UUN_pO7nDA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC9aFBBZoBcQk8UUN_pO7nDA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1886810224": {
+      "name": "La nostra Repubblica. Il podcast del CCRR di Bollate",
+      "lastAttempt": "2026-11-17T14:41:24.548327+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCbbm1uSafV-TQI5EigAN9Qg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCbbm1uSafV-TQI5EigAN9Qg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1484110214": {
+      "name": "Inside Briefing with the Institute for Government",
+      "lastAttempt": "2026-11-17T14:41:30.194335+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCXjzMnsS8feRQO0FQZrU0Sw",
+      "youtubeSourceUrl": "https://www.youtube.com/user/instituteforgov",
+      "status": "DA_SCANSIONARE"
+    },
+    "1170179745": {
+      "name": "Social Media and Politics",
+      "lastAttempt": "2026-11-17T14:41:31.723624+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1191681161": {
+      "name": "Energy Policy Now",
+      "lastAttempt": "2026-11-17T14:41:34.531044+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1519689024": {
+      "name": "Democracy Paradox",
+      "lastAttempt": "2026-11-17T14:41:42.086052+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1454636634": {
+      "name": "Encuentros Fundación Telefónica",
+      "lastAttempt": "2026-11-17T14:41:42.556448+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC_LQrLv47K0Fd3k2MB1kBRQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/CulturaSiglo21",
+      "status": "DA_SCANSIONARE"
+    },
+    "265307843": {
+      "name": "The Law Show",
+      "lastAttempt": "2026-11-17T14:41:47.424670+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
