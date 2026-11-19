@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-18T14:15:01.563342+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305531+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -9407,12 +9407,12 @@
     },
     "1724754756": {
       "name": "Big Take, Midterms 2026",
-      "lastAttempt": "2026-11-18T14:15:01.563182+00:00",
+      "lastAttempt": "2026-11-19T08:38:46.928420+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
       "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1577996421": {
       "name": "Entitled",
@@ -9430,12 +9430,12 @@
     },
     "1847986591": {
       "name": "Disclosure",
-      "lastAttempt": "2026-11-18T14:15:01.563212+00:00",
+      "lastAttempt": "2026-11-19T08:38:52.279148+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
       "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1776391188": {
       "name": "BLUF: Artorias Podcast",
@@ -9453,12 +9453,12 @@
     },
     "1639783484": {
       "name": "الحل إيه؟ مع د. رباب المهدي",
-      "lastAttempt": "2026-11-18T14:15:01.563228+00:00",
+      "lastAttempt": "2026-11-19T08:38:56.952396+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCIBYr1IVf54Ho5fRV2s62QA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCIBYr1IVf54Ho5fRV2s62QA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1469168641": {
       "name": "Strict Scrutiny",
@@ -9511,12 +9511,12 @@
     },
     "1389951701": {
       "name": "The Impossible State",
-      "lastAttempt": "2026-11-18T14:15:01.563239+00:00",
+      "lastAttempt": "2026-11-19T08:39:03.055324+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
       "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1711240452": {
       "name": "NatSec Matters",
@@ -9576,12 +9576,12 @@
     },
     "1597496780": {
       "name": "Fora do Baralho",
-      "lastAttempt": "2026-11-18T14:15:01.563249+00:00",
+      "lastAttempt": "2026-11-19T08:39:12.022673+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
       "youtubeSourceUrl": "https://www.youtube.com/user/observadorontime",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1848760192": {
       "name": "Playbook Canada",
@@ -9634,12 +9634,12 @@
     },
     "1500237436": {
       "name": "Lignes de défense",
-      "lastAttempt": "2026-11-18T14:15:01.563259+00:00",
+      "lastAttempt": "2026-11-19T08:39:20.031019+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCm4fSpMpPIZ9z6KHoezLUAg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1550119748": {
       "name": "L'Europa dei popoli",
@@ -9686,12 +9686,12 @@
     },
     "1734053538": {
       "name": "Supreme Court Oral Arguments",
-      "lastAttempt": "2026-11-18T14:15:01.563269+00:00",
+      "lastAttempt": "2026-11-19T08:39:25.338393+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCuXmeHbNM_2q_z2jPZH6GCA",
       "youtubeSourceUrl": "https://www.youtube.com/@SCOTUSOralArgument",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1555008284": {
       "name": "Hear GDPR",
@@ -9716,39 +9716,39 @@
     },
     "1802722241": {
       "name": "The Find Out Podcast",
-      "lastAttempt": "2026-11-18T14:15:01.563278+00:00",
+      "lastAttempt": "2026-11-19T08:39:33.195637+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCxxzEe3wqRrh0jtRu9UEF4w",
       "youtubeSourceUrl": "https://www.youtube.com/@studio71",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1484895794": {
       "name": "Ones Ready",
-      "lastAttempt": "2026-11-18T14:15:01.563287+00:00",
+      "lastAttempt": "2026-11-19T08:39:39.960619+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC9aFBBZoBcQk8UUN_pO7nDA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC9aFBBZoBcQk8UUN_pO7nDA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1886810224": {
       "name": "La nostra Repubblica. Il podcast del CCRR di Bollate",
-      "lastAttempt": "2026-11-18T14:15:01.563297+00:00",
+      "lastAttempt": "2026-11-19T08:39:49.201629+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCbbm1uSafV-TQI5EigAN9Qg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCbbm1uSafV-TQI5EigAN9Qg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1484110214": {
       "name": "Inside Briefing with the Institute for Government",
-      "lastAttempt": "2026-11-18T14:15:01.563306+00:00",
+      "lastAttempt": "2026-11-19T08:39:52.861270+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCXjzMnsS8feRQO0FQZrU0Sw",
       "youtubeSourceUrl": "https://www.youtube.com/user/instituteforgov",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1170179745": {
       "name": "Social Media and Politics",
@@ -9773,12 +9773,12 @@
     },
     "1454636634": {
       "name": "Encuentros Fundación Telefónica",
-      "lastAttempt": "2026-11-18T14:15:01.563316+00:00",
+      "lastAttempt": "2026-11-19T08:40:02.508725+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC_LQrLv47K0Fd3k2MB1kBRQ",
       "youtubeSourceUrl": "https://www.youtube.com/user/CulturaSiglo21",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "265307843": {
       "name": "The Law Show",
@@ -9789,21 +9789,21 @@
     },
     "1514636385": {
       "name": "Irregular Warfare Podcast",
-      "lastAttempt": "2026-11-18T14:15:02.167989+00:00",
+      "lastAttempt": "2026-11-19T08:40:12.330445+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCGAHHCO6GMifH9NQ7hVJKzg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCGAHHCO6GMifH9NQ7hVJKzg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1838747212": {
       "name": "Cache Me If You Can",
-      "lastAttempt": "2026-11-18T14:15:02.334957+00:00",
+      "lastAttempt": "2026-11-19T08:40:16.735340+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
       "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1747096880": {
       "name": "Generazione Europa",
@@ -9814,12 +9814,12 @@
     },
     "1501964274": {
       "name": "Macroaggressions",
-      "lastAttempt": "2026-11-18T14:15:10.402198+00:00",
+      "lastAttempt": "2026-11-19T08:40:22.613121+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCn3GlVLKZtTkhLJkiuG7a-Q",
       "youtubeSourceUrl": "https://www.youtube.com/@MacroaggressionsPodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1475699244": {
       "name": "Our Curious Amalgam",
@@ -9837,12 +9837,12 @@
     },
     "214886950": {
       "name": "The Truth of the Matter",
-      "lastAttempt": "2026-11-18T14:15:19.818530+00:00",
+      "lastAttempt": "2026-11-19T08:40:30.288251+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
       "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1597103840": {
       "name": "Global Tyranny",
@@ -9853,30 +9853,30 @@
     },
     "1802625282": {
       "name": "Optimist Economy",
-      "lastAttempt": "2026-11-18T14:15:24.246639+00:00",
+      "lastAttempt": "2026-11-19T08:40:39.630372+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCc3svM32KsKSbsp6uOuyTIQ",
       "youtubeSourceUrl": "https://www.youtube.com/@optimist_economy",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1728417427": {
       "name": "La Ingobernable. Un podcast sobre Marca España",
-      "lastAttempt": "2026-11-18T14:15:28.063664+00:00",
+      "lastAttempt": "2026-11-19T08:40:43.098646+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCKed0uITc-JFEh3U72xTsFA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCKed0uITc-JFEh3U72xTsFA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1577846548": {
       "name": "Smart Women, Smart Power",
-      "lastAttempt": "2026-11-18T14:15:31.739616+00:00",
+      "lastAttempt": "2026-11-19T08:40:46.081185+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCr5jq6MC_VCe1c5ciIZtk_w",
       "youtubeSourceUrl": "https://www.youtube.com/user/csisdc",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1712758825": {
       "name": "Diplomatas",
@@ -9901,12 +9901,12 @@
     },
     "1615949216": {
       "name": "L'Allena-Mente",
-      "lastAttempt": "2026-11-18T14:15:43.321837+00:00",
+      "lastAttempt": "2026-11-19T08:40:55.833485+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
       "youtubeSourceUrl": "https://www.youtube.com/user/radiodeejay",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1669217040": {
       "name": "Troppo Poco",
@@ -9917,7 +9917,7 @@
     },
     "1545953110": {
       "name": "Huberman Lab",
-      "lastAttempt": "2026-11-18T14:15:50.945117+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305320+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC2D2CMWXMOVWx7giW1n3LIg",
@@ -9926,7 +9926,7 @@
     },
     "1226931245": {
       "name": "Mindfulness in Voce",
-      "lastAttempt": "2026-11-18T14:15:52.923116+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305344+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UC-ZtrTiPY8d0D-bEAWoVAaw",
@@ -9935,7 +9935,7 @@
     },
     "1514059494": {
       "name": "Psicologia e benessere | Il podcast di GuidaPsicologi",
-      "lastAttempt": "2026-11-18T14:15:59.154162+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305362+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC1ujjED9fslIfFAl3rMehKQ",
@@ -9951,7 +9951,7 @@
     },
     "1723347990": {
       "name": "Un passo al giorno",
-      "lastAttempt": "2026-11-18T14:16:03.634140+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305376+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC-uf-4TM0R9MUS3LFHuXkGQ",
@@ -9995,7 +9995,7 @@
     },
     "1178431106": {
       "name": "Lo Psiconauta",
-      "lastAttempt": "2026-11-18T14:16:25.705229+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305388+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCVyGg6yFJJAPVS9NT-vVPKQ",
@@ -10053,7 +10053,7 @@
     },
     "1537324776": {
       "name": "Buddhas Revolution",
-      "lastAttempt": "2026-11-18T14:16:51.285667+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305400+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCabXP5WZohySQNngOswTZWg",
@@ -10062,7 +10062,7 @@
     },
     "1724353493": {
       "name": "Il Giardino della Meditazione",
-      "lastAttempt": "2026-11-18T14:16:56.426376+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305412+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCwcDzFSG2aBOLeL7xSwAYVQ",
@@ -10071,7 +10071,7 @@
     },
     "1617665280": {
       "name": "Suoni per rilassarsi | by Relaxing White Noise",
-      "lastAttempt": "2026-11-18T14:16:57.520306+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305424+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCbunYN0o9Yaid7zHaor_UHA",
@@ -10080,7 +10080,7 @@
     },
     "1758530583": {
       "name": "ESC - Every Step Counts",
-      "lastAttempt": "2026-11-18T14:17:00.948949+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305435+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCQcKK5p6zqEo1WYLIKirsYg",
@@ -10089,7 +10089,7 @@
     },
     "1805682821": {
       "name": "BrainCare",
-      "lastAttempt": "2026-11-18T14:17:04.435789+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305445+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCtpdt1HrvHEs2I-9Eq4TzvQ",
@@ -10119,7 +10119,7 @@
     },
     "1727728894": {
       "name": "NarcisOUT - Tutto sul Narcisismo -  Il Podcast di Fabio Mazza",
-      "lastAttempt": "2026-11-18T14:17:20.292199+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305455+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCyfPumwSO5wpFWRBGuv2eoQ",
@@ -10170,7 +10170,7 @@
     },
     "1155035634": {
       "name": "Psicologia - Pratica la Mente",
-      "lastAttempt": "2026-11-18T14:17:45.035778+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305466+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCesWY_iXmpvIp39NX7BfpTw",
@@ -10179,7 +10179,7 @@
     },
     "1726815799": {
       "name": "Yoga Orientiamo Podcast",
-      "lastAttempt": "2026-11-18T14:17:48.124759+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305478+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCCMJXAN1OwKjYVupnRbCTCw",
@@ -10265,7 +10265,7 @@
     },
     "1727020999": {
       "name": "The Adult Time Podcast",
-      "lastAttempt": "2026-11-18T14:18:23.851526+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305489+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCTLRdtVMiIIs_E1rByFr5Sg",
@@ -10274,7 +10274,7 @@
     },
     "1587467644": {
       "name": "Oi, Let's Talk",
-      "lastAttempt": "2026-11-18T14:18:27.961320+00:00",
+      "lastAttempt": "2026-11-19T08:41:02.305501+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCOBGQXS9I63YhUlT0wkzt-g",
@@ -10298,6 +10298,503 @@
     "1669231835": {
       "name": "Medicina Top",
       "lastAttempt": "2026-11-18T14:18:36.336149+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1455761627": {
+      "name": "The Aaron Doughty Podcast",
+      "lastAttempt": "2026-11-19T08:41:02.889201+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1584988821": {
+      "name": "E' il Sesso, Bellezza!",
+      "lastAttempt": "2026-11-19T08:41:03.992418+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "909241214": {
+      "name": "Pillole di psicologia",
+      "lastAttempt": "2026-11-19T08:41:06.452994+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1596575096": {
+      "name": "TV Therapy",
+      "lastAttempt": "2026-11-19T08:41:09.858616+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCBgFeo1DrU4jDnFxQsFb0lA",
+      "youtubeSourceUrl": "https://www.youtube.com/@tvtherapypodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1559468560": {
+      "name": "Psicologia Al Desnudo | @psi.mammoliti",
+      "lastAttempt": "2026-11-19T08:41:13.313953+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCco8rujqTKTOn-zBSuZAbFw",
+      "youtubeSourceUrl": "https://www.youtube.com/@psimammoliti",
+      "status": "DA_SCANSIONARE"
+    },
+    "1690186597": {
+      "name": "Una cura tutta tua",
+      "lastAttempt": "2026-11-19T08:41:16.280491+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "470623173": {
+      "name": "TED Health",
+      "lastAttempt": "2026-11-19T08:41:21.948152+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1752170836": {
+      "name": "C'ho l'Ansia",
+      "lastAttempt": "2026-11-19T08:41:23.473217+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1493025986": {
+      "name": "HealthyGamerGG",
+      "lastAttempt": "2026-11-19T08:41:26.847986+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UClHVl2N3jPEbkNJVx-ItQIQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@HealthyGamerGG",
+      "status": "DA_SCANSIONARE"
+    },
+    "1229124446": {
+      "name": "Entiende Tu Mente",
+      "lastAttempt": "2026-11-19T08:41:29.351818+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1584820166": {
+      "name": "Club Privé - Sessualità a confronto",
+      "lastAttempt": "2026-11-19T08:41:35.975851+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1451627704": {
+      "name": "Sliced Bread",
+      "lastAttempt": "2026-11-19T08:41:36.667921+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1493849516": {
+      "name": "Después de la pérdida",
+      "lastAttempt": "2026-11-19T08:41:39.375137+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCaJYJWOIVNcIK-VTjO0tbeg",
+      "youtubeSourceUrl": "https://www.youtube.com/@GabyPerezTanatologa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1646631891": {
+      "name": "ESC TV Today – Your Cardiovascular News",
+      "lastAttempt": "2026-11-19T08:41:43.657267+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCQFROke6pM580dsxDpVPxpA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/escardiodotorg",
+      "status": "DA_SCANSIONARE"
+    },
+    "386170702": {
+      "name": "NEJM This Week",
+      "lastAttempt": "2026-11-19T08:41:48.633069+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1551292023": {
+      "name": "Relief: il podcast.",
+      "lastAttempt": "2026-11-19T08:41:48.735861+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1868318569": {
+      "name": "Generazione",
+      "lastAttempt": "2026-11-19T08:41:52.085032+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
+      "youtubeSourceUrl": "https://www.youtube.com/@IlPostVideo",
+      "status": "DA_SCANSIONARE"
+    },
+    "1378040733": {
+      "name": "Nothing much happens: bedtime stories to help you sleep",
+      "lastAttempt": "2026-11-19T08:42:04.115882+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCq0ReOdR2-ZrL3NzzLURgbg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCq0ReOdR2-ZrL3NzzLURgbg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1546099891": {
+      "name": "7 minuti di meditazione",
+      "lastAttempt": "2026-11-19T08:42:04.973424+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1812444660": {
+      "name": "8 Ore Scienza",
+      "lastAttempt": "2026-11-19T08:42:07.642326+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC2tTQ08BipQH1pSzRKpa63g",
+      "youtubeSourceUrl": "https://www.youtube.com/@8OreScienza",
+      "status": "DA_SCANSIONARE"
+    },
+    "1734037092": {
+      "name": "L'altro lato del piatto",
+      "lastAttempt": "2026-11-19T08:42:14.277262+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1517814269": {
+      "name": "The Glow Up",
+      "lastAttempt": "2026-11-19T08:42:26.893859+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1444049902": {
+      "name": "Il podcast di Denise - Yoga, benessere e lifestyle",
+      "lastAttempt": "2026-11-19T08:42:27.467867+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCArw4_137rIo9ybVodR7cxA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCArw4_137rIo9ybVodR7cxA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1472888443": {
+      "name": "Listen To Sleep - Quiet Bedtime Stories & Meditations",
+      "lastAttempt": "2026-11-19T08:42:30.363070+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCnryuGl1EgA6kJe1m8GJcIQ",
+      "youtubeSourceUrl": "https://www.youtube.com/c/ListenToSleep",
+      "status": "DA_SCANSIONARE"
+    },
+    "1510208868": {
+      "name": "Corso Pratico di Training Autogeno",
+      "lastAttempt": "2026-11-19T08:42:34.823413+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1612316332": {
+      "name": "FisioScience Podcast",
+      "lastAttempt": "2026-11-19T08:42:39.414760+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6790097759": {
+      "name": "Legami – Psicologia delle relazioni e della sessualità",
+      "lastAttempt": "2026-11-19T08:42:40.079084+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "lastError": "YouTube: ERROR: [youtube:tab] @BarbaraHaupt: This channel does not have a videos tab\n",
+      "status": "ERRORE"
+    },
+    "1508998389": {
+      "name": "Meditazioni mindfulness",
+      "lastAttempt": "2026-11-19T08:42:43.396383+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1788474884": {
+      "name": "UNTAPPED with Spencer Matthews",
+      "lastAttempt": "2026-11-19T08:42:46.309788+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1790971225": {
+      "name": "The Judd Lienhard Podcast",
+      "lastAttempt": "2026-11-19T08:42:51.052740+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC2KIbPHfA8oLuAlSKOctJ7g",
+      "youtubeSourceUrl": "https://www.youtube.com/@JuddLienhard",
+      "status": "DA_SCANSIONARE"
+    },
+    "1491712030": {
+      "name": "L'ora di Medicina",
+      "lastAttempt": "2026-11-19T08:42:52.675303+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCqlWFGS05TQNsplrI-N1BLA",
+      "youtubeSourceUrl": "https://www.youtube.com/@loradiMedicina",
+      "status": "DA_SCANSIONARE"
+    },
+    "1536900237": {
+      "name": "Ian Ritter Evolution",
+      "lastAttempt": "2026-11-19T08:42:56.874173+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCpdPwbi8t2ZHn-Zc6qrB-hw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCpdPwbi8t2ZHn-Zc6qrB-hw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1786311514": {
+      "name": "Sexy Kurzgeschichten",
+      "lastAttempt": "2026-11-19T08:42:59.954942+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1487513861": {
+      "name": "Get Sleepy: stories for sleep",
+      "lastAttempt": "2026-11-19T08:43:04.430847+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCtOOJcon2npC5P3aebUzKpQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@getsleepypod",
+      "status": "DA_SCANSIONARE"
+    },
+    "1517569764": {
+      "name": "Dpen Scienza",
+      "lastAttempt": "2026-11-19T08:43:05.626479+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC6lK120vnexlBHshNv8cWiQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC6lK120vnexlBHshNv8cWiQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1560711649": {
+      "name": "The Mindset Babe | Self-Love, Confidence, Motivation, Self-Esteem, Inspiration, Manifestation",
+      "lastAttempt": "2026-11-19T08:43:08.021029+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1011)>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1485887834": {
+      "name": "رادیو هزارسرو - رضا بالغی (hezarsarv)",
+      "lastAttempt": "2026-11-19T08:43:11.323193+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "988935339": {
+      "name": "Adult ADHD ADD Tips and Support",
+      "lastAttempt": "2026-11-19T08:43:13.841015+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UClGziBCNeAbFA3e-Oo4CCfg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UClGziBCNeAbFA3e-Oo4CCfg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1316938642": {
+      "name": "The Doctor's Kitchen Podcast",
+      "lastAttempt": "2026-11-19T08:43:19.670454+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCDHTLhQbYlFnPBv-iLgFsQQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@doctors_kitchen",
+      "status": "DA_SCANSIONARE"
+    },
+    "1533444090": {
+      "name": "GESUND & FIT MIT BESTSELLER AUTORIN MIMI LAWRENCE: was im Alltag wirklich funktioniert.",
+      "lastAttempt": "2026-11-19T08:43:22.887112+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 510: Not Extended",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1607138786": {
+      "name": "Il Rimuginio",
+      "lastAttempt": "2026-11-19T08:43:25.600570+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1634564447": {
+      "name": "Guida alla meditazione con Franco Canteri",
+      "lastAttempt": "2026-11-19T08:43:26.610652+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1650464570": {
+      "name": "Dear Headspace",
+      "lastAttempt": "2026-11-19T08:43:31.969178+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC3JhfsgFPLSLNEROQCdj-GQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/Getsomeheadspace",
+      "status": "DA_SCANSIONARE"
+    },
+    "1502672139": {
+      "name": "21 Day Positive Mindfulness Meditation Challenge",
+      "lastAttempt": "2026-11-19T08:43:34.154373+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6802255426": {
+      "name": "Unstuck",
+      "lastAttempt": "2026-11-19T08:43:36.808148+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1797533951": {
+      "name": "MENS SANA",
+      "lastAttempt": "2026-11-19T08:43:42.527163+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCMhvfoT4PHFxchx8QjL22XQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@insidefactory3392",
+      "status": "DA_SCANSIONARE"
+    },
+    "1669486883": {
+      "name": "Chiacchiere da Palestra",
+      "lastAttempt": "2026-11-19T08:43:45.819437+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCZg9LmoqbvkjGYirKm4eAXA",
+      "youtubeSourceUrl": "https://www.youtube.com/@RiccardoCuccu",
+      "status": "DA_SCANSIONARE"
+    },
+    "359208879": {
+      "name": "Marathon Training Academy",
+      "lastAttempt": "2026-11-19T08:43:46.714495+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCShuJElPYw05xMLSkM374dw",
+      "youtubeSourceUrl": "https://www.youtube.com/@marathonacademy26.2",
+      "status": "DA_SCANSIONARE"
+    },
+    "1523577007": {
+      "name": "The Body Recomp Podcast | Beyond Fitness",
+      "lastAttempt": "2026-11-19T08:43:50.548548+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1494209943": {
+      "name": "BodyMind Training Italia",
+      "lastAttempt": "2026-11-19T08:43:53.173033+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCx8OckFVlT21pkOweurdYYQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@marcocaponera",
+      "status": "DA_SCANSIONARE"
+    },
+    "1854269207": {
+      "name": "Motivation Speeches FM",
+      "lastAttempt": "2026-11-19T08:43:56.124884+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1653304295": {
+      "name": "Chiacchiere sui pesi",
+      "lastAttempt": "2026-11-19T08:44:01.239456+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_INACCESSIBILE: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1317972536": {
+      "name": "Maxima Performa",
+      "lastAttempt": "2026-11-19T08:44:18.780358+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1513119359": {
+      "name": "The BBC Podcast",
+      "lastAttempt": "2026-11-19T08:44:20.718584+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1764978495": {
+      "name": "PESO LE PAROLE",
+      "lastAttempt": "2026-11-19T08:44:22.699819+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1697477055": {
+      "name": "Fit & Gesund mit Professor Froböse",
+      "lastAttempt": "2026-11-19T08:44:25.719220+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1728540455": {
+      "name": "Phitlosofia El Podcast",
+      "lastAttempt": "2026-11-19T08:44:31.059586+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "954100822": {
+      "name": "Mind Pump: Raw Fitness Truth",
+      "lastAttempt": "2026-11-19T08:44:32.853964+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1483061929": {
+      "name": "Fitness e dintorni",
+      "lastAttempt": "2026-11-19T08:44:36.067904+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UClEoeUitFo9lX7rfyDyOJMA",
+      "youtubeSourceUrl": "https://www.youtube.com/c/PierluigiDePascalis",
+      "status": "DA_SCANSIONARE"
+    },
+    "1463054544": {
+      "name": "The Stronger By Science Podcast",
+      "lastAttempt": "2026-11-19T08:44:39.873019+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1569475710": {
+      "name": "Skeptical Talks di Skeptical Dragoon",
+      "lastAttempt": "2026-11-19T08:44:41.267693+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC7cdhM3Bd86yFgdl8ya8rUA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC7cdhM3Bd86yFgdl8ya8rUA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1453401289": {
+      "name": "Performance Advantage Podcast",
+      "lastAttempt": "2026-11-19T08:44:46.090099+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1643931147": {
+      "name": "Radio Pavone",
+      "lastAttempt": "2026-11-19T08:44:47.973111+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1680075779": {
+      "name": "Arnold's Pump Club",
+      "lastAttempt": "2026-11-19T08:44:51.398147+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
