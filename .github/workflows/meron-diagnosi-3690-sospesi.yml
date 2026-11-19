@@ -1,0 +1,163 @@
+name: MerON - Diagnosi candidati sospesi (sola lettura)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnosi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Leggi repository senza credenziali persistenti
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Analizza tutte le cause e verifica i conflitti nascosti
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from collections import Counter, defaultdict
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import gestisci_video_tutti_podcast as manager
+
+          def read(filename):
+              return json.loads(Path(filename).read_text(encoding='utf-8-sig'))
+
+          catalog = read('videos.json')['videos']
+          pending = read('coda_video_tutti_podcast.json')['pending']
+          video_counts = Counter(manager.youtube_id(x['record'].get('youtubeUrl')) for x in pending)
+          track_counts = Counter(str(x['trackId']) for x in pending)
+          used_videos = {
+              manager.youtube_id(v.get('youtubeUrl'))
+              for v in catalog.values() if isinstance(v, dict)
+          }
+          used_videos.discard(None)
+          now = datetime.now(timezone.utc)
+          reason_counts = Counter()
+          combined = Counter()
+          flags = Counter()
+          safety = Counter()
+          podcasts = Counter()
+          rows = []
+          examples = defaultdict(list)
+
+          for item in pending:
+              reason = manager.validate_item(item, used_videos, catalog, video_counts, track_counts)
+              reason_counts[reason or 'PRONTO'] += 1
+              if reason != 'DA_VERIFICARE_TITOLO':
+                  continue
+
+              r = item['record']
+              score = item.get('score')
+              good_score = isinstance(score, int) and not isinstance(score, bool) and score >= 110
+              good_rule = r.get('matchRule') == 'Titolo identico'
+              apple = r.get('episode', '')
+              youtube = r.get('matchedVideoTitle', '')
+              same_title = bool(manager.normalized_title(apple)) and (
+                  manager.normalized_title(apple) == manager.normalized_title(youtube)
+              )
+              problems = []
+              if not good_score:
+                  problems.append('punteggio_insufficiente')
+              if not good_rule:
+                  problems.append('regola_non_identica')
+              if not same_title:
+                  problems.append('titoli_differenti')
+              category = ' + '.join(problems) if problems else 'titolo_valido_altra_causa'
+              combined[category] += 1
+              for flag in problems:
+                  flags[flag] += 1
+              podcasts[str(r.get('podcast') or '(senza nome)')] += 1
+
+              track = str(item['trackId'])
+              vid = manager.youtube_id(r.get('youtubeUrl'))
+              extra = []
+              if track_counts[track] != 1:
+                  extra.append('episodio_duplicato_nella_coda')
+              if vid and video_counts[vid] != 1:
+                  extra.append('video_duplicato_nella_coda')
+              if track in catalog:
+                  extra.append('episodio_gia_nel_catalogo')
+              if vid in used_videos:
+                  extra.append('video_gia_nel_catalogo')
+              duration = r.get('youtubeDurationSeconds')
+              if not isinstance(duration, int) or isinstance(duration, bool) or not 600 <= duration <= 86400:
+                  extra.append('durata_non_valida')
+              timestamp = manager.valid_utc(item.get('sourceGeneratedAt'))
+              if timestamp is None:
+                  extra.append('data_report_non_valida')
+              else:
+                  age_days = (now - timestamp).total_seconds() / 86400
+                  if age_days > 90 or age_days < -1:
+                      extra.append('report_fuori_intervallo_90_giorni')
+              for issue in extra:
+                  safety[issue] += 1
+
+              row = {
+                  'trackId': track,
+                  'podcast': str(r.get('podcast', '')),
+                  'titoloApple': apple,
+                  'titoloYouTube': youtube,
+                  'youtubeUrl': r.get('youtubeUrl'),
+                  'score': score,
+                  'regola': r.get('matchRule'),
+                  'causeTitolo': problems,
+                  'altriBlocchiDaVerificare': extra,
+                  'sourceGeneratedAt': item.get('sourceGeneratedAt'),
+              }
+              rows.append(row)
+              if len(examples[category]) < 3:
+                  examples[category].append(row)
+
+          report = {
+              'generatedAt': now.isoformat(),
+              'catalogo': len(catalog),
+              'inCoda': len(pending),
+              'esitoVerifica': dict(reason_counts),
+              'causeTitoloCombinazioni': dict(combined),
+              'causeTitoloSovrapposte': dict(flags),
+              'altriPossibiliBlocchiSovrapposti': dict(safety),
+              'podcastPiuCoinvolti': podcasts.most_common(30),
+              'esempiPerCategoria': dict(examples),
+              'candidatiSospesiAnalizzati': rows,
+              'nota': 'Diagnosi descrittiva: nessun candidato e approvato automaticamente da questo workflow.',
+          }
+          Path('diagnosi_meron_sospesi.json').write_text(
+              json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          print('\n=== MERON: DIAGNOSI CODA ===')
+          print('Catalogo:', len(catalog), '| In coda:', len(pending))
+          for name, count in reason_counts.most_common():
+              print(f'Esito {name}: {count}')
+          print('\n=== CAUSE DISTINTE DEI DA_VERIFICARE_TITOLO ===')
+          for name, count in combined.most_common():
+              print(f'{count:5} | {name}')
+          print('\n=== ALTRI BLOCCHI PRESENTI NELLA STESSA CODA ===')
+          for name, count in safety.most_common():
+              print(f'{count:5} | {name}')
+          print('\n=== PODCAST CON PIU CANDIDATI SOSPESI ===')
+          for name, count in podcasts.most_common(10):
+              print(f'{count:5} | {name}')
+          print('\nNESSUNA PUBBLICAZIONE. NESSUN FILE ORIGINALE MODIFICATO.')
+          print('Scarica il rapporto dalla sezione Artifacts.')
+          PY
+
+      - name: Scarica il rapporto di diagnosi
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-diagnosi-sospesi
+          path: diagnosi_meron_sospesi.json
+          if-no-files-found: error
+          retention-days: 14
