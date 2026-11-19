@@ -1364,7 +1364,7 @@
     },
     {
       "trackId": "1000799467226",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "BOM Voyage",
         "episode": "Streghe a Triora: BOM Voyage ep.1",
@@ -1373,13 +1373,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Streghe a Triora: BOM Voyage ep.1",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "6827654844",
         "youtubeChannelId": "UCrczK055BA5NP7AIpw-U-3Q",
         "youtubeDurationSeconds": 2014
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2173,13 +2173,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #107 CLAUDIO GIUNTA: Guida definitiva alla Divina Commedia",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 8368
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2313,13 +2313,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #98 PIERO TRELLINI - I misteri della Renault 4 di Aldo Moro",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 5176
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2393,13 +2393,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #93 FILOSOFIA COATTA (Giulio Armeni): Il Re dei Meme",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6163
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2453,13 +2453,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #90 ROBERTO TADDEO \"Guida definitiva al Mostro di Firenze\"",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 11450
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2493,18 +2493,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #62 GIUSEPPE CAPROTTI: La guerra per l'Esselunga - \"Succession\" all'italiana.",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6401
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000643163118",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #61 EMANUELE TREVI - Il figlio del mago",
@@ -2513,13 +2513,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #61 EMANUELE TREVI - Il figlio del mago",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 7975
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2604,7 +2604,7 @@
     },
     {
       "trackId": "1000633080503",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #56 GIPI \"Ad attaccarmi sono stati quelli che credevo amici\".",
@@ -2613,13 +2613,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #56 GIPI \"Ad attaccarmi sono stati quelli che credevo amici\".",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 8530
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2753,13 +2753,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #49 FRANCESCO MONTANARI: \"Quando ero l'ottavo re di Roma\".",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6215
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2793,18 +2793,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #47 GERO ARNONE La vita della mia ex tutto sommato non è male",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6056
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000602630108",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #46 DANIELE TINTI - Fare stand up comedy in Italia",
@@ -2813,13 +2813,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #46 DANIELE TINTI- Fare stand up comedy in Italia",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 4252
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2833,13 +2833,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #45 ROBERTO MERCADINI - La storia della mela, della Gioconda e della bomba atomica.",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 3684
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2853,13 +2853,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #44 \"Come nasce la guerra in Ucraina?\" – con Francesco Dalmazio Casini di ALISEO",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6983
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2873,13 +2873,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #43 L’uomo che è stato in tutti i Paesi del mondo: Flavio Ferrari Zumbini",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 10746
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2913,13 +2913,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #38 FRANCESCO LETTIERI - Cinema, Calcutta, Liberato e la trap",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6828
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -2953,13 +2953,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #36 IRENE GRAZIOSI - La morale degli influencer",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 4076
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3004,7 +3004,7 @@
     },
     {
       "trackId": "1000531367920",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #32 LASCIA STARE LA GALLINA live in Lecce",
@@ -3013,13 +3013,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #32 LASCIA STARE LA GALLINA live in LECCE",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 3708
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3064,7 +3064,7 @@
     },
     {
       "trackId": "1000523988327",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #29 CHIARA BARZINI - VIVERE IN CALIFORNIA",
@@ -3073,13 +3073,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #29 CHIARA BARZINI - VIVERE IN CALIFORNIA",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 3785
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3164,7 +3164,7 @@
     },
     {
       "trackId": "1000515450519",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #24 VITALIANO TREVISAN - Il lavoro, la provincia, la vita.",
@@ -3173,18 +3173,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #24 - VITALIANO TREVISAN - Il lavoro, la provincia, la vita.",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 4536
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000514430614",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #23 SUPREMAZIA QUANTISTICA - con SIMONE SEVERINI",
@@ -3193,18 +3193,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #23 SUPREMAZIA QUANTISTICA - con SIMONE SEVERINI",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 7007
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000513673249",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #22 - I SEGRETI DI \"SANPA\" con PAOLO BERNARDELLI",
@@ -3213,13 +3213,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #22 I SEGRETI DI \"SANPA\" con PAOLO BERNARDELLI",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 6429
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3244,7 +3244,7 @@
     },
     {
       "trackId": "1000511687635",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #20 ROBERTO RECCHIONI - Non cancellate le storie",
@@ -3253,13 +3253,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #20 ROBERTO RECCHIONI - Non cancellate le storie.",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 8377
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3304,7 +3304,7 @@
     },
     {
       "trackId": "1000507828521",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #16 LUCA RAVENNA: La comicità ha dei limiti?",
@@ -3313,18 +3313,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #16 LUCA RAVENNA: La comicità ha dei limiti?",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 7264
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000506976129",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #15 - GIANMARCO POZZECCO - Una vita clamorosa.",
@@ -3333,13 +3333,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #15 GIANMARCO POZZECCO: Una vita clamorosa.",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 5322
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3384,7 +3384,7 @@
     },
     {
       "trackId": "1000504615424",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #12 AMEDEO BALBI - Viviamo in una simulazione?",
@@ -3393,18 +3393,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #12 AMEDEO BALBI - Viviamo in una simulazione?",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 9349
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000503960814",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #11 EMANUELE FELICE - Perchè il Sud è più povero?",
@@ -3413,13 +3413,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #11 EMANUELE FELICE - perchè il Sud è più povero?",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 5994
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3433,13 +3433,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #10 IL TURISTA ESTREMO - FLAVIO FERRARI ZUMBINI",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 9323
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3453,13 +3453,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #9 LUCA BIZZARRI - Il rischio di realizzare i propri sogni",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 4384
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3544,7 +3544,7 @@
     },
     {
       "trackId": "1000499015639",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "PDR - Il Podcast di Daniele Rielli",
         "episode": "PDR #4 LUCIANO CAPONE - Storia del M5S da antisistema a Ka$ta (cit.).",
@@ -3553,13 +3553,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "PDR #4 LUCIANO CAPONE - Storia del M5S da antisistema a Ka$ta (cit.).",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T13:17:57.045506+00:00",
         "appleCollectionId": "1538698298",
         "youtubeChannelId": "UCkwrzDcqyKYS4mU7f0Rufrg",
         "youtubeDurationSeconds": 7295
       },
-      "sourceGeneratedAt": "2026-11-04T13:17:56.963184+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -3664,7 +3664,7 @@
     },
     {
       "trackId": "1000672522932",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "The Magnus Archives",
         "episode": "The Magnus Protocol - What If #1",
@@ -3673,13 +3673,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "The Magnus Protocol - What If #1",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-04T16:30:45.950993+00:00",
         "appleCollectionId": "1095138637",
         "youtubeChannelId": "UCAfn5ahWLpQmCIN7D0E1YQg",
         "youtubeDurationSeconds": 807
       },
-      "sourceGeneratedAt": "2026-11-04T16:30:45.858460+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -6724,7 +6724,7 @@
     },
     {
       "trackId": "1000792026012",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Door Friends",
         "episode": "DOOR FRIENDS — EPISODIO 0 | PILOT",
@@ -6733,13 +6733,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "DOOR FRIENDS — EPISODIO 0 |  PILOT",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-05T09:22:42.525733+00:00",
         "appleCollectionId": "6816956549",
         "youtubeChannelId": "UC4OlWtoQQMUuwKXj_CoBQFQ",
         "youtubeDurationSeconds": 874
       },
-      "sourceGeneratedAt": "2026-11-05T09:22:42.398000+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -8233,13 +8233,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Teen Takeovers & Netanyahu’s New Nightmare | The Tim Dillon Show #503",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-05T09:22:42.525733+00:00",
         "appleCollectionId": "1135137367",
         "youtubeChannelId": "UC4woSp8ITBoYDmjkukhEhxg",
         "youtubeDurationSeconds": 4502
       },
-      "sourceGeneratedAt": "2026-11-05T09:22:42.398000+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -13933,13 +13933,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Ep.2 IN HOTEL: Comunica con i tuoi ospiti stranieri in Inglese",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1496496265",
         "youtubeChannelId": "UCJigk06TGJoJYg_zmQgF_VA",
         "youtubeDurationSeconds": 995
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -13973,13 +13973,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Ep. 6 VIAGGIARE: inglese in aeroporto + speciale CONTROLLO PASSAPORTI",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1496496265",
         "youtubeChannelId": "UCJigk06TGJoJYg_zmQgF_VA",
         "youtubeDurationSeconds": 1665
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -13993,18 +13993,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Ep.5 VIAGGIARE: Testa la tua capacità di parlare e impara questi idioms",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1496496265",
         "youtubeChannelId": "UCJigk06TGJoJYg_zmQgF_VA",
         "youtubeDurationSeconds": 919
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000645627242",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Inglese a noi due",
         "episode": "Ep.2 VIAGGIARE: Impariamo a chiedere indicazioni",
@@ -14013,13 +14013,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Ep.2 VIAGGIARE: Impariamo a chiedere indicazioni",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1496496265",
         "youtubeChannelId": "UCJigk06TGJoJYg_zmQgF_VA",
         "youtubeDurationSeconds": 730
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15113,13 +15113,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#48 Wéetay (la solitude dans la société sénégalaise)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2178
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15133,13 +15133,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#47 Sama (ex) Xarit : waxtane sur la rupture amicale",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1793
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15184,7 +15184,7 @@
     },
     {
       "trackId": "1000779645142",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#44 TAWAKKUL (Wolou sa Borom)",
@@ -15193,18 +15193,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#44 TAWAKKUL (Wolou sa Borom)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1866
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000776178033",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#43 Sëy : choix wala chance ?",
@@ -15213,13 +15213,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#43 Sëy : choix wala chance ?",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2375
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15233,13 +15233,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#41 « Diox ma sa bop… » : Ados & sexualité (entre tabous, pressions ak manipulations)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1647
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15253,18 +15253,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#39 Yagui yakal sa bop té xamou loko ! (l'auto sabotage)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1562
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000728862694",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#38 Doon Yaay 2 (la grossesse)",
@@ -15273,13 +15273,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#38 Doon Yaay 2 (la grossesse)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2377
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15293,18 +15293,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#37 Dafay méti wayé dina meusseu diéx",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1827
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000690031192",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#36 Sëy : les étapes (avec mon mari)",
@@ -15313,18 +15313,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#36 Sëy : les étapes (avec mon mari)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2632
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000685327719",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#35 Sa temps moy sa alal (avec Khadija)",
@@ -15333,18 +15333,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#35 Sa temps moy sa alal (avec Khadija)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 3267
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000683477856",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#34 SËY (Mariage) : lima beuguone xam avant",
@@ -15353,13 +15353,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#34 SËY (Mariage) : lima beuguone xam avant",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2811
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15373,18 +15373,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#33 Dootoo xalé wayé nékago mag (l'adolescence)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2484
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000677921660",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#32 Féminisme (sama xalaat)",
@@ -15393,18 +15393,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#32 Féminisme (sama xalaat)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1482
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000676219855",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#31 Guëstou sa bopp (l’introspection)",
@@ -15413,13 +15413,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#31 Guëstou sa bopp (L'introspection)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 2206
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15433,13 +15433,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#30 Déé - La Mort (avec le professeur Madiama fall)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1787
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15453,13 +15453,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#29 Doon Baykat (entreprendre dans l'agriculture) avec mon invité Khalifa",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1277
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15484,7 +15484,7 @@
     },
     {
       "trackId": "1000660548671",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#27 Echec examen (sama jaar-jaar)",
@@ -15493,13 +15493,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#27 Echec examen (sama jaar-jaar)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1690
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15513,13 +15513,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#26 Ndogal (surmonter les épreuves) avec ma soeur Khadidja (encore lol)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 3289
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15533,13 +15533,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#25 Xaalis 3 (ci sëy) .. l'argent dans le couple au Sénégal",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1953
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15573,13 +15573,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#23 Lu tax ma bëgg Sénégal (les 4 raisons pour lesquelles j'aime le Sénégal)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1182
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15593,13 +15593,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#21 Jàngui bitim reew (étudier à l'étranger) avec Adja @vlogdunefatoudiante",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 3515
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15633,18 +15633,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#19 Doon Yaay (la maternité) avec ma soeur Khadidja",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 4539
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000643949232",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#18 Kilifë wala \"chef de gang\"",
@@ -15653,18 +15653,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#18 Kilifë wala \"chef de gang\"",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1255
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000642236229",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#17 Laaj ak tontu (questions/réponses)",
@@ -15673,18 +15673,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#17 Laaj ak tontu (questions/réponses",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1173
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000641439142",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#16 Fonk sa bopp (l'estime de soi)",
@@ -15693,13 +15693,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#16 Fonk sa bopp (l'estime de soi)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1115
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15713,13 +15713,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#15 Matadig Askanu Sénégal (la médiocrité dans la société sénégalaise)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 989
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15784,7 +15784,7 @@
     },
     {
       "trackId": "1000635163313",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#11 Dëcc (le deuil)",
@@ -15793,18 +15793,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#11 Dëcc (le deuil)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1559
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000634406874",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#10 Body shaming",
@@ -15813,13 +15813,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#10 Body shaming",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1200
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15853,13 +15853,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#8 Nék jigeen biir Sénégal (le statut de la femme au Sénégal)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1142
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15884,7 +15884,7 @@
     },
     {
       "trackId": "1000631226246",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#6 Soutoureu (la discrétion)",
@@ -15893,13 +15893,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#6 Soutoureu (la discrétion)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1732
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15924,7 +15924,7 @@
     },
     {
       "trackId": "1000628835129",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Raam Dox : le podcast à la sénégalaise",
         "episode": "#3 Siif ak Fitna",
@@ -15933,13 +15933,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#3 Siif ak Fitna",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 1889
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -15953,13 +15953,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "#2 Témoignage : \"Sama papa xamoul lou beuri si mane... de même que sama yaye\"",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1706809831",
         "youtubeChannelId": "UCqo24nNIm2BojL5f2TePw6Q",
         "youtubeDurationSeconds": 709
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16013,13 +16013,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep278 How to make a good relationship with people / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 1018
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16064,7 +16064,7 @@
     },
     {
       "trackId": "1000794041891",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep277 New Friends, Old Friends / Japanese Podcast for Beginners",
@@ -16073,13 +16073,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep277 New Friends, Old Friends / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 882
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16093,13 +16093,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep276 What would you do if AI took your job? / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 641
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16113,13 +16113,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep275 Saving Money / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 630
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16133,18 +16133,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep274 Which generation is better? / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 843
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000783302051",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep273 Let's get excited!! / Japanese Podcast for Beginners",
@@ -16153,18 +16153,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep273 Let's get excited!!! / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 837
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000780448745",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep272 Otaku / Japanese Podcast for Beginners",
@@ -16173,13 +16173,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep272 Otaku / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 747
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16204,7 +16204,7 @@
     },
     {
       "trackId": "1000776251476",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep270 Bear / Japanese Podcast for Beginners",
@@ -16213,18 +16213,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep270 Bear / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 657
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000775336547",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep269 Hot Spring / Japanese Podcast for Beginners",
@@ -16233,18 +16233,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep269 Hot Spring / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 751
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000773403277",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep268 Colds / Japanese Podcast for Beginners",
@@ -16253,18 +16253,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep268 Colds / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 769
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000771312152",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep267 Ocean / Japanese Podcast for Beginners",
@@ -16273,18 +16273,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep267 Ocean / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 686
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000770168111",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep266 Video Games / Japanese Podcast for Beginners",
@@ -16293,18 +16293,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep266 Video Games / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 728
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000767947337",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep265 Bags / Japanese Podcast for Beginners",
@@ -16313,18 +16313,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep265 Bags / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 826
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000766781959",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep264 Hitchhiking / Japanese Podcast for Beginners",
@@ -16333,18 +16333,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep264 Hitchhiking / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 611
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000761983113",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep263 Freedom / Japanese Podcast for Beginners",
@@ -16353,18 +16353,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep263 Freedom / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 779
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000759035644",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep262 Addiction / Japanese Podcast for Beginners",
@@ -16373,18 +16373,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep262 Addiction / Japanese Podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 698
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000757699357",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep261 Curtains / Japanese podcast for beginners",
@@ -16393,13 +16393,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep261 Curtains / Japanese Podcast for Beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 620
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16444,7 +16444,7 @@
     },
     {
       "trackId": "1000748520850",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep257 Computer / Japanese podcast for beginners",
@@ -16453,18 +16453,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep257 Computer / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 693
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000746331372",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep256 Cloud / Japanese podcast for beginners",
@@ -16473,13 +16473,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep256 Cloud / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 628
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16493,13 +16493,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep254 What kind of house do you want to live? / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 839
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16513,13 +16513,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】EP253 Things you should do when you are young / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 783
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16693,18 +16693,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep241  Do you need to take JLPT? / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 649
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000712422758",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Japanese with Shun",
         "episode": "【N5-N4】Ep240 Intuition  / Japanese podcast for beginners",
@@ -16713,13 +16713,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep240 Intuition / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 686
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16733,13 +16733,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep239 How I decide  places to travel / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 698
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -16753,13 +16753,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "【N5-N4】Ep238 The reason I started backpacking / Japanese podcast for beginners",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1550709885",
         "youtubeChannelId": "UCu6sZrHyl4hSS2PvlUo2XZA",
         "youtubeDurationSeconds": 631
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -19053,13 +19053,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Scegliere la scuola giusta #3 con Emily Mignanelli",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1522865435",
         "youtubeChannelId": "UC7T1XdEtdE70G2EwCuOA49A",
         "youtubeDurationSeconds": 1115
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -19073,13 +19073,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Scegliere la scuola giusta #2 con Emily Mignanelli",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1522865435",
         "youtubeChannelId": "UC7T1XdEtdE70G2EwCuOA49A",
         "youtubeDurationSeconds": 1171
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -19093,13 +19093,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Scegliere la scuola giusta #1 con Emily Mignanelli",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-06T13:07:15.769779+00:00",
         "appleCollectionId": "1522865435",
         "youtubeChannelId": "UC7T1XdEtdE70G2EwCuOA49A",
         "youtubeDurationSeconds": 1375
       },
-      "sourceGeneratedAt": "2026-11-06T13:07:15.561148+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -23744,7 +23744,7 @@
     },
     {
       "trackId": "1000615699871",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Over 40 Fabulous and Pregnant",
         "episode": "Jo's 8-Year Wait for Baby #3 at 40",
@@ -23753,13 +23753,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Jo's 8-Year Wait for Baby #3 at 40",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-07T11:53:14.542359+00:00",
         "appleCollectionId": "1649107031",
         "youtubeChannelId": "UCR6KqsbTpZLwqX_bEF-8PzQ",
         "youtubeDurationSeconds": 3997
       },
-      "sourceGeneratedAt": "2026-11-07T11:53:14.421548+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -24613,13 +24613,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "La DC di JAMES GUNN DISTRUGGERÀ la MARVEL? 🍿 ZuguVerso Ep. 129",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-07T11:53:14.542359+00:00",
         "appleCollectionId": "1667574723",
         "youtubeChannelId": "UCD7VT_JX41ueHaPhhl7ZEMA",
         "youtubeDurationSeconds": 12473
       },
-      "sourceGeneratedAt": "2026-11-07T11:53:14.421548+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -30044,7 +30044,7 @@
     },
     {
       "trackId": "1000666169553",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Sono Cose Serie - Serie tv, fumetti e oltre.",
         "episode": "The Boys 4 + Saga estiva ep03",
@@ -30053,18 +30053,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "The Boys 4 + Saga estiva ep03",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-08T12:05:46.769505+00:00",
         "appleCollectionId": "594531493",
         "youtubeChannelId": "UCp-qShApZNV0vD0kkOzaV3g",
         "youtubeDurationSeconds": 1020
       },
-      "sourceGeneratedAt": "2026-11-08T12:05:46.643244+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000665361060",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Sono Cose Serie - Serie tv, fumetti e oltre.",
         "episode": "Supacell + Saga estiva ep02",
@@ -30073,18 +30073,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Supacell + Saga estiva ep02",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-08T12:05:46.769505+00:00",
         "appleCollectionId": "594531493",
         "youtubeChannelId": "UCp-qShApZNV0vD0kkOzaV3g",
         "youtubeDurationSeconds": 1207
       },
-      "sourceGeneratedAt": "2026-11-08T12:05:46.643244+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000664647151",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Sono Cose Serie - Serie tv, fumetti e oltre.",
         "episode": "The Sympathizer + Saga estiva ep01",
@@ -30093,13 +30093,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "The Sympathizer + Saga estiva ep01",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-08T12:05:46.769505+00:00",
         "appleCollectionId": "594531493",
         "youtubeChannelId": "UCp-qShApZNV0vD0kkOzaV3g",
         "youtubeDurationSeconds": 876
       },
-      "sourceGeneratedAt": "2026-11-08T12:05:46.643244+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -33564,7 +33564,7 @@
     },
     {
       "trackId": "1000800194199",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 2 / Ep.5: La Les Paul di Duane Allman",
@@ -33573,18 +33573,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 2 / Ep.5: La Les Paul di Duane Allman",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 2950
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000797556986",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 2 / Ep.4: La Telecaster di Jeff Buckley",
@@ -33593,13 +33593,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 2 / Ep.4: La Telecaster di Jeff Buckley",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 3301
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -33624,7 +33624,7 @@
     },
     {
       "trackId": "1000775591101",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 2 / Ep.2: La prima Les Paul di Jimmy Page",
@@ -33633,18 +33633,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 2 / Ep.2: La prima Les Paul di Jimmy Page",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 1835
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000771807009",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 2 / Ep.1: La Beano Burst",
@@ -33653,13 +33653,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 2 / Ep.1: La Beano Burst",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 2078
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -33724,7 +33724,7 @@
     },
     {
       "trackId": "1000733258510",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.11: Il volume si alza!",
@@ -33733,18 +33733,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.11: Il volume si alza!",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 1111
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000731083903",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.10: Il Mostro a 4 teste",
@@ -33753,18 +33753,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.10: Il Mostro a 4 teste",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 1352
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000728503467",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.9: Colpo di coda",
@@ -33773,18 +33773,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.9: Colpo di coda",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 1074
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000726442604",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.8: Un triennio memorabile!",
@@ -33793,18 +33793,18 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.8: Un triennio memorabile!",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 1063
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
       "trackId": "1000723979604",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.7: Un piccolo passo per un uomo, un grande passo per l'umanità.",
@@ -33813,13 +33813,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.7: Un piccolo passo per un uomo, un grande passo per l'umanità.",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 955
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -33844,7 +33844,7 @@
     },
     {
       "trackId": "1000715680275",
-      "score": 108,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.5: Che la rivoluzione abbia inizio!",
@@ -33853,13 +33853,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.5: Che la rivoluzione abbia inizio!",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 948
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -33884,7 +33884,7 @@
     },
     {
       "trackId": "1000711775464",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.3: Il Mago di Waukesha",
@@ -33893,13 +33893,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.3: Il Mago di Waukesha",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 911
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -33924,7 +33924,7 @@
     },
     {
       "trackId": "1000706940213",
-      "score": 106,
+      "score": 112,
       "record": {
         "podcast": "Feedback Tales",
         "episode": "Stagione 1 / Ep.1: La fame di volume",
@@ -33933,13 +33933,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Stagione 1 / Ep.1: La fame di volume",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1813344324",
         "youtubeChannelId": "UChiMemEErJh7a4pNEKE6VtQ",
         "youtubeDurationSeconds": 793
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -34024,7 +34024,7 @@
     },
     {
       "trackId": "1000773713173",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "adessocapiamo",
         "episode": "adessocapiamo SISSI | Storie dall'arte Ep. 54",
@@ -34033,13 +34033,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "adessocapiamo SISSI | Storie dall'arte Ep. 54",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1776142885",
         "youtubeChannelId": "UCAnintp5rTcuGrMFWTFPQeg",
         "youtubeDurationSeconds": 2163
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -34064,7 +34064,7 @@
     },
     {
       "trackId": "1000771665920",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "adessocapiamo",
         "episode": "adessocapiamo SHADE | Storie dall'arte Ep. 53",
@@ -34073,13 +34073,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "adessocapiamo SHADE | Storie dall'arte Ep. 53",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1776142885",
         "youtubeChannelId": "UCAnintp5rTcuGrMFWTFPQeg",
         "youtubeDurationSeconds": 1916
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -34104,7 +34104,7 @@
     },
     {
       "trackId": "1000768901047",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "adessocapiamo",
         "episode": "adessocapiamo GIULIA MEI | Storie dall'arte Ep. 52",
@@ -34113,13 +34113,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "adessocapiamo GIULIA MEI | Storie dall'arte Ep. 52",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1776142885",
         "youtubeChannelId": "UCAnintp5rTcuGrMFWTFPQeg",
         "youtubeDurationSeconds": 1747
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -34144,7 +34144,7 @@
     },
     {
       "trackId": "1000763824947",
-      "score": 110,
+      "score": 112,
       "record": {
         "podcast": "adessocapiamo",
         "episode": "adessocapiamo SARAFINE | Storie dall'arte Ep. 51",
@@ -34153,13 +34153,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "adessocapiamo SARAFINE | Storie dall'arte Ep. 51",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1776142885",
         "youtubeChannelId": "UCAnintp5rTcuGrMFWTFPQeg",
         "youtubeDurationSeconds": 1656
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -34493,13 +34493,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "adessocapiamo DARGEN D'AMICO Ep. 23 Live @ Casa Spotify",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1776142885",
         "youtubeChannelId": "UCAnintp5rTcuGrMFWTFPQeg",
         "youtubeDurationSeconds": 2681
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -35493,13 +35493,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "RADIO, MUSICA e MICROFONO: il mestiere di un conduttore radiofonico RDS | EP11 con Renzo Di Falco",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1895600337",
         "youtubeChannelId": "UCs__tRwVFBP6TyPCEI9wQgA",
         "youtubeDurationSeconds": 3226
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:26:35.966844+00:00",
       "source": "scansione-giornaliera"
     },
     {
@@ -37853,13 +37853,13 @@
         "automaticMatch": true,
         "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
         "matchedVideoTitle": "Heldeep Radio #561 (Oliver Heldens Ultra Miami ASOT set & Armin B3B Oliver B3B Maddix)",
-        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "matchRule": "Titolo identico",
         "addedAt": "2026-11-09T08:28:52.749199+00:00",
         "appleCollectionId": "1236253646",
         "youtubeChannelId": "UC-EVnno6x6-aAG6g1ZVoN3A",
         "youtubeDurationSeconds": 7970
       },
-      "sourceGeneratedAt": "2026-11-09T08:28:52.542022+00:00",
+      "sourceGeneratedAt": "2026-11-12T14:54:22.193843+00:00",
       "source": "scansione-giornaliera"
     },
     {
