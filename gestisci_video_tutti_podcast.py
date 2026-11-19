@@ -34,7 +34,7 @@ PREVIEW_CSV = BASE / 'anteprima_coda_video_tutti_podcast.csv'
 APPLE_ID = re.compile(r'\d{5,20}\Z')
 CHANNEL_ID = re.compile(r'UC[A-Za-z0-9_-]{22}\Z')
 YOUTUBE_VIDEO = re.compile(r'[A-Za-z0-9_-]{11}\Z')
-MAX_ADDITIONS = 200
+MAX_ADDITIONS = 1500
 MIN_PRESERVED = 560
 
 
