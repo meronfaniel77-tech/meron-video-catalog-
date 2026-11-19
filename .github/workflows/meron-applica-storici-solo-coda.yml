@@ -1,0 +1,169 @@
+name: MerON - Applica recupero storico (solo coda)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: meron-video-pipeline
+  cancel-in-progress: false
+
+jobs:
+  recupero-verificato:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Controlla branch e sintassi
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REF" = 'refs/heads/main'
+          python -m py_compile gestisci_video_tutti_podcast.py pubblica_video_altri_podcast.py
+
+      - name: Applica solo gli aggiornamenti confermati dai due rapporti
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PYCODE'
+          import hashlib
+          import json
+          from collections import Counter
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          import gestisci_video_tutti_podcast as queue_mod
+
+          queue_path = Path('coda_video_tutti_podcast.json')
+          catalog_path = Path('videos.json')
+          evidence_path = Path('meron-recupero-storici-120.json')
+          audit_path = Path('rapporto_applicazione_storici.json')
+          catalog_before = hashlib.sha256(catalog_path.read_bytes()).hexdigest()
+          queue = json.loads(queue_path.read_text(encoding='utf-8-sig'))
+          catalog = json.loads(catalog_path.read_text(encoding='utf-8-sig'))
+          evidence = json.loads(evidence_path.read_text(encoding='utf-8-sig'))
+          if (queue.get('version') != 1 or not isinstance(queue.get('pending'), list)
+                  or not isinstance(catalog.get('videos'), dict)
+                  or len(catalog['videos']) < queue_mod.MIN_PRESERVED
+                  or evidence.get('version') != 1
+                  or not isinstance(evidence.get('upgrades'), list)
+                  or len(evidence['upgrades']) != 120):
+              raise ValueError('Struttura della coda, del catalogo o del rapporto inattesa')
+
+          pending = queue['pending']
+          by_key = {queue_mod.candidate_key(row): row for row in pending}
+          if len(by_key) != len(pending):
+              raise ValueError('Chiavi duplicate nella coda originale: operazione annullata')
+          saved = catalog['videos']
+          video_counts = Counter(queue_mod.youtube_id(row['record'].get('youtubeUrl')) for row in pending)
+          track_counts = Counter(str(row['trackId']) for row in pending)
+          existing_videos = {queue_mod.youtube_id(r.get('youtubeUrl')) for r in saved.values()
+                             if isinstance(r, dict)}
+
+          applied, skipped = [], []
+          used = set()
+          now = datetime.now(timezone.utc)
+          for p in evidence['upgrades']:
+              key = (str(p['trackId']), p['youtubeUrl'])
+              if key in used:
+                  raise ValueError('Proposte duplicate nel rapporto: operazione annullata')
+              used.add(key)
+              old = by_key.get(key)
+              if old is None:
+                  skipped.append({'trackId': key[0], 'reason': 'NON_PIU_IN_CODA'})
+                  continue
+              record = old['record']
+              old_score, new_score = old.get('score'), p['scoreDopo']
+              if (type(old_score) is not int or type(new_score) is not int
+                      or old_score != p['scorePrima']
+                      or record.get('matchRule') != p['regolaPrima']
+                      or p['regolaDopo'] != 'Titolo identico'
+                      or new_score < max(110, old_score)):
+                  skipped.append({'trackId': key[0], 'reason': 'STATO_DIVERSO_DAL_REPORT'})
+                  continue
+              without_rule = {k: v for k, v in record.items() if k != 'matchRule'}
+              if without_rule != p['recordAtteso']:
+                  skipped.append({'trackId': key[0], 'reason': 'METADATI_CAMBIATI'})
+                  continue
+              evidence_date = queue_mod.valid_utc(p['sourceGeneratedAt'])
+              old_date = queue_mod.valid_utc(old.get('sourceGeneratedAt'))
+              if (evidence_date is None or not 0 <= (now - evidence_date).total_seconds() <= 14 * 86400
+                      or (old_date is not None and evidence_date <= old_date)):
+                  skipped.append({'trackId': key[0], 'reason': 'PROVA_NON_RECENTE'})
+                  continue
+              probe = dict(old)
+              probe['record'] = dict(record, matchRule='Titolo identico')
+              probe['score'] = new_score
+              probe['sourceGeneratedAt'] = p['sourceGeneratedAt']
+              reason = queue_mod.validate_item(probe, existing_videos, saved,
+                                               video_counts, track_counts)
+              if reason is not None:
+                  skipped.append({'trackId': key[0], 'reason': reason})
+                  continue
+              old['record']['matchRule'] = 'Titolo identico'
+              old['score'] = new_score
+              old['sourceGeneratedAt'] = p['sourceGeneratedAt']
+              applied.append(key[0])
+
+          if hashlib.sha256(catalog_path.read_bytes()).hexdigest() != catalog_before:
+              raise RuntimeError('Il catalogo e cambiato durante il controllo')
+          if applied:
+              queue_mod.save_json(queue_path, queue)
+          audit = {
+              'generatedAt': datetime.now(timezone.utc).isoformat(),
+              'simulazioni': evidence['source'],
+              'obiettivo': len(evidence['upgrades']),
+              'aggiornatiInCoda': len(applied),
+              'nonAggiornati': len(skipped),
+              'esitiNonAggiornati': dict(Counter(s['reason'] for s in skipped)),
+              'idAggiornati': applied,
+              'dettaglioNonAggiornati': skipped,
+              'catalogoPrima': len(saved),
+              'catalogoDopo': len(saved),
+              'pubblicati': 0,
+          }
+          audit_path.write_text(json.dumps(audit, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          print('MERON - RECUPERO STORICO, SOLO CODA')
+          print('Aggiornati in coda:', len(applied), '/ 120')
+          print('Non aggiornati:', len(skipped), dict(Counter(s['reason'] for s in skipped)))
+          print('videos.json INALTERATO. Nessun collegamento pubblicato.')
+          PYCODE
+
+      - name: Conferma che videos.json non e stato modificato
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --exit-code -- videos.json
+
+      - name: Registra soltanto la coda su GitHub
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- coda_video_tutti_podcast.json
+          if git diff --cached --quiet; then
+            echo 'Nessuna rivalutazione nuova da salvare.'
+          else
+            git commit -m 'MerON: recupera candidati storici con prove recenti'
+            git push origin HEAD:main
+          fi
+
+      - name: Salva rapporto dettagliato
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-esito-recupero-storico
+          path: rapporto_applicazione_storici.json
+          if-no-files-found: warn
