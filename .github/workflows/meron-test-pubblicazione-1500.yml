@@ -1,0 +1,114 @@
+name: MerON - Test pubblicazione 1500 (solo anteprima)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: meron-video-pipeline
+  cancel-in-progress: false
+
+jobs:
+  verifica-limite-1500:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Scarica repository senza credenziali di scrittura
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Controlla sintassi e limiti
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m py_compile gestisci_video_tutti_podcast.py verifica_meron_automatica.py pubblica_video_altri_podcast.py
+          python - <<'PY'
+          import gestisci_video_tutti_podcast as manager
+          import verifica_meron_automatica as guard
+          print('Limite gestore:', manager.MAX_ADDITIONS)
+          print('Limite protezione:', guard.MAX_NEW)
+          if manager.MAX_ADDITIONS != 1500 or guard.MAX_NEW != 1500:
+              raise SystemExit('ERRORE: i due limiti devono essere entrambi 1500')
+          PY
+
+      - name: Crea una copia isolata di catalogo e coda
+        shell: bash
+        run: |
+          set -euo pipefail
+          workdir="$(mktemp -d "${RUNNER_TEMP}/meron-limite-1500.XXXXXX")"
+          cp -- gestisci_video_tutti_podcast.py verifica_meron_automatica.py pubblica_video_altri_podcast.py videos.json coda_video_tutti_podcast.json "$workdir/"
+          echo "MERON_TEST_DIR=$workdir" >> "$GITHUB_ENV"
+          echo 'Copia creata fuori dalla cartella del repository.'
+
+      - name: Simula pubblicazione fino a 1500 nella COPIA
+        shell: bash
+        env:
+          MERON_MODALITA: PUBBLICAZIONE
+          MERON_LEGGI_LOTTO: '0'
+          MERON_RIVALUTA_CODA: '0'
+        run: |
+          set -euo pipefail
+          cd "$MERON_TEST_DIR"
+          python verifica_meron_automatica.py prima
+          python gestisci_video_tutti_podcast.py
+          python verifica_meron_automatica.py dopo
+          echo 'TEST SUPERATO: la pubblicazione simulata ha passato la protezione finale.'
+
+      - name: Riepilogo e controllo degli originali
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          workdir = Path(os.environ['MERON_TEST_DIR'])
+          report = json.loads((workdir / 'anteprima_coda_video_tutti_podcast.json').read_text(encoding='utf-8-sig'))
+          summary = report['summary']
+          count = summary['nuoviCollegamentiEffettivamenteAggiunti']
+          before = summary['catalogoPrima']
+          after = summary['catalogoDopo']
+          ready = summary['prontiPerPubblicazione']
+          if not (0 <= count <= 1500 and after - before == count and count == min(1500, ready)):
+              raise SystemExit('BLOCCO: conteggi non coerenti')
+          result = {
+              'modalita': 'TEST SU COPIA TEMPORANEA',
+              'verificaSicurezza': 'SUPERATA',
+              'candidatiPronti': ready,
+              'videoCheVerrebberoPubblicati': count,
+              'catalogoPrimaNellaCopia': before,
+              'catalogoDopoNellaCopia': after,
+              'candidatiSospesi': summary['sospesiPerSicurezza'],
+              'catalogoOriginaleModificato': False,
+              'codaOriginaleModificata': False,
+          }
+          (workdir / 'esito-test-pubblicazione-1500.json').write_text(
+              json.dumps(result, indent=2, ensure_ascii=False) + '\n', encoding='utf-8'
+          )
+          print(json.dumps(result, indent=2, ensure_ascii=False))
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
+              out.write('## MerON - Simulazione pubblicazione 1500\n')
+              out.write(f'- Video pubblicabili ora: **{count}**\n')
+              out.write(f'- Candidati pronti: **{ready}**\n')
+              out.write('- Protezione finale: **SUPERATA**\n')
+              out.write('- Catalogo e coda originali: **INALTERATI**\n')
+          PY
+          git diff --exit-code -- videos.json coda_video_tutti_podcast.json
+
+      - name: Carica il rapporto della simulazione
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meron-esito-test-pubblicazione-1500
+          path: |
+            ${{ env.MERON_TEST_DIR }}/esito-test-pubblicazione-1500.json
+            ${{ env.MERON_TEST_DIR }}/anteprima_coda_video_tutti_podcast.json
+          if-no-files-found: warn
