@@ -11,7 +11,7 @@ import gestisci_video_tutti_podcast as manager
 
 BASE = Path(__file__).resolve().parent
 SNAPSHOT = BASE / '.meron-guard-snapshot.json'  # escluso dal commit (git add esplicito)
-MAX_NEW = 200
+MAX_NEW = 1500
 
 
 def fail(message: str) -> None:
