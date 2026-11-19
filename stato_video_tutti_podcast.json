@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-19T08:41:02.305531+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839504+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -9917,30 +9917,30 @@
     },
     "1545953110": {
       "name": "Huberman Lab",
-      "lastAttempt": "2026-11-19T08:41:02.305320+00:00",
+      "lastAttempt": "2026-11-19T14:30:57.893462+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC2D2CMWXMOVWx7giW1n3LIg",
       "youtubeSourceUrl": "https://www.youtube.com/@hubermanlab",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1226931245": {
       "name": "Mindfulness in Voce",
-      "lastAttempt": "2026-11-19T08:41:02.305344+00:00",
+      "lastAttempt": "2026-11-19T14:31:06.182857+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UC-ZtrTiPY8d0D-bEAWoVAaw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC-ZtrTiPY8d0D-bEAWoVAaw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1514059494": {
       "name": "Psicologia e benessere | Il podcast di GuidaPsicologi",
-      "lastAttempt": "2026-11-19T08:41:02.305362+00:00",
+      "lastAttempt": "2026-11-19T14:31:13.292827+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC1ujjED9fslIfFAl3rMehKQ",
       "youtubeSourceUrl": "https://www.youtube.com/@Guidapsicologit",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1895875909": {
       "name": "Il Codice Berne",
@@ -9951,12 +9951,12 @@
     },
     "1723347990": {
       "name": "Un passo al giorno",
-      "lastAttempt": "2026-11-19T08:41:02.305376+00:00",
+      "lastAttempt": "2026-11-19T14:31:16.920991+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC-uf-4TM0R9MUS3LFHuXkGQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC-uf-4TM0R9MUS3LFHuXkGQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1888740525": {
       "name": "Respira",
@@ -9995,12 +9995,12 @@
     },
     "1178431106": {
       "name": "Lo Psiconauta",
-      "lastAttempt": "2026-11-19T08:41:02.305388+00:00",
+      "lastAttempt": "2026-11-19T14:31:24.454021+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCVyGg6yFJJAPVS9NT-vVPKQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCVyGg6yFJJAPVS9NT-vVPKQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1552447041": {
       "name": "Illuminismo Psichedelico",
@@ -10053,48 +10053,48 @@
     },
     "1537324776": {
       "name": "Buddhas Revolution",
-      "lastAttempt": "2026-11-19T08:41:02.305400+00:00",
+      "lastAttempt": "2026-11-19T14:31:35.036449+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCabXP5WZohySQNngOswTZWg",
       "youtubeSourceUrl": "https://www.youtube.com/@occhidigiraffa_mindfulness",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1724353493": {
       "name": "Il Giardino della Meditazione",
-      "lastAttempt": "2026-11-19T08:41:02.305412+00:00",
+      "lastAttempt": "2026-11-19T14:31:38.102686+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCwcDzFSG2aBOLeL7xSwAYVQ",
       "youtubeSourceUrl": "https://www.youtube.com/c/MeditazioneGuidataeRilassamento",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1617665280": {
       "name": "Suoni per rilassarsi | by Relaxing White Noise",
-      "lastAttempt": "2026-11-19T08:41:02.305424+00:00",
+      "lastAttempt": "2026-11-19T14:31:43.308275+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCbunYN0o9Yaid7zHaor_UHA",
       "youtubeSourceUrl": "https://www.youtube.com/user/RelaxingWhiteNoise",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1758530583": {
       "name": "ESC - Every Step Counts",
-      "lastAttempt": "2026-11-19T08:41:02.305435+00:00",
+      "lastAttempt": "2026-11-19T14:31:53.255307+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCQcKK5p6zqEo1WYLIKirsYg",
       "youtubeSourceUrl": "https://www.youtube.com/user/RunLovers",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1805682821": {
       "name": "BrainCare",
-      "lastAttempt": "2026-11-19T08:41:02.305445+00:00",
+      "lastAttempt": "2026-11-19T14:31:56.343197+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCtpdt1HrvHEs2I-9Eq4TzvQ",
       "youtubeSourceUrl": "https://www.youtube.com/@hypercaststudio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6795513781": {
       "name": "The Mel Robbins's podcast",
@@ -10119,12 +10119,12 @@
     },
     "1727728894": {
       "name": "NarcisOUT - Tutto sul Narcisismo -  Il Podcast di Fabio Mazza",
-      "lastAttempt": "2026-11-19T08:41:02.305455+00:00",
+      "lastAttempt": "2026-11-19T14:32:01.343330+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCyfPumwSO5wpFWRBGuv2eoQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCyfPumwSO5wpFWRBGuv2eoQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1644046617": {
       "name": "Le basi",
@@ -10170,21 +10170,21 @@
     },
     "1155035634": {
       "name": "Psicologia - Pratica la Mente",
-      "lastAttempt": "2026-11-19T08:41:02.305466+00:00",
+      "lastAttempt": "2026-11-19T14:32:10.212111+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCesWY_iXmpvIp39NX7BfpTw",
       "youtubeSourceUrl": "https://www.youtube.com/user/psicologomilano99",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1726815799": {
       "name": "Yoga Orientiamo Podcast",
-      "lastAttempt": "2026-11-19T08:41:02.305478+00:00",
+      "lastAttempt": "2026-11-19T14:32:18.154977+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCCMJXAN1OwKjYVupnRbCTCw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCCMJXAN1OwKjYVupnRbCTCw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1755356567": {
       "name": "Dear Alice",
@@ -10265,21 +10265,21 @@
     },
     "1727020999": {
       "name": "The Adult Time Podcast",
-      "lastAttempt": "2026-11-19T08:41:02.305489+00:00",
+      "lastAttempt": "2026-11-19T14:32:27.200937+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCTLRdtVMiIIs_E1rByFr5Sg",
       "youtubeSourceUrl": "https://www.youtube.com/@AdultTimeHQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1587467644": {
       "name": "Oi, Let's Talk",
-      "lastAttempt": "2026-11-19T08:41:02.305501+00:00",
+      "lastAttempt": "2026-11-19T14:32:33.169655+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCOBGQXS9I63YhUlT0wkzt-g",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCOBGQXS9I63YhUlT0wkzt-g",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1494643399": {
       "name": "The Fair Food Forager & Friends Show",
@@ -10325,21 +10325,21 @@
     },
     "1596575096": {
       "name": "TV Therapy",
-      "lastAttempt": "2026-11-19T08:41:09.858616+00:00",
+      "lastAttempt": "2026-11-19T14:32:39.114704+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCBgFeo1DrU4jDnFxQsFb0lA",
       "youtubeSourceUrl": "https://www.youtube.com/@tvtherapypodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1559468560": {
       "name": "Psicologia Al Desnudo | @psi.mammoliti",
-      "lastAttempt": "2026-11-19T08:41:13.313953+00:00",
+      "lastAttempt": "2026-11-19T14:32:44.927299+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCco8rujqTKTOn-zBSuZAbFw",
       "youtubeSourceUrl": "https://www.youtube.com/@psimammoliti",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1690186597": {
       "name": "Una cura tutta tua",
@@ -10364,12 +10364,12 @@
     },
     "1493025986": {
       "name": "HealthyGamerGG",
-      "lastAttempt": "2026-11-19T08:41:26.847986+00:00",
+      "lastAttempt": "2026-11-19T14:32:52.518630+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UClHVl2N3jPEbkNJVx-ItQIQ",
       "youtubeSourceUrl": "https://www.youtube.com/@HealthyGamerGG",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1229124446": {
       "name": "Entiende Tu Mente",
@@ -10394,21 +10394,21 @@
     },
     "1493849516": {
       "name": "Después de la pérdida",
-      "lastAttempt": "2026-11-19T08:41:39.375137+00:00",
+      "lastAttempt": "2026-11-19T14:33:02.747336+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCaJYJWOIVNcIK-VTjO0tbeg",
       "youtubeSourceUrl": "https://www.youtube.com/@GabyPerezTanatologa",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1646631891": {
       "name": "ESC TV Today – Your Cardiovascular News",
-      "lastAttempt": "2026-11-19T08:41:43.657267+00:00",
+      "lastAttempt": "2026-11-19T14:33:11.071253+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCQFROke6pM580dsxDpVPxpA",
       "youtubeSourceUrl": "https://www.youtube.com/user/escardiodotorg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "386170702": {
       "name": "NEJM This Week",
@@ -10426,7 +10426,7 @@
     },
     "1868318569": {
       "name": "Generazione",
-      "lastAttempt": "2026-11-19T08:41:52.085032+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839277+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCGe1EHmk2SHt9fnpIRchvqg",
@@ -10435,7 +10435,7 @@
     },
     "1378040733": {
       "name": "Nothing much happens: bedtime stories to help you sleep",
-      "lastAttempt": "2026-11-19T08:42:04.115882+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839306+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCq0ReOdR2-ZrL3NzzLURgbg",
@@ -10451,7 +10451,7 @@
     },
     "1812444660": {
       "name": "8 Ore Scienza",
-      "lastAttempt": "2026-11-19T08:42:07.642326+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839327+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC2tTQ08BipQH1pSzRKpa63g",
@@ -10474,7 +10474,7 @@
     },
     "1444049902": {
       "name": "Il podcast di Denise - Yoga, benessere e lifestyle",
-      "lastAttempt": "2026-11-19T08:42:27.467867+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839345+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCArw4_137rIo9ybVodR7cxA",
@@ -10483,7 +10483,7 @@
     },
     "1472888443": {
       "name": "Listen To Sleep - Quiet Bedtime Stories & Meditations",
-      "lastAttempt": "2026-11-19T08:42:30.363070+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839359+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCnryuGl1EgA6kJe1m8GJcIQ",
@@ -10528,7 +10528,7 @@
     },
     "1790971225": {
       "name": "The Judd Lienhard Podcast",
-      "lastAttempt": "2026-11-19T08:42:51.052740+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839376+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC2KIbPHfA8oLuAlSKOctJ7g",
@@ -10537,7 +10537,7 @@
     },
     "1491712030": {
       "name": "L'ora di Medicina",
-      "lastAttempt": "2026-11-19T08:42:52.675303+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839388+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCqlWFGS05TQNsplrI-N1BLA",
@@ -10546,7 +10546,7 @@
     },
     "1536900237": {
       "name": "Ian Ritter Evolution",
-      "lastAttempt": "2026-11-19T08:42:56.874173+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839397+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCpdPwbi8t2ZHn-Zc6qrB-hw",
@@ -10562,7 +10562,7 @@
     },
     "1487513861": {
       "name": "Get Sleepy: stories for sleep",
-      "lastAttempt": "2026-11-19T08:43:04.430847+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839406+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCtOOJcon2npC5P3aebUzKpQ",
@@ -10571,7 +10571,7 @@
     },
     "1517569764": {
       "name": "Dpen Scienza",
-      "lastAttempt": "2026-11-19T08:43:05.626479+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839414+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC6lK120vnexlBHshNv8cWiQ",
@@ -10594,7 +10594,7 @@
     },
     "988935339": {
       "name": "Adult ADHD ADD Tips and Support",
-      "lastAttempt": "2026-11-19T08:43:13.841015+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839422+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UClGziBCNeAbFA3e-Oo4CCfg",
@@ -10603,7 +10603,7 @@
     },
     "1316938642": {
       "name": "The Doctor's Kitchen Podcast",
-      "lastAttempt": "2026-11-19T08:43:19.670454+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839429+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCDHTLhQbYlFnPBv-iLgFsQQ",
@@ -10633,7 +10633,7 @@
     },
     "1650464570": {
       "name": "Dear Headspace",
-      "lastAttempt": "2026-11-19T08:43:31.969178+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839436+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC3JhfsgFPLSLNEROQCdj-GQ",
@@ -10656,7 +10656,7 @@
     },
     "1797533951": {
       "name": "MENS SANA",
-      "lastAttempt": "2026-11-19T08:43:42.527163+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839444+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCMhvfoT4PHFxchx8QjL22XQ",
@@ -10665,7 +10665,7 @@
     },
     "1669486883": {
       "name": "Chiacchiere da Palestra",
-      "lastAttempt": "2026-11-19T08:43:45.819437+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839451+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCZg9LmoqbvkjGYirKm4eAXA",
@@ -10674,7 +10674,7 @@
     },
     "359208879": {
       "name": "Marathon Training Academy",
-      "lastAttempt": "2026-11-19T08:43:46.714495+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839459+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCShuJElPYw05xMLSkM374dw",
@@ -10690,7 +10690,7 @@
     },
     "1494209943": {
       "name": "BodyMind Training Italia",
-      "lastAttempt": "2026-11-19T08:43:53.173033+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839466+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCx8OckFVlT21pkOweurdYYQ",
@@ -10755,7 +10755,7 @@
     },
     "1483061929": {
       "name": "Fitness e dintorni",
-      "lastAttempt": "2026-11-19T08:44:36.067904+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839473+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UClEoeUitFo9lX7rfyDyOJMA",
@@ -10771,7 +10771,7 @@
     },
     "1569475710": {
       "name": "Skeptical Talks di Skeptical Dragoon",
-      "lastAttempt": "2026-11-19T08:44:41.267693+00:00",
+      "lastAttempt": "2026-11-19T14:33:17.839480+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC7cdhM3Bd86yFgdl8ya8rUA",
@@ -10795,6 +10795,459 @@
     "1680075779": {
       "name": "Arnold's Pump Club",
       "lastAttempt": "2026-11-19T08:44:51.398147+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1725022545": {
+      "name": "Perform with Dr. Andy Galpin",
+      "lastAttempt": "2026-11-19T14:33:18.530736+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCe3R2e3zYxWwIhMKV36Qhkw",
+      "youtubeSourceUrl": "https://www.youtube.com/@drandygalpin",
+      "status": "DA_SCANSIONARE"
+    },
+    "905054765": {
+      "name": "The Jeff Nippard Podcast",
+      "lastAttempt": "2026-11-19T14:33:19.945646+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1663685355": {
+      "name": "A.M.A: allenamento, mindset e alimentazione con Bravalupt",
+      "lastAttempt": "2026-11-19T14:33:22.368557+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1877846685": {
+      "name": "The Jake Dearden Podcast",
+      "lastAttempt": "2026-11-19T14:33:25.968338+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1787380122": {
+      "name": "EL TEMPLO DE LA HIPERTROFIA",
+      "lastAttempt": "2026-11-19T14:33:29.505602+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCIjQP38ayNKPxZgJsyi-Ffw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCIjQP38ayNKPxZgJsyi-Ffw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1445509665": {
+      "name": "WHOOP Podcast",
+      "lastAttempt": "2026-11-19T14:33:32.473369+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCcdxzpFrj3uRPh96GrUIoOQ",
+      "youtubeSourceUrl": "https://www.youtube.com/c/WHOOP",
+      "status": "DA_SCANSIONARE"
+    },
+    "911502027": {
+      "name": "Well Beyond 40",
+      "lastAttempt": "2026-11-19T14:33:34.906519+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1414073313": {
+      "name": "TRAINED",
+      "lastAttempt": "2026-11-19T14:33:37.595811+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1334232884": {
+      "name": "The Ready State Podcast",
+      "lastAttempt": "2026-11-19T14:33:40.712492+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCnnB4zDBqZHhQ4uLTAX8eYA",
+      "youtubeSourceUrl": "https://www.youtube.com/c/TheReadyState",
+      "status": "DA_SCANSIONARE"
+    },
+    "881260378": {
+      "name": "Radio Fitness Revolucionario",
+      "lastAttempt": "2026-11-19T14:33:44.932976+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1726781548": {
+      "name": "Cheeky Run Club",
+      "lastAttempt": "2026-11-19T14:33:50.905520+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "912202697": {
+      "name": "Fitness mit M.A.R.K. - Abnehmen, Muskelaufbau, Ernährung und Gesundheit",
+      "lastAttempt": "2026-11-19T14:33:51.878087+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCs9Esn9ODxheirobVviFpTg",
+      "youtubeSourceUrl": "https://www.youtube.com/@MarkMaslowMF",
+      "status": "DA_SCANSIONARE"
+    },
+    "1784443595": {
+      "name": "Training Things - Il sottosopra del fitness",
+      "lastAttempt": "2026-11-19T14:33:56.835956+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1655381669": {
+      "name": "Brighter Me Podast | Mindset al femminile con Alice Veglio",
+      "lastAttempt": "2026-11-19T14:33:59.817291+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1141688163": {
+      "name": "Redefining Strength Podcast",
+      "lastAttempt": "2026-11-19T14:34:01.631385+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1840906062": {
+      "name": "Guida al Calisthenics – Il Podcast dell’Allenamento a Corpo Libero",
+      "lastAttempt": "2026-11-19T14:34:12.578834+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCEH1Co-mIa_hr4fsFUU9-eQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@nicolayoda",
+      "status": "DA_SCANSIONARE"
+    },
+    "1615788860": {
+      "name": "The Unf*ck Your Fitness Podcast",
+      "lastAttempt": "2026-11-19T14:34:16.871061+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC5HcG8OfhWpdtq7HvjSW4vw",
+      "youtubeSourceUrl": "https://www.youtube.com/@unfuckyourfitness",
+      "status": "DA_SCANSIONARE"
+    },
+    "6800331177": {
+      "name": "Health or Hype",
+      "lastAttempt": "2026-11-19T14:34:17.700680+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCP44kBY7N7wZy-GdtJ9HKsQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/Bupa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1511088505": {
+      "name": "Wu Tao Life Podcast - Living Martial Arts",
+      "lastAttempt": "2026-11-19T14:34:21.453640+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCR9IadNccDF9xYss-58_OmA",
+      "youtubeSourceUrl": "https://www.youtube.com/@WuTaoLife",
+      "status": "DA_SCANSIONARE"
+    },
+    "1136251922": {
+      "name": "Optimal Health Daily - Fitness and Nutrition",
+      "lastAttempt": "2026-11-19T14:34:23.847857+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1459183727": {
+      "name": "Nicolò Liani",
+      "lastAttempt": "2026-11-19T14:34:27.213714+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1558918378": {
+      "name": "Boss Bitch Radio w/IFBB Pro, Diane Flores",
+      "lastAttempt": "2026-11-19T14:34:31.196218+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC8eWNTOoaftSDUOH67P6JOw",
+      "youtubeSourceUrl": "https://www.youtube.com/@dianeflores_ifbb_pro",
+      "status": "DA_SCANSIONARE"
+    },
+    "1669504158": {
+      "name": "Moving Conversations",
+      "lastAttempt": "2026-11-19T14:34:33.807210+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "283908977": {
+      "name": "Boundless Life",
+      "lastAttempt": "2026-11-19T14:34:37.789449+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1838655424": {
+      "name": "L'arte del GYROTONIC® di Alessandro Calvani",
+      "lastAttempt": "2026-11-19T14:34:42.849634+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCY5Gwkuh18rIf_qXCzkqxCg",
+      "youtubeSourceUrl": "https://www.youtube.com/@GyrotonicLaurentina",
+      "status": "DA_SCANSIONARE"
+    },
+    "1121047188": {
+      "name": "Just Fly Performance Podcast",
+      "lastAttempt": "2026-11-19T14:34:44.902555+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1877063105": {
+      "name": "The Aerobic Edge",
+      "lastAttempt": "2026-11-19T14:34:46.932070+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1594888462": {
+      "name": "LIFESHIFT",
+      "lastAttempt": "2026-11-19T14:34:51.006941+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] @sonjataucher9185/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "1855137874": {
+      "name": "All or Something Podcast",
+      "lastAttempt": "2026-11-19T14:34:52.897276+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1667636515": {
+      "name": "Красота требует мышц",
+      "lastAttempt": "2026-11-19T14:34:56.148469+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCeza7tyg9cB5ylC7RJKFhLw",
+      "youtubeSourceUrl": "https://www.youtube.com/@galinaognevaya",
+      "status": "DA_SCANSIONARE"
+    },
+    "1609814445": {
+      "name": "Underground Bodybuilding Podcast - Supplementation Science Training and Diet for Extreme Muscle",
+      "lastAttempt": "2026-11-19T14:35:00.083051+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1654700924": {
+      "name": "バランスダイエット【心理・運動・食事】",
+      "lastAttempt": "2026-11-19T14:35:04.989709+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCvPZSUZU69jhAmn4YmO3YKQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/megu19760616",
+      "status": "DA_SCANSIONARE"
+    },
+    "6821065178": {
+      "name": "Free Audiobook, Where Stories Come Alive, Take a Dive",
+      "lastAttempt": "2026-11-19T14:35:08.188026+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1848555895": {
+      "name": "La Scienza del Fitness",
+      "lastAttempt": "2026-11-19T14:35:09.412577+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1686577072": {
+      "name": "Your Gym Big Sister Podcast",
+      "lastAttempt": "2026-11-19T14:35:12.101512+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC8hVu68oyOkIEeYViZ1Kprg",
+      "youtubeSourceUrl": "https://www.youtube.com/@emmacurrivan",
+      "status": "DA_SCANSIONARE"
+    },
+    "1392883060": {
+      "name": "Bio 360 - Zurück ins Leben | Energie und Gesundheit",
+      "lastAttempt": "2026-11-19T14:35:15.398297+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1591730336": {
+      "name": "怪獸訓練電台",
+      "lastAttempt": "2026-11-19T14:35:18.270109+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1725368341": {
+      "name": "Ageless Athlete — Healthy Aging for a Strong, Capable Life",
+      "lastAttempt": "2026-11-19T14:35:26.254781+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC6VZAZzbchAcV8Z1QV2UE_Q",
+      "youtubeSourceUrl": "https://www.youtube.com/@agelessathletepodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1533088916": {
+      "name": "Hit Play Not Pause",
+      "lastAttempt": "2026-11-19T14:35:26.927614+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1663621192": {
+      "name": "The WarriorBabe Show with Nikkiey Stott",
+      "lastAttempt": "2026-11-19T14:35:29.652953+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: The read operation timed out",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1669533320": {
+      "name": "Scienza da BRO",
+      "lastAttempt": "2026-11-19T14:35:45.700244+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1606000644": {
+      "name": "That Triathlon Life Podcast",
+      "lastAttempt": "2026-11-19T14:35:59.249294+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1799636910": {
+      "name": "Menopausa 2.0 chiacchiere in allenamento",
+      "lastAttempt": "2026-11-19T14:35:59.451128+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "973579797": {
+      "name": "Joe DeFranco's Industrial Strength Show",
+      "lastAttempt": "2026-11-19T14:36:04.610229+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1681529396": {
+      "name": "Evidence-Based Pilates Podcast",
+      "lastAttempt": "2026-11-19T14:36:06.299379+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1486973454": {
+      "name": "Clydesdale Media Podcast",
+      "lastAttempt": "2026-11-19T14:36:09.514947+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "124686671": {
+      "name": "PODRUNNER: Workout Music",
+      "lastAttempt": "2026-11-19T14:36:11.873198+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "272591768": {
+      "name": "PODRUNNER: INTERVALS -- Workout Music",
+      "lastAttempt": "2026-11-19T14:36:14.833429+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1506670499": {
+      "name": "Yoga Inspiration",
+      "lastAttempt": "2026-11-19T14:36:19.439889+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1561242280": {
+      "name": "The Dr. Shannon Show",
+      "lastAttempt": "2026-11-19T14:36:21.480121+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1385048193": {
+      "name": "Confessions of a Bikini Pro",
+      "lastAttempt": "2026-11-19T14:36:27.847907+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1307296053": {
+      "name": "Better Faster Podcast",
+      "lastAttempt": "2026-11-19T14:36:28.385446+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1041596637": {
+      "name": "CVASPS The Podcast",
+      "lastAttempt": "2026-11-19T14:36:31.783145+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1735558112": {
+      "name": "Gym Mentality",
+      "lastAttempt": "2026-11-19T14:36:34.989908+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1503063445": {
+      "name": "Lunge & Lift Podcast",
+      "lastAttempt": "2026-11-19T14:36:39.032638+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1475346990": {
+      "name": "Sfide settimanali: creare abitudini positive",
+      "lastAttempt": "2026-11-19T14:36:40.436101+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1684550335": {
+      "name": "The Barbell Mamas Podcast | Pregnancy, Postpartum, Pelvic Health",
+      "lastAttempt": "2026-11-19T14:36:48.708303+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCc5uf38A9Iev7IKXZbOluGg",
+      "youtubeSourceUrl": "https://www.youtube.com/@thebarbellmamas",
+      "status": "DA_SCANSIONARE"
+    },
+    "1875561593": {
+      "name": "The Endurance Science Podcast with Matt Carpenter",
+      "lastAttempt": "2026-11-19T14:36:49.462958+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1786462572": {
+      "name": "Outsmart Overeating",
+      "lastAttempt": "2026-11-19T14:36:53.123201+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1812103326": {
+      "name": "Race Ready",
+      "lastAttempt": "2026-11-19T14:36:55.323778+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
@@ -10987,7 +11440,7 @@
     },
     "1547953350": {
       "name": "Altre/Storie Americane",
-      "source": "classifica_apple_1489"
+      "source": "classifica_apple_all"
     },
     "291685321": {
       "name": "Focus economia",
@@ -11147,7 +11600,7 @@
     },
     "262026989": {
       "name": "Learning English Conversations",
-      "source": "classifica_apple_1304"
+      "source": "classifica_apple_all"
     },
     "1823679448": {
       "name": "Dentro il mistero",
@@ -11175,7 +11628,7 @@
     },
     "1537596607": {
       "name": "Nova Lectio - Storie di Geopolitica",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1324"
     },
     "6827654844": {
       "name": "BOM Voyage",
@@ -11191,7 +11644,7 @@
     },
     "1392985832": {
       "name": "Morgana",
-      "source": "classifica_apple_1324"
+      "source": "classifica_apple_all"
     },
     "1779458186": {
       "name": "Nera",
@@ -11231,7 +11684,7 @@
     },
     "1454385938": {
       "name": "Copertina",
-      "source": "classifica_apple_1301"
+      "source": "classifica_apple_all"
     },
     "6811075082": {
       "name": "Parla Piano",
@@ -11603,7 +12056,7 @@
     },
     "1809772659": {
       "name": "Illumina Show",
-      "source": "classifica_apple_1303"
+      "source": "classifica_apple_all"
     },
     "1651156027": {
       "name": "POV il podcast",
@@ -12330,7 +12783,7 @@
       "source": "classifica_apple_1304"
     },
     "1877868508": {
-      "name": "Paracadute Podcast",
+      "name": "Paracadute:",
       "source": "classifica_apple_1304"
     },
     "1509598577": {
@@ -13874,7 +14327,7 @@
       "source": "classifica_apple_1314"
     },
     "1553827411": {
-      "name": "Maria Valtorta. I Quaderni",
+      "name": "I Quaderni di Maria Valtorta",
       "source": "classifica_apple_1314"
     },
     "1806864240": {
@@ -13991,7 +14444,7 @@
     },
     "203842628": {
       "name": "Il Disinformatico",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1318"
     },
     "1451098002": {
       "name": "Raffaele Gaito, il podcast.",
@@ -14359,7 +14812,7 @@
     },
     "1522517610": {
       "name": "Marco Casario - Finanza Personale, Investimenti ed Economia",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1321"
     },
     "1785537065": {
       "name": "Chapeau",
@@ -14747,11 +15200,11 @@
     },
     "1609066518": {
       "name": "Jeantoneria",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1324"
     },
     "1639100799": {
       "name": "Fatti di Mente - La Psicologia e le Neuroscienze nella vita di tutti i giorni",
-      "source": "classifica_apple_1324"
+      "source": "classifica_apple_all"
     },
     "1694514114": {
       "name": "È solo sesso",
@@ -14783,7 +15236,7 @@
     },
     "1875855512": {
       "name": "il fienile",
-      "source": "classifica_apple_1324"
+      "source": "classifica_apple_all"
     },
     "6828821672": {
       "name": "Al di là del buio",
@@ -15035,7 +15488,7 @@
     },
     "1802163963": {
       "name": "Partners in (True) Crime",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1488"
     },
     "1800473533": {
       "name": "Midnight's Legends  - Soprannaturale ma vero",
@@ -15043,7 +15496,7 @@
     },
     "1812445402": {
       "name": "Il cono d'ombra - La storia di Denis Bergamini",
-      "source": "classifica_apple_1488"
+      "source": "classifica_apple_all"
     },
     "1786573165": {
       "name": "Narciso - Il femminicidio di Giulia Ballestri",
@@ -15079,7 +15532,7 @@
     },
     "1823618418": {
       "name": "Hannibal Fletcher",
-      "source": "classifica_apple_1488"
+      "source": "classifica_apple_all"
     },
     "1148175292": {
       "name": "In The Dark",
@@ -15087,7 +15540,7 @@
     },
     "1835851658": {
       "name": "Sottovoce - Storie criminali",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1488"
     },
     "1322200189": {
       "name": "Crime Junkie",
@@ -15435,7 +15888,7 @@
     },
     "1660000454": {
       "name": "Macro",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1489"
     },
     "1625662548": {
       "name": "Stati di tensione",
@@ -15547,7 +16000,7 @@
     },
     "1687174172": {
       "name": "2024 - Speciale Intelligenza Artificiale",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1489"
     },
     "1642362071": {
       "name": "TG Luna",
@@ -15599,7 +16052,7 @@
     },
     "1650534351": {
       "name": "Cripto",
-      "source": "classifica_apple_1489"
+      "source": "classifica_apple_all"
     },
     "1648096075": {
       "name": "Leoni per Agnelli",
@@ -15639,7 +16092,7 @@
     },
     "1706061881": {
       "name": "Chiacchiericcio",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1489"
     },
     "1192761536": {
       "name": "Pod Save America",
@@ -16367,7 +16820,7 @@
     },
     "1788474884": {
       "name": "UNTAPPED with Spencer Matthews",
-      "source": "classifica_apple_1512"
+      "source": "classifica_apple_1514"
     },
     "1790971225": {
       "name": "The Judd Lienhard Podcast",
@@ -16447,7 +16900,7 @@
     },
     "1523577007": {
       "name": "The Body Recomp Podcast | Beyond Fitness",
-      "source": "classifica_apple_1512"
+      "source": "classifica_apple_1514"
     },
     "1494209943": {
       "name": "BodyMind Training Italia",
@@ -16471,7 +16924,7 @@
     },
     "1764978495": {
       "name": "PESO LE PAROLE",
-      "source": "classifica_apple_1514"
+      "source": "classifica_apple_1512"
     },
     "1697477055": {
       "name": "Fit & Gesund mit Professor Froböse",
@@ -16487,7 +16940,7 @@
     },
     "1483061929": {
       "name": "Fitness e dintorni",
-      "source": "classifica_apple_1514"
+      "source": "classifica_apple_1512"
     },
     "1463054544": {
       "name": "The Stronger By Science Podcast",
@@ -16507,7 +16960,7 @@
     },
     "1680075779": {
       "name": "Arnold's Pump Club",
-      "source": "classifica_apple_1514"
+      "source": "classifica_apple_1512"
     },
     "1725022545": {
       "name": "Perform with Dr. Andy Galpin",
@@ -16591,7 +17044,7 @@
     },
     "1459183727": {
       "name": "Nicolò Liani",
-      "source": "classifica_apple_1514"
+      "source": "classifica_apple_1512"
     },
     "1558918378": {
       "name": "Boss Bitch Radio w/IFBB Pro, Diane Flores",
@@ -16791,7 +17244,7 @@
     },
     "1843060354": {
       "name": "Mi cambio con Mounjaro",
-      "source": "classifica_apple_1512"
+      "source": "classifica_apple_1514"
     },
     "1845560835": {
       "name": "Il giorno migliore",
@@ -16855,7 +17308,7 @@
     },
     "1818747986": {
       "name": "Non è vero niente",
-      "source": "classifica_apple_all"
+      "source": "classifica_apple_1324"
     },
     "214089682": {
       "name": "Fresh Air",
@@ -21904,7 +22357,2403 @@
     "1475372412": {
       "name": "Desiree Lunardon Insieme per l'Insieme",
       "source": "classifica_apple_1514"
+    },
+    "1722613807": {
+      "name": "L'invasione",
+      "source": "classifica_apple_all"
+    },
+    "1716436422": {
+      "name": "La Telefonata",
+      "source": "classifica_apple_all"
+    },
+    "1768973812": {
+      "name": "Mig Babol",
+      "source": "classifica_apple_all"
+    },
+    "6836247990": {
+      "name": "Per le altre | Chora Inchieste",
+      "source": "classifica_apple_all"
+    },
+    "1864857695": {
+      "name": "Fotografia come linguaggio",
+      "source": "classifica_apple_1301"
+    },
+    "1685798633": {
+      "name": "Kinghiana. Un podcast su Stephen King",
+      "source": "classifica_apple_1301"
+    },
+    "1439895696": {
+      "name": "Vino sul Divano",
+      "source": "classifica_apple_1301"
+    },
+    "1606094659": {
+      "name": "Audiolibro La guerra dei mondi - H.G. Wells",
+      "source": "classifica_apple_1301"
+    },
+    "1563571159": {
+      "name": "La Guerra dei Mondi - H.G. Wells",
+      "source": "classifica_apple_1301"
+    },
+    "1455169228": {
+      "name": "Articles of Interest",
+      "source": "classifica_apple_1301"
+    },
+    "6830783057": {
+      "name": "L'epopea di Gilgamesh",
+      "source": "classifica_apple_1301"
+    },
+    "1454889729": {
+      "name": "Rebuilding The Renaissance",
+      "source": "classifica_apple_1301"
+    },
+    "6783515241": {
+      "name": "Orme Nascoste: Viaggio tra Miti, Arte e Codici Segreti",
+      "source": "classifica_apple_1301"
+    },
+    "1662904626": {
+      "name": "Audiolibro Le avventure di Tom Sawyer - Mark Twain",
+      "source": "classifica_apple_1301"
+    },
+    "1550962032": {
+      "name": "Il Ghirigoro",
+      "source": "classifica_apple_1301"
+    },
+    "1585413971": {
+      "name": "Ruthie's Table 4",
+      "source": "classifica_apple_1301"
+    },
+    "1661400729": {
+      "name": "Audiolibro Il ritratto di Dorian Gray - Oscar Wilde",
+      "source": "classifica_apple_1301"
+    },
+    "1502946114": {
+      "name": "Audiolibro Viaggio al Centro della Terra - Jules Verne",
+      "source": "classifica_apple_1301"
+    },
+    "1813854898": {
+      "name": "A Good Read",
+      "source": "classifica_apple_1301"
+    },
+    "1593849894": {
+      "name": "Anime Morte - Gogol | Audiolibro",
+      "source": "classifica_apple_1301"
+    },
+    "1579296134": {
+      "name": "بیوگرافی",
+      "source": "classifica_apple_1301"
+    },
+    "1678758174": {
+      "name": "Storie e curiosità notturne sull'architettura",
+      "source": "classifica_apple_1301"
+    },
+    "1757394506": {
+      "name": "Pop Corner",
+      "source": "classifica_apple_1301"
+    },
+    "6831334081": {
+      "name": "I Racconti del Gran Maestro Tures — Miti e grandi classici",
+      "source": "classifica_apple_1301"
+    },
+    "1781687341": {
+      "name": "Wine Educate: Wine Lessons, Travel & WSET Study Prep",
+      "source": "classifica_apple_1301"
+    },
+    "1310805889": {
+      "name": "Met Groenteman in de kast",
+      "source": "classifica_apple_1301"
+    },
+    "1612256554": {
+      "name": "موسوعة الكتب الصوتية",
+      "source": "classifica_apple_1301"
+    },
+    "1837363083": {
+      "name": "Arte essenziale - Una diversa storia dell'arte per il complicato mestiere di vivere",
+      "source": "classifica_apple_1301"
+    },
+    "1490461997": {
+      "name": "DialogueBox",
+      "source": "classifica_apple_1301"
+    },
+    "1494439019": {
+      "name": "پلی لیست | PlayList",
+      "source": "classifica_apple_1301"
+    },
+    "1166949390": {
+      "name": "日谈公园",
+      "source": "classifica_apple_1301"
+    },
+    "1647015036": {
+      "name": "Amanda Wakeley: Style DNA",
+      "source": "classifica_apple_1301"
+    },
+    "1490494475": {
+      "name": "Codka Ubax",
+      "source": "classifica_apple_1301"
+    },
+    "1844970987": {
+      "name": "Inside the Masterpiece",
+      "source": "classifica_apple_1301"
+    },
+    "1554445947": {
+      "name": "نظامی گنجوی",
+      "source": "classifica_apple_1301"
+    },
+    "711714876": {
+      "name": "Odissea",
+      "source": "classifica_apple_1301"
+    },
+    "328074695": {
+      "name": "Design Matters with Debbie Millman",
+      "source": "classifica_apple_1301"
+    },
+    "1347101174": {
+      "name": "Les émissions culturelles de France Culture",
+      "source": "classifica_apple_1301"
+    },
+    "1637143282": {
+      "name": "Top Audiolibros",
+      "source": "classifica_apple_1301"
+    },
+    "1846388345": {
+      "name": "Il giovane Holden",
+      "source": "classifica_apple_1301"
+    },
+    "1671212880": {
+      "name": "Cosa c'entra?",
+      "source": "classifica_apple_1301"
+    },
+    "1573299076": {
+      "name": "Fool Coverage with Manny MUA and Laura Lee",
+      "source": "classifica_apple_1301"
+    },
+    "1822721279": {
+      "name": "QueeringBO - Cose mai viste nei Musei Civici di Bologna",
+      "source": "classifica_apple_1301"
+    },
+    "1511195414": {
+      "name": "Il Mondo Nuovo - A. Huxley",
+      "source": "classifica_apple_1301"
+    },
+    "1571446706": {
+      "name": "Comfort Eating with Siobhán McSweeney",
+      "source": "classifica_apple_1301"
+    },
+    "1082457631": {
+      "name": "Folger Shakespeare Library: Shakespeare Unlimited",
+      "source": "classifica_apple_1301"
+    },
+    "1834477502": {
+      "name": "Zero to Well-Read",
+      "source": "classifica_apple_1301"
+    },
+    "1789828132": {
+      "name": "Foodminds - Il sapore del Successo",
+      "source": "classifica_apple_1301"
+    },
+    "734373360": {
+      "name": "London Review Bookshop Podcast",
+      "source": "classifica_apple_1301"
+    },
+    "1624329226": {
+      "name": "پادکست جعبه // Jabe Persian Podcast (Mansour Zabetian)",
+      "source": "classifica_apple_1301"
+    },
+    "6813196901": {
+      "name": "Jeselnik Book Club",
+      "source": "classifica_apple_1301"
+    },
+    "1402579687": {
+      "name": "Simon Mayo's Books of the Year",
+      "source": "classifica_apple_1301"
+    },
+    "1863379238": {
+      "name": "On AIS: storie e cultura del vino",
+      "source": "classifica_apple_1301"
+    },
+    "1780528693": {
+      "name": "Take Four Books",
+      "source": "classifica_apple_1301"
+    },
+    "1887861136": {
+      "name": "Allegramente pessimista",
+      "source": "classifica_apple_1301"
+    },
+    "1404496403": {
+      "name": "Second Date Update On The :10s Podcasts",
+      "source": "classifica_apple_1303"
+    },
+    "1605722586": {
+      "name": "Chooty Malli Podi Malli - OntheGo",
+      "source": "classifica_apple_1303"
+    },
+    "412151541": {
+      "name": "Comedy of the Week",
+      "source": "classifica_apple_1303"
+    },
+    "381816509": {
+      "name": "NerdCast",
+      "source": "classifica_apple_1303"
+    },
+    "6827811911": {
+      "name": "Good Hang with Amy Poehler",
+      "source": "classifica_apple_1303"
+    },
+    "1845527581": {
+      "name": "得体广播站",
+      "source": "classifica_apple_1303"
+    },
+    "1453555416": {
+      "name": "Smosh Mouth",
+      "source": "classifica_apple_1303"
+    },
+    "1574270511": {
+      "name": "Reddit On Wiki",
+      "source": "classifica_apple_1303"
+    },
+    "1451489585": {
+      "name": "Sh**ged Married Annoyed",
+      "source": "classifica_apple_1303"
+    },
+    "1678559416": {
+      "name": "Wiser Than Me with Julia Louis-Dreyfus",
+      "source": "classifica_apple_1303"
+    },
+    "1741939350": {
+      "name": "Comici Che Consigliano Cose",
+      "source": "classifica_apple_1303"
+    },
+    "1585365174": {
+      "name": "Ni Me Ladilles",
+      "source": "classifica_apple_1303"
+    },
+    "1588687062": {
+      "name": "アンガールズのジャンピン[オールナイトニッポンPODCAST]",
+      "source": "classifica_apple_1303"
+    },
+    "1356142765": {
+      "name": "Evil Genius with Russell Kane",
+      "source": "classifica_apple_1303"
+    },
+    "1496744822": {
+      "name": "Ma la notte no",
+      "source": "classifica_apple_1303"
+    },
+    "1465290044": {
+      "name": "Elis James and John Robins",
+      "source": "classifica_apple_1303"
+    },
+    "1585884963": {
+      "name": "Chooty Malli Podi Malli - OntheGo",
+      "source": "classifica_apple_1303"
+    },
+    "1357127065": {
+      "name": "Help I Sexted My Boss",
+      "source": "classifica_apple_1303"
+    },
+    "1440036003": {
+      "name": "5 Minuten Harry Podcast von Coldmirror",
+      "source": "classifica_apple_1303"
+    },
+    "1451500007": {
+      "name": "Renascença - Extremamente Desagradável",
+      "source": "classifica_apple_1303"
+    },
+    "1507148315": {
+      "name": "Katherine Ryan: Telling Everybody Everything",
+      "source": "classifica_apple_1303"
+    },
+    "1572229955": {
+      "name": "大久保佳代子とらぶぶらLOVE",
+      "source": "classifica_apple_1303"
+    },
+    "1707438618": {
+      "name": "Terapia de Parejas",
+      "source": "classifica_apple_1303"
+    },
+    "1799838790": {
+      "name": "Somos Un Chingo  con Grecia y Ando",
+      "source": "classifica_apple_1303"
+    },
+    "1713089081": {
+      "name": "CHEERS! with Avery Woods",
+      "source": "classifica_apple_1303"
+    },
+    "1641328244": {
+      "name": "Radio Paillettes",
+      "source": "classifica_apple_1303"
+    },
+    "1715686912": {
+      "name": "Sastre y Maldonado",
+      "source": "classifica_apple_1303"
+    },
+    "304557271": {
+      "name": "Triforce!",
+      "source": "classifica_apple_1303"
+    },
+    "1166583478": {
+      "name": "Potterless",
+      "source": "classifica_apple_1303"
+    },
+    "121493804": {
+      "name": "Wait Wait... Don't Tell Me!",
+      "source": "classifica_apple_1303"
+    },
+    "1552687312": {
+      "name": "The Gargle",
+      "source": "classifica_apple_1303"
+    },
+    "6820590129": {
+      "name": "Last Laugh Podcast",
+      "source": "classifica_apple_1303"
+    },
+    "1481898329": {
+      "name": "ShxtsNGigs",
+      "source": "classifica_apple_1303"
+    },
+    "253191823": {
+      "name": "The Best of Car Talk",
+      "source": "classifica_apple_1303"
+    },
+    "1671415180": {
+      "name": "Diva Podcast",
+      "source": "classifica_apple_1303"
+    },
+    "1503926981": {
+      "name": "The Socially Distant Sports Bar",
+      "source": "classifica_apple_1303"
+    },
+    "848436823": {
+      "name": "Pretinho Básico",
+      "source": "classifica_apple_1303"
+    },
+    "1718588987": {
+      "name": "I Never Liked You",
+      "source": "classifica_apple_1303"
+    },
+    "542323934": {
+      "name": "The Morning Rush",
+      "source": "classifica_apple_1303"
+    },
+    "1679913346": {
+      "name": "Vad Fan Hände?",
+      "source": "classifica_apple_1303"
+    },
+    "1575957255": {
+      "name": "The Yard",
+      "source": "classifica_apple_1303"
+    },
+    "1480835919": {
+      "name": "Todo por la radio",
+      "source": "classifica_apple_1303"
+    },
+    "1560965008": {
+      "name": "Chatabix",
+      "source": "classifica_apple_1303"
+    },
+    "1829954324": {
+      "name": "Cambia Frequenza",
+      "source": "classifica_apple_1304"
+    },
+    "1862188921": {
+      "name": "L'Educazione Responsabile",
+      "source": "classifica_apple_1304"
+    },
+    "1846874735": {
+      "name": "La Perspective Stoïcienne",
+      "source": "classifica_apple_1304"
+    },
+    "1833511934": {
+      "name": "Parliamo francese insieme (Parlons français ensemble)",
+      "source": "classifica_apple_1304"
+    },
+    "1671490972": {
+      "name": "纵横四海",
+      "source": "classifica_apple_1304"
+    },
+    "1184022695": {
+      "name": "The Jordan B. Peterson Podcast",
+      "source": "classifica_apple_1304"
+    },
+    "1726135306": {
+      "name": "自习室 STUDY ROOM",
+      "source": "classifica_apple_1304"
+    },
+    "1707318499": {
+      "name": "Acceleratore di apprendimento del portoghese brasiliano",
+      "source": "classifica_apple_1304"
+    },
+    "1712062853": {
+      "name": "Slow German listening experience",
+      "source": "classifica_apple_1304"
+    },
+    "1787433740": {
+      "name": "Finanza Ignorante",
+      "source": "classifica_apple_1304"
+    },
+    "1412327378": {
+      "name": "Learn Italian with LearnAmo - Impariamo l'italiano insieme!",
+      "source": "classifica_apple_1304"
+    },
+    "273450951": {
+      "name": "Learn Italian | ItalianPod101.com",
+      "source": "classifica_apple_1304"
+    },
+    "1515008420": {
+      "name": "Deutsch Podcast - Deutsch lernen",
+      "source": "classifica_apple_1304"
+    },
+    "1496665566": {
+      "name": "Charlas Hispanas: Aprende Español | Learn Spanish",
+      "source": "classifica_apple_1304"
+    },
+    "1752435702": {
+      "name": "Escargot - News & Culture in Simple French",
+      "source": "classifica_apple_1304"
+    },
+    "1612961874": {
+      "name": "Italian Stories In Italian",
+      "source": "classifica_apple_1304"
+    },
+    "938215076": {
+      "name": "Il treno va",
+      "source": "classifica_apple_1304"
+    },
+    "1853958555": {
+      "name": "The Florence Given Show",
+      "source": "classifica_apple_1304"
+    },
+    "1699151013": {
+      "name": "Acceleratore di apprendimento del francese",
+      "source": "classifica_apple_1304"
+    },
+    "1652064244": {
+      "name": "Psicologia e Meditazione, uno spazio per ritrovarsi...di GOFFREDO BORDESE",
+      "source": "classifica_apple_1304"
+    },
+    "1844498690": {
+      "name": "Prof Jiang’s Predictive History and other lectures",
+      "source": "classifica_apple_1304"
+    },
+    "1641951588": {
+      "name": "English Like A Native Podcast",
+      "source": "classifica_apple_1304"
+    },
+    "6827304081": {
+      "name": "English Podcast B1-B2 Speak with Leo and Maya",
+      "source": "classifica_apple_1304"
+    },
+    "1796817461": {
+      "name": "Easy English Stories - English Listening & Vocabulary",
+      "source": "classifica_apple_1304"
+    },
+    "1526306992": {
+      "name": "MySecretCase",
+      "source": "classifica_apple_1304"
+    },
+    "1529800549": {
+      "name": "Real Exam English - B2, C1, C2",
+      "source": "classifica_apple_1304"
+    },
+    "1683093772": {
+      "name": "Dati alla Mano",
+      "source": "classifica_apple_1304"
+    },
+    "1776743104": {
+      "name": "Dreaming Spanish Podcast – Chats in Beginner Spanish",
+      "source": "classifica_apple_1304"
+    },
+    "1580594077": {
+      "name": "LanguaTalk Slow French: Learn French With Gaëlle | French podcast for A2-B1",
+      "source": "classifica_apple_1304"
+    },
+    "1622000957": {
+      "name": "14 Minuten - Deine tägliche Portion Deutsch - Deutsch lernen für Fortgeschrittene",
+      "source": "classifica_apple_1304"
+    },
+    "1504698698": {
+      "name": "Ulli's Geschichten",
+      "source": "classifica_apple_1305"
+    },
+    "1447312619": {
+      "name": "Geschichten für Kinder",
+      "source": "classifica_apple_1305"
+    },
+    "185744724": {
+      "name": "Audiofiabe per bambini",
+      "source": "classifica_apple_1305"
+    },
+    "393313455": {
+      "name": "Figarinos Fahrradladen - Der MDR Tweens Hörspiel-Podcast für Kinder",
+      "source": "classifica_apple_1305"
+    },
+    "1770310205": {
+      "name": "Genitori dalla A alla Z",
+      "source": "classifica_apple_1305"
+    },
+    "1714672018": {
+      "name": "Snuggle: Kids bedtime stories",
+      "source": "classifica_apple_1305"
+    },
+    "1742787739": {
+      "name": "Tigerenten Club – Die Hör-Spiel-Show",
+      "source": "classifica_apple_1305"
+    },
+    "6835376290": {
+      "name": "Famous People for Kids / People Are Not Boring: The Kids Biographies Podcast",
+      "source": "classifica_apple_1305"
+    },
+    "1701287435": {
+      "name": "Cráneo: Ciencia para niños curiosos",
+      "source": "classifica_apple_1305"
+    },
+    "1697865705": {
+      "name": "Makes Milk with Emma Pickett: breastfeeding from the beginning to the end",
+      "source": "classifica_apple_1305"
+    },
+    "1521514886": {
+      "name": "Tumble en Español",
+      "source": "classifica_apple_1305"
+    },
+    "1562827200": {
+      "name": "Веснушка и Кипятоша. Новые приключения",
+      "source": "classifica_apple_1305"
+    },
+    "1679583585": {
+      "name": "Watizzut",
+      "source": "classifica_apple_1305"
+    },
+    "1422391009": {
+      "name": "Давай по чесноку",
+      "source": "classifica_apple_1305"
+    },
+    "1504895463": {
+      "name": "Terrestrials",
+      "source": "classifica_apple_1305"
+    },
+    "1586378518": {
+      "name": "Who, When, Wow!",
+      "source": "classifica_apple_1305"
+    },
+    "1705550937": {
+      "name": "Genitori Empatici",
+      "source": "classifica_apple_1305"
+    },
+    "1382789861": {
+      "name": "Smash Boom Best: A funny, smart debate show for kids and family",
+      "source": "classifica_apple_1305"
+    },
+    "1779235323": {
+      "name": "Alle gegen Nico - Zockt um die Quizkrone!",
+      "source": "classifica_apple_1305"
+    },
+    "1740153107": {
+      "name": "Once Upon a Beat",
+      "source": "classifica_apple_1305"
+    },
+    "1509044313": {
+      "name": "Dork Diaries: Tales From a Not-So Fabulous Life",
+      "source": "classifica_apple_1305"
+    },
+    "1082244480": {
+      "name": "Dr Justin Coulson's Happy Families",
+      "source": "classifica_apple_1305"
+    },
+    "1525260191": {
+      "name": "قصه های شبانه روز",
+      "source": "classifica_apple_1305"
+    },
+    "1799175425": {
+      "name": "Chiara Motterlini - l’educazione emozionale come stile di vita",
+      "source": "classifica_apple_1305"
+    },
+    "1820398890": {
+      "name": "TOGGO GG - der Podcast",
+      "source": "classifica_apple_1305"
+    },
+    "1794218115": {
+      "name": "PAW Patrol: Eye-Spy a Rescue",
+      "source": "classifica_apple_1305"
+    },
+    "1710579277": {
+      "name": "Historinhas do Ninho do Periquito",
+      "source": "classifica_apple_1305"
+    },
+    "1525689066": {
+      "name": "Ask Lisa: Untangling Family Life",
+      "source": "classifica_apple_1305"
+    },
+    "1730306592": {
+      "name": "Delightful Riding by OsteoDressage - Reiten, wie es Pferde lieben",
+      "source": "classifica_apple_1305"
+    },
+    "1791710714": {
+      "name": "Alla ricerca di un figlio: fertilità e fecondazione assistita",
+      "source": "classifica_apple_1305"
+    },
+    "1700937356": {
+      "name": "Близкие люди",
+      "source": "classifica_apple_1305"
+    },
+    "1619988355": {
+      "name": "Наши имена",
+      "source": "classifica_apple_1305"
+    },
+    "1653400901": {
+      "name": "Piccoli Passi di Educazione Positiva | Parent Smile and Grow",
+      "source": "classifica_apple_1305"
+    },
+    "1019727905": {
+      "name": "Der Mama Podcast - Kindererziehung und Familie/ Persönlichkeitsentwicklung für dich und deine Kinder",
+      "source": "classifica_apple_1305"
+    },
+    "1896886760": {
+      "name": "Leadership Materna",
+      "source": "classifica_apple_1305"
+    },
+    "1441879608": {
+      "name": "Bleib entspannt! Der Familien-Podcast für magische Traumreisen & Geschichten zum Einschlafen",
+      "source": "classifica_apple_1305"
+    },
+    "1488905669": {
+      "name": "Mama Leisa – der ehrliche Elternpodcast über Familie & Mental Load",
+      "source": "classifica_apple_1305"
+    },
+    "1678095715": {
+      "name": "Maman Lucie lit ! - Des histoires pour petits et grands",
+      "source": "classifica_apple_1305"
+    },
+    "1597620394": {
+      "name": "Bedtime Stories by Koala Moon",
+      "source": "classifica_apple_1305"
+    },
+    "1781667547": {
+      "name": "Ein Kopf voll Gold (Der Podcast) - Neurodivergente Kinder begleiten",
+      "source": "classifica_apple_1305"
+    },
+    "817756935": {
+      "name": "The Children's Book Podcast",
+      "source": "classifica_apple_1305"
+    },
+    "1527057155": {
+      "name": "Favole per tutti - Adulti e Bambini",
+      "source": "classifica_apple_1305"
+    },
+    "1540119032": {
+      "name": "English Kids Story with Katrina",
+      "source": "classifica_apple_1305"
+    },
+    "1874747452": {
+      "name": "Alles auf einmal",
+      "source": "classifica_apple_1305"
+    },
+    "1679364258": {
+      "name": "Let’s Read With Lyla and Dad",
+      "source": "classifica_apple_1305"
+    },
+    "1780349113": {
+      "name": "EDUCARE L’AMORE",
+      "source": "classifica_apple_1305"
+    },
+    "1612028989": {
+      "name": "Mamafürsorge - Dein Podcast für alle Seiten der Mutterschaft",
+      "source": "classifica_apple_1305"
+    },
+    "1552949322": {
+      "name": "Logopädie kompakt! Der Podcast von Sprachtherapie Online.",
+      "source": "classifica_apple_1305"
+    },
+    "1670327445": {
+      "name": "Effet mères",
+      "source": "classifica_apple_1305"
+    },
+    "1389814425": {
+      "name": "ELTERNgespräch",
+      "source": "classifica_apple_1305"
+    },
+    "1516895644": {
+      "name": "A Mary Conta - Hora de Dormir",
+      "source": "classifica_apple_1305"
+    },
+    "1654696758": {
+      "name": "Histoires pour dormir de Patricia",
+      "source": "classifica_apple_1305"
+    },
+    "1437836588": {
+      "name": "Chasing Labels",
+      "source": "classifica_apple_1309"
+    },
+    "953023656": {
+      "name": "Todopoderosos",
+      "source": "classifica_apple_1309"
+    },
+    "1621583098": {
+      "name": "The Big Conn: The Official Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1784946892": {
+      "name": "Are You A Charlotte?",
+      "source": "classifica_apple_1309"
+    },
+    "1128362990": {
+      "name": "Kack & Sachgeschichten",
+      "source": "classifica_apple_1309"
+    },
+    "1451484118": {
+      "name": "Сериальная ценность",
+      "source": "classifica_apple_1309"
+    },
+    "1796755232": {
+      "name": "My Diary Animated Official",
+      "source": "classifica_apple_1309"
+    },
+    "1777420767": {
+      "name": "That's Not How It Went Down",
+      "source": "classifica_apple_1309"
+    },
+    "1372879808": {
+      "name": "Deck The Hallmark",
+      "source": "classifica_apple_1309"
+    },
+    "1885681327": {
+      "name": "Critical Darlings",
+      "source": "classifica_apple_1309"
+    },
+    "6820610602": {
+      "name": "Fish On! With Jeremy Wade",
+      "source": "classifica_apple_1309"
+    },
+    "1558211702": {
+      "name": "The Ringer-Verse",
+      "source": "classifica_apple_1309"
+    },
+    "1813160272": {
+      "name": "Murder She Watched: True Crime Documentaries & Docuseries Recaps",
+      "source": "classifica_apple_1309"
+    },
+    "1313915711": {
+      "name": "Guide to the Unknown",
+      "source": "classifica_apple_1309"
+    },
+    "1107637427": {
+      "name": "Critically Acclaimed Network",
+      "source": "classifica_apple_1309"
+    },
+    "1177595376": {
+      "name": "Xena: Warrior Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1866266061": {
+      "name": "4CNet",
+      "source": "classifica_apple_1309"
+    },
+    "1571792783": {
+      "name": "Drama Queens",
+      "source": "classifica_apple_1309"
+    },
+    "1451100189": {
+      "name": "甲板日誌",
+      "source": "classifica_apple_1309"
+    },
+    "1803982712": {
+      "name": "China in Depth - Past and Present + NEWS/VIEWS/NOVELS",
+      "source": "classifica_apple_1309"
+    },
+    "1853454335": {
+      "name": "라플위클리 TALK",
+      "source": "classifica_apple_1309"
+    },
+    "1739638693": {
+      "name": "Split Screen: There Goes My Childhood",
+      "source": "classifica_apple_1309"
+    },
+    "1818142815": {
+      "name": "Cinema Selvaggio",
+      "source": "classifica_apple_1309"
+    },
+    "1809606618": {
+      "name": "Informed Attraction",
+      "source": "classifica_apple_1309"
+    },
+    "598146807": {
+      "name": "RHAP: We Know Survivor",
+      "source": "classifica_apple_1309"
+    },
+    "205222801": {
+      "name": "Being James Bond",
+      "source": "classifica_apple_1309"
+    },
+    "1866603114": {
+      "name": "Supporting Actresses",
+      "source": "classifica_apple_1309"
+    },
+    "1459800051": {
+      "name": "logo!-Nachrichten (VIDEO)",
+      "source": "classifica_apple_1309"
+    },
+    "281400220": {
+      "name": "The Filmcast",
+      "source": "classifica_apple_1309"
+    },
+    "1635147469": {
+      "name": "Mom Can't Cook! A DCOM Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1896893509": {
+      "name": "SOLVING: Twin Peaks",
+      "source": "classifica_apple_1309"
+    },
+    "1589296858": {
+      "name": "The New Plaza Cinema Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1023815223": {
+      "name": "Indie Film Hustle® - A Filmmaking Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1660320068": {
+      "name": "HBO's The Last of Us Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "904288466": {
+      "name": "Write Your Screenplay Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1408740329": {
+      "name": "Race Chaser with Alaska & Willam",
+      "source": "classifica_apple_1309"
+    },
+    "1773848558": {
+      "name": "48 Hours: NCIS",
+      "source": "classifica_apple_1309"
+    },
+    "1567023095": {
+      "name": "Writers on Film",
+      "source": "classifica_apple_1309"
+    },
+    "712316884": {
+      "name": "The Popcast With Knox and Jamie",
+      "source": "classifica_apple_1309"
+    },
+    "1434760405": {
+      "name": "The View",
+      "source": "classifica_apple_1309"
+    },
+    "858767884": {
+      "name": "DumTeeDum - A show about BBC Radio's 'The Archers'",
+      "source": "classifica_apple_1309"
+    },
+    "1665530644": {
+      "name": "Sina Peschke - BEST OF GUESTS",
+      "source": "classifica_apple_1309"
+    },
+    "1450377515": {
+      "name": "The Doctor Who Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "6785644465": {
+      "name": "The Outside View - A Silo Podcast - Apple TV",
+      "source": "classifica_apple_1309"
+    },
+    "1605253822": {
+      "name": "The Official Gilded Age Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1468856593": {
+      "name": "maybrit illner (AUDIO)",
+      "source": "classifica_apple_1309"
+    },
+    "1896297259": {
+      "name": "Harry Potter: The Official Film Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1884910061": {
+      "name": "Horror Sandbox",
+      "source": "classifica_apple_1309"
+    },
+    "113427515": {
+      "name": "Hey Mister Jesse",
+      "source": "classifica_apple_1309"
+    },
+    "1704056684": {
+      "name": "You’re Not Allowed To Say The ’S’ Word - A Heartstopper Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1722917730": {
+      "name": "La Settima Ossessione",
+      "source": "classifica_apple_1309"
+    },
+    "1707889681": {
+      "name": "Doppia Visione",
+      "source": "classifica_apple_1309"
+    },
+    "1492823632": {
+      "name": "电影不无聊",
+      "source": "classifica_apple_1309"
+    },
+    "1552072013": {
+      "name": "For All Mankind: The Official Podcast",
+      "source": "classifica_apple_1309"
+    },
+    "1568124983": {
+      "name": "Nosso Podcast de Cinema",
+      "source": "classifica_apple_1309"
+    },
+    "1299863834": {
+      "name": "Why Theory",
+      "source": "classifica_apple_1309"
+    },
+    "1654905784": {
+      "name": "Cattive Ragazze",
+      "source": "classifica_apple_1309"
+    },
+    "79687345": {
+      "name": "NPR Music",
+      "source": "classifica_apple_1310"
+    },
+    "1470364473": {
+      "name": "FG CHIC",
+      "source": "classifica_apple_1310"
+    },
+    "493610374": {
+      "name": "الشيخ محمد صديق المنشاوي",
+      "source": "classifica_apple_1310"
+    },
+    "612246843": {
+      "name": "Sa Majeste is a Dj",
+      "source": "classifica_apple_1310"
+    },
+    "1450302629": {
+      "name": "Anopa Bosuo",
+      "source": "classifica_apple_1310"
+    },
+    "745185047": {
+      "name": "Chicane Presents Sun:Sets",
+      "source": "classifica_apple_1310"
+    },
+    "1508635387": {
+      "name": "Dance Anthems",
+      "source": "classifica_apple_1310"
+    },
+    "380278390": {
+      "name": "Deep Sunset House and Progressive Podcast - The Melodic Sessions by Prototype 202",
+      "source": "classifica_apple_1310"
+    },
+    "1517453881": {
+      "name": "BIZ - Il podcast di Max Brigante",
+      "source": "classifica_apple_1310"
+    },
+    "291494030": {
+      "name": "Stereo Productions Podcast",
+      "source": "classifica_apple_1310"
+    },
+    "338813576": {
+      "name": "DJ Isaac - Hardstyle Sessions",
+      "source": "classifica_apple_1310"
+    },
+    "306904611": {
+      "name": "The Dub Step Zone",
+      "source": "classifica_apple_1310"
+    },
+    "1495515313": {
+      "name": "El Hotel Jazz Club",
+      "source": "classifica_apple_1310"
+    },
+    "1589602593": {
+      "name": "STORIE DI ROCK",
+      "source": "classifica_apple_1310"
+    },
+    "291175714": {
+      "name": "180 grados",
+      "source": "classifica_apple_1310"
+    },
+    "662093445": {
+      "name": "CYB3RPVNK Radio",
+      "source": "classifica_apple_1310"
+    },
+    "1143845868": {
+      "name": "Dissect",
+      "source": "classifica_apple_1310"
+    },
+    "120315823": {
+      "name": "Popcast",
+      "source": "classifica_apple_1310"
+    },
+    "1194449470": {
+      "name": "From Genesis To Revelation",
+      "source": "classifica_apple_1310"
+    },
+    "6816173433": {
+      "name": "MASONGS",
+      "source": "classifica_apple_1310"
+    },
+    "1621352294": {
+      "name": "HardLore",
+      "source": "classifica_apple_1310"
+    },
+    "1164459413": {
+      "name": "Pretty Pink - Deep Woods (Radio Show)",
+      "source": "classifica_apple_1310"
+    },
+    "1845527919": {
+      "name": "Lilly Palmer pres. Spannung Radio Show",
+      "source": "classifica_apple_1310"
+    },
+    "1201968027": {
+      "name": "Ongoing History of New Music",
+      "source": "classifica_apple_1310"
+    },
+    "1580240316": {
+      "name": "深度睡眠|解压|冥想|疗愈养生|艺术疗愈|白噪音|助眠音乐|轻音乐|苏阳阳频道",
+      "source": "classifica_apple_1310"
+    },
+    "1195509568": {
+      "name": "La sacca del diavolo",
+      "source": "classifica_apple_1310"
+    },
+    "395713233": {
+      "name": "Crash & Smile In Dada Land",
+      "source": "classifica_apple_1310"
+    },
+    "1249586110": {
+      "name": "Soul Cafe",
+      "source": "classifica_apple_1310"
+    },
+    "1543370925": {
+      "name": "Smooth Jazz Top 100",
+      "source": "classifica_apple_1310"
+    },
+    "1667675505": {
+      "name": "Dj Shinski New Mixes",
+      "source": "classifica_apple_1310"
+    },
+    "1740954514": {
+      "name": "Over The Pop - Der Popstars Podcast",
+      "source": "classifica_apple_1310"
+    },
+    "1448895856": {
+      "name": "Afrobeats Dancehall & Hip Hop Mixes",
+      "source": "classifica_apple_1310"
+    },
+    "1455736130": {
+      "name": "What is sound ?",
+      "source": "classifica_apple_1310"
+    },
+    "1442046563": {
+      "name": "The Truth About Vintage Amps with Skip Simmons",
+      "source": "classifica_apple_1310"
+    },
+    "1249834293": {
+      "name": "Tape Notes",
+      "source": "classifica_apple_1310"
+    },
+    "709487891": {
+      "name": "I AM HARDSTYLE Radio by Brennan Heart",
+      "source": "classifica_apple_1310"
+    },
+    "1541601911": {
+      "name": "Sessooesse",
+      "source": "classifica_apple_1310"
+    },
+    "1362121796": {
+      "name": "la radio uabab",
+      "source": "classifica_apple_1310"
+    },
+    "1311004083": {
+      "name": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
+      "source": "classifica_apple_1310"
+    },
+    "1589676268": {
+      "name": "STORIE DI JAZZ",
+      "source": "classifica_apple_1310"
+    },
+    "1874605251": {
+      "name": "HYPERSIMPOSIO",
+      "source": "classifica_apple_1310"
+    },
+    "1896846246": {
+      "name": "Eden Relaxing Piano",
+      "source": "classifica_apple_1310"
+    },
+    "301721131": {
+      "name": "El sótano",
+      "source": "classifica_apple_1310"
+    },
+    "1730713351": {
+      "name": "Beethoven 250 – Il pianoforte",
+      "source": "classifica_apple_1310"
+    },
+    "1340299588": {
+      "name": "SUNANDBASS Podcast",
+      "source": "classifica_apple_1310"
+    },
+    "1459753586": {
+      "name": "Suonare la Batteria",
+      "source": "classifica_apple_1310"
+    },
+    "1496387316": {
+      "name": "Sac à Pop",
+      "source": "classifica_apple_1310"
+    },
+    "1659614183": {
+      "name": "Sliding Rock",
+      "source": "classifica_apple_1310"
+    },
+    "185803769": {
+      "name": "In the Groove, Jazz and Beyond",
+      "source": "classifica_apple_1310"
+    },
+    "1076108557": {
+      "name": "The Buttnaked Soulful House Sessions",
+      "source": "classifica_apple_1310"
+    },
+    "1571796147": {
+      "name": "Громкий гость",
+      "source": "classifica_apple_1310"
+    },
+    "1874002265": {
+      "name": "Mellow Night Music, Quiet Storm. Blueprint, Velvet Series & Tribute By Roby Bellini",
+      "source": "classifica_apple_1310"
+    },
+    "1614644456": {
+      "name": "Berühmte Komponisten - Biografien zum Hören",
+      "source": "classifica_apple_1310"
+    },
+    "1706628481": {
+      "name": "CineScore - Le Musiche nel Cinema",
+      "source": "classifica_apple_1310"
+    },
+    "1449000632": {
+      "name": "Album | آلبوم",
+      "source": "classifica_apple_1310"
+    },
+    "1770787182": {
+      "name": "Cheikh Mouhidine Samba Diallo",
+      "source": "classifica_apple_1314"
+    },
+    "1389891606": {
+      "name": "Prières inspirées EMCI TV",
+      "source": "classifica_apple_1314"
+    },
+    "1747570543": {
+      "name": "Czytamy Pismo Święte - Nowy Testament",
+      "source": "classifica_apple_1314"
+    },
+    "1218400764": {
+      "name": "Bishop Isaac Oti-Boateng Audio Podcast",
+      "source": "classifica_apple_1314"
+    },
+    "6833001741": {
+      "name": "Dragon Lady - Osho, l'ultima testimone",
+      "source": "classifica_apple_1314"
+    },
+    "1830681034": {
+      "name": "Atlas Biblic",
+      "source": "classifica_apple_1314"
+    },
+    "1679809553": {
+      "name": "La spiritualità di Don Divo Barsotti",
+      "source": "classifica_apple_1314"
+    },
+    "6829666466": {
+      "name": "Trame di cura. Ascolto che cura, comunità che ricostruisce",
+      "source": "classifica_apple_1314"
+    },
+    "1734514658": {
+      "name": "برنامج ونلقي الأحبة - عمرو خالد",
+      "source": "classifica_apple_1314"
+    },
+    "1557695453": {
+      "name": "Viaggio alla scoperta della spiritualità",
+      "source": "classifica_apple_1314"
+    },
+    "1041591911": {
+      "name": "Palavra Amiga do Bispo Macedo",
+      "source": "classifica_apple_1314"
+    },
+    "1799530504": {
+      "name": "Diario Vaticano",
+      "source": "classifica_apple_1314"
+    },
+    "1097862282": {
+      "name": "Pints With Aquinas",
+      "source": "classifica_apple_1314"
+    },
+    "1392955526": {
+      "name": "ISIDE, MARIA VERGINE, SOFIA",
+      "source": "classifica_apple_1314"
+    },
+    "1798786806": {
+      "name": "Omam  - أُمم مع ميرنا الزيني",
+      "source": "classifica_apple_1314"
+    },
+    "1818583775": {
+      "name": "Preghiamo insieme",
+      "source": "classifica_apple_1314"
+    },
+    "1849856085": {
+      "name": "Mishary Al-Afasy - مشاري العفاسي",
+      "source": "classifica_apple_1314"
+    },
+    "1439611058": {
+      "name": "Consciousness Anywhere",
+      "source": "classifica_apple_1314"
+    },
+    "1675414781": {
+      "name": "Bora ler a Bíblia!",
+      "source": "classifica_apple_1314"
+    },
+    "494964859": {
+      "name": "Warren Wiersbe Sermons",
+      "source": "classifica_apple_1314"
+    },
+    "1814935686": {
+      "name": "قصص الأنبياء",
+      "source": "classifica_apple_1314"
+    },
+    "1832009702": {
+      "name": "Footnote Famous",
+      "source": "classifica_apple_1314"
+    },
+    "1803630865": {
+      "name": "SERIGNE AHMADOU MBACKE",
+      "source": "classifica_apple_1314"
+    },
+    "1087835183": {
+      "name": "Le Saint Coran traduit en francais",
+      "source": "classifica_apple_1314"
+    },
+    "1677524424": {
+      "name": "Quran Bangla",
+      "source": "classifica_apple_1314"
+    },
+    "1031363405": {
+      "name": "The Ten Minute Bible Hour Podcast",
+      "source": "classifica_apple_1314"
+    },
+    "1455626095": {
+      "name": "Christo Nihil Praeponere",
+      "source": "classifica_apple_1314"
+    },
+    "1581279554": {
+      "name": "ياسين الجزائري | القرآن الكريم",
+      "source": "classifica_apple_1314"
+    },
+    "1800956463": {
+      "name": "المهندس علاء حامد",
+      "source": "classifica_apple_1314"
+    },
+    "1823504439": {
+      "name": "Commentario sull'Autoguarigione con Lama Michel Rinpoche",
+      "source": "classifica_apple_1314"
+    },
+    "1849827749": {
+      "name": "Islam Sobhi - إسلام صبحي",
+      "source": "classifica_apple_1314"
+    },
+    "1663685009": {
+      "name": "Mystery Pot",
+      "source": "classifica_apple_1314"
+    },
+    "347854569": {
+      "name": "The Sadhguru Podcast - Of Mystics and Mistakes",
+      "source": "classifica_apple_1314"
+    },
+    "1656711321": {
+      "name": "Things Unseen with Sinclair B. Ferguson",
+      "source": "classifica_apple_1314"
+    },
+    "307934313": {
+      "name": "Sounds True: Insights at the Edge",
+      "source": "classifica_apple_1314"
+    },
+    "1518488318": {
+      "name": "القران الكريم كاملا mp3 - قران كريم mp3",
+      "source": "classifica_apple_1314"
+    },
+    "1654960200": {
+      "name": "La Filosofia della Libertà di Rudolf Steiner - 1° seminario - Rocca di Papa (RM), dal 15 al 18 febbraio 2007",
+      "source": "classifica_apple_1314"
+    },
+    "1491084820": {
+      "name": "¿Qué Haría Jesús?",
+      "source": "classifica_apple_1314"
+    },
+    "1711138766": {
+      "name": "松茸的世界丨正念冥想",
+      "source": "classifica_apple_1314"
+    },
+    "1794356208": {
+      "name": "Me Time – Der Podcast mit Alessandra Meyer-Wölden",
+      "source": "classifica_apple_1314"
+    },
+    "1017074168": {
+      "name": "Omar Suleiman",
+      "source": "classifica_apple_1314"
+    },
+    "1545182091": {
+      "name": "ISLAMIC HUB",
+      "source": "classifica_apple_1314"
+    },
+    "1532864068": {
+      "name": "CHEWING GUM - masticare la Parola di Dio",
+      "source": "classifica_apple_1314"
+    },
+    "1358056327": {
+      "name": "BibleThinker",
+      "source": "classifica_apple_1314"
+    },
+    "944925529": {
+      "name": "That Sounds Fun with Annie F. Downs",
+      "source": "classifica_apple_1314"
+    },
+    "1561931747": {
+      "name": "Muhammad Siddiq al-Minshawi - Mujawwad",
+      "source": "classifica_apple_1314"
+    },
+    "1194636676": {
+      "name": "עושים תנ\"ך עם יותם שטיינמן Osim Tanach",
+      "source": "classifica_apple_1314"
+    },
+    "1560959545": {
+      "name": "The C.S. Lewis podcast",
+      "source": "classifica_apple_1314"
+    },
+    "1588957704": {
+      "name": "Ministero internazionale uomo di pace",
+      "source": "classifica_apple_1314"
+    },
+    "1447548149": {
+      "name": "Spirit Gym with Paul Chek",
+      "source": "classifica_apple_1314"
+    },
+    "1723892791": {
+      "name": "Biblically Speaking",
+      "source": "classifica_apple_1314"
+    },
+    "6834384253": {
+      "name": "TechDale",
+      "source": "classifica_apple_1318"
+    },
+    "1482455669": {
+      "name": "What Bitcoin Did",
+      "source": "classifica_apple_1318"
+    },
+    "1834069371": {
+      "name": "罗永浩的十字路口",
+      "source": "classifica_apple_1318"
+    },
+    "1711768070": {
+      "name": "Scenari",
+      "source": "classifica_apple_1318"
+    },
+    "1740187810": {
+      "name": "Panic World",
+      "source": "classifica_apple_1318"
+    },
+    "1799261077": {
+      "name": "Informatica per tutti",
+      "source": "classifica_apple_1318"
+    },
+    "1717605474": {
+      "name": "L'arte della difesa digitale - Intesa Sanpaolo On Air",
+      "source": "classifica_apple_1318"
+    },
+    "470624027": {
+      "name": "TED Tech",
+      "source": "classifica_apple_1318"
+    },
+    "1241632035": {
+      "name": "Pionieri del Tech",
+      "source": "classifica_apple_1318"
+    },
+    "1559683390": {
+      "name": "Old Gen",
+      "source": "classifica_apple_1318"
+    },
+    "1595379373": {
+      "name": "SICUREZZA e INFORMATICA per TUTTI",
+      "source": "classifica_apple_1318"
+    },
+    "1506146892": {
+      "name": "AWS - Il podcast in italiano",
+      "source": "classifica_apple_1318"
+    },
+    "6835194907": {
+      "name": "Human Bug",
+      "source": "classifica_apple_1318"
+    },
+    "1065445951": {
+      "name": "linkmeup",
+      "source": "classifica_apple_1318"
+    },
+    "341623264": {
+      "name": "The Changelog: Software Development, Open Source",
+      "source": "classifica_apple_1318"
+    },
+    "1669990482": {
+      "name": "AI Chat: AI News on Claude, ChatGPT, Gemini, Grok, Perplexity",
+      "source": "classifica_apple_1318"
+    },
+    "1320620176": {
+      "name": "Ham Radio Workbench Podcast",
+      "source": "classifica_apple_1318"
+    },
+    "282795787": {
+      "name": "TechStuff",
+      "source": "classifica_apple_1318"
+    },
+    "1526914048": {
+      "name": "This Machine Kills",
+      "source": "classifica_apple_1318"
+    },
+    "1715255426": {
+      "name": "Space Economy: Alla conquista dello spazio - Intesa Sanpaolo On Air",
+      "source": "classifica_apple_1318"
+    },
+    "1575887598": {
+      "name": "Costruire SMART",
+      "source": "classifica_apple_1318"
+    },
+    "1655714032": {
+      "name": "Geni invisibili",
+      "source": "classifica_apple_1318"
+    },
+    "1517210732": {
+      "name": "LibrePodcast - Open Source e pensieri digitali in libertà",
+      "source": "classifica_apple_1318"
+    },
+    "835717958": {
+      "name": "c’t uplink - der IT-Podcast aus Nerdistan",
+      "source": "classifica_apple_1318"
+    },
+    "1492761030": {
+      "name": "INSiDER - Dentro la Tecnologia",
+      "source": "classifica_apple_1318"
+    },
+    "1552627235": {
+      "name": "The Tech Policy Press Podcast",
+      "source": "classifica_apple_1318"
+    },
+    "1822728253": {
+      "name": "How Green is AI?",
+      "source": "classifica_apple_1318"
+    },
+    "575822709": {
+      "name": "Emilcar Daily",
+      "source": "classifica_apple_1318"
+    },
+    "1814551350": {
+      "name": "TECH UNPOSTED",
+      "source": "classifica_apple_1318"
+    },
+    "1575216453": {
+      "name": "100 secondi con Daniele Doesn't Matter",
+      "source": "classifica_apple_1318"
+    },
+    "1502782720": {
+      "name": "Last Week in AI",
+      "source": "classifica_apple_1318"
+    },
+    "1520715907": {
+      "name": "There Are No Girls on the Internet",
+      "source": "classifica_apple_1318"
+    },
+    "1483485062": {
+      "name": "Learning Bayesian Statistics",
+      "source": "classifica_apple_1318"
+    },
+    "1683401861": {
+      "name": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "source": "classifica_apple_1318"
+    },
+    "1186480811": {
+      "name": "NVIDIA AI Podcast",
+      "source": "classifica_apple_1318"
+    },
+    "1556250107": {
+      "name": "Underscore_",
+      "source": "classifica_apple_1318"
+    },
+    "1634356920": {
+      "name": "张小珺Jùn｜商业访谈录",
+      "source": "classifica_apple_1318"
+    },
+    "840308131": {
+      "name": "Aviation Week's Check 6 Podcast",
+      "source": "classifica_apple_1318"
+    },
+    "1509561572": {
+      "name": "2.5 Admins",
+      "source": "classifica_apple_1318"
+    },
+    "1350377042": {
+      "name": "Cryptocast | BNR",
+      "source": "classifica_apple_1318"
+    },
+    "1751366208": {
+      "name": "Doom Debates!",
+      "source": "classifica_apple_1318"
+    },
+    "1684415169": {
+      "name": "AI Unraveled: Enterprise Strategy, Agentic Systems, Daily AI News, ChatGPT, Gemini, Claude, DeepSeek",
+      "source": "classifica_apple_1318"
+    },
+    "1586689622": {
+      "name": "Linux After Dark",
+      "source": "classifica_apple_1318"
+    },
+    "1491582246": {
+      "name": "Launched by RevenueCat",
+      "source": "classifica_apple_1318"
+    },
+    "1581807590": {
+      "name": "The Haskell Interlude",
+      "source": "classifica_apple_1318"
+    },
+    "1805614123": {
+      "name": "Out Of Beta - tech podcast",
+      "source": "classifica_apple_1318"
+    },
+    "1173690032": {
+      "name": "Python Bytes",
+      "source": "classifica_apple_1318"
+    },
+    "6782343409": {
+      "name": "The Voyager Podcast",
+      "source": "classifica_apple_1318"
+    },
+    "1595348598": {
+      "name": "SICUREZZA e INFORMATICA in PILLOLE (max durata 10 min) ... --> Da Inesperto a Consapevole",
+      "source": "classifica_apple_1318"
+    },
+    "289702222": {
+      "name": "Ö1 Digital.Leben",
+      "source": "classifica_apple_1318"
+    },
+    "1896824598": {
+      "name": "The Low Down",
+      "source": "classifica_apple_1318"
+    },
+    "1744957956": {
+      "name": "Thássius Veloso - Dia a Dia Digital",
+      "source": "classifica_apple_1318"
+    },
+    "1561566952": {
+      "name": "Intervista Pythonista",
+      "source": "classifica_apple_1318"
+    },
+    "1751792830": {
+      "name": "Energia90",
+      "source": "classifica_apple_1318"
+    },
+    "1874014315": {
+      "name": "Margin Call",
+      "source": "classifica_apple_1321"
+    },
+    "1458210370": {
+      "name": "Office of Cards di Davide Cervellin",
+      "source": "classifica_apple_1321"
+    },
+    "1679577342": {
+      "name": "Il podcast di Algebris",
+      "source": "classifica_apple_1321"
+    },
+    "1441762611": {
+      "name": "Il Potere Del Cambiamento",
+      "source": "classifica_apple_1321"
+    },
+    "1818671690": {
+      "name": "The Real Eisman Playbook",
+      "source": "classifica_apple_1321"
+    },
+    "928933489": {
+      "name": "The Investor's Podcast (We Study Billionaires)  - The Investor’s Podcast Network",
+      "source": "classifica_apple_1321"
+    },
+    "1562312876": {
+      "name": "Die SWZ trifft",
+      "source": "classifica_apple_1321"
+    },
+    "1209142994": {
+      "name": "Génération Do It Yourself",
+      "source": "classifica_apple_1321"
+    },
+    "1452117075": {
+      "name": "Tecniche Di Vendita",
+      "source": "classifica_apple_1321"
+    },
+    "1746360591": {
+      "name": "Reuters Econ World",
+      "source": "classifica_apple_1321"
+    },
+    "1672784592": {
+      "name": "développement personnel",
+      "source": "classifica_apple_1321"
+    },
+    "1462407807": {
+      "name": "Segreti Bancari Podcast",
+      "source": "classifica_apple_1321"
+    },
+    "870239631": {
+      "name": "The Life Coach School Podcast",
+      "source": "classifica_apple_1321"
+    },
+    "1113811165": {
+      "name": "Vendere Valore",
+      "source": "classifica_apple_1321"
+    },
+    "1610760757": {
+      "name": "FAST & CURIOUS",
+      "source": "classifica_apple_1321"
+    },
+    "1713134987": {
+      "name": "A&F - Il podcast di Affari&Finanza",
+      "source": "classifica_apple_1321"
+    },
+    "1780382816": {
+      "name": "Make Economy Great Again",
+      "source": "classifica_apple_1321"
+    },
+    "1666678354": {
+      "name": "The Economics of Everyday Things",
+      "source": "classifica_apple_1321"
+    },
+    "1449849401": {
+      "name": "ImpactGirl | Marketing e Mindset per Imprenditrici Digitali",
+      "source": "classifica_apple_1321"
+    },
+    "460334660": {
+      "name": "Professione Startup | Il podcast di Giulio Gaudiano",
+      "source": "classifica_apple_1321"
+    },
+    "1489037467": {
+      "name": "Finanzfluss Podcast",
+      "source": "classifica_apple_1321"
+    },
+    "989839706": {
+      "name": "Massimiliano Cavallo Public Speaking Top",
+      "source": "classifica_apple_1321"
+    },
+    "1882309969": {
+      "name": "Non a caso",
+      "source": "classifica_apple_1321"
+    },
+    "1665903589": {
+      "name": "G.Talks - The Podcast for Dreamers",
+      "source": "classifica_apple_1321"
+    },
+    "6813547050": {
+      "name": "Marchio Italiano",
+      "source": "classifica_apple_1321"
+    },
+    "1191775648": {
+      "name": "Tom Bilyeu's Impact Theory",
+      "source": "classifica_apple_1321"
+    },
+    "1816911231": {
+      "name": "Ti do la mia parola",
+      "source": "classifica_apple_1321"
+    },
+    "1557878313": {
+      "name": "Conoscere la contabilità",
+      "source": "classifica_apple_1321"
+    },
+    "1873975088": {
+      "name": "LEADER IN TAVOLA",
+      "source": "classifica_apple_1321"
+    },
+    "1647611444": {
+      "name": "Otherworld",
+      "source": "classifica_apple_1324"
+    },
+    "1843162283": {
+      "name": "Spiritualità Moderna - Il Podcast",
+      "source": "classifica_apple_1324"
+    },
+    "1482270860": {
+      "name": "Hacking Creativity",
+      "source": "classifica_apple_1324"
+    },
+    "1775872829": {
+      "name": "LUPI MANNARI di Via Massena",
+      "source": "classifica_apple_1324"
+    },
+    "1510554676": {
+      "name": "台灣通勤第一品牌",
+      "source": "classifica_apple_1324"
+    },
+    "1446864507": {
+      "name": "Cronache dall'altro mondo",
+      "source": "classifica_apple_1324"
+    },
+    "1626476091": {
+      "name": "M. Il figlio del Secolo - Marco Paolini legge Antonio Scurati",
+      "source": "classifica_apple_1324"
+    },
+    "1481557940": {
+      "name": "Doppio Click",
+      "source": "classifica_apple_1324"
+    },
+    "1783495323": {
+      "name": "Persone - Un Podcast Comune",
+      "source": "classifica_apple_1324"
+    },
+    "1822756536": {
+      "name": "AMO, NON HAI CAPITO",
+      "source": "classifica_apple_1324"
+    },
+    "1704480561": {
+      "name": "World of Secrets",
+      "source": "classifica_apple_1324"
+    },
+    "1678260783": {
+      "name": "Comprami",
+      "source": "classifica_apple_1324"
+    },
+    "1612131897": {
+      "name": "The Town with Matthew Belloni",
+      "source": "classifica_apple_1324"
+    },
+    "1738229736": {
+      "name": "ROCA PROJECT",
+      "source": "classifica_apple_1324"
+    },
+    "1704806594": {
+      "name": "Rosebud with Gyles Brandreth",
+      "source": "classifica_apple_1324"
+    },
+    "1792177085": {
+      "name": "Papa Dudut Stories",
+      "source": "classifica_apple_1324"
+    },
+    "1150800298": {
+      "name": "Heavyweight",
+      "source": "classifica_apple_1324"
+    },
+    "1558045481": {
+      "name": "Dialoghi di Pistoia | Lezioni e conferenze",
+      "source": "classifica_apple_1324"
+    },
+    "1590561275": {
+      "name": "Spiral | Tortoise Investigates",
+      "source": "classifica_apple_1324"
+    },
+    "1740268773": {
+      "name": "BESTIE",
+      "source": "classifica_apple_1324"
+    },
+    "130950322": {
+      "name": "Woman's Hour",
+      "source": "classifica_apple_1324"
+    },
+    "1453198702": {
+      "name": "L'Eterno Assente",
+      "source": "classifica_apple_1324"
+    },
+    "1798176513": {
+      "name": "CIACOETTE",
+      "source": "classifica_apple_1324"
+    },
+    "1468690415": {
+      "name": "La Storia - Ottocento",
+      "source": "classifica_apple_1324"
+    },
+    "1605377490": {
+      "name": "The Italian Job",
+      "source": "classifica_apple_1324"
+    },
+    "1631738803": {
+      "name": "The Why Files: Operation Podcast",
+      "source": "classifica_apple_1324"
+    },
+    "971325128": {
+      "name": "Les Nuits de France Culture",
+      "source": "classifica_apple_1324"
+    },
+    "1567870398": {
+      "name": "Transfert",
+      "source": "classifica_apple_1324"
+    },
+    "6790428162": {
+      "name": "Wahre Familiengeschichten",
+      "source": "classifica_apple_1324"
+    },
+    "1765126946": {
+      "name": "We Need To Talk with Paul C. Brunson",
+      "source": "classifica_apple_1324"
+    },
+    "1808612176": {
+      "name": "M - La fine di Mussolini, il principio della libertà",
+      "source": "classifica_apple_1324"
+    },
+    "1713149275": {
+      "name": "Delirios de España. Las frivolidades que cambiaron un país",
+      "source": "classifica_apple_1324"
+    },
+    "510327102": {
+      "name": "The LRB Podcast",
+      "source": "classifica_apple_1324"
+    },
+    "1586164931": {
+      "name": "Il giusto clima",
+      "source": "classifica_apple_1324"
+    },
+    "1416903369": {
+      "name": "Se Regalan Dudas",
+      "source": "classifica_apple_1324"
+    },
+    "1709740516": {
+      "name": "The Empty Grave of Comrade Bishop",
+      "source": "classifica_apple_1324"
+    },
+    "1495349562": {
+      "name": "Podcast di Palazzo Ducale di Genova",
+      "source": "classifica_apple_1324"
+    },
+    "6812280737": {
+      "name": "Il Mostro di Firenze",
+      "source": "classifica_apple_1488"
+    },
+    "1353728357": {
+      "name": "Let's Go To Court!",
+      "source": "classifica_apple_1488"
+    },
+    "1512453641": {
+      "name": "Schwarze Akte - True Crime",
+      "source": "classifica_apple_1488"
+    },
+    "1616146073": {
+      "name": "L’heure du crime : les archives de Jacques Pradel",
+      "source": "classifica_apple_1488"
+    },
+    "1777764991": {
+      "name": "L'impero dei figli impossibili",
+      "source": "classifica_apple_1488"
+    },
+    "1866982143": {
+      "name": "100% HONDELATTE",
+      "source": "classifica_apple_1488"
+    },
+    "1744545000": {
+      "name": "Crime Next Door",
+      "source": "classifica_apple_1488"
+    },
+    "1712461242": {
+      "name": "Доступ разрешён",
+      "source": "classifica_apple_1488"
+    },
+    "1838774573": {
+      "name": "DOMINO Di uniformi e vite tolte",
+      "source": "classifica_apple_1488"
+    },
+    "1803355993": {
+      "name": "Quarto Grado - Il Podcast",
+      "source": "classifica_apple_1488"
+    },
+    "1567916939": {
+      "name": "Rotlichttherapie",
+      "source": "classifica_apple_1488"
+    },
+    "1449500734": {
+      "name": "The Dropout",
+      "source": "classifica_apple_1488"
+    },
+    "1597948413": {
+      "name": "Tracce",
+      "source": "classifica_apple_1488"
+    },
+    "1461762141": {
+      "name": "stern Crime - Spurensuche",
+      "source": "classifica_apple_1488"
+    },
+    "1766041449": {
+      "name": "La Fiamma Oscura: Dentro la Mente dei Serial Killer",
+      "source": "classifica_apple_1488"
+    },
+    "1466330985": {
+      "name": "Culpable",
+      "source": "classifica_apple_1488"
+    },
+    "1848185680": {
+      "name": "Blood Trails",
+      "source": "classifica_apple_1488"
+    },
+    "1604824561": {
+      "name": "Krimrummet",
+      "source": "classifica_apple_1488"
+    },
+    "1516104548": {
+      "name": "پادکست جنون | Junoonpodcast",
+      "source": "classifica_apple_1488"
+    },
+    "1089216339": {
+      "name": "Someone Knows Something",
+      "source": "classifica_apple_1488"
+    },
+    "1522372858": {
+      "name": "LOVE MURDER",
+      "source": "classifica_apple_1488"
+    },
+    "1643974551": {
+      "name": "Bone Valley",
+      "source": "classifica_apple_1488"
+    },
+    "1505527741": {
+      "name": "Дневники Лоры Палны",
+      "source": "classifica_apple_1488"
+    },
+    "1358793371": {
+      "name": "Forensic Files",
+      "source": "classifica_apple_1488"
+    },
+    "1545830333": {
+      "name": "Crime Analyst",
+      "source": "classifica_apple_1488"
+    },
+    "1543025626": {
+      "name": "Macht und Millionen – Echte Wirtschaftskrimis",
+      "source": "classifica_apple_1488"
+    },
+    "1497468246": {
+      "name": "Opravdové zločiny",
+      "source": "classifica_apple_1488"
+    },
+    "6812394630": {
+      "name": "Uno studio in nero",
+      "source": "classifica_apple_1488"
+    },
+    "6830569713": {
+      "name": "Diritti Detenuti",
+      "source": "classifica_apple_1488"
+    },
+    "1889909118": {
+      "name": "Scomparsi con Giada - Il Podcast",
+      "source": "classifica_apple_1488"
+    },
+    "1736879192": {
+      "name": "The Case Of",
+      "source": "classifica_apple_1488"
+    },
+    "1455668750": {
+      "name": "Buried Bones - a historical true crime podcast with Kate Winkler Dawson and Paul Holes",
+      "source": "classifica_apple_1488"
+    },
+    "1786954633": {
+      "name": "Gattabuia",
+      "source": "classifica_apple_1488"
+    },
+    "1844850740": {
+      "name": "Quel che resta del giorno",
+      "source": "classifica_apple_1489"
+    },
+    "1642366989": {
+      "name": "Zoom Zoom Zen",
+      "source": "classifica_apple_1489"
+    },
+    "1881642628": {
+      "name": "Epstein Files - Analisi di un sistema",
+      "source": "classifica_apple_1489"
+    },
+    "1500023595": {
+      "name": "OK, America?",
+      "source": "classifica_apple_1489"
+    },
+    "1896876476": {
+      "name": "Byoblu",
+      "source": "classifica_apple_1489"
+    },
+    "648333862": {
+      "name": "Esteri - La rassegna stampa internazionale",
+      "source": "classifica_apple_1489"
+    },
+    "1050430296": {
+      "name": "The New Yorker Radio Hour",
+      "source": "classifica_apple_1489"
+    },
+    "1592729231": {
+      "name": "Prima Pagina",
+      "source": "classifica_apple_1489"
+    },
+    "1530957169": {
+      "name": "0630 - der News-Podcast",
+      "source": "classifica_apple_1489"
+    },
+    "567144821": {
+      "name": "Esteri",
+      "source": "classifica_apple_1489"
+    },
+    "1505993848": {
+      "name": "Apokalypse & Filterkaffee",
+      "source": "classifica_apple_1489"
+    },
+    "1692381473": {
+      "name": "The News Agents - USA",
+      "source": "classifica_apple_1489"
+    },
+    "115156820": {
+      "name": "Géopolitique",
+      "source": "classifica_apple_1489"
+    },
+    "1831220713": {
+      "name": "Gli editoriali del Foglio. A voce",
+      "source": "classifica_apple_1489"
+    },
+    "1584958262": {
+      "name": "Smart Car",
+      "source": "classifica_apple_1489"
+    },
+    "1110797865": {
+      "name": "Direct Current - An Energy.gov Podcast",
+      "source": "classifica_apple_1511"
+    },
+    "6800030161": {
+      "name": "Hear Remarkable Narration Turn Books Into Unforgettable Emotional Listening Journeys Instantly",
+      "source": "classifica_apple_1511"
+    },
+    "6831688387": {
+      "name": "Supposte di democrazia",
+      "source": "classifica_apple_1511"
+    },
+    "1622049917": {
+      "name": "Sources diplomatiques",
+      "source": "classifica_apple_1511"
+    },
+    "1601404986": {
+      "name": "Our Scottish Future",
+      "source": "classifica_apple_1511"
+    },
+    "599513476": {
+      "name": "Centre for Cities",
+      "source": "classifica_apple_1511"
+    },
+    "1566715521": {
+      "name": "Más de 20 000 menores migrantes no acompañados se encuentran bajo custodia de EE. UU.",
+      "source": "classifica_apple_1511"
+    },
+    "1746189942": {
+      "name": "Ball of Thread",
+      "source": "classifica_apple_1511"
+    },
+    "1701353962": {
+      "name": "Pagamenti digitali",
+      "source": "classifica_apple_1511"
+    },
+    "1529677043": {
+      "name": "Bullet Points: A Podcast on Gun-related Violence and Worldwide Disarmament",
+      "source": "classifica_apple_1511"
+    },
+    "1401504350": {
+      "name": "The Political Life",
+      "source": "classifica_apple_1511"
+    },
+    "1677001996": {
+      "name": "Inside Deschutes County",
+      "source": "classifica_apple_1511"
+    },
+    "1657223315": {
+      "name": "Trust and Trade",
+      "source": "classifica_apple_1511"
+    },
+    "1880705513": {
+      "name": "Legal & Privacy Brief",
+      "source": "classifica_apple_1511"
+    },
+    "1695973105": {
+      "name": "Audio Briefs",
+      "source": "classifica_apple_1511"
+    },
+    "369032477": {
+      "name": "The Strong Towns Podcast",
+      "source": "classifica_apple_1511"
+    },
+    "1697417703": {
+      "name": "Un Mundo de Sensaciones",
+      "source": "classifica_apple_1511"
+    },
+    "6821399849": {
+      "name": "Dive Into A Story With Audiobooks",
+      "source": "classifica_apple_1511"
+    },
+    "1867239224": {
+      "name": "Storie di Ricerca: dietro le quinte della scienza",
+      "source": "classifica_apple_1512"
+    },
+    "1481626042": {
+      "name": "Smarter leben",
+      "source": "classifica_apple_1512"
+    },
+    "1793405800": {
+      "name": "Audio Racconti Erotici by MistressAdvisor.it",
+      "source": "classifica_apple_1512"
+    },
+    "1732318562": {
+      "name": "Storie di Vino e Viticoltori",
+      "source": "classifica_apple_1512"
+    },
+    "1473626965": {
+      "name": "Guided Sleep Meditation & Sleep Hypnosis from Sleep Cove",
+      "source": "classifica_apple_1512"
+    },
+    "1469466722": {
+      "name": "The Nick Bare Podcast",
+      "source": "classifica_apple_1512"
+    },
+    "1677158558": {
+      "name": "ADHD Chatter",
+      "source": "classifica_apple_1512"
+    },
+    "1365312021": {
+      "name": "Sleep Podcast by Slow | Relaxing Sleep Sounds & Sleep Stories | Nature Sound For Sleep | ASMR",
+      "source": "classifica_apple_1512"
+    },
+    "1542025807": {
+      "name": "Crescita Personale con il dr. Enrico Gamba",
+      "source": "classifica_apple_1512"
+    },
+    "1545894332": {
+      "name": "Stahl aber herzlich – Der Psychotherapie-Podcast mit Stefanie Stahl",
+      "source": "classifica_apple_1512"
+    },
+    "1873758103": {
+      "name": "Meditazioni Guidate da Luca Demian Gonzatto",
+      "source": "classifica_apple_1512"
+    },
+    "1627309878": {
+      "name": "Rain Sounds",
+      "source": "classifica_apple_1512"
+    },
+    "1736501883": {
+      "name": "Two Percent with Michael Easter",
+      "source": "classifica_apple_1512"
+    },
+    "1620971837": {
+      "name": "Oversharing",
+      "source": "classifica_apple_1512"
+    },
+    "1517179289": {
+      "name": "【ココカララジオ】薬剤師が話す栄養と東洋医学の話",
+      "source": "classifica_apple_1512"
+    },
+    "176450402": {
+      "name": "Sprechstunde",
+      "source": "classifica_apple_1512"
+    },
+    "1650658049": {
+      "name": "Sober Motivation: Sharing Sobriety Stories",
+      "source": "classifica_apple_1512"
+    },
+    "1753828262": {
+      "name": "Rainy Nights - Relaxing Rain Sounds for Sleep",
+      "source": "classifica_apple_1512"
+    },
+    "261779764": {
+      "name": "Health Check",
+      "source": "classifica_apple_1512"
+    },
+    "1400828889": {
+      "name": "The Peter Attia Drive",
+      "source": "classifica_apple_1512"
+    },
+    "6831104796": {
+      "name": "75/25 Lab",
+      "source": "classifica_apple_1512"
+    },
+    "1716047452": {
+      "name": "La COSMETOLOGIA è una SCIENZA",
+      "source": "classifica_apple_1512"
+    },
+    "1781272657": {
+      "name": "RILASSATI CON FAIRY ASMR",
+      "source": "classifica_apple_1512"
+    },
+    "1501029683": {
+      "name": "Chasing Life with Dr. Sanjay Gupta",
+      "source": "classifica_apple_1512"
+    },
+    "1590853667": {
+      "name": "Sleep Wave: Sleep Meditation & Sleepy Stories",
+      "source": "classifica_apple_1512"
+    },
+    "1788800347": {
+      "name": "Evoluzione Gentile",
+      "source": "classifica_apple_1512"
+    },
+    "1502917440": {
+      "name": "PSELF | Psicologia della Meditazione e del Rilassamento per ridurre Ansia e Stress [by MemoVia]",
+      "source": "classifica_apple_1512"
+    },
+    "1447653027": {
+      "name": "Émotions, un podcast pour mettre des mots sur vos émotions, présenté par Marie Misset",
+      "source": "classifica_apple_1512"
+    },
+    "1555403722": {
+      "name": "Guided Meditation",
+      "source": "classifica_apple_1512"
+    },
+    "6815604250": {
+      "name": "Open Vision",
+      "source": "classifica_apple_1512"
+    },
+    "1514201335": {
+      "name": "The Curious Clinicians",
+      "source": "classifica_apple_1512"
+    },
+    "1821649457": {
+      "name": "Non è la solita storia",
+      "source": "classifica_apple_1512"
+    },
+    "892107837": {
+      "name": "Daily Meditation Podcast",
+      "source": "classifica_apple_1512"
+    },
+    "1486572073": {
+      "name": "Rilassa",
+      "source": "classifica_apple_1512"
+    },
+    "1382804627": {
+      "name": "The Dr. Hyman Show",
+      "source": "classifica_apple_1512"
+    },
+    "1352546554": {
+      "name": "The Goop Guide with Gwyneth Paltrow",
+      "source": "classifica_apple_1512"
+    },
+    "1570426570": {
+      "name": "ASMR Sessions",
+      "source": "classifica_apple_1512"
+    },
+    "792555885": {
+      "name": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
+      "source": "classifica_apple_1512"
+    },
+    "1550635017": {
+      "name": "Abenteuer Diagnose - der Medizin-Krimi-Podcast",
+      "source": "classifica_apple_1512"
+    },
+    "1773578243": {
+      "name": "Extend Podcast with Darshan Shah, MD",
+      "source": "classifica_apple_1512"
+    },
+    "263166507": {
+      "name": "Inside Health",
+      "source": "classifica_apple_1512"
+    },
+    "1677597579": {
+      "name": "8 Hour Binaural Beats",
+      "source": "classifica_apple_1512"
+    },
+    "1793090113": {
+      "name": "L'alimentazione by Elisabetta",
+      "source": "classifica_apple_1512"
+    },
+    "1116485154": {
+      "name": "Anesthesia and Critical Care Reviews and Commentary (ACCRAC) Podcast",
+      "source": "classifica_apple_1512"
+    },
+    "1624399309": {
+      "name": "La Mindfulness Per Tutti",
+      "source": "classifica_apple_1512"
+    },
+    "1548655626": {
+      "name": "Dr. Anne Fleck - Gesundheit und Ernährung",
+      "source": "classifica_apple_1512"
+    },
+    "1716329223": {
+      "name": "Storie di PMA",
+      "source": "classifica_apple_1512"
+    },
+    "1777790577": {
+      "name": "Psicologia del Tradimento: Conoscerlo, Affrontarlo, Superarlo",
+      "source": "classifica_apple_1512"
+    },
+    "1457402220": {
+      "name": "I Can't Sleep: Relaxing Facts to Fall Asleep To",
+      "source": "classifica_apple_1512"
+    },
+    "267200514": {
+      "name": "The Strength Coach Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "1348856817": {
+      "name": "The Jordan Syatt Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "1679692526": {
+      "name": "The Jeremy Miller Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "1846631710": {
+      "name": "Live & Well",
+      "source": "classifica_apple_1514"
+    },
+    "1807970949": {
+      "name": "The Couch to 5K Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "592596408": {
+      "name": "Muscle Science for Women",
+      "source": "classifica_apple_1514"
+    },
+    "1319033389": {
+      "name": "Garage Gym Athlete",
+      "source": "classifica_apple_1514"
+    },
+    "1625619237": {
+      "name": "Bodybuilding Down Under",
+      "source": "classifica_apple_1514"
+    },
+    "1863224475": {
+      "name": "Dr. Eric Berg DC",
+      "source": "classifica_apple_1514"
+    },
+    "1508189169": {
+      "name": "Upside Strength Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "894200695": {
+      "name": "Move Your DNA with Katy Bowman",
+      "source": "classifica_apple_1514"
+    },
+    "1789321086": {
+      "name": "SOTA Personal Training Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "1659892523": {
+      "name": "Fitness per risultati al top",
+      "source": "classifica_apple_1514"
+    },
+    "1330665690": {
+      "name": "Purple Patch Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "6821079070": {
+      "name": "The Power of Full Audiobook, Effortlessly Delivered",
+      "source": "classifica_apple_1514"
+    },
+    "1530616765": {
+      "name": "Peculiar Yoga - Yoga routines interlaced with scripture verse",
+      "source": "classifica_apple_1514"
+    },
+    "1454861524": {
+      "name": "Meditazioni",
+      "source": "classifica_apple_1514"
+    },
+    "626299586": {
+      "name": "Kyle Kingsbury Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "1503147122": {
+      "name": "Dad Bod WOD Podcast",
+      "source": "classifica_apple_1514"
+    },
+    "1538792229": {
+      "name": "Il Podcast di Mery",
+      "source": "classifica_apple_1514"
+    },
+    "1744964349": {
+      "name": "Hybrid Coaching Podcast - HYROX Coaching",
+      "source": "classifica_apple_1514"
     }
   },
-  "chartRefreshed": "2026-11-12T13:51:14.759580+00:00"
+  "chartRefreshed": "2026-11-19T14:30:57.886772+00:00"
 }
