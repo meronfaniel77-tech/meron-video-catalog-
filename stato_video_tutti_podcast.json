@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-20T14:09:15.474471+00:00",
+      "lastAttempt": "2026-11-21T13:34:31.733146+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -10831,21 +10831,21 @@
     },
     "1787380122": {
       "name": "EL TEMPLO DE LA HIPERTROFIA",
-      "lastAttempt": "2026-11-20T14:09:15.474269+00:00",
+      "lastAttempt": "2026-11-21T13:32:41.482429+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCIjQP38ayNKPxZgJsyi-Ffw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCIjQP38ayNKPxZgJsyi-Ffw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1445509665": {
       "name": "WHOOP Podcast",
-      "lastAttempt": "2026-11-20T14:09:15.474288+00:00",
+      "lastAttempt": "2026-11-21T13:32:47.443193+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCcdxzpFrj3uRPh96GrUIoOQ",
       "youtubeSourceUrl": "https://www.youtube.com/c/WHOOP",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "911502027": {
       "name": "Well Beyond 40",
@@ -10863,12 +10863,12 @@
     },
     "1334232884": {
       "name": "The Ready State Podcast",
-      "lastAttempt": "2026-11-20T14:09:15.474300+00:00",
+      "lastAttempt": "2026-11-21T13:32:53.859994+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCnnB4zDBqZHhQ4uLTAX8eYA",
       "youtubeSourceUrl": "https://www.youtube.com/c/TheReadyState",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "881260378": {
       "name": "Radio Fitness Revolucionario",
@@ -10886,12 +10886,12 @@
     },
     "912202697": {
       "name": "Fitness mit M.A.R.K. - Abnehmen, Muskelaufbau, Ernährung und Gesundheit",
-      "lastAttempt": "2026-11-20T14:09:15.474311+00:00",
+      "lastAttempt": "2026-11-21T13:33:01.083288+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCs9Esn9ODxheirobVviFpTg",
       "youtubeSourceUrl": "https://www.youtube.com/@MarkMaslowMF",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1784443595": {
       "name": "Training Things - Il sottosopra del fitness",
@@ -10916,39 +10916,39 @@
     },
     "1840906062": {
       "name": "Guida al Calisthenics – Il Podcast dell’Allenamento a Corpo Libero",
-      "lastAttempt": "2026-11-20T14:09:15.474321+00:00",
+      "lastAttempt": "2026-11-21T13:33:08.497817+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCEH1Co-mIa_hr4fsFUU9-eQ",
       "youtubeSourceUrl": "https://www.youtube.com/@nicolayoda",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1615788860": {
       "name": "The Unf*ck Your Fitness Podcast",
-      "lastAttempt": "2026-11-20T14:09:15.474330+00:00",
+      "lastAttempt": "2026-11-21T13:33:12.137668+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC5HcG8OfhWpdtq7HvjSW4vw",
       "youtubeSourceUrl": "https://www.youtube.com/@unfuckyourfitness",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6800331177": {
       "name": "Health or Hype",
-      "lastAttempt": "2026-11-20T14:09:15.474338+00:00",
+      "lastAttempt": "2026-11-21T13:33:22.042168+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCP44kBY7N7wZy-GdtJ9HKsQ",
       "youtubeSourceUrl": "https://www.youtube.com/user/Bupa",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1511088505": {
       "name": "Wu Tao Life Podcast - Living Martial Arts",
-      "lastAttempt": "2026-11-20T14:09:15.474347+00:00",
+      "lastAttempt": "2026-11-21T13:33:24.966496+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCR9IadNccDF9xYss-58_OmA",
       "youtubeSourceUrl": "https://www.youtube.com/@WuTaoLife",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1136251922": {
       "name": "Optimal Health Daily - Fitness and Nutrition",
@@ -10966,12 +10966,12 @@
     },
     "1558918378": {
       "name": "Boss Bitch Radio w/IFBB Pro, Diane Flores",
-      "lastAttempt": "2026-11-20T14:09:15.474357+00:00",
+      "lastAttempt": "2026-11-21T13:33:29.754413+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC8eWNTOoaftSDUOH67P6JOw",
       "youtubeSourceUrl": "https://www.youtube.com/@dianeflores_ifbb_pro",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1669504158": {
       "name": "Moving Conversations",
@@ -10989,12 +10989,12 @@
     },
     "1838655424": {
       "name": "L'arte del GYROTONIC® di Alessandro Calvani",
-      "lastAttempt": "2026-11-20T14:09:15.474368+00:00",
+      "lastAttempt": "2026-11-21T13:33:36.933871+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCY5Gwkuh18rIf_qXCzkqxCg",
       "youtubeSourceUrl": "https://www.youtube.com/@GyrotonicLaurentina",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1121047188": {
       "name": "Just Fly Performance Podcast",
@@ -11027,12 +11027,12 @@
     },
     "1667636515": {
       "name": "Красота требует мышц",
-      "lastAttempt": "2026-11-20T14:09:15.474378+00:00",
+      "lastAttempt": "2026-11-21T13:33:38.274172+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCeza7tyg9cB5ylC7RJKFhLw",
       "youtubeSourceUrl": "https://www.youtube.com/@galinaognevaya",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1609814445": {
       "name": "Underground Bodybuilding Podcast - Supplementation Science Training and Diet for Extreme Muscle",
@@ -11043,12 +11043,12 @@
     },
     "1654700924": {
       "name": "バランスダイエット【心理・運動・食事】",
-      "lastAttempt": "2026-11-20T14:09:15.474388+00:00",
+      "lastAttempt": "2026-11-21T13:33:41.702874+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCvPZSUZU69jhAmn4YmO3YKQ",
       "youtubeSourceUrl": "https://www.youtube.com/user/megu19760616",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6821065178": {
       "name": "Free Audiobook, Where Stories Come Alive, Take a Dive",
@@ -11066,12 +11066,12 @@
     },
     "1686577072": {
       "name": "Your Gym Big Sister Podcast",
-      "lastAttempt": "2026-11-20T14:09:15.474398+00:00",
+      "lastAttempt": "2026-11-21T13:33:48.006036+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC8hVu68oyOkIEeYViZ1Kprg",
       "youtubeSourceUrl": "https://www.youtube.com/@emmacurrivan",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1392883060": {
       "name": "Bio 360 - Zurück ins Leben | Energie und Gesundheit",
@@ -11089,12 +11089,12 @@
     },
     "1725368341": {
       "name": "Ageless Athlete — Healthy Aging for a Strong, Capable Life",
-      "lastAttempt": "2026-11-20T14:09:15.474431+00:00",
+      "lastAttempt": "2026-11-21T13:33:53.526645+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC6VZAZzbchAcV8Z1QV2UE_Q",
       "youtubeSourceUrl": "https://www.youtube.com/@agelessathletepodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1533088916": {
       "name": "Hit Play Not Pause",
@@ -11224,12 +11224,12 @@
     },
     "1684550335": {
       "name": "The Barbell Mamas Podcast | Pregnancy, Postpartum, Pelvic Health",
-      "lastAttempt": "2026-11-20T14:09:15.474443+00:00",
+      "lastAttempt": "2026-11-21T13:34:06.608209+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCc5uf38A9Iev7IKXZbOluGg",
       "youtubeSourceUrl": "https://www.youtube.com/@thebarbellmamas",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1875561593": {
       "name": "The Endurance Science Podcast with Matt Carpenter",
@@ -11275,30 +11275,30 @@
     },
     "1496638726": {
       "name": "Guida Galattica Per Arcieri Prudenti",
-      "lastAttempt": "2026-11-20T14:09:24.400062+00:00",
+      "lastAttempt": "2026-11-21T13:34:09.371588+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCBKmGmNMX2O5QlohG57I1PQ",
       "youtubeSourceUrl": "https://www.youtube.com/c/AliceVetturi",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1546392109": {
       "name": "Wabba Italia - Bodybuilding & Fitness",
-      "lastAttempt": "2026-11-20T14:09:26.601689+00:00",
+      "lastAttempt": "2026-11-21T13:34:14.330226+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCGps1_ULsMogobzCvCYsP3A",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCGps1_ULsMogobzCvCYsP3A",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1716588406": {
       "name": "Сопли Кипчоге",
-      "lastAttempt": "2026-11-20T14:09:31.738360+00:00",
+      "lastAttempt": "2026-11-21T13:34:16.066960+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCebYe8DSICn-2ZkvrYJYaBA",
       "youtubeSourceUrl": "https://www.youtube.com/@lil_emil_",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1895111262": {
       "name": "Länger Leben",
@@ -11316,12 +11316,12 @@
     },
     "1672853222": {
       "name": "Menopause Strength Training & Fitness | 40+ Fitness for Women",
-      "lastAttempt": "2026-11-20T14:09:39.532959+00:00",
+      "lastAttempt": "2026-11-21T13:34:18.239531+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC8072MFNqxQ4TS-Jrxxpsdw",
       "youtubeSourceUrl": "https://www.youtube.com/@befitafter40",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1380995935": {
       "name": "The Movement System Podcast",
@@ -11451,12 +11451,12 @@
     },
     "214089682": {
       "name": "Fresh Air",
-      "lastAttempt": "2026-11-20T14:10:57.008392+00:00",
+      "lastAttempt": "2026-11-21T13:34:24.865769+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCfSQPC8yq1ays8atq6PWoyA",
       "youtubeSourceUrl": "https://www.youtube.com/@thisisfreshair",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1842190360": {
       "name": "ill-advised by Bill Nighy",
@@ -11467,7 +11467,7 @@
     },
     "1626354833": {
       "name": "Dish",
-      "lastAttempt": "2026-11-20T14:11:03.760643+00:00",
+      "lastAttempt": "2026-11-21T13:34:31.733063+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCPHzAcg5sT62cO5hgAeTpVg",
@@ -11532,7 +11532,7 @@
     },
     "405027880": {
       "name": "Discorsi Fotografici",
-      "lastAttempt": "2026-11-20T14:11:40.144451+00:00",
+      "lastAttempt": "2026-11-21T13:34:31.733081+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCi71BM0EqZB4481y1sy8yIg",
@@ -11583,7 +11583,7 @@
     },
     "1305228910": {
       "name": "Table Manners with Jessie and Lennie Ware",
-      "lastAttempt": "2026-11-20T14:12:08.237757+00:00",
+      "lastAttempt": "2026-11-21T13:34:31.733093+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCDD0oCEBu0yKT3zhXI7gmZQ",
@@ -11662,7 +11662,7 @@
     },
     "1439204048": {
       "name": "Shedunnit",
-      "lastAttempt": "2026-11-20T14:12:55.356474+00:00",
+      "lastAttempt": "2026-11-21T13:34:31.733105+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCT_VoLrC68Ycityq23KK6CQ",
@@ -11671,7 +11671,7 @@
     },
     "1868582417": {
       "name": "De Bello Gallico Audiolibro - Giulio Cesare",
-      "lastAttempt": "2026-11-20T14:12:57.441587+00:00",
+      "lastAttempt": "2026-11-21T13:34:31.733117+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
@@ -11716,6 +11716,564 @@
     "1896945569": {
       "name": "Piccole donne - AUDIOLIBRO",
       "lastAttempt": "2026-11-20T14:13:14.724910+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1655788091": {
+      "name": "Podcast Del Bartender",
+      "lastAttempt": "2026-11-21T13:34:32.275746+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1778002473": {
+      "name": "Zero Possibilita'",
+      "lastAttempt": "2026-11-21T13:34:34.490941+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is n",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1540288308": {
+      "name": "Che Pizza - Il podcast",
+      "lastAttempt": "2026-11-21T13:34:37.409648+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCvEx0WoLkIKHBThYXCLBiuQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCvEx0WoLkIKHBThYXCLBiuQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1610776380": {
+      "name": "Tinfoil is Coming - LaCittadella Podcast",
+      "lastAttempt": "2026-11-21T13:34:39.214982+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1896787640": {
+      "name": "Cronache di Birra Podcast, di Andrea Turco",
+      "lastAttempt": "2026-11-21T13:34:44.518404+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCTv_Eu_l-ywjxr80k47qCww",
+      "youtubeSourceUrl": "https://www.youtube.com/@CronachediBirraYT",
+      "status": "DA_SCANSIONARE"
+    },
+    "1858220604": {
+      "name": "La sposa in nero",
+      "lastAttempt": "2026-11-21T13:34:46.941980+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1593300378": {
+      "name": "Capire l'Arte Contemporanea",
+      "lastAttempt": "2026-11-21T13:34:50.221078+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1768784966": {
+      "name": "Volevo essere libera",
+      "lastAttempt": "2026-11-21T13:34:52.051801+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1650547294": {
+      "name": "Gioconde",
+      "lastAttempt": "2026-11-21T13:34:56.002920+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1600043158": {
+      "name": "Champagne Talk",
+      "lastAttempt": "2026-11-21T13:34:58.417289+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1555928260": {
+      "name": "L'INIZIAZIONE di Rudolf Steiner",
+      "lastAttempt": "2026-11-21T13:35:01.768596+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1643572779": {
+      "name": "EnoVibes. Il vino, semplice.",
+      "lastAttempt": "2026-11-21T13:35:05.302456+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1214452771": {
+      "name": "Breaking Beauty Podcast",
+      "lastAttempt": "2026-11-21T13:35:07.996383+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC4mNutK5gW6gkKKhMrvVa0A",
+      "youtubeSourceUrl": "https://www.youtube.com/@breakingbeautypodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1489848748": {
+      "name": "Meditation music. Peaceful calm music 528, 432 Hz",
+      "lastAttempt": "2026-11-21T13:35:11.869001+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1207697897": {
+      "name": "Scrittura Creativa",
+      "lastAttempt": "2026-11-21T13:35:12.688909+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC3tH3fX5SambJ8eu8GigTyg",
+      "youtubeSourceUrl": "https://www.youtube.com/c/Libroza",
+      "status": "DA_SCANSIONARE"
+    },
+    "1491180989": {
+      "name": "Il Vino lo Porto Io",
+      "lastAttempt": "2026-11-21T13:35:16.495850+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1717258077": {
+      "name": "Audiolibro - Il Maestro e Margherita - Michail Bulgakov",
+      "lastAttempt": "2026-11-21T13:35:21.051359+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "DA_SCANSIONARE"
+    },
+    "1674762317": {
+      "name": "Au Coeur De La Mode",
+      "lastAttempt": "2026-11-21T13:35:22.817263+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1755803199": {
+      "name": "Secret Life of Books",
+      "lastAttempt": "2026-11-21T13:35:26.001391+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UC0rBRrJAldgkb2BrfVVbwVA",
+      "youtubeSourceUrl": "https://www.youtube.com/@secretlifeofbookspodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1458953958": {
+      "name": "STORIE PER NOTTI INSONNI ☎ Audioracconti ☎",
+      "lastAttempt": "2026-11-21T13:35:28.997462+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1114889315": {
+      "name": "Así las cosas",
+      "lastAttempt": "2026-11-21T13:35:31.641583+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "918896288": {
+      "name": "Gastropod",
+      "lastAttempt": "2026-11-21T13:35:34.370890+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1480259187": {
+      "name": "The Great Women Artists",
+      "lastAttempt": "2026-11-21T13:35:42.128379+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1513995457": {
+      "name": "Audiolibro Il Giro del mondo in 80 giorni - Jules Verne",
+      "lastAttempt": "2026-11-21T13:35:42.966452+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "DA_SCANSIONARE"
+    },
+    "1496346061": {
+      "name": "Homing",
+      "lastAttempt": "2026-11-21T13:35:46.169287+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCblWZ_3A1I5JQfqWU1wnz7w",
+      "youtubeSourceUrl": "https://www.youtube.com/@HomingWithMatt",
+      "status": "DA_SCANSIONARE"
+    },
+    "1643482217": {
+      "name": "Audiolibro I promessi sposi",
+      "lastAttempt": "2026-11-21T13:35:49.005426+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1712470475": {
+      "name": "book:deluxe - Der Büchertalk mit Bärbel Schäfer",
+      "lastAttempt": "2026-11-21T13:35:52.970694+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1470511654": {
+      "name": "Un Libro Una Hora",
+      "lastAttempt": "2026-11-21T13:35:57.865722+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1526470404": {
+      "name": "The Good Ship Illustration",
+      "lastAttempt": "2026-11-21T13:35:59.003276+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCv1W5RyZDyFFJj8RmewS7Hw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCv1W5RyZDyFFJj8RmewS7Hw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1476557616": {
+      "name": "Pastora Yesenia Then",
+      "lastAttempt": "2026-11-21T13:36:01.386030+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCTH3q0ihUsEi5kGYdEOy_Tg",
+      "youtubeSourceUrl": "https://www.youtube.com/@YeseniaThenOficial",
+      "status": "DA_SCANSIONARE"
+    },
+    "1555712094": {
+      "name": "Il Capanno de Lo Scribacchino",
+      "lastAttempt": "2026-11-21T13:36:05.868163+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1603641138": {
+      "name": "Robin Hood, Dumas | Audiolibro",
+      "lastAttempt": "2026-11-21T13:36:08.828295+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1470283431": {
+      "name": "SOMM TV wine & food",
+      "lastAttempt": "2026-11-21T13:36:12.182412+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1520187820": {
+      "name": "Talking about medicine & the arts",
+      "lastAttempt": "2026-11-21T13:36:14.443269+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1881874178": {
+      "name": "Libreria Mocambo",
+      "lastAttempt": "2026-11-21T13:36:18.560879+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1541819749": {
+      "name": "Incipit - Tra le righe - Sky Tg24",
+      "lastAttempt": "2026-11-21T13:36:21.288410+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1615898288": {
+      "name": "DIALOGHI CON IGOR SIBALDI",
+      "lastAttempt": "2026-11-21T13:36:24.671533+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1842380766": {
+      "name": "Epica Classica – Iliade, Odissea e altri (Audiolibri)",
+      "lastAttempt": "2026-11-21T13:36:27.672552+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCpcVVWx3PKxJQD4ZzofSkMQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@lalocandadellatormenta",
+      "status": "DA_SCANSIONARE"
+    },
+    "1545803646": {
+      "name": "Dastaminophen| شاهنامه با داستامینوفن",
+      "lastAttempt": "2026-11-21T13:36:29.606277+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCR82llNFTk9sqvzdKtxg8PA",
+      "youtubeSourceUrl": "https://www.youtube.com/@-Dastaminophen",
+      "status": "DA_SCANSIONARE"
+    },
+    "1741589082": {
+      "name": "Fashion People",
+      "lastAttempt": "2026-11-21T13:36:32.916398+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1669485143": {
+      "name": "Close Readings",
+      "lastAttempt": "2026-11-21T13:36:35.449739+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1506829981": {
+      "name": "Sherlock Holmes - Uno studio in rosso - Audiolibro Completo",
+      "lastAttempt": "2026-11-21T13:36:39.576061+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1896573619": {
+      "name": "Miles, il podcast di Intravino",
+      "lastAttempt": "2026-11-21T13:36:42.967361+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCpsZvclnmQ05EVdg9IXjPuw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCpsZvclnmQ05EVdg9IXjPuw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1706179464": {
+      "name": "Fantasy Fangirls",
+      "lastAttempt": "2026-11-21T13:36:52.045933+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCSIgqQOCxrQVtU0dl9pB3Kg",
+      "youtubeSourceUrl": "https://www.youtube.com/@fantasyfangirls",
+      "status": "DA_SCANSIONARE"
+    },
+    "1350517793": {
+      "name": "Boeken FM",
+      "lastAttempt": "2026-11-21T13:36:52.864354+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "391294609": {
+      "name": "Toute une vie",
+      "lastAttempt": "2026-11-21T13:36:55.853441+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1687383822": {
+      "name": "Sherlock Holmes Bedtime Stories",
+      "lastAttempt": "2026-11-21T13:36:58.360820+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCmie9NKgdk9xb_MEf3wo3oQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@SherlockHolmesBedtimeStories",
+      "status": "DA_SCANSIONARE"
+    },
+    "1512483201": {
+      "name": "Chai With Banafsheh/ چای با بنفشه",
+      "lastAttempt": "2026-11-21T13:37:02.582544+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCk8bueqamau77ENwTA6HPog",
+      "youtubeSourceUrl": "https://www.youtube.com/@BanafshehTaherian",
+      "status": "DA_SCANSIONARE"
+    },
+    "1616299637": {
+      "name": "Bla Bla Fantasy",
+      "lastAttempt": "2026-11-21T13:37:06.309603+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1710938779": {
+      "name": "Cozy Corner with Hossein Nasiri | کوزی کرنر با حسین نصیری",
+      "lastAttempt": "2026-11-21T13:37:09.820450+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1829783742": {
+      "name": "Weird Girl Book",
+      "lastAttempt": "2026-11-21T13:37:20.230349+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1479711891": {
+      "name": "Work in Progress with Sophia Bush",
+      "lastAttempt": "2026-11-21T13:37:22.093056+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1728378257": {
+      "name": "Afrobeats To The World Space [ATTW]",
+      "lastAttempt": "2026-11-21T13:37:25.762587+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1598314859": {
+      "name": "Storia di una Capinera | Audiolibro",
+      "lastAttempt": "2026-11-21T13:37:27.869546+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6832545771": {
+      "name": "Progettare",
+      "lastAttempt": "2026-11-21T13:37:31.173828+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1689613765": {
+      "name": "Zwei Seiten - Der Podcast über Bücher | WDR",
+      "lastAttempt": "2026-11-21T13:37:34.190403+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1574510281": {
+      "name": "Comedy Central Stand-Up",
+      "lastAttempt": "2026-11-21T13:37:46.393902+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1475773051": {
+      "name": "rSlash",
+      "lastAttempt": "2026-11-21T13:37:48.105556+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1334762412": {
+      "name": "Danny Wallace's Important Broadcast",
+      "lastAttempt": "2026-11-21T13:37:49.930896+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1292709842": {
+      "name": "Gemischtes Hack",
+      "lastAttempt": "2026-11-21T13:37:52.931287+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1496745266": {
+      "name": "Miseria e nobiltà",
+      "lastAttempt": "2026-11-21T13:37:57.062367+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCdRQAy9c5cJ4oQG_US3qq-g",
+      "youtubeSourceUrl": "https://www.youtube.com/@RTL1025",
+      "status": "DA_SCANSIONARE"
+    },
+    "1777687721": {
+      "name": "Dogm Nabash - دگم نباش",
+      "lastAttempt": "2026-11-21T13:38:01.367548+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 500: Internal Server Error",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1477882043": {
+      "name": "L'œil de Philippe Caverivière",
+      "lastAttempt": "2026-11-21T13:38:04.502789+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1190981360": {
+      "name": "This Past Weekend w/ Theo Von",
+      "lastAttempt": "2026-11-21T13:38:05.764183+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCiEKV_MOhwZ7OEcgFyLKilw",
+      "youtubeSourceUrl": "https://www.youtube.com/c/TheoVonClips",
+      "status": "DA_SCANSIONARE"
+    },
+    "1542960008": {
+      "name": "Brivido Coatto",
+      "lastAttempt": "2026-11-21T13:38:09.329155+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1629850890": {
+      "name": "GSMC Classics: Hancock's Half Hour",
+      "lastAttempt": "2026-11-21T13:38:11.692959+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1871426631": {
+      "name": "Vi var här först",
+      "lastAttempt": "2026-11-21T13:38:16.822452+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1564066507": {
+      "name": "Three Bean Salad",
+      "lastAttempt": "2026-11-21T13:38:18.626707+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1532718489": {
+      "name": "Biraz Konuşabilir miyiz?",
+      "lastAttempt": "2026-11-21T13:38:20.916052+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1696511339": {
+      "name": "三个火呛手",
+      "lastAttempt": "2026-11-21T13:38:25.320385+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "503482646": {
+      "name": "Your Mom's House with Christina P. and Tom Segura",
+      "lastAttempt": "2026-11-21T13:38:27.926773+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCYIgiXwJck_Pb5Nj-wIrsqg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCYIgiXwJck_Pb5Nj-wIrsqg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1552612086": {
+      "name": "The Luxury Podcast",
+      "lastAttempt": "2026-11-21T13:38:30.327470+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1693673771": {
+      "name": "Family Trips with the Meyers Brothers",
+      "lastAttempt": "2026-11-21T13:38:33.199487+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1732221067": {
+      "name": "L'uomo che fissava le ghiande",
+      "lastAttempt": "2026-11-21T13:38:36.632849+00:00",
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
