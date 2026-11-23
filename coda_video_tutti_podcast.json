@@ -94041,6 +94041,1646 @@
       },
       "sourceGeneratedAt": "2026-11-22T13:32:08.784708+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000758427901",
+      "score": 100,
+      "record": {
+        "podcast": "This Past Weekend w/ Theo Von",
+        "episode": "Nate Diaz & Chris Avila",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sgwK9ot_ulg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Nate Diaz and Chris Avila Watch Their Outtakes From \"Busboys\"",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1190981360",
+        "youtubeChannelId": "UCiEKV_MOhwZ7OEcgFyLKilw",
+        "youtubeDurationSeconds": 713
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000800838558",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Hitmaka & Deen The Great Talk New Music, Streaming, Adrien Broner, Ray J, Diddy, BBL's +More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0TBCqF7VUtg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Hitmaka & Deen The Great Talk New Music, Streaming, Adrien Broner, Ray J, Diddy, BBL's +More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 2753
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000800821004",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Senator Raphael Warnock Talks Democratic & Presidential Leadership, Keisha Lance Bottoms +More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MRgVkPUoqhE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Senator Raphael Warnock Talks Democratic & Presidential Leadership, Keisha Lance Bottoms +More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 2355
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000800260885",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "DONKEY: Hakeem Jeffries & Chuck Schumer Are Being Called To Step Down If They Can’t Step Up.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vn6KF30VX4o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Hakeem Jeffries & Chuck Schumer Are Being Called To Step Down If They Can’t Step Up",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 658
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799626664",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Byron Donalds Talks Black Voters, HBCUs & FAMU, 2026 Midterms + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=P5U-yhwImQU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Byron Donalds Talks Black Voters, HBCUs & FAMU, 2026 Midterms + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 959
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799626635",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Jasmine Crockett On Her Senate Loss, The Democratic Party & Black Political Power",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gHYSZjRy-YQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jasmine Crockett On Her Senate Loss, The Democratic Party & Black Political Power",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 2090
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799623052",
+      "score": 104,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Keisha Lance Bottoms Speaks On Georgia Governor Race",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fR49Lw1qfrA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Keisha Lance Bottoms Speaks On Georgia Governor Race",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 726
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799622104",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Ashley Allison Talks Midterm Election Day, record-Breaking Voter Turnouts, The Root 100 + more",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PanISp2B47o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ashley Allison Talks Midterm Election Day, Record-Breaking Voter Turnouts, The Root 100 + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1597
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799432867",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Scott Colom Talks 2026 Midterms, Affordability, Fighting Corruption In The Justice System + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KvAEpilKnok",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Scott Colom Talks 2026 Midterms, Affordability, Fighting Corruption In The Justice System + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1929
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798926341",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Gillie & Wallo Talk Jay-Z Headlining Super Bowl Halftime Show, Breaking Traditional Media +More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xGVONscnZrY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Gillie & Wallo Talk Jay-Z Headlining Super Bowl Halftime Show, Breaking Traditional Media +More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1669
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798737617",
+      "score": 103,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Tessa Spencer Opens Up On Losing Her Son To Suicide & Talks Save Our Sons & Daughters SC + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_yeznU2cypI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tessa Spencer Opens Up On Losing Her Son To Suicide & Speaks On Save Our Sons & Daughters; SC +More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 2928
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798375134",
+      "score": 101,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Mayor Eddie Melton on Gary’s Power Crisis & Indiana's Infrastructure Crisis",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nA_yLcpb4iE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mayor Eddie Melton Speaks On Gary, Indiana’s Power Crisis, Public Safety & Community Resilience",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1728
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798199859",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Boosie Badazz & Webbie on Their Reunion, Rod Wave, Lil Durk, New Album + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zon1UiaPvgM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Boosie Badazz & Webbie on Their Reunion, Rod Wave, Lil Durk, New Album + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 847
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798182041",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Jermaine Johnson Talks 2026 Midterms, Protecting South Carolina Homeowners, Data Centers + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NRmJ4yyR-LM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jermaine Johnson Talks 2026 Midterms, Protecting South Carolina Homeowners, Data Centers + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1195
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797270237",
+      "score": 104,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Cenk Uygur on Free Palestine, Netanyahu’s Influence & Who Controls the Media",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PF41eah29NY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cenk Uygur on Free Palestine, Netanyahu’s Influence & Who Controls the Media",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 3204
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797269563",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Haviv Rettig Gur Talks Israel–Hamas, Benjamin Netanyahu, Political Views & Criticism, Protests +More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=chuJEHv6LQU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Haviv Rettig Gur Talks Israel–Hamas, Benjamin Netanyahu, Political Views & Criticism, Protests +More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 5939
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797095818",
+      "score": 102,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Mayor Marty Small Sr. Talks Child Abuse Trial & Acquittal, Filing Lawsuit, Health Welfare & Safety Of Atlantic City + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=62f00Zv44ks",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mayor Marty Small Talks Child Abuse Trial & Acquittal, Lawsuit, Atlantic City Development + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1719
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796673428",
+      "score": 105,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "INTERVIEW: Charles Booker on Mitch McConnell, Kentucky’s Future & The Fight For Affordable Health Care",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6pJXqPwl-jM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Charles Booker on Mitch McConnell, Kentucky’s Future & The Fight For Affordable Health Care",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 1712
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796143869",
+      "score": 103,
+      "record": {
+        "podcast": "The Breakfast Club",
+        "episode": "FULL INTERVIEW: Glasses Malone, Malcolm Spellman, Jason Martin & Peyton Alex Smith Talk Protecting Hip Hop Culture, New Show 'The Drop' + More",
+        "youtubeUrl": "https://www.youtube.com/watch?v=L8OstH97RpI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Glasses Malone, Malcolm Spellman, Jason Martin & Peyton Alex Smith Talk Protecting Hip Hop + More",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1232428553",
+        "youtubeChannelId": "UChi08h4577eFsNXGd3sxYhw",
+        "youtubeDurationSeconds": 5167
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000803489135",
+      "score": 103,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Alan Carr: Castle Life, Chatty Man & a Great Big Bucket List",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CSeiSh49FfU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Alan Carr’s Castle, Chatty Man Memories & a Great Big Bucket List",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 3347
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741276468",
+      "score": 103,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Bret McKenzie: Flight of the Conchords, Lord Of The Rings Cameos & Oscar Win",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Txago7LHhDs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Bret McKenzie: Flight of the Conchords STRUGGLES, Lord Of The Rings Cameos & The Muppets!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 4147
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000740131943",
+      "score": 106,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Stephen Merchant: Being The Awkward Guy & Letting Go Of THE OFFICE",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VUdiKrqbst4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stephen Merchant: Letting Go Of The Office & Being The Awkward Guy",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 4306
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737500794",
+      "score": 102,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Shanthi’s PERFECT First Date, Gen Z Slang Test & Celeb Dreams…",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LH75ZPkv7OI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Shanthi’s PERFECT First Date & Weird Celeb Dreams?!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 1766
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000733686467",
+      "score": 101,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Controlling Romesh's Life & What Shanthi Looks For In A Man!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=A-EZmgzy8RI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Controlling Romesh's Life & Shanthi Reveals What She Really Wants in a Man!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 2212
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732568119",
+      "score": 106,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Jameela Jamil: Accidentally Becoming A Hollywood Star & Why I Don’t Trust Journalists",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Pu1PRt9BRNA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jameela Jamil On Accidentally Becoming A Hollywood Star & Why I Don’t Trust Journalists",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 3722
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732059736",
+      "score": 101,
+      "record": {
+        "podcast": "The Romesh Ranganathan Show",
+        "episode": "Romesh's Medical MIX UP & Should Grandparents Choose Their Nicknames?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2IfljKSq6Kc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Shanthi Tries TIKTOK TRENDS, Romesh's Medical MIX UP & Should Grandparents Choose Their Names?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1838594107",
+        "youtubeChannelId": "UClEwNmkntT7j4aNTBHBLNug",
+        "youtubeDurationSeconds": 1589
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791563009",
+      "score": 99,
+      "record": {
+        "podcast": "Mit den Waffeln einer Frau",
+        "episode": "Jimi Blue Ochsenknecht",
+        "youtubeUrl": "https://www.youtube.com/watch?v=d28Pkr7yWQo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jimi Blue Ochsenknecht bei \"Frühstück bei Barbara\"",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1481054140",
+        "youtubeChannelId": "UCqdtue_8yB7YEEQ_DJtnpYw",
+        "youtubeDurationSeconds": 2572
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798352132",
+      "score": 103,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 384 - 現代羅百吉C.Holly & 性感DJ 始祖 DJ Soda",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dza8sC5GW18",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 384 - 現代羅百吉C.Holly & 性感DJ 始祖 DJ Soda (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3515
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797262756",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 383 - 台灣奧客實錄 滑雪旅行社 DBC共同創辦人 Brian",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4hD8i9kwPv8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 383 - 就是他一直帶台灣網紅出國滑雪 滑雪旅行社 DBC共同創辦人 Brian  (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 4767
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792200288",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 380 - 客運司機Timmy",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pjrHxyOhj3k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 380 - 客運司機Timmy (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 1993
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791111028",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 379 - 從恐怖份子救出人質的特種部隊 余靖  Gene Yu",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cJ5o8hXIViY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 379 - 從恐怖份子救出人質的特種部隊 余靖 Gene Yu (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3822
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000773885672",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 366- 再不諮商百靈果就要結束了？ 伴侶諮商 Ken & Kylie",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BlU6vjI8B_A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 366- 再不諮商百靈果就要結束了？ 伴侶諮商 Ken & Kylie (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 4420
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772965864",
+      "score": 103,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 365-中國滲透史丹佛大學 Elsa Johnson",
+        "youtubeUrl": "https://www.youtube.com/watch?v=L93z0Gg30J0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 365-中國滲透史丹佛大學 Elsa Johnson (CC中文字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 2085
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000771868857",
+      "score": 103,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 364 - 跟他講英文會生氣的Mean Gay Ellery",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_B7w-W9DcOg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 364 - 跟他講英文會生氣的Mean Gay Ellery @e.ll.e.r.y (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3789
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000762883529",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 357 - 滲透中國的台灣間諜 Oscar",
+        "youtubeUrl": "https://www.youtube.com/watch?v=utjw83dbbcw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 357 - 滲透中國的台灣間諜 Oscar (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 6207
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000760044155",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 355 - 拜託流量超過博音 台哥大經理Jamie",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LpcOocJpkwg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 355 - 拜託流量超過博音 台哥大總經理Jamie （CC AI字幕）",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 4579
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000759476346",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "中國最不想看到的戰爭發生了，Chat GPT開放聊色？凱莉推薦電影【紐倫堡大審判 NUREMBERG 】",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Md08yitg46s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "百靈果NEWS｜中國最不想看到的戰爭發生了，Chat GPT開放聊色？凱莉推薦電影【紐倫堡大審判 NUREMBERG 】",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3248
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000756582457",
+      "score": 106,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "百靈果NEWS｜萬物皆可賭的線上賭場，幫中國政府做事的英國人被🔪了？饒舌歌手在法庭把警察嗆到大哭，Ken頻道推薦 【Predictive history: Professor Jiang】",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1i3Ls_CkLzg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "百靈果NEWS｜萬物皆可賭的線上賭場，幫中國政府做事的英國人被🔪了？饒舌歌手在法庭把警察嗆到大哭，推薦 【Predictive history: Professor Jiang】",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3638
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000754471889",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 351 - 在美國當代理孕母的臺灣人 Lily",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wGfBuOntF_I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 351 - 在美國當代理孕母的臺灣人 Lily （CC AI字幕）",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 4279
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749079524",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 348 - 衝撞長榮慣老闆的空姐與年薪六百萬的美國空少  ft. 長榮工會理事長 曲佳雲、達美航空 William Lai",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SmDSeHujLng",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 348 - 衝撞長榮慣老闆的空姐與年薪六百萬的美國空少 ft. 長榮工會理事長 曲佳雲、達美航空 William Lai （CC AI字幕）",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 8135
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747862952",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 347 - 去中國修仙失敗的白人敗類 Mattias",
+        "youtubeUrl": "https://www.youtube.com/watch?v=C6hcG7tsoAo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 347 - 去中國修仙失敗的白人敗類 Mattias （CC AI字幕）",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 6382
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743970356",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 343 - 前美國國防部官員聊中共軍演 Tony Hu",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4oHpEbtEqNU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 343 - 前美國國防部官員聊中共軍演 Tony Hu (CC AI字幕)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3753
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738669230",
+      "score": 104,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "女兒發燒熱痙攣叫救護車，凱莉嚇死！公園可以看出人民水準｜嬰兒限定 ep33",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tmUS3l6AOPk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "女兒發燒到熱痙攣叫救護車，凱莉嚇死！公園可以看出人民水準｜嬰兒限定 ep33",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 2148
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736442674",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 335 - 單飛的更生人 Lizi栗子",
+        "youtubeUrl": "https://www.youtube.com/watch?v=v2IiD3l7FsI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 335 - 單飛的更生人 Lizi栗子 @Lizi栗子",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3909
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000727353950",
+      "score": 104,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "生小孩後想離婚？｜嬰兒限定 ep32",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wB4gtePqL9Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "生小孩後想離婚？｜嬰兒限定 ep32",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 1581
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000727057762",
+      "score": 112,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 326 - 中國電動車產業內幕 Maureen",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bIfE5cLERpI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 326 - 中國電動車產業內幕Maureen",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 5163
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000721047939",
+      "score": 104,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "蔡阿嘎半夜出國二伯氣爆｜嬰兒限定 ep31",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DtSg3ST6-FM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "蔡阿嘎半夜出國二伯氣爆｜嬰兒限定 ep31",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 3711
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000717372028",
+      "score": 100,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "The KK Show 317 - 變成好萊塢大咖 Atsuko Okatsuka",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TRvNDcTaTh8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The KK Show 317 - 變成好萊塢大咖 Atsuko Okatsuka  @AtsukoComedy  （CC中文字幕）",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 5535
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000714664778",
+      "score": 104,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "帶嬰兒去米其林｜嬰兒限定 ep30",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AYZAImxFPVE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "帶嬰兒去米其林｜嬰兒限定 ep30",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 1215
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713588416",
+      "score": 104,
+      "record": {
+        "podcast": "百靈果 News",
+        "episode": "人人都會被詐騙｜讀書會Scam Inc ep7、8",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kt8cexf4vEA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "人人都會被詐騙｜讀書會Scam Inc ep7、8",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1106847606",
+        "youtubeChannelId": "UCD2KoUc0f4Bv2Bz0mbOah8g",
+        "youtubeDurationSeconds": 2148
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000802211114",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Jan Karbaat: El demonio de la fertilidad | Docuchicxs #22",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gx57e53InkY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Jan Karbaat: The Fertility Demon | Docuchicxs #22",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 1887
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000801105515",
+      "score": 101,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Me metí con mi PACIENTE y con SU HIJO! Ft. Tortuyara - T11E28",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yPug9CVe7QQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Me metí con mi PACIENTE y con SU HIJO! Ft. @tortuyaraoficial - T11E28 #infidelidad #relaciones",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6645
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799499764",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "El Templo Satánico: La verdad detrás de la religión | Docuchicxs #20",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KXQowgfdS5w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Satanic Temple: The Truth Behind the Religion | Docuchicxs #20 | #documentary #religion",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 2694
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798170651",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Stonewall: Protestas y disturbios por el orgullo | Docuchicxs #19",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1UrB8JzMRHM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stonewall: Pride Protests and Riots | Docuchicxs #19 | #documentary #stonewall #pride",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 2024
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797351828",
+      "score": 103,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Me ENAMORÉ de la mamá de mi COLÁGENO Ft. Daniela Bervera - T11E22",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TBjwpWg7kfE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Me ENAMORÉ de la mamá de mi COLÁGENO Ft. Daniela Bervera - T11E22 #chismes #relaciones #colageno",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6399
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790424257",
+      "score": 103,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Mi HERMANO se está dando A MI ESPOSA Ft. Apio Quijano - T11E13",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8CRmR4X5eF0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mi HERMANO se está dando A MI ESPOSA Ft. Apio Quijano de @PipirisNights - T11E13 #infidelidad",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7224
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788783649",
+      "score": 108,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Lindsay Clancy: El caso COMPLETO | Docuchicxs #14",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kDg-Ho9LGgo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Lindsay Clancy: The FULL Case | Docuchicxs #14",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 4358
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788557606",
+      "score": 101,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Le caché la INFIDELIDAD por WhatsApp Ft. Herly - T11E10",
+        "youtubeUrl": "https://www.youtube.com/watch?v=suyIDeTgIVY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Le caché la INFIDELIDAD por WhatsApp Ft. @HerlyRG - T11E10 #infidelidad #parejastoxicas",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7298
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788294869",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Abuso, divorcio y asesinato: El caso de Betty Broderick | Docuchicxs #13",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nJzIE6x6ZBY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP13 BETTY BRODERICK",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 1790
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000786373371",
+      "score": 101,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Me ENAMORÉ de la amiga DE MI MAMÁ! Ft. Virgilio Delgado y Nico Haza de Nadie Nos Va a Extrañar - T11E07",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zuJ5CGX2cyE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EXCLUSIVE Tea with Virgilio Delgado and Nico Haza from Nadie Nos Va a Extrañar!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 1802
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000782835551",
+      "score": 102,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Dejé a mi mamá SIN CASA! Ft. Fryda Nazar - T11E02",
+        "youtubeUrl": "https://www.youtube.com/watch?v=chnniAekShs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Dejé a mi mamá SIN CASA! Ft. Fryda Nazar - T11E02 #familias #chismefamiliar #familiatóxica",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7229
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000778572702",
+      "score": 108,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "Ezra Miller: De la CIMA al COLAPSO | Docuchicxs #07",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Mk-ImuZGTzw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ezra Miller: From the TOP to the COLLAPSE | Docuchicxs #07 | #documentary #ezramiller #hollywood",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 1855
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772289347",
+      "score": 102,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Mi mamá DESVIVIÓ a mi papá! Ft. John Eliu - T10E19",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ji7XYh_rlqk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Mi mamá DESVIVIÓ a mi papá! Ft. @John Eliu - T10E19 #familias #familiastóxicas #paternidad",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6135
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000770857700",
+      "score": 99,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Me TRAICIONÓ en el embarazo! Ft.  Psicóloga Pau - T10E16",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_ptzuTuPlEo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Me TRAICIONÓ en el embarazo! Ft. @psicologapau_ - T10E16",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 9306
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769730504",
+      "score": 101,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Llevó a su AMANTE a nuestra BODA! Ft. Yeri Mua - T10E14",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YOS6UlNPiO0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Llevó a su AMANTE a nuestra BODA! Ft. @YeriMuaMusic - T10E14 #bodas #infidelidad #yerimua",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7672
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000765020323",
+      "score": 104,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Me LIGÓ El Amigo De Mi ESPOSO! 😱 Ft. Fabrizio Santini de La Oficina - T10E07",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4Zi41MRVP0g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Me LIGÓ el amigo de mi ESPOSO! 😱 Ft. Fabrizio Santini de La Oficina - T10E07 #podcast #LaOficina",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 4943
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000763339079",
+      "score": 99,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Abandoné A Mis Trillizos! 😭 Ft.CD9 - T10E05",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QIKiQjEMUjY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Abandoné A Mis Trillizos! 😭 Ft. @CD9MX - T10E05 #podcast #chisme #cd9",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7207
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000754943332",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T9E34 ¡Mi Mamá Es MUY INFIEL! 😭 Ft. Ianis Guerrero  #podcast #chisme #infidelidad",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rjh4-wPbADw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Mi Mamá Es MUY INFIEL! 😭 Ft. Ianis Guerrero - T9E34 #podcast #chisme #infidelidad",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7539
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751282797",
+      "score": 102,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T9E29 Me Enamoré De Un Rabo Verde! 😭 Ft. Pesadilla Nocturna ​- #podcast #chismes",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WXYRyvhposg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Me Enamoré De Un Rabo Verde! 😭 Ft. @pesadillanocturnapodcast - T9E29 #podcast #chismes",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6561
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750573952",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T9E28 ¡Debutamos En El No-Por! 😱 Fr.  @RobertoCein1 - #podcast #chisme",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7USSjar7xAg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Debutamos En El No-Por! 😱 Fr. @RobertoCein1 - T9E28 #podcast #chisme",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 8876
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749516251",
+      "score": 102,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T9E26  ¡Me Metí Con Un CASADO! 😭 Ft.  @magoyambo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=U-7XCz7EDkY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Me Metí Con Un CASADO! 😭 Ft. @magoyambo - T9E26 #podcast #chismes #storytime",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6797
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000746934822",
+      "score": 106,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T9E21 ¡Vimos El Pack De Mi Abuelo! 😱 Ft. Natalia Alcocer - #podcast #chisme #storytime",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dueKvD3IPfM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Vimos El Pack De Mi Abuelo! 😱 Ft. Natalia Alcocer - T9E21 #podcast #chisme #storytime",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7485
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741923302",
+      "score": 101,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡La Venada Me Sacó El Veneno! 😱 Ft.  @LosPetitFellasMusica  - T9E12",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BwV5BMbs1r0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡La Venada Me Sacó El Veneno! 😱 Ft. @LosPetitFellas - T9E12 #podcast #chisme #chismes",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6142
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000740922350",
+      "score": 104,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Tengo Un Hijo Terrorífico! César El Narrador de  @HABLEMOSDELOQUENOEXISTE  - T9E10",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nZ0L5LoHmAU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Tengo Un Hijo Terrorífico! 😭 Ft. César El Narrador de @HABLEMOSDELOQUENOEXISTE - T9E10 #chisme",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 5761
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732900207",
+      "score": 103,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T8E31 ¡Me enojé Y Me Encueré! Ft. Caro Campos",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2VkiDw4YeP4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Me Enojé Y Me Encueré! 😱 Ft. Caro Campos - T8E31 #podcast #chisme  #storytime",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 7774
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732227202",
+      "score": 103,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "CHISME: Bebé De Tres Leches 🙃 Ft. Jerry Velázquez",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DN5bKwy_58c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "CHISME: Bebé De Tres Leches. 🙃 Ft. Jerry Velázquez - T8E30 #podcast #chismes",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6436
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000731061614",
+      "score": 103,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "¡Funé A T8E28 Mi Novio Y Me Quedé Con Él! 😱 Ft. Alex Duran",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rFOMFEq0l4E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Funé A Mi Novio Y Me Quedé Con Él! 😱 Ft. Alex Duran - T8E28 #podcast #chismes #storytime",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 6276
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000730701678",
+      "score": 103,
+      "record": {
+        "podcast": "Noche De Chicxs",
+        "episode": "T8E27 ¡Cambié La Terapia Por La Venganza! 😱 Ft. Camila Lucía",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qrtIfr0bepA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¡Cambié La Terapia Por La Venganza! 😱 Ft. Camila Lucía - T8E27 #podcast #chismes #storytime",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1740139193",
+        "youtubeChannelId": "UC5mQQ4Ur6oA8lsGFkvH2lyg",
+        "youtubeDurationSeconds": 5660
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000643522246",
+      "score": 103,
+      "record": {
+        "podcast": "Wrong Turns with Jameela Jamil",
+        "episode": "I Weigh - How To Read People with Annie Särnblad",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UK6QrZqIwD0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "[Full Episode] How To Read People with Annie Sarnblad on I Weigh with Jameela Jamil",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1498855031",
+        "youtubeChannelId": "UCr6pQ176hFTxWi1BQrm5p5Q",
+        "youtubeDurationSeconds": 2968
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751810007",
+      "score": 100,
+      "record": {
+        "podcast": "Leyendas Legendarias",
+        "episode": "Los archivos de Epstein explicados",
+        "youtubeUrl": "https://www.youtube.com/watch?v=K990uGiMuCA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EN VIVO: Los archivos de Epstein explicados",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1454073357",
+        "youtubeChannelId": "UCugC9R-gE-6mgUgIqNy387Q",
+        "youtubeDurationSeconds": 5820
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751720167",
+      "score": 101,
+      "record": {
+        "podcast": "Leyendas Legendarias",
+        "episode": "Todos Somos Punch - Historias del Más Acá 260",
+        "youtubeUrl": "https://www.youtube.com/watch?v=r0vb-SuRc3c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Todos Somos Punch (con Jessica Aguirre de Handy) - Historias del Más Acá 260",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1454073357",
+        "youtubeChannelId": "UCugC9R-gE-6mgUgIqNy387Q",
+        "youtubeDurationSeconds": 3574
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749405618",
+      "score": 100,
+      "record": {
+        "podcast": "Leyendas Legendarias",
+        "episode": "Historias del Más Acá 258 - ¿Epstein en Juárez?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6367LcwqL_s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Epstein en Ciudad Juárez? - Historias del Más Acá 258",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-23T16:13:49.621852+00:00",
+        "appleCollectionId": "1454073357",
+        "youtubeChannelId": "UCugC9R-gE-6mgUgIqNy387Q",
+        "youtubeDurationSeconds": 3512
+      },
+      "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }
