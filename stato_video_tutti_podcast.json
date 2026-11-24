@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-23T16:09:35.880918+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601391+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -12779,21 +12779,21 @@
     },
     "1802353955": {
       "name": "Liberi Oltre Le Illusioni",
-      "lastAttempt": "2026-11-23T16:09:35.880872+00:00",
+      "lastAttempt": "2026-11-24T15:57:56.820621+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCrdEJmK5bgFte04-UF7o29Q",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1378125252": {
       "name": "‌BPLUS بی‌پلاس پادکست فارسی خلاصه کتاب",
-      "lastAttempt": "2026-11-23T16:09:35.880887+00:00",
+      "lastAttempt": "2026-11-24T15:58:07.318881+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UChWB95_-n9rUc3H9srsn9bQ",
       "youtubeSourceUrl": "https://www.youtube.com/@BplusPodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "500549470": {
       "name": "Podcast Francais Authentique",
@@ -12804,12 +12804,12 @@
     },
     "1623077169": {
       "name": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
-      "lastAttempt": "2026-11-23T16:09:35.880895+00:00",
+      "lastAttempt": "2026-11-24T15:58:13.379265+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
       "youtubeSourceUrl": "https://www.youtube.com/c/ungeskriptetbyben",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1459642847": {
       "name": "The Level Up English Podcast",
@@ -12834,12 +12834,12 @@
     },
     "1163599279": {
       "name": "Podcast Italiano | Learn Italian (Intermediate & Advanced)",
-      "lastAttempt": "2026-11-23T16:09:36.426030+00:00",
+      "lastAttempt": "2026-11-24T15:58:20.341338+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCegEedDeryCYSVT7eBCm-RQ",
       "youtubeSourceUrl": "https://www.youtube.com/@PodcastItaliano",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1532956108": {
       "name": "IMO with Michelle Obama and Craig Robinson",
@@ -12892,12 +12892,12 @@
     },
     "1378680828": {
       "name": "Happy Daily di Giusi Valentini",
-      "lastAttempt": "2026-11-23T16:09:58.908386+00:00",
+      "lastAttempt": "2026-11-24T15:58:27.105638+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCkNjegtcD_M1Hg6AuG79_yg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1527113279": {
       "name": "Italiano con Amore",
@@ -12915,12 +12915,12 @@
     },
     "1532849701": {
       "name": "جافکری | Jafekri",
-      "lastAttempt": "2026-11-23T16:10:08.586702+00:00",
+      "lastAttempt": "2026-11-24T15:58:33.522167+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCvZrJlDzjCy7jYNCX6WTbjg",
       "youtubeSourceUrl": "https://www.youtube.com/@Mjzahedpour",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1699674948": {
       "name": "Acceleratore di apprendimento dello spagnolo",
@@ -12931,12 +12931,12 @@
     },
     "1815248406": {
       "name": "English Break",
-      "lastAttempt": "2026-11-23T16:10:14.535548+00:00",
+      "lastAttempt": "2026-11-24T15:58:36.403898+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCfSDpPV2xdaSe2cSc7G8HPw",
       "youtubeSourceUrl": "https://www.youtube.com/c/NormasTeaching",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1896926832": {
       "name": "SLOW ENGLISH PODCAST (A1-A2) With Subtitles | Daily Videos | English With Us Podcast",
@@ -12947,12 +12947,12 @@
     },
     "1085828103": {
       "name": "Slow German",
-      "lastAttempt": "2026-11-23T16:10:21.630454+00:00",
+      "lastAttempt": "2026-11-24T15:58:42.405537+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
       "youtubeSourceUrl": "https://www.youtube.com/@slowgermanpodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1823556505": {
       "name": "English Unleashed: The Podcast",
@@ -12970,12 +12970,12 @@
     },
     "1480155677": {
       "name": "YUYUの日本語Podcast【Japanese Podcast】",
-      "lastAttempt": "2026-11-23T16:10:30.922688+00:00",
+      "lastAttempt": "2026-11-24T15:58:49.564441+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UC8dWfySP_cKDMFj6aFfQbFA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "989163962": {
       "name": "Gresham College Lectures",
@@ -12986,30 +12986,30 @@
     },
     "1553496827": {
       "name": "GRATEFULMonday⭐️ il podcast di 5pani2pesci",
-      "lastAttempt": "2026-11-23T16:10:39.152837+00:00",
+      "lastAttempt": "2026-11-24T15:58:59.128919+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC3UJgcyH01gIrjQpeZk2h7w",
       "youtubeSourceUrl": "https://www.youtube.com/@5pani2pesci",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1503052663": {
       "name": "Insieme per educare - PF06",
-      "lastAttempt": "2026-11-23T16:10:42.657957+00:00",
+      "lastAttempt": "2026-11-24T15:59:04.639301+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
       "youtubeSourceUrl": "https://www.youtube.com/c/SilviaIaccarinoPercorsiformativi06",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "279999557": {
       "name": "Culips Everyday English Podcast",
-      "lastAttempt": "2026-11-23T16:10:43.593519+00:00",
+      "lastAttempt": "2026-11-24T15:59:10.892951+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCyDDXkiUTmK0x0W00JlGuNg",
       "youtubeSourceUrl": "https://www.youtube.com/user/CulipsESLPodcast",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1788815085": {
       "name": "English Learning Podcast",
@@ -13020,12 +13020,12 @@
     },
     "1500283852": {
       "name": "La Storia - Novecento",
-      "lastAttempt": "2026-11-23T16:10:49.292248+00:00",
+      "lastAttempt": "2026-11-24T15:59:17.630725+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCsjsoyoxpyVboTvIgV2bg1Q",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCsjsoyoxpyVboTvIgV2bg1Q",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "976549237": {
       "name": "Español con Juan",
@@ -13051,12 +13051,12 @@
     },
     "1543012325": {
       "name": "L' Arte Della Crescita Personale - Podcast",
-      "lastAttempt": "2026-11-23T16:11:01.805186+00:00",
+      "lastAttempt": "2026-11-24T15:59:21.863033+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UC5ApFzPjvUr6_2BYZw6ym4g",
       "youtubeSourceUrl": "https://www.youtube.com/@LArtedellaCrescitaPersonale",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1694468860": {
       "name": "Stories in Slow Italian - Learn Italian through stories",
@@ -13068,21 +13068,21 @@
     },
     "1437098382": {
       "name": "Learn Russian with Max | Comprehensible Russian Podcast",
-      "lastAttempt": "2026-11-23T16:11:08.324447+00:00",
+      "lastAttempt": "2026-11-24T15:59:29.008524+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCklUqFEcJqFnWKEBozw5p4g",
       "youtubeSourceUrl": "https://www.youtube.com/c/RussianWithMax",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6784803270": {
       "name": "Italian Through Art",
-      "lastAttempt": "2026-11-23T16:11:13.268588+00:00",
+      "lastAttempt": "2026-11-24T15:59:36.445958+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCk-m7gkbwOIf1GcJfeeWDvA",
       "youtubeSourceUrl": "https://www.youtube.com/@italianthroughart-i3q",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "698154514": {
       "name": "Italiano Automatico Podcast",
@@ -13135,21 +13135,21 @@
     },
     "1479285354": {
       "name": "Intermediate Spanish Podcast - Español Intermedio",
-      "lastAttempt": "2026-11-23T16:11:38.666311+00:00",
+      "lastAttempt": "2026-11-24T15:59:37.470872+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
       "youtubeSourceUrl": "https://www.youtube.com/@SpanishLanguageCoach",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1831468939": {
       "name": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
-      "lastAttempt": "2026-11-23T16:11:39.537469+00:00",
+      "lastAttempt": "2026-11-24T15:59:43.828377+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
       "youtubeSourceUrl": "https://www.youtube.com/@italopentimalli_official",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1726276206": {
       "name": "Black Mango Podcast",
@@ -13160,25 +13160,25 @@
     },
     "1524931337": {
       "name": "Oltre le Parole",
-      "lastAttempt": "2026-11-23T16:11:45.358530+00:00",
+      "lastAttempt": "2026-11-24T15:59:46.579355+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCunNPJgocyGgK6EK52kaEpg",
       "youtubeSourceUrl": "https://www.youtube.com/@SergioOmassi",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "884643408": {
       "name": "Happy English Podcast (Natural American English)",
-      "lastAttempt": "2026-11-23T16:11:50.515491+00:00",
+      "lastAttempt": "2026-11-24T15:59:52.787492+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCnjiDqr3dcQB_GVPFXvqpSg",
       "youtubeSourceUrl": "https://www.youtube.com/@HappyEnglishNY",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1315794199": {
       "name": "Elettricista felice",
-      "lastAttempt": "2026-11-23T16:11:52.098349+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601250+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
@@ -13194,7 +13194,7 @@
     },
     "1547950387": {
       "name": "劉軒的How to人生學",
-      "lastAttempt": "2026-11-23T16:11:57.554975+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601265+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
@@ -13210,7 +13210,7 @@
     },
     "1589070102": {
       "name": "Vaporetto Italiano Podcast",
-      "lastAttempt": "2026-11-23T16:12:03.734560+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601274+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCkIJwkoTFKjIglDDWQQbUog",
@@ -13226,7 +13226,7 @@
     },
     "1572214694": {
       "name": "لام تا کلام",
-      "lastAttempt": "2026-11-23T16:12:17.512456+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601282+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCfe4OH8q35QX7_12Grqa2kQ",
@@ -13235,7 +13235,7 @@
     },
     "972673390": {
       "name": "Learn French with French Podcasts - Français avec Pierre",
-      "lastAttempt": "2026-11-23T16:12:18.515091+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601289+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCVgW9ZQaGBk6fsiPgE2mYDg",
@@ -13244,7 +13244,7 @@
     },
     "1581058922": {
       "name": "Motivation Daily by Motiversity",
-      "lastAttempt": "2026-11-23T16:12:24.182626+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601296+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC1d28mrBqCQliL_N48tZZiw",
@@ -13267,7 +13267,7 @@
     },
     "119843495": {
       "name": "Learn Mandarin Chinese  - Chinese Audio Lessons",
-      "lastAttempt": "2026-11-23T16:12:30.918786+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601304+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCUV7OJEgrQl8wmkzas2vAHQ",
@@ -13283,7 +13283,7 @@
     },
     "1535661441": {
       "name": "SIMPLE ITALIAN PODCAST | IL PODCAST IN ITALIANO COMPRENSIBILE | LEARN ITALIAN WITH PODCASTS",
-      "lastAttempt": "2026-11-23T16:12:37.161259+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601311+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC6ZtfQW6g_oUszvzYH-0qvg",
@@ -13292,7 +13292,7 @@
     },
     "1450018819": {
       "name": "Before Breakfast",
-      "lastAttempt": "2026-11-23T16:12:41.790464+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601317+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
@@ -13308,7 +13308,7 @@
     },
     "977345837": {
       "name": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
-      "lastAttempt": "2026-11-23T16:12:46.217497+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601323+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
@@ -13317,7 +13317,7 @@
     },
     "1550756719": {
       "name": "Apprends le français avec Madame à Paname (French Podcast)",
-      "lastAttempt": "2026-11-23T16:12:50.373933+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601329+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC59NqFOvritu4Rw93tQT4LQ",
@@ -13333,7 +13333,7 @@
     },
     "1060671460": {
       "name": "Unlimited Spanish podcast with Oscar",
-      "lastAttempt": "2026-11-23T16:13:02.062427+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601336+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
@@ -13342,7 +13342,7 @@
     },
     "1541525131": {
       "name": "Ketab Jibi | پادکست کتاب جیبی",
-      "lastAttempt": "2026-11-23T16:13:05.637244+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601343+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCNUtDTbEfMEXUCX0zGML-1w",
@@ -13358,7 +13358,7 @@
     },
     "1606739611": {
       "name": "Learn Japanese with Masa sensei!",
-      "lastAttempt": "2026-11-23T16:13:13.397257+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601351+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
@@ -13367,7 +13367,7 @@
     },
     "1107849049": {
       "name": "Español Automático Podcast",
-      "lastAttempt": "2026-11-23T16:13:14.297554+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601358+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
@@ -13404,7 +13404,7 @@
     },
     "1838114099": {
       "name": "Favole e Fiabe della Buonanotte con Mamma Marina",
-      "lastAttempt": "2026-11-23T16:13:29.293830+00:00",
+      "lastAttempt": "2026-11-24T16:00:01.601364+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCWnFlDDIqMD-ktzaJBdnpZw",
@@ -13431,6 +13431,472 @@
       "discoveryRevision": 4,
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1725496146": {
+      "name": "Favole per bambini",
+      "lastAttempt": "2026-11-24T16:00:02.106373+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "721006934": {
+      "name": "The Dr. Laura Podcast",
+      "lastAttempt": "2026-11-24T16:00:03.817420+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1367696070": {
+      "name": "Play Therapy Parenting: Real Parenting Questions Answered by a Child Therapist",
+      "lastAttempt": "2026-11-24T16:00:05.805069+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1479539176": {
+      "name": "Le podcast des Maternelles",
+      "lastAttempt": "2026-11-24T16:00:09.057296+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "929277000": {
+      "name": "Bilingual Avenue with Marianna Du Bosq",
+      "lastAttempt": "2026-11-24T16:00:15.615822+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1489934613": {
+      "name": "Die Maus zum Hören",
+      "lastAttempt": "2026-11-24T16:00:15.811308+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1148570190": {
+      "name": "Your Parenting Mojo - Respectful, research-based parenting ideas to help kids thrive",
+      "lastAttempt": "2026-11-24T16:00:20.510409+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1194425580": {
+      "name": "洪恩故事",
+      "lastAttempt": "2026-11-24T16:00:25.725739+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1778481477": {
+      "name": "Haschimitenfürst – Der Bobcast",
+      "lastAttempt": "2026-11-24T16:00:32.511216+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1503901178": {
+      "name": "Bajki opowiadane przez dzieci",
+      "lastAttempt": "2026-11-24T16:00:34.686995+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC_jYNCh6rV-wl8KNR3uVooA",
+      "youtubeSourceUrl": "https://www.youtube.com/@PolskieradioPL",
+      "status": "DA_SCANSIONARE"
+    },
+    "1668963510": {
+      "name": "Cuentos e Historias Infantiles",
+      "lastAttempt": "2026-11-24T16:00:38.733000+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1591851797": {
+      "name": "Bedtime Stories for Kids|Good Night Tales|Stories of New Beginnings",
+      "lastAttempt": "2026-11-24T16:00:41.019405+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1423423794": {
+      "name": "Big Fat Positive: Pregnancy and Parenting (BFP)",
+      "lastAttempt": "2026-11-24T16:00:42.835933+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1758689730": {
+      "name": "从头来过 | Reborn",
+      "lastAttempt": "2026-11-24T16:00:47.109109+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1463322273": {
+      "name": "Encore une histoire",
+      "lastAttempt": "2026-11-24T16:00:49.274475+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCd58JXG1TRef0WvJYcdD61A",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCd58JXG1TRef0WvJYcdD61A",
+      "status": "DA_SCANSIONARE"
+    },
+    "1137632409": {
+      "name": "Adventures of Inspector Maigret",
+      "lastAttempt": "2026-11-24T16:00:51.268256+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1826580503": {
+      "name": "Mia e Teo",
+      "lastAttempt": "2026-11-24T16:00:54.405457+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1570606697": {
+      "name": "Wild, le podcast animalier",
+      "lastAttempt": "2026-11-24T16:00:57.794656+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1611369054": {
+      "name": "I cavalli: parliamo di salute e benessere",
+      "lastAttempt": "2026-11-24T16:01:00.556675+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1775134093": {
+      "name": "Storie della buonanotte, per piccoli Sognatori!",
+      "lastAttempt": "2026-11-24T16:01:05.188014+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1889162624": {
+      "name": "Anche meno. A volte di più;",
+      "lastAttempt": "2026-11-24T16:01:08.386038+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1592496459": {
+      "name": "Il salotto delle mamme",
+      "lastAttempt": "2026-11-24T16:01:11.488752+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1873118863": {
+      "name": "Bump with Steph & Laura",
+      "lastAttempt": "2026-11-24T16:01:15.991159+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCCUnIvZO9tCS-mAvvys5YFg",
+      "youtubeSourceUrl": "https://www.youtube.com/@stephandlaura",
+      "status": "DA_SCANSIONARE"
+    },
+    "6788689356": {
+      "name": "Tilibou: storie e favole della buonanotte per bambini",
+      "lastAttempt": "2026-11-24T16:01:17.448371+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1348469682": {
+      "name": "The Big Fib",
+      "lastAttempt": "2026-11-24T16:01:20.493615+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1544178687": {
+      "name": "We Don't Have Time For This",
+      "lastAttempt": "2026-11-24T16:01:23.614215+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1669389484": {
+      "name": "強哥為你說故事",
+      "lastAttempt": "2026-11-24T16:01:25.738155+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1470304779": {
+      "name": "Radio Nonsense: A Comedy Club 4 Kids podcast",
+      "lastAttempt": "2026-11-24T16:01:33.641323+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: <urlopen error timed out>",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1506994818": {
+      "name": "Risposte Pedagogiche",
+      "lastAttempt": "2026-11-24T16:01:46.898408+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1536210147": {
+      "name": "Meditation Mama | Guided Meditations for Pregnancy, Labor & Postpartum",
+      "lastAttempt": "2026-11-24T16:01:47.396477+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1800125192": {
+      "name": "The Dogs Were Good (again)",
+      "lastAttempt": "2026-11-24T16:01:51.550046+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "lastError": "YouTube: ERROR: [youtube:tab] @dog_rates/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "6824296927": {
+      "name": "Storie di paura per bambini, con Capitan Brivido",
+      "lastAttempt": "2026-11-24T16:01:53.851377+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "857588352": {
+      "name": "Ohrenbär Podcast",
+      "lastAttempt": "2026-11-24T16:01:59.759045+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1783545021": {
+      "name": "Bad Mom Academy",
+      "lastAttempt": "2026-11-24T16:02:03.890453+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "414000822": {
+      "name": "Lachlabor - Lustiges Wissen für Kinder zum Miträtseln",
+      "lastAttempt": "2026-11-24T16:02:05.582294+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1523700373": {
+      "name": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+      "lastAttempt": "2026-11-24T16:02:10.475049+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+      "youtubeSourceUrl": "https://www.youtube.com/c/sigikid_official",
+      "status": "DA_SCANSIONARE"
+    },
+    "1896919142": {
+      "name": "Sueñacuentos",
+      "lastAttempt": "2026-11-24T16:02:11.091883+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1494238283": {
+      "name": "Squiz Kids",
+      "lastAttempt": "2026-11-24T16:02:14.618865+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCUv2pglsro5ifP7MndUexOg",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCUv2pglsro5ifP7MndUexOg",
+      "status": "DA_SCANSIONARE"
+    },
+    "1167870621": {
+      "name": "Artis et Gousse d'ail",
+      "lastAttempt": "2026-11-24T16:02:17.374998+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1535932317": {
+      "name": "Favole della Buonanotte",
+      "lastAttempt": "2026-11-24T16:02:20.817752+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1508495244": {
+      "name": "Mi racconti una storia?",
+      "lastAttempt": "2026-11-24T16:02:24.183389+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1636132534": {
+      "name": "Hypno-WHAT?! Modern Hypnobirthing with Claire.",
+      "lastAttempt": "2026-11-24T16:02:35.340085+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1642573992": {
+      "name": "رادیو والدگری | راهبری آگاهانه والد و کودک",
+      "lastAttempt": "2026-11-24T16:02:36.572880+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1657383067": {
+      "name": "Super!",
+      "lastAttempt": "2026-11-24T16:02:39.706524+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "281766283": {
+      "name": "Parenting on Moncrieff",
+      "lastAttempt": "2026-11-24T16:02:43.491778+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCyQkMUy1w7X7pZEqq2j-1CQ",
+      "youtubeSourceUrl": "https://www.youtube.com/c/Newstalkfm",
+      "status": "DA_SCANSIONARE"
+    },
+    "1572343021": {
+      "name": "The Peaceful Parenting Podcast",
+      "lastAttempt": "2026-11-24T16:02:46.588084+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+      "youtubeSourceUrl": "https://www.youtube.com/@peacefulparentingwithsarah4194",
+      "status": "DA_SCANSIONARE"
+    },
+    "1587586157": {
+      "name": "Hei Baby",
+      "lastAttempt": "2026-11-24T16:02:48.440307+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1517698133": {
+      "name": "Dadville with Dave Barnes and Jon McLaughlin",
+      "lastAttempt": "2026-11-24T16:02:52.672526+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1646963167": {
+      "name": "Faites des gosses",
+      "lastAttempt": "2026-11-24T16:02:54.408327+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCwJNx4ppGcWABZJZc2rMvdw",
+      "youtubeSourceUrl": "https://www.youtube.com/@LouieMedia",
+      "status": "DA_SCANSIONARE"
+    },
+    "1469497070": {
+      "name": "The Kick Pregnancy Podcast",
+      "lastAttempt": "2026-11-24T16:02:57.708933+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+      "youtubeSourceUrl": "https://www.youtube.com/@TheKickPregnancyPodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "1505783879": {
+      "name": "Consigli Veterinari",
+      "lastAttempt": "2026-11-24T16:03:00.902083+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1538318707": {
+      "name": "Pensieri Sparsi",
+      "lastAttempt": "2026-11-24T16:03:03.542171+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1548436545": {
+      "name": "Furminant - Der Hundepodcast mit Johanna und Alex",
+      "lastAttempt": "2026-11-24T16:03:06.535070+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1505644777": {
+      "name": "familylab.de Podcasts",
+      "lastAttempt": "2026-11-24T16:03:09.892371+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1705286339": {
+      "name": "After Bedtime with Big Little Feelings",
+      "lastAttempt": "2026-11-24T16:03:15.983107+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1666050632": {
+      "name": "Super Simple Imagination Time With Caitie!",
+      "lastAttempt": "2026-11-24T16:03:17.608477+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1782864617": {
+      "name": "Raggio di Luna - ricostruirsi nel lutto perinatale",
+      "lastAttempt": "2026-11-24T16:03:20.653275+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1500778697": {
+      "name": "Mama Gang",
+      "lastAttempt": "2026-11-24T16:03:23.732078+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
+      "youtubeSourceUrl": "https://www.youtube.com/@Mama_Gang_sk",
+      "status": "DA_SCANSIONARE"
+    },
+    "1533072212": {
+      "name": "Super Great Kids' Stories",
+      "lastAttempt": "2026-11-24T16:03:31.162472+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC8XrsJDeko75nyon-2i9z-w",
+      "status": "DA_SCANSIONARE"
+    },
+    "1737442386": {
+      "name": "Two Parents & A Podcast",
+      "lastAttempt": "2026-11-24T16:03:31.660040+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1461457593": {
+      "name": "Houpačky",
+      "lastAttempt": "2026-11-24T16:03:34.539403+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1685998335": {
+      "name": "The Pawsitive Post in Conversation by Companion Animal Psychology",
+      "lastAttempt": "2026-11-24T16:03:37.925581+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 429: Too Many Requests",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1610713580": {
+      "name": "Pezzettini",
+      "lastAttempt": "2026-11-24T16:03:40.966179+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC3XIkSkoDmQMEww-P4D2soA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC3XIkSkoDmQMEww-P4D2soA",
+      "status": "DA_SCANSIONARE"
     }
   },
   "chartShows": {

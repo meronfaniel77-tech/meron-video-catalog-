@@ -95681,6 +95681,3406 @@
       },
       "sourceGeneratedAt": "2026-11-23T16:13:49.390265+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000803292366",
+      "score": 106,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "DEMOGRAFIA - UNA RIVOLUZIONE EPOCALE ¦ Società Future EP3 con G. DALLA ZUANNA",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Z8lKTE7-O_A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "DEMOGRAPHY: AN EPOCHAL REVOLUTION | Future Society EP3 with G. DALLA ZUANNA",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2510
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000803291602",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "BRASILE; LULA AL COMANDO E I BOLSONARO IN GALERA O IN ESILIO ¦ SCENARI EP29 con R.BERTINI e L.RIZZI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lE17tZ2y3rU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "BRAZIL: LULA IN CHARGE AND THE BOLSONAROS IN PRISON OR IN EXILE | SCENARIOS EP29 with R. BERTINI ...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 5494
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000801946061",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "GUERRA IN ETIOPIA - NEL CAOS DEL CORNO D'AFRICA | Scenari Internazionali EP28 con Matteo Palamidesse",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tClwo9DHiZw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAR IN ETHIOPIA - IN THE CHAOS OF THE HORN OF AFRICA | International Scenarios EP28 with Matteo P...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 6029
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798521985",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "LIVE ELEZIONI ISRAELE - PIAZZE PIENE, LE URNE ANCHE ¦ FANGORN EP7 ¦ A. Alesiani C. Bosco F. Bosco",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nLF0Q0iKA4U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ISRAEL ELECTION LIVE - PACKED SQUARES, PACKED POLLS TOO | FANGORN EP7 | A. Alesiani C. Bosco F. B...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 6562
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796704339",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "TRUMP E PUTIN - A LOVE STORY | La Chiacchierata EP12 De Blasi Romano Arfaras Di Gaetano",
+        "youtubeUrl": "https://www.youtube.com/watch?v=t9nH18mElCU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "TRUMP AND PUTIN - A LOVE STORY | The Chat EP12 De Blasi Romano Arfaras Di Gaetano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3942
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792711938",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "COSA SIGNIFICA VEDERE UN MONDO NUOVO? ¦ NUOVA SERIE - Società Future EP1 con ANDREA GRAZIOSI",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GKdInBUl-TY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WHAT DOES IT MEAN TO SEE A NEW WORLD? | NEW SERIES - Future Societies EP1 with ANDREA GRAZIOSI",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3879
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791232366",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "LA VITTORIA DEGLI ESTREMISMI - SUCCESSI PER DIE LINKE E AFD ¦ Scenari Internazionali EP27 M.Trabalza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=l5yAS-CrVK4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "THE VICTORY OF EXTREMISM - SUCCESSES FOR DIE LINKE AND AFD | International Scenarios EP27 M.Trabalza",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3283
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000789850053",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "UCRAINA: UNA GUERRA CHE CAMBIA - UN'ESTATE DA LVIV A SLOVYANSK | Est-ranei EP18 con Anna Zafesova",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Cr93RyclWBA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "UKRAINE: A WAR THAT CHANGES - A SUMMER FROM LVIV TO SLOVYANSK | Est-ranei EP18 with Anna Zafesova",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3478
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788360243",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "IL TRIONFO DI AFD - SPECIALE ELEZIONI IN SASSONIA -ANHALT | Scenari Internazionali EP26 M.Trabalza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MCVwG-iLJUA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "THE TRIUMPH OF AFD - SAXONY-ANHALT ELECTION SPECIAL | International Scenarios EP26 M.Trabalza",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3976
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000778197260",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "STABILICUM - FUNZIONAMENTO E ALLEANZE | Plutopopulismo EP32 con G. Arfaras V. Emanuele",
+        "youtubeUrl": "https://www.youtube.com/watch?v=X166eciATPc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "STABILICUM - FUNCTIONING AND ALLIANCES | Plutopopulism EP32 with G. Arfaras V. Emanuele",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3636
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777799770",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "GERMANIA: AFD SI PREPARA A GOVERNARE + CRISI VOLKSWAGEN | Scenari Internazionali EP25 M.Trabalza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o8d3ouMOYpc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "GERMANY: AFD PREPARES TO GOVERN + VOLKSWAGEN CRISIS | International Scenarios EP25 M.Trabalza",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2463
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777035733",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "LA GEOPOLITICA DEI MONDIALI DI CALCIO ¦ La Chiacchierata EP8 ¦ De Blasi Romano Arfaras Di Gaetano",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lZn-7ptpFX8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "THE GEOPOLITICS OF THE WORLD CUP | La Chiacchierata EP8 | De Blasi Romano Arfaras Di Gaetano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3592
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776586409",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "ISRAELE E PALESTINA - OLTRE IL MURO | ANNA FOA e MUIN MASRI | Voci dal Medio Oriente EP7",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WGU9MRTyYGc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ISRAEL AND PALESTINE - BEYOND THE WALL | ANNA FOA and MUIN MASRI | Voices from the Middle East EP7",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2671
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775441421",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "IT MOSCOW IS ON FIRE - GLI ATTACCHI UCRAINI SU SUOLO RUSSO | Est-ranei EP17 con Anna Zafesova",
+        "youtubeUrl": "https://www.youtube.com/watch?v=58IS9wckIOE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "MOSCOW IS ON FIRE - UKRAINIAN ATTACKS ON RUSSIAN SOIL | Estranei EP17 with Anna Zafesova",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4459
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775428263",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "ENIGMA PAKISTAN: RISPONDIAMO ALLE VOSTRE DOMANDE - Q&A IN DIRETTA | ENIGMA PAKISTAN EP3 | M.Ramaioli",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-I0P0e8dCXY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PAKISTAN ENIGMA: ANSWERING YOUR QUESTIONS - LIVE Q&A | PAKISTAN ENIGMA EP3 | M.Ramaioli",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4038
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775105372",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "IT PREFERENZE E IUS SOLI - MELONI E TRUMP IMPANTANATI | La Chiacchierata EP7",
+        "youtubeUrl": "https://www.youtube.com/watch?v=u0difp-BbPs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PREFERENZE E IUS SOLI - MELONI E TRUMP IMPANTANATI | La Chiacchierata EP7",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3897
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000773256956",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "TRUMP - IL PESSIMO NEGOZIATORE ¦ LA CHIACCHIERATA EP6 ¦ De Blasi Romano Arfaras Di Gaetano",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-ve1UAdFIR4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "TRUMP - THE TERRIBLE NEGOTIATOR | THE CHAT EP6 | De Blasi Romano Arfaras Di Gaetano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3746
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772178604",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "ISRAELE VISTO DA VICINO - COLLEGAMENTO da TEL AVIV con CAMILLO BOSCO ¦ FRONTLINES SPECIALE EP 5",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OSzVoDFaIK0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ISRAEL UP CLOSE - LIVE FROM TEL AVIV WITH CAMILLO BOSCO | FRONTLINES SPECIAL EP 5",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4177
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000770652147",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "LIBANO, IRAN E LA POST-DIPLOMAZIA | FANGORN - POLITICA INTERNAZIONALE EP5 | C. Bosco e F. Bosco",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Vhk9JafAu8k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "LEBANON, IRAN AND POST-DIPLOMACY | FANGORN - INTERNATIONAL POLITICS EP5 | C. Bosco and F. Bosco",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4555
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769893293",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "SFONDARE IL SOFFITTO DI CRISTALLO | ELEZIONI ITALIANE 4 | Plutopopulismo EP28 G. Arfaras V. Emanuele",
+        "youtubeUrl": "https://www.youtube.com/watch?v=52Pesdvx0Pk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "BREAKING THE GLASS CEILING | ITALIAN ELECTIONS 4 | Plutopopulism EP28 G. Arfaras V. Emanuele",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3666
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769429391",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Cosa Resta del Dissenso in Russia? Beauty Blogger e Rapper di Regime | Est-ranei EP16 A. Zafesova",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nsmC72gcNLY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "What's Left of Dissent in Russia? Beauty Bloggers and Regime Rappers | Est-ranei EP16 A. Zafesova",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3474
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768909568",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "L'ETÀ DEL CAOS ¦ LA CHIACCHIERATA di Liberi Oltre EP4 ¦ De Blasi Romano Arfaras Di Gaetano",
+        "youtubeUrl": "https://www.youtube.com/watch?v=71dqP7bghpY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "THE AGE OF CHAOS | A CHAT by Liberi Oltre EP4 | De Blasi Romano Arfaras By Gaetano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 5011
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767700222",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "ELEZIONI ITALIANE - 3 I Poli di Destra e Sinistra | Plutopopulismo EP27 G. Arfaras e V. Emanuele",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zAlAHzYitnk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ITALIAN ELECTIONS - 3 Poles of RIGHT and LEFT | Plutopopulism EP27 G. Arfaras and V. Emanuele",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3855
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767272008",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "La CRISI POLITICA di Friedrich Merz | Scenari Internazionali EP23 con Mario Trabalza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3rd_6iivLUE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Friedrich Merz's Political Crisis | International Scenarios EP23 with Mario Trabalza",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3271
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766623362",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "IRAN E UCRAINA; Tregue Distopiche ¦ LA CHIACCHIERATA EP3 ¦ De Blasi Romano Arfaras Di Gaetano",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y6rIryyFJHU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "IRAN AND UKRAINE: Dystopian Truces | THE CHAT EP3 | De Blasi Romano Arfaras Di Gaetano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4476
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000762272666",
+      "score": 104,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "The Pope ¦ La nuova Guerra Fredda Ep. 9",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XLO7N0yifwE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Pope | | THE NEW COLD WAR EP9 with Costantino De Blasi and Marco Canestrari",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4629
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000762146477",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "ORBAN e PUTIN - Vite Parallele. Elezioni Ungheresi e Futuro dell'Europa | Est-ranei EP15 A. Zafesova",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NQcNjkz515U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ORBAN and PUTIN - Parallel Lives. Hungarian Elections and the Future of Europe | Est-ranei EP15 A...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2766
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757599272",
+      "score": 101,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Voci dall'Iran, con CECILIA SALA | SPECIALE Daily Spot",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0_wLUgfC7iE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Voices from Iran, with Cecilia Sala | Daily Spot Special",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2221
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757549376",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "REFERENDUM - Analisi del Voto con Giorgio Arfaras | Plutopopulismo EP24",
+        "youtubeUrl": "https://www.youtube.com/watch?v=72c35s88irg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "REFERENDUM - Vote Analysis with Giorgio Arfaras | Plutopopulism EP24",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3875
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000756924513",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "BREXIT - Ritorno all'Unione Europea | LA NUOVA GUERRA FREDDA EP7 | C. De Blasi e M. Canestrari",
+        "youtubeUrl": "https://www.youtube.com/watch?v=5S9_b3LcXXo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "BREXIT - Return to the European Union | THE NEW COLD WAR EP7 | C. De Blasi and M. Canestrari",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4034
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000753972111",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Guerra AI - il Caso Anthropic | LA NUOVA GUERRA FREDDA EP5 | A. Fuggetta, C. De Blasi, M. Canestrari",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Hg_mnsRF6is",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "AI Warfare - The Anthropic Case | THE NEW COLD WAR EP5 | A. Fuggetta, C. De Blasi, M. Canestrari",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3548
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000752097314",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "REFERENDUM GIUSTIZIA - Sì, No, Forse? | Plutopopulismo EP22 SPECIALE con Giorgio Arfaras",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FIND5QCfu68",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "JUSTICE REFERENDUM - Yes, No, Maybe? | Plutopopulism EP22 SPECIAL with Giorgio Arfaras",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3751
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750775611",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Desaparecidos in Sud America, i Martiri di Ieri e di Oggi | Scenari Internazionali EP20 A. Sprovieri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ml6kNRQxQ5o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Desaparecidos in South America: Martyrs of Yesterday and Today | International Scenarios EP20 A. ...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2155
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750045549",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "L'Europa nell'Era di Trump: Alleati, Vassalli o Blocco Alternativo? | Scenari EP19 con C. Sciuto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6csBpAXYYec",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Europe in the Age of Trump: Allies, Vassals, or Alternative Bloc? | Scenarios EP19 with C. Sciuto",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 1596
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748771233",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "La Nuova Guerra Fredda - SpaceX e la Corsa allo Spazio | NUOVA SERIE EP1 C. De Blasi e M. Canestrari",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gb2axqjPJog",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The New Cold War - SpaceX and the Space Race | NEW SERIES EP1 C. De Blasi and M. Canestrari",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3016
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748284599",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Come l'Italia è diventata Italietta | Plutopopulismo EP21 con Giorgio Arfaras",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jmHpcRQ_HrU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How Italy Became Italietta | Plutopopulismo EP21 with Giorgio Arfaras",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3856
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744910797",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Venezuela: Narcotraffico, Regime e Intervento di Trump | Scenari Internazionali EP18 con F. Varese",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8dLODj4HiZc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Venezuela: Drug Trafficking, the Regime, and Trump's Intervention | International Scenarios EP18 ...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3339
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743647363",
+      "score": 101,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Attacco al Venezuela | SPECIALE Daily Spot | M. Stefanini A. Bisin C. Pinto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tWRrbprV4jo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Attack on Venezuela | Daily Spot SPECIAL | with Maurizio Stefanini and Carmine Pinto",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 6565
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000742438483",
+      "score": 106,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Storia del Jihadismo | 3 - Dal 1981 ad Oggi | Oriente e Oltre EP8 con Massimo Ramaioli",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YFJaI3U7dNA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "History of Jihadism | 3 - From 1981 to Today | East and Beyond EP8 with Massimo Ramaioli",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2659
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741914384",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Germania: Allarme Estrema Destra | Scenari Internazionali EP17 con Tonia Mastrobuoni",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mFKkK1kjMKQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Germany: Far-Right Alert | International Scenarios EP17 with Tonia Mastrobuoni",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3227
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741592106",
+      "score": 106,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Storia del Jihadismo | 2 - Dall'800 al 1981 | Oriente e Oltre EP7 con Massimo Ramaioli",
+        "youtubeUrl": "https://www.youtube.com/watch?v=q2zjlF_-hS4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "History of Jihadism | 2 - From 1800 to 1981 | East and Beyond EP7 with Massimo Ramaioli",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3072
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737772169",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Giovani in Ucraina e Russia: la Leva, la Protesta e la Vita all’Estero | Est-ranei EP14 A. Zafesova",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AuvEGJk7SCY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Youth in Ukraine and Russia: Conscription, Protest, and Life Abroad | Estranei EP14 A. Zafesova",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 4841
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737486158",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Riforma della Giustizia, le Ragioni del SÌ | Agenda Globale EP13 con Antonio Di Pietro",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wBlQ5Ha0f58",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Justice Reform: The Reasons for a YES Vote | Global Agenda EP13 with Antonio Di Pietro",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 1786
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737160251",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Riforma della Giustizia, le Ragioni del NO | Agenda Globale EP12 con Axel Bisignano",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-n1gDaC8I78",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Justice Reform: The Reasons for the No Vote | Global Agenda EP12 with Axel Bisignano",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2129
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736723298",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Germania - 6 Mesi di Governo Merz ¦ Scenari Internazionali EP16 con Tommaso Pedicini",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EBSG0OdvAz4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Germany - 6 Months of Merz's Government | International Scenarios EP16 with Tommaso Pedicini",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2834
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736261313",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Tregua a Gaza - Pace all'Orizzonte¿ ¦ Scenari Internazionali EP15 con Silvia Colombo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=irQXDt_r1SE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Truce in Gaza - Peace on the Horizon? | International Scenarios EP15 with Silvia Colombo",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2614
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735576790",
+      "score": 110,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Breve Storia dell'Economia | 1 - Dal 1980 all'Euro | Plutopopulismo con Giorgio Arfaras EP16",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DDlcdJA6blA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "A Brief History of the Economy | 1 - From 1980 to the Euro | Plutopopulism with Giorgio Arfaras EP16",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3965
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735128862",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "La Catastrofe Umanitaria in Sudan | Scenari Internazionali EP15 con C. Bosco",
+        "youtubeUrl": "https://www.youtube.com/watch?v=j_TK9N7NVpc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Humanitarian Catastrophe in Sudan | International Scenarios EP15 with C. Bosco",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 5824
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000734454855",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Gli USA di Trump: Shutdown, Charlie Kirk, ICE e Dazi | Scenari EP14 con G. Clementi e G. Gramaglia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7VR2shnzMfc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Trump's USA: Shutdown, Charlie Kirk, ICE, and Tariffs | Scenarios EP14 with G. Clementi and G. Gr...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 3398
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000734453990",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Diretta dall'Ucraina con Cristiano Tinazzi | Frontlines EP4 LIVE",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_a2FQyjc4sk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Live from Ukraine with Cristiano Tinazzi | Frontlines EP4 LIVE",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 6249
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000733387541",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Gaza e oltre: Il Diritto Internazionale Oggi | Scenari Internazionali EP13 con W. Schabas",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qwxNlqatyeU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Gaza and Beyond: International Law Today | International Scenarios EP13 with W. Schabas",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2822
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000733033071",
+      "score": 112,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Manovra Meloni: tra Prudenza e Propaganda | Agenda Globale EP10 con R. Perotti",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9HDNpI6Tb2g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Meloni's Budget: Between Prudence and Propaganda | Global Agenda EP10 with R. Perotti",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 1564
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000732033762",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Un Giornalista in Cisgiordania, Cosa Succede nella West Bank? | Scenari Internazionali EP12 M Cassel",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eOra6ArYT8s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "A Journalist in the West Bank, What's Happening in the West Bank? | International Scenarios EP12 ...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2470
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000731475095",
+      "score": 108,
+      "record": {
+        "podcast": "Liberi Oltre Le Illusioni",
+        "episode": "Dal Sogno Americano all’Odio Americano; la Società dei Nemici di Trump ¦ Agenda Globale EP9 V. Parsi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vUJ7Yl31EpY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "From the American Dream to American Hate: Trump's Society of Enemies | Global Agenda EP9 V. Parsi",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1802353955",
+        "youtubeChannelId": "UCrdEJmK5bgFte04-UF7o29Q",
+        "youtubeDurationSeconds": 2287
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000762116948",
+      "score": 106,
+      "record": {
+        "podcast": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+        "episode": "288 - Was dir die Tagesschau verschweigt (Militär-Experte)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sTOcI1G7wgg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Was dir die Tagesschau verschweigt (Militär-Experte)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1623077169",
+        "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
+        "youtubeDurationSeconds": 15817
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000761577778",
+      "score": 106,
+      "record": {
+        "podcast": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+        "episode": "287 - Der Absturz: Er hat das größte Bordell-Imperium verloren",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MXlgsJEgxic",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Der Absturz: Er hat das größte Bordell-Imperium verloren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1623077169",
+        "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
+        "youtubeDurationSeconds": 9704
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000751554059",
+      "score": 102,
+      "record": {
+        "podcast": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+        "episode": "Der Tod lehrte mich die Lust am Leben",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YrbBqYmFBjQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Der Tod lehrte mich die Lust am Leben (Steffen Henssler)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1623077169",
+        "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
+        "youtubeDurationSeconds": 10435
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000742853425",
+      "score": 103,
+      "record": {
+        "podcast": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+        "episode": "VEGAN-BEEF eskaliert komplett! (Raffaela vs. Nikita)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=x7SKQkAQzr8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "VEGAN-BEEF eskaliert komplett! (Raffaela vs. Nikibrah)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1623077169",
+        "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
+        "youtubeDurationSeconds": 10412
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000721833798",
+      "score": 103,
+      "record": {
+        "podcast": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+        "episode": "Die da oben wollen mich hinter Gittern (Shlomo Finkelstein)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yU4Tqp1WnDY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Die da oben wollen mich hinter Gittern",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1623077169",
+        "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
+        "youtubeDurationSeconds": 15888
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713439161",
+      "score": 104,
+      "record": {
+        "podcast": "{ungeskriptet} - Der Meinungsfreiheit verpflichtet.",
+        "episode": "Deshalb zerbrechen Beziehungen (Psychiater Dr. Raphael Bonelli)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sy-yGWmJRbc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Deshalb zerbrechen Beziehungen (Dr. Raphael Bonelli)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1623077169",
+        "youtubeChannelId": "UCjkSqbf8E4MybdYmfhlW10A",
+        "youtubeDurationSeconds": 11757
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000704095521",
+      "score": 99,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Sindrome dell'Impostore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bK8kjmYNEYA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Supera la sindrome dell'impostore - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1288
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000692478135",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come uscire dalla zona di confort",
+        "youtubeUrl": "https://www.youtube.com/watch?v=09b1_J0CDWs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Come uscire dalla tua zona di confort",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 771
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000687793491",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Il permesso di cambiare idea",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CaHsan98pok",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il permesso di cambiare idea - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 949
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000682639531",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Riparti con coraggio e motivazione",
+        "youtubeUrl": "https://www.youtube.com/watch?v=X0JOiEWoAC0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Anno Nuovo: Riparti con coraggio e motivazione",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 944
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000667765305",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Permettiti di avere successo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=J-gJyZBOMzc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Permettiti di avere SUCCESSO - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1084
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000666446282",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come rientrare dalle vacanze",
+        "youtubeUrl": "https://www.youtube.com/watch?v=whnvH5P0p2Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Come rientrare dalle vacanze - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 667
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000660622795",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Affronta i cambiamenti del tuo corpo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YdR9f8BPv_8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Affronta i cambiamenti del tuo corpo - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1176
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000659097606",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Liberati dalla vergogna del tuo corpo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6or4mMKu00k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Liberati dalla vergogna del tuo corpo - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1173
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000656718298",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come risolvere i conflitti familiari",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OXEFjRYpwK8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Come risolvere i conflitti familiari - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1669
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000655247658",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Datti il giusto valore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XXluBRQ08Ro",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Datti il giusto valore - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 867
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000650915682",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "La tua rabbia e quella degli altri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_0sUKerTyvA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La tua rabbia e quella degli altri - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1696
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000645671514",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Perché la meditazione non funziona",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KHh7RR6Zy3U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Perché la MEDITAZIONE non funziona - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1293
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000644025481",
+      "score": 104,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Relazioni di coppia autentiche e durature",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sd7eojHKThE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Relazioni di coppia autentiche e durature - Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1293
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000643173423",
+      "score": 104,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Non riesci ad avere una routine di benessere?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Z9vxb6Wxo4Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Non riesci ad avere una routine di benessere? Podcast AUDIO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1293
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000625747064",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come essere te stessa in ogni relazione",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WB7KCndWQts",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "COME ESSERE AUTENTICA: come essere te stessa in ogni relazione",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1336
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000620083018",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come ho superato un momento difficile",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Rn93ZM3wBs0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "CRISI: Come ho superato un momento difficile",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 2567
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000618167701",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come ho trovato più leggerezza e fiducia nella vita",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tSExoC5NNqc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "FIDUCIA: Come ho trovato più leggerezza e fiducia nella vita",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1069
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000610183599",
+      "score": 106,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Perché blocchi, paure ed emozioni sono un tesoro",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OR5BFG-k7KU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PAURE: Perché blocchi, paure ed emozioni sono un tesoro",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1166
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000609061466",
+      "score": 104,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "3 strumenti per superare ogni paura",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y92cf3LNxiw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PAURA: i miei 3 strumenti per superare ogni tua paura",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1197
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000591754247",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Mantieni i buoni propositi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8KMVSLz-BcE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mantieni i buoni propositi per il nuovo anno - 2023",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1437
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000590468535",
+      "score": 101,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Vivi meglio l'inverno - Diretta con Sara Bigatti",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FOXlGVi-gKw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Vivi meglio l'inverno con Sara Bigatti de \"La Scimmia Yoga\"",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 3914
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000588601676",
+      "score": 99,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Superare ansia e stress",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LEe9gsnGoLc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "SUPERARE ANSIA E STRESS: spunti pratici per superare ansia e stress",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1377
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000570030382",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come la meditazione ti cambia la vita",
+        "youtubeUrl": "https://www.youtube.com/watch?v=idQiXS4pqws",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "MEDITAZIONE: la meditazione ti cambia la vita?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1947
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000559110813",
+      "score": 99,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Autostima e come volerti bene",
+        "youtubeUrl": "https://www.youtube.com/watch?v=t6X27n3n5PI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "COME VOLERTI BENE: inizia oggi a lavorare sulla tua AUTOSTIMA",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1669
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000554494389",
+      "score": 104,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Meditazione per la PACE interiore e nel mondo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lcVthArYwuI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "20 min | Meditazione guidata per la PACE interiore e nel mondo",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1315
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000552234623",
+      "score": 106,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Cambiare lavoro e trovare la tua missione",
+        "youtubeUrl": "https://www.youtube.com/watch?v=atvHOV6ceIg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "CAMBIARE LAVORO: come cambiare lavoro e trovare la tua missione",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1709
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000550809751",
+      "score": 104,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Stare bene con te stessa, anche da single",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rXYQocZYFRg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "STARE BENE DA SINGLE: come stare bene con te stessa, anche da sola",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1485
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000547212124",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come realizzare i tuoi obiettivi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3LGsezr5Zoc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "OBIETTIVI: Come realizzare i tuoi obiettivi",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 2223
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000546596771",
+      "score": 100,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come ho trovato il mio equilibrio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ynz1lwKv4KM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EQUILIBRIO: come ho trovato il mio equilibrio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1911
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000539409397",
+      "score": 99,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Aumenta la tua autostima attraverso il corpo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YZR42JrEclQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "AUTOSTIMA: come aumentare la tua autostima attraverso il corpo",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1445
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000536513317",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Come gestire la tua energia quotidiana",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kGF1wZUX-Gs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ENERGIA: Come gestire la tua energia quotidiana",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1426
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000535655399",
+      "score": 104,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "10 modi per iniziare la tua morning routine",
+        "youtubeUrl": "https://www.youtube.com/watch?v=94ckPwkYQcU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ROUTINE DEL MATTINO: 10 modi per iniziare la tua morning routine",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1252
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000532602885",
+      "score": 103,
+      "record": {
+        "podcast": "Happy Daily di Giusi Valentini",
+        "episode": "Rapporto con il corpo e alimentazione",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yO4uQG7iVUY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ALIMENTAZIONE: Rapporto con il corpo e alimentazione",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1378680828",
+        "youtubeChannelId": "UCkNjegtcD_M1Hg6AuG79_yg",
+        "youtubeDurationSeconds": 1641
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788421857",
+      "score": 103,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "Brauchen wir noch Bargeld? – SG 323",
+        "youtubeUrl": "https://www.youtube.com/watch?v=La8afXUb934",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🇩🇪 Brauchen wir noch Bargeld?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 834
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000755717526",
+      "score": 100,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "Was ist der Eurovision Song Contest ESC? – SG 319",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8kRuS98X3Oo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🇩🇪 Was ist dieser Eurovision Song Contest (ESC)?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 686
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000535305263",
+      "score": 106,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "Bundestagswahl 2021 in Deutschland – SG #241",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y7acMx7DIgM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Bundestagswahl 2021 in Deutschland - Hörverständnis - SG #241",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 665
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000530998970",
+      "score": 106,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "Homosexualität in Deutschland – SG #240",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9ooAv7dK_CU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Homosexualität in Deutschland - Hörverständnis - SG #240",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 636
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000474736299",
+      "score": 108,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "Corona / Covid-19 in Deutschland – SG #208",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3BJ4fuv0acs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Corona / Covid-19 in Deutschland - Mündliche Deutschprüfung - Hörverständnis - Slow German #208",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 657
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000461202108",
+      "score": 106,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "SG #200: Menschen mit Behinderung",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ggPsehlLRN0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Menschen mit Behinderung in Deutschland - Slow German #200 - Deutsch lernen",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 616
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000458538523",
+      "score": 106,
+      "record": {
+        "podcast": "Slow German",
+        "episode": "SG #196 – Juden in Deutschland",
+        "youtubeUrl": "https://www.youtube.com/watch?v=owvmlT2OjXI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Juden in Deutschland - Slow German #196",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1085828103",
+        "youtubeChannelId": "UCXntXBt2YKBO1xDni0EgjXA",
+        "youtubeDurationSeconds": 602
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000646804194",
+      "score": 106,
+      "record": {
+        "podcast": "GRATEFULMonday⭐️ il podcast di 5pani2pesci",
+        "episode": "Una vita donata per i carcerati e il senso della malattia (la storia di Franceschina di Nuovi Orizzonti)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mNsXJ8Qcoyk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Una vita donata per i carcerati e il senso della malattia (Franceschina di Nuovi Orizzonti)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1553496827",
+        "youtubeChannelId": "UC3UJgcyH01gIrjQpeZk2h7w",
+        "youtubeDurationSeconds": 1616
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000778648240",
+      "score": 103,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "LA PEDAGOGIA DELLA GIOIA. Educare coltivando la felicità con Monica Lombardi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-FgjiFFPZNo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "LA PEDAGOGIA DELLA GIOIA®. Educare coltivando la felicità",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 2017
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772909420",
+      "score": 100,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "SCUSATE MA LA MAMMA SONO IO. Future e neomamme tra consigli non richiesti e giudizi con Giorgia Cozza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Kbvhr0o_qQo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Scusate ma la mamma sono io - con Giorgia Cozza",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 3493
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000759968852",
+      "score": 104,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "COLTIVARE L'INFANZIA - PRESENTAZIONE DEL LIBRO di PF06",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VGn-pPFHy1M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "COLTIVARE L'INFANZIA - PRESENTAZIONE DEL LIBRO",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 2863
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000712197714",
+      "score": 102,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "L'attaccamento sicuro - presentazione del libro con Silvia Da Dalt",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MOEdZzxXMfI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'attaccamento sicuro con Silvia Da Dalt",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 2683
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000651145419",
+      "score": 101,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "Albi illustrati Academy: autoformazione online sugli albi illustrati 06 anni",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FPVTJYbUBCA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Albi illustrati Academy: autoformazione sulla letteratura per l'infanzia 06 anni",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 2696
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000640285698",
+      "score": 104,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "Con Pino Maiolo per parlare di bullismo e cyberbullismo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vDCJSPttQd8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Diretta con Pino Maiolo per parlare di bullismo e cyberbullismo",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 3554
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000637518798",
+      "score": 99,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "\"Perchè lo fai\": presentazione del libro di Fabio Porporato",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mmGXWkjXqCA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "\"Perchè lo fai?\" con Fabio Porporato",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 4372
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000628365802",
+      "score": 100,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "Gli ho appena detto di no, ma lui/lei mi guarda, ride e lo fa!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KSHasmbq_MQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Gli ho detto di no, ma lui/lei mi guarda, ride e lo fa",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 1013
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000614158553",
+      "score": 101,
+      "record": {
+        "podcast": "Insieme per educare - PF06",
+        "episode": "Implicazioni sensoriali nel passaggio dal pannolino al vastino/water",
+        "youtubeUrl": "https://www.youtube.com/watch?v=90fRIOpjMz0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Implicazioni sensoriali nel passaggio al vasino/water",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1503052663",
+        "youtubeChannelId": "UCEBi_r-noDOC_muW-FSuqBA",
+        "youtubeDurationSeconds": 1771
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750906514",
+      "score": 104,
+      "record": {
+        "podcast": "Culips Everyday English Podcast",
+        "episode": "Bonus episode #168 – Sick as a dog",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Q6cV3sY3gRg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "[Classic Bonus] Simplified Speech #168 – The ballet",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "279999557",
+        "youtubeChannelId": "UCyDDXkiUTmK0x0W00JlGuNg",
+        "youtubeDurationSeconds": 1482
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000706252668",
+      "score": 108,
+      "record": {
+        "podcast": "Culips Everyday English Podcast",
+        "episode": "[Classic] Bonus episode #64 – The mushroom mystery",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LBTxmq3_Ma0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Bonus Episode #064 – The mushroom mystery",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "279999557",
+        "youtubeChannelId": "UCyDDXkiUTmK0x0W00JlGuNg",
+        "youtubeDurationSeconds": 2502
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747873139",
+      "score": 102,
+      "record": {
+        "podcast": "L' Arte Della Crescita Personale - Podcast",
+        "episode": "L'Investitore Intelligente - Benjamin Graham",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BtmX4aihNtE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L' Investitore Intelligente - Benjamin Graham - Recensione Libro",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1543012325",
+        "youtubeChannelId": "UC5ApFzPjvUr6_2BYZw6ym4g",
+        "youtubeDurationSeconds": 640
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000712420837",
+      "score": 103,
+      "record": {
+        "podcast": "L' Arte Della Crescita Personale - Podcast",
+        "episode": "Come trattare gli altri e farseli amici (Remake) - Dale Carnegie",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sPCIip7QEyM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Come trattare gli altri e farseli amici (Remake) - Dale Carnegie - Recensione Libro",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1543012325",
+        "youtubeChannelId": "UC5ApFzPjvUr6_2BYZw6ym4g",
+        "youtubeDurationSeconds": 1312
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000802905544",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E267 ¿Cómo crear y mantener una amistad? - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nWD2JIEjW6s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Cómo crear y mantener una amistad? - Español Intermedio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1367
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000799982856",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E265 Indefensión Aprendida: \"A mí no se me dan bien los idiomas\" - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9UCgGaOoSgU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Indefensión Aprendida: \"A mí no se me dan bien los idiomas\" - Español Intermedio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1404
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000794014658",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E263 ¿Es la democracia el mejor sistema político? - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KgPsvBRvc4U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Es la democracia el mejor sistema político? | Español Intermedio (Comprehensible Input)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1483
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791575096",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E261 La intolerancia a la incertidumbre: cuando necesitas saberlo todo - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=uTePtsqGoJM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La intolerancia a la incertidumbre: cuando necesitas saberlo todo - Español Intermedio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1333
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790311662",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E260 ¿Cuál es el mejor método para aprender español? - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kFFWiGa-4Ok",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Cuál es el mejor método para aprender español? - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1246
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776231550",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E255 María Moliner: La mujer que hizo lo imposible por el español - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=c-NV_ZugopI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "María Moliner: La mujer que hizo lo imposible por el español | Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1390
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774156049",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E254 ¿Qué hacen las parejas que funcionan? ❤️ - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o8eSjmcrkkw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Qué hacen las parejas que funcionan? | Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1383
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772175606",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E252 La generación agotada: el extraño cansancio de la vida moderna - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=T6yB2KeVJUI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La generación agotada: el extraño cansancio de la vida moderna | Spanish Listening Practice",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1328
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767744948",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E250 ¿Un mundo sin trabajo? IA y renta básica universal - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Y2ARxPlyiT0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Un mundo sin trabajo? IA y renta básica universal | Spanish Listening Practice",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1253
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766587678",
+      "score": 103,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E249 ¿Se vivía mejor antes? La nostalgia colectiva por el pasado - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=taceOnW4nVg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Se vivía mejor antes? La nostalgia colectiva por el pasado| Español intermedio con vocabulario real",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1315
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000765338806",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E248 Cuando las casas son solo un negocio - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pKMUEmjEUqI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cuando las casas son solo un negocio | Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1258
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000763644639",
+      "score": 101,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E247 El problema del 9%: por qué casi nadie puede comprar casa en España - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gsZNztk6toQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "El problema del 9%: por qué casi nadie puede comprar casa | Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1104
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757711072",
+      "score": 103,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E245 Trabajo doméstico, tradwives y… ¿amos de casa? - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=v8izE7BlLCQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Trabajo doméstico, tradwives y… ¿amos de casa? | Español intermedio con vocabulario real",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1190
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000754861108",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E244 Vender, venderse y por qué nos da tanto miedo - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SUCbgr2XFLo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Vender, venderse y por qué nos da tanto miedo - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1406
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749394550",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E242 La carga cognitiva: cerebro lleno, mente lenta - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UkJHiJQ7OaY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La carga cognitiva: cerebro lleno, mente lenta - Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1152
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000746321778",
+      "score": 105,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E240 Economía para personas normales: 7 mitos que confunden a mucha gente - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EbQMWvfAqBE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Economía para personas normales:  7 mitos que confunden a mucha gente - Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1277
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000745296211",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E239 El mundo al borde de un ataque de nervios - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=W-7hS79TAg0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "El mundo al borde de un ataque de nervios | Español Intermedio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 925
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743425973",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E237 7 ideas prácticas para mejorar tu español en 2026 - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GAJOV3ypr20",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "7 ideas prácticas para mejorar tu español en 2026 | Español Intermedio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1613
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000741800969",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E236 Cuento de Navidad de Charles Dickens con Más que Historias Podcast - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=k45y4687gp8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cuento de Navidad de Charles Dickens con Más que Historias Podcast | Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1288
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738638555",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E234 Cine quinqui: delincuentes como estrellas del cine español - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=j6QOSzWofGo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cine quinqui: delincuentes como estrellas del cine español | Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 970
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736549702",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E232 ¿Y si la vida moderna no nos hace felices? La era del vacío - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=giFaOl2R8as",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Y si la vida moderna no nos hace felices? La era del vacío | Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1099
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735522750",
+      "score": 101,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E231 ¿Tiene que pedir perdón España por su pasado colonial? - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vOghVvJxXx8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Tiene que pedir perdón España por su pasado colonial? | Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1104
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000729654962",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E226 ¿Es tener una casa un lujo? - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WUmJUtYMMS8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Es tener una casa un lujo? | Intermediate Spanish - Comprehensible Input",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1397
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000726100193",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E224 ¿Qué es la titulitis? Una \"enfermedad\" muy española - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=070y2KgISUI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Qué es la titulitis? Una \"enfermedad\" muy española | Intermediate Spanish - Comprehensible Input",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 915
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000716619153",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E220 El verano en que no pasó nada (y por eso lo recuerdo todo) - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DqcRSQo1R2E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "El verano en que no pasó nada (y por eso lo recuerdo todo) | Comprehensible Input in Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 745
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000712536525",
+      "score": 101,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E218 ¿Por qué no tienes que creer todo lo que piensas? - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YarTLSCSKoE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Por qué no tienes que creer todo lo que piensas? | Comprehensible Input in Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1439
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000710392159",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E216 La adicción a la comida ultraprocesada - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rnm0NH_tBKE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La adicción a la comida ultraprocesada - Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1078
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000708590761",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E214 Terapias de conversión en la Unión Europea - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BaMEv_tmVGo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Terapias de conversión en la Unión Europea - Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 741
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000702013520",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E208 ¿Europa necesita prepararse para una guerra? - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YYKZEWgun6Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Europa necesita prepararse para una guerra? - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 964
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000692562310",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E201 Ozempic: ¿El milagro para perder peso o una moda peligrosa? - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sDAFlxlQZtU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ozempic: ¿El milagro para perder peso o una moda peligrosa? - Comprehensible Input in Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1038
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000687085187",
+      "score": 103,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E200 ¿Cómo usar (bien) las historias para mejorar tu español? + UNA SORPRESA",
+        "youtubeUrl": "https://www.youtube.com/watch?v=18-9sgeKf2w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Cómo usar (bien) las historias para mejorar tu español? + UNA SORPRESA - Intermediate Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1011
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000683280511",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E198 ¿Cómo hacer que aprender un idioma sea tan adictivo como TikTok? - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=svDQpTScL3A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Cómo hacer que aprender un idioma sea tan adictivo como TikTok? - Comprehensible input in Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1234
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000680930328",
+      "score": 100,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E196  Balance del 2024 - Un año más - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_MntWULI4QU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Balance del 2024 - Un año más - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1215
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000679312360",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E194 Estoicismo: ¿Sabiduría antigua para vivir mejor hoy? - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=erNmUxb-EWo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Estoicismo: ¿Sabiduría antigua para vivir mejor hoy? - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1259
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000677018110",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E192 La catástrofe natural en Valencia - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SjS2qzwJ2kw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La catástrofe natural en Valencia - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1217
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000675216483",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E190 ¿Censurar las ideas o regenerar la democracia? - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tiyAEZ17c7c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "¿Censurar las ideas o regenerar la democracia? - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1437
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000670749509",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E186 La gran CRISIS española (de mi generación) - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Wlqcdv36maE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La gran CRISIS española (de mi generación) - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1241
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000669242005",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E184 Roma no se construyó en un día, pero... Especial 5º aniversario - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LYZin1GaAsg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "ROMA no se construyó en un día, PERO... - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1266
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000667235948",
+      "score": 104,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E182 Benidorm: La ciudad española más británica - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6c_ek108ZJA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Benidorm: La ciudad española más británica - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1284
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000662625982",
+      "score": 102,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E180 Las causas de la guerra civil española y Gerald Brenan - Intermediate Spanish Podcast",
+        "youtubeUrl": "https://www.youtube.com/watch?v=n-q6fk_n0X8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Las causas de la guerra civil española - Intermediate Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1242
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000653535140",
+      "score": 103,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E169 Zara: Fast Fashion español y la historia de su fundador - Español Intermedio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=R385MC_Tc4s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Zara: Fast fashion español y la historia de su fundador.",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1365
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000652072125",
+      "score": 101,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E168 Bloody Mary o María I de Inglaterra - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4iho-iGht7s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Bloody Mary or Mary I of England | Intermediate Spanish Podcast | Podcast in Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1270
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000644773176",
+      "score": 103,
+      "record": {
+        "podcast": "Intermediate Spanish Podcast - Español Intermedio",
+        "episode": "E161 Hacerse “mayor” y la caja de herramientas vital - Intermediate Spanish",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BknDTTps2P4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Hacerse “mayor” y la caja de herramientas vital | Intermediate Spanish Podcast | Podcast en español",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1479285354",
+        "youtubeChannelId": "UCs6j7INyHM8r4N-eHenbkBQ",
+        "youtubeDurationSeconds": 1538
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797198293",
+      "score": 104,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "16 - Perchè dire di no mi fa sentire in colpa",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Seg8dHSDCJQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "16 — Perché dire di no mi fa sentire in colpa │ Rispettare anche te",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 642
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796066280",
+      "score": 101,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "15 - Perché ho paura che le cose belle finiscano?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4YEXhLvshEo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "15 — Perché ho paura che le cose belle finiscano? │Quando ricevere mette a disagio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 922
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793366127",
+      "score": 104,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "14 - Ho paura di ripetere gli errori dei miei genitori",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mWX0CgT0TCg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "14 — Ho paura di ripetere gli errori dei miei genitori │ Scegliere chi essere",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 813
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792128951",
+      "score": 102,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "13 - Perché rovino sempre tutto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1emqrXmY7Nc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "13 — Perché rovino sempre tutto | La paura non è il nemico",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 1217
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791043534",
+      "score": 100,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "12 - Sentirsi soli anche in coppia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1lyhQ9xq6QE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "12 — Sentirsi soli anche in coppia | Non è mancanza d'amore",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 889
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000789711434",
+      "score": 99,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "11 - Perché non mi sento mai abbastanza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tefNIxmZvxw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "11 — Perchè non mi sento mai abbastanza | Non è questione di valore",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 918
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000785670576",
+      "score": 102,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "8 - L'ansia che arriva senza motivo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OSHt4seoE9w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "8 — L'ansia che arriva senza motivo │ il messaggio del corpo",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 742
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000782110744",
+      "score": 104,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "6 - Accettare quello che non puoi cambiare",
+        "youtubeUrl": "https://www.youtube.com/watch?v=abCn7JT0l3c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "6 — Accettare quello che non puoi cambiare │ è già successo",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 862
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000778645250",
+      "score": 102,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "4 - Perché i soldi sono sempre un problema?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ykuTnsH62ps",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "4 — Perché i soldi sono sempre un problema │ il contenitore si allarga",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 1027
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777574876",
+      "score": 104,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "3 - Perché attiri sempre le stesse persone",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ywMz5naefb0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "3 — Perché attiri sempre le stesse persone │ è uno specchio",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 1087
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775776217",
+      "score": 103,
+      "record": {
+        "podcast": "Il giorno in cui è cambiato TUTTO – Italo Pentimalli",
+        "episode": "1 - Perché ho paura di cambiare vita anche se quella attuale mi fa stare male?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LTfQ15tU7kc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "1 — Perché ho paura di cambiare vita anche se quella attuale mi fa stare male │ il vuoto è un invito",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1831468939",
+        "youtubeChannelId": "UCiApD0XU-y4MczmfK5QhWlQ",
+        "youtubeDurationSeconds": 1171
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000685588581",
+      "score": 99,
+      "record": {
+        "podcast": "Oltre le Parole",
+        "episode": "AMANTE: il lato oscuro del clandestino",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Vd47OYQdfcA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🎧 AMANTI: il lato oscuro del clandestino",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1524931337",
+        "youtubeChannelId": "UCunNPJgocyGgK6EK52kaEpg",
+        "youtubeDurationSeconds": 623
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000648730133",
+      "score": 103,
+      "record": {
+        "podcast": "Oltre le Parole",
+        "episode": "ASSERTIVITÀ: cosa significa nella coppia?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=O1dkRpxbwvc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🎧 ASSERTIVITÀ NELLA COPPIA: cosa significa?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-24T16:03:45.854588+00:00",
+        "appleCollectionId": "1524931337",
+        "youtubeChannelId": "UCunNPJgocyGgK6EK52kaEpg",
+        "youtubeDurationSeconds": 722
+      },
+      "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }
