@@ -99081,6 +99081,3186 @@
       },
       "sourceGeneratedAt": "2026-11-24T16:03:45.596279+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777688120",
+      "score": 103,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Abbiamo sempre fatto così gli allarmi",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4Om3FjZNAAQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Allarmi: abbiamo sempre fatto così!",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 1078
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772308434",
+      "score": 104,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Tutto quello che non ti hanno detto sul modem router",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lFXsEpbbPd8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tutto quello che non ti hanno detto sul modem",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 1811
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000770526754",
+      "score": 101,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Pro e contro dell'istituto di vigilanza",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nrwX0J9cib8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Pro e contro dell'istituto di vigilanza associato ad un allarme antifurto",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 4501
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766196700",
+      "score": 103,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Allarme solo fuori: l'errore che fa gioire i ladri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qX-ca35yjDg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "\"Voglio l'allarme SOLO fuori!\" L'errore (letale) che fa GIOIRE i ladri 🚨",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 1401
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000730065618",
+      "score": 106,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Diventa Elettricista Professionista con l'Intelligenza Artificiale #473",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hyUkyjqKYXs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "L'INTELLIGENZA ARTIFICIALE confonde gli elettricisti #473",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 838
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000726605495",
+      "score": 110,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Tengo il Cavo Giallo-Verde nastrato che fa da Fase #470",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dlIqnq8oq1M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cavo giallo-verde usato come fase: DEVI sostituirlo? #470",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 984
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000722188828",
+      "score": 106,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Che cosa è il Magnetotermico Smart Intelligente? #466",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y-7H92MBpaM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Il futuro degli interruttori: il magnetotermico smart #466",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 859
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000720295121",
+      "score": 108,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "La macabra storia dell'elettricista John Feeks, i Sindacati e la Sicurezza #464",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bAIK4dCIXLI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Quando moriva 1 elettricista su 2: La vera storia di John Feeks #464",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 916
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000719066742",
+      "score": 106,
+      "record": {
+        "podcast": "Elettricista felice",
+        "episode": "Le Armoniche come influiscono nella Sezione del Neutro? #463",
+        "youtubeUrl": "https://www.youtube.com/watch?v=A263tLwr-qo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Non fare il neutro a metà! (La spiegazione definitiva sulle armoniche) #463",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1315794199",
+        "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
+        "youtubeDurationSeconds": 1595
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000803714224",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP523｜中醫的身心平衡課（上）：換季容易累、睡不好，身體在提醒什麼？ ft. 陳紹誠",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vql1fIl1POs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP523｜中醫的身心平衡課（上）：換季容易累、睡不好，身體在提醒什麼？ ft. 陳紹誠",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2893
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000802663157",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP522｜40歲才上台講笑話：台下沒人笑，為什麼還想再試一次？ ft. 冠宏",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eIuJGVsosEY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP522｜40歲才上台講笑話：台下沒人笑，為什麼還想再試一次？ ft. 冠宏",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1554
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000802014629",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP521｜「我很特別，可是我不想要特別」：撕掉標籤，好好認識一個人 ft. 顏曼如",
+        "youtubeUrl": "https://www.youtube.com/watch?v=dT0T8IfJhcY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP521｜「我很特別，可是我不想要特別」：撕掉標籤，好好認識一個人 ft. 顏曼如",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3490
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000801145605",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP520｜【解鎖青春情緒3】只教孩子「毒品不能碰」，為什麼還不夠？ft. 廖泊喬醫師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mdYBWrVX2N0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP520｜【解鎖青春情緒3】只教孩子「毒品不能碰」，為什麼還不夠？ft. 廖泊喬醫師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1982
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798679394",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP517｜還沒開始做事，光想到就累了？4個方法，幫大腦減輕負擔",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tJBBerzylRs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP517｜還沒開始做事，光想到就累了？4個方法，幫大腦減輕負擔",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1161
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797677503",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP516｜【解鎖青春情緒3】當老師開始不敢管，孩子失去了什麼？ft. 舒尋老師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MXZykvZZIiI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP516｜【解鎖青春情緒3】當老師開始不敢管，孩子失去了什麼？ft. 舒尋老師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3509
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000795986661",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP515｜真正的成熟，是學會與矛盾共處",
+        "youtubeUrl": "https://www.youtube.com/watch?v=c0qfKkKjnmg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP515｜真正的成熟，是學會與矛盾共處",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1584
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793451743",
+      "score": 112,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP514｜人生一定要有明確目標嗎？用「微實驗」找到真正適合你的方向 ft. Anne-Laure Le Cunff（全英文訪談）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NOBgHDK3r6w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP514｜人生一定要有明確目標嗎？用「微實驗」找到真正適合你的方向 ft. Anne-Laure Le Cunff",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2915
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792536773",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP513｜「我是不是做得還不夠？」聊聊父母心裡那個常常冒出來的聲音 ft. 究好豬董事長 吳季衡",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o53t9gwSwFc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP513｜「我是不是做得還不夠？」聊聊父母心裡那個常常冒出來的聲音 ft. 究好豬董事長 吳季衡",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2739
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791998731",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP512｜一升國中，成績為什麼突然掉？從學習診斷到親子溝通 ft. 洛洛老師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HW6-0MN6IRE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP512｜一升國中，成績為什麼突然掉？從學習診斷到親子溝通 ft. 洛洛老師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2168
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791350532",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP511｜失智症不是老了才開始：早期警訊、新藥與預防 ft. 黃彥翔醫師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8MkjzvOuETk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP511｜失智症不是老了才開始：早期警訊、新藥與預防 ft. 黃彥翔醫師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3784
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791112547",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP510｜計畫趕不上變化？用即興力接住人生的意外 ft. 王家齊心理師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xvl0mq05Pz4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP510｜計畫趕不上變化？用即興力接住人生的意外 ft. 王家齊心理師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3852
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790476752",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP509｜接納現實，但不要向現實投降",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ut__6SequIg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP509｜接納現實，但不要向現實投降",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1297
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000789527243",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP508｜儒家修身學（下）：善良要有原則，愛也要有界線 ft. 陳紹誠",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3R8cX6SyD8g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP508｜儒家修身學（下）：善良要有原則，愛也要有界線 ft. 陳紹誠",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1655
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788821414",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP507｜儒家修身學（上）：如何從「知道」走到「做到」ft. 陳紹誠",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TY4nqiyl3o0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP507｜儒家修身學（上）：如何從「知道」走到「做到」ft. 陳紹誠",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3376
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000785845956",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP502｜不是人生困住了你，而是你的人生一直在重播 ft. 劉仲彬心理師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DkwZ0abMrWk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP502｜不是人生困住了你，而是你的人生一直在重播 ft. 劉仲彬心理師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3404
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000784941228",
+      "score": 112,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP501｜Think Big：台灣人如何把格局做大、走進國際市場？ft. National ACE 總裁兼執行長董繼玲、陳鈞亞榮譽理事長、Solomon Chen 董事長",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4Pi_OotdtzU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP501｜Think Big：臺灣人如何把格局做大、走進國際市場？ft. National ACE 總裁兼執行長董繼玲、陳鈞亞榮譽理事長、Solomon Chen 董事長",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2416
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000783693785",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP500｜AI 拿走了菜鳥工作，未來的高手從哪裡來？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=E--YzuxoWyw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP500｜AI 拿走了菜鳥工作，未來的高手從哪裡來？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1364
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000779862484",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP497｜你要證明給誰看？那些捨不得丟的東西，正在困住現在的你 ft. 收納師廖心筠",
+        "youtubeUrl": "https://www.youtube.com/watch?v=islyMBOZ0sg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP497｜你要證明給誰看？那些捨不得丟的東西，正在困住現在的你 ft. 收納師廖心筠",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3213
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000779177093",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP496｜大不列顛小心機：破解英國人的社交密碼 ft. 讀者太太",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2qZ2UmpVorI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP496｜大不列顛小心機：破解英國人的社交密碼 ft. 讀者太太",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2567
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000778126641",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP495｜「這沒什麼好說的」：為什麼男人總把痛苦藏起來？ft. 王家齊心理師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_ozbC10WS8U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP495｜「這沒什麼好說的」：為什麼男人總把痛苦藏起來？ft. 王家齊心理師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3991
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000777036364",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP494｜如何精準轉富？先拆掉讓你總覺得錢不夠的「金錢木馬」 ft. 李欣頻",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZthG63Xo8UI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP494｜如何精準轉富？先拆掉讓你總覺得錢不夠的「金錢木馬」 ft. 李欣頻",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3040
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776203468",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP493｜【解鎖青春情緒3】孩子躲進房間不說話，父母該等，還是該敲門？ft. 胡展誥心理師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VnsQza4VNp4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP493｜【解鎖青春情緒3】孩子躲進房間不說話，父母該等，還是該敲門？ ft. 胡展誥心理師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3410
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775579882",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP492｜人不是開關：為什麼我們需要轉場時間？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hqudH22oNHk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP492｜人不是開關：為什麼我們需要轉場時間？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1222
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774761587",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP491｜別急著討厭自己：那些拖延、暴怒與自我批評，其實想保護你 ft. 留佩萱心理師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bFqte_JgVd4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP491｜別急著討厭自己：那些拖延、暴怒與自我批評，其實想保護你 ft. 留佩萱心理師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3624
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000773642164",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP489｜高功能倖存者：如何停止用「有用」證明自己值得被愛？ ft. 周慕姿",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HHhcSNGXuvQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP489｜高功能倖存者：如何停止用「有用」證明自己值得被愛？ ft. 周慕姿",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 4399
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000773323128",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP488｜【解鎖青春情緒3】孩子情緒爆炸時，找對時機比講道理更重要 ft. 陳志恆心理師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JEkbFTh2hm4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP488｜【解鎖青春情緒3】孩子情緒爆炸時，找對時機比講道理更重要 ft. 陳志恆心理師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3456
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772187826",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP486｜壓力下的優雅：如何在關鍵時刻穩住自己？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AkleAMCHwsc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP486｜壓力下的優雅：如何在關鍵時刻穩住自己？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1747
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000771687173",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP485｜郝旭烈：當你不把自己設限，人生就是無限的",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iqZHLCpoLKY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP485｜郝旭烈：當你不把自己設限，人生就是無限的",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3413
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000771235851",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP484｜AI越快，你更要慢：別在舊地圖裡找新世界 ft. 黃冠華",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2M16KnoB8ug",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP484｜AI越快，你更要慢：別在舊地圖裡找新世界 ft. 黃冠華",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2698
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000770575815",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP483｜阿德勒心理學：別把別人的情緒，當成你的成績單 ft. 諮商心理師 海蒂",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lK64Le5JBCM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP483｜阿德勒心理學：別把別人的情緒，當成你的成績單 ft. 諮商心理師 海蒂",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3998
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768850655",
+      "score": 112,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP480｜奧斯卡、八座葛萊美得主 Jon Batiste：少一點自我，讓音樂穿過你（全英文訪談）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-RicXsZfxxQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP480｜奧斯卡、八座葛萊美得主 Jon Batiste：少一點自我，讓音樂穿過你",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2410
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768380971",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP479｜【超越心理學】別讓恐懼替你做選擇，守住自己的能量場 ft. CC",
+        "youtubeUrl": "https://www.youtube.com/watch?v=XWgOD686GCc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP479｜【超越心理學】別讓恐懼替你做決定，守住自己的能量場 ft. CC",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2917
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767835599",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP478｜你不是沒有答案，而是被太多答案困住了 ft. 瓦基",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VehMBc9PX2c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP478｜你不是沒有答案，而是被太多答案困住了 ft. 瓦基",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 4248
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767189991",
+      "score": 112,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP477｜你以為在鞭策自己，其實是在消耗自己——《自我慈悲》作者 Dr. Kristin Neff（全英文訪談）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=yROLdN8NPlQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP477｜你以為在鞭策自己，其實是在消耗自己——《自我慈悲》作者 Dr. Kristin Neff",
+        "matchRule": "Titolo identico",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3630
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766536415",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP476｜【解鎖青春情緒3】沒有手機的六天五夜，她好像長大了一歲 ft. 千千",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JQ8B2MA0Tyo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP476｜【解鎖青春情緒3】沒有手機的六天五夜，她好像長大了一歲 ft. 千千",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2386
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000761449612",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP471｜睡不好、容易累、老是發炎？你該重新理解身體的「失衡」了 ft. 陳紹誠",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Lg2WT6ya6P4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP471｜睡不好、容易累、老是發炎？你該重新理解身體的「失衡」了 ft. 陳紹誠",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2938
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000758816492",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP468｜當AI來臨，孩子卻覺得「自己不值得」？《讓未來變清楚》對談LIVE ft. 雪力、阿滴、詹斯敦",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gJBAWqUPFtw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP468｜當AI來臨，孩子卻覺得「自己不值得」？《讓未來變清楚》對談LIVE ft. 雪力、阿滴、詹斯敦",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 4130
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000758181294",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP467｜AI 的五臟六腑是誰做的？帶你直擊半導體前線 ft. 德州儀器 潘先俐",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ZCi8mNMUJYU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP467｜AI 的五臟六腑是誰做的？帶你直擊半導體前線 ft. 德州儀器 潘先俐",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1945
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757621539",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP466｜讓未來變清楚：從多巴胺到大五人格——性格八角每一角的心理學根據",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9YS5yezW7Dk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP466｜讓未來變清楚：從多巴胺到大五人格——性格八角每一角的心理學根據",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2677
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000756046874",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP464｜讓未來變清楚：為什麼現代孩子缺乏長大的空間？從「性格八角」陪孩子找到自我定位",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fI89AG2dMiY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP464｜讓未來變清楚：為什麼現代孩子缺乏長大的空間？從「性格八角」陪孩子找到自我定位",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2197
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000753216420",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP460｜你的人生，只剩下KPI了嗎？找回被遺忘的「心流世界」",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cPRRglGfesg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP460｜你的人生，只剩下KPI了嗎？找回被遺忘的「心流世界」",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1016
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000752798192",
+      "score": 108,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP459｜多巴胺宿醉、天使雞尾酒，與掌控你能量的六種物質 ft. David JP Phillips（全英文訪談）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gJwd40n_a7M",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP459 | Dopamine Hangovers & Angel's Cocktails 多巴胺宿醉、天使雞尾酒，與掌控你能量的六種物質 ft. David JP Phillips",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3297
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749325629",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP455｜為什麼一放長假就變廢？不是沒自制力，是少了「結構」",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FA6-0hihFVc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP455｜為什麼一放長假就變廢？不是沒自制力，是少了「結構」",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1186
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748273517",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP453｜【解鎖青春情緒3】當成長被變現：從貝克漢長子決裂事件，談「在場」的教養",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ak6FmQISnFc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP453｜【解鎖青春情緒3】當成長被變現：從貝克漢長子決裂事件，談「在場」的教養",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1361
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747609032",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP452｜約翰‧史崔勒基：別讓你的人生博物館，堆滿了別人的東西（全英文訪談）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=v0VNZUU0dBs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP452｜重返世界盡頭的咖啡館—約翰‧史崔勒基：別讓你的人生博物館，堆滿別人的東西",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3222
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747104837",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP451｜為什麼一開口就冷戰？你最常踩到的三個溝通地雷",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PyroXYmGAdE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP451｜為什麼一開口就冷戰？你最常踩到的三個溝通地雷",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 990
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000745204419",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP447｜喬許葛洛班：不完美，才是真正的完美（全英文訪談）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4SThaT9PU7w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP447｜Josh Groban: Perfect Is for Assholes 喬許葛洛班：不完美，才是真正的完美",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3912
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744782034",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP446｜為什麼越拚命，反而學得越慢？利用腦科學打造不敗學習力",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DPkgXMY3SDM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP446｜為什麼越拚命，反而學得越慢？利用腦科學打造不敗學習力",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1927
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744372101",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP445｜世界越亂，越要站穩自己：用儀式找回心理穩定感",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zJVTu0xbiIE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP445｜世界越亂，越要站穩自己：用儀式找回心理穩定感",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2047
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743362212",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP443｜2026 年，如何「旺」自己？從一個很小的改變開始",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tBmGB5Iy79U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP443｜2026 年，如何「旺」自己？從一個很小的改變開始",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 644
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000742245891",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP440｜他們為什麼不認罪？談加害者的真實心態 ft. 戴伸峰",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Y34gNh7JOlk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP440｜他們為什麼不認罪？談加害者的真實心態 ft. 戴伸峰",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1725
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000742077715",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP439｜當隨機暴力發生，我們如何面對恐懼、理解與修復？ft. 戴伸峰",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qlccxll2arU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP439｜當隨機暴力發生，我們如何面對恐懼、理解與修復？ft. 戴伸峰",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 4233
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738618997",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP432｜每天只要一分鐘？新研究發現：最能讓大腦平靜的感恩練習",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eBcVzZPAdgM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP432｜每天只要一分鐘？新研究發現：最能讓大腦平靜的感恩練習",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2624
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738061449",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP431｜AI 時代，人類還剩下什麼？一場關於靈魂的思辨",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kp6zCLlDF9o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP431｜AI 時代，人類還剩下什麼？一場關於靈魂的思辨",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1526
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000737060706",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP429｜加密貨幣到底是什麼？一聽就懂的入門指南",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lIR1EoF73pc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP429｜加密貨幣到底是什麼？一聽就懂的入門指南",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2576
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736593448",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP428｜【解鎖青春情緒2】我們以為在教孩子長大，其實是孩子在教我們怎麼愛",
+        "youtubeUrl": "https://www.youtube.com/watch?v=a-Fhyd39ttE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP428｜【解鎖青春情緒2】我們以為在教孩子長大，其實是孩子在教我們怎麼愛",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1722
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000728369940",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP414｜如何面對失去毛小孩的傷痛？ft. 安寧獸醫師張婉柔",
+        "youtubeUrl": "https://www.youtube.com/watch?v=N0Ab9gBoAVM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP414｜如何面對失去毛小孩的傷痛？ft. 安寧獸醫師張婉柔",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2453
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000724957780",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP407｜英雄，往往誕生於抉擇之中 ft. 《96分鐘》導演洪子烜、李李仁",
+        "youtubeUrl": "https://www.youtube.com/watch?v=loNQc0qZ5qA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP407｜英雄，往往誕生於抉擇之中 ft. 《96分鐘》導演洪子烜、李李仁",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2189
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000723416938",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP404｜郝旭烈：真正的伯樂，就是願意改變的自己",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PnZ6gfXZcCo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP404｜郝旭烈：真正的伯樂，就是願意改變的自己",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2718
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000721928447",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP401｜靜心的力量：一切修行，是為了好好去愛 ft. 賴佩霞",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vsesbaQ34xc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP401｜靜心的力量：一切修行，是為了好好去愛 ft. 賴佩霞",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2197
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000721021637",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP399｜林依柔：要孩子自信表達，先看見他的美好",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UMgryjowOrk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP399｜林依柔：要孩子自信表達，先看見他的美好",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3244
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000720570009",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP398｜【How to人生術】擺脫社交過勞，給Ｉ人的自在社交指南",
+        "youtubeUrl": "https://www.youtube.com/watch?v=j6zbgrjsXXY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP398｜【How to人生術】擺脫社交過勞，給Ｉ人的自在社交指南",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 749
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000720001341",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP397｜【解鎖青春情緒2】在跌跌撞撞的教養路上，她學會了放手——用力奔跑的媽媽 ft. 雨路",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wAvdN6mCpX4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP397｜【解鎖青春情緒2】在跌跌撞撞的教養路上，她學會了放手——用力奔跑的媽媽 ft. 雨路",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2021
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000719473534",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP396｜【How to人生術】想要快速降火，先讓自己後傾30度？如何用身心雙管齊下，對抗熊熊怒火？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zxBkYXdEFx0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP396｜【How to人生術】想要快速降火，先讓自己後傾30度？如何用身心雙管齊下，對抗熊熊怒火？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 840
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000718828400",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP395｜【How to人生術】當你總是討好，關係反而更容易壞掉——如何設定健康界限？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0jXSe3sbVv4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP395｜【How to人生術】當你總是討好，關係反而更容易壞掉——如何設定健康界限？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1025
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000718286757",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP394｜《卡登生活誌》：當創作成為日常，怎麼走過人生的起伏與變動？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9BOpF-bhOgE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP394｜【聯合播出】劉軒 x Cardin——《卡登生活誌》：當創作成為日常，怎麼走過人生的起伏與變動？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2767
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000717652237",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP393｜【解鎖青春情緒2】「你很好，不是因為成績，而是因為你是你」——談青少年的自我價值感 ft. 千千",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Q2D9H1k7MHw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP393｜【解鎖青春情緒2】「你很好，不是因為成績，而是因為你是你」——談青少年的自我價值感 ft. 千千",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2732
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000717152459",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP392｜【How to人生術】如何用正念做出更好的選擇？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=28OGbS2hr9o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP392｜【How to人生術】如何用正念做出更好的選擇？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 632
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000716650371",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP391｜王文靜在喜馬拉雅上的相遇：光師父、高山杜鵑、九色鳥，與自己",
+        "youtubeUrl": "https://www.youtube.com/watch?v=oUNyCLT1woQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP391｜王文靜在喜馬拉雅上的相遇：光師父、高山杜鵑、九色鳥，與自己",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1395
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000716089020",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP390｜爸爸的模樣，沒有標準答案 ft. 《膠囊時光》導演 沈可尚",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nAjTuSEp-gE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP390｜爸爸的模樣，沒有標準答案 ft. 《膠囊時光》導演 沈可尚",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2672
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000714159582",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP387｜乖孩子的代價：當我們把自己困在角色裡 ft. 心理師林靜君",
+        "youtubeUrl": "https://www.youtube.com/watch?v=amWku8Jrp9g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP387｜乖孩子的代價：當我們把自己困在角色裡 ft. 心理師林靜君",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1863
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713544810",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP386｜【解鎖青春情緒2】當孩子得了憂鬱症，父母該怎麼辦？一位爸爸的陪伴練習 ft. 李施德 Tim Lee",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6Ch9cdC82uI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP386｜【解鎖青春情緒2】當孩子得了憂鬱症，父母該怎麼辦？一位爸爸的陪伴練習 ft. 李施德 Tim Lee",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2204
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000712922701",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP385｜成功、遺憾與擁抱：哈佛30週年同學會",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YJj4mtBlfTs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP385｜成功、遺憾與擁抱：哈佛30週年同學會",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1384
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000712192834",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP384｜當生活拐了個彎，我們也丟了一部分的自己？ft. 尤虹文",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3ZAeTUFPJqY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP384｜【聯合播出】劉軒 x 尤虹文——當生活拐了個彎，我們也丟了一部分的自己？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3281
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000710403515",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP381｜創作，是你在幽谷裡的光：李欣頻談如何打造不被AI取代的自己",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Fl98VsHoDig",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP381｜創作，是你在幽谷裡的光：李欣頻談如何打造不被AI取代的自己",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2868
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000709880817",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP380｜畫出說不出口的心事：和諧粉彩的溫柔練習 ft. 小雅老師",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mKuV95FNZEA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP380｜畫出說不出口的心事：和諧粉彩的溫柔練習 ft. 小雅老師",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2617
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000709417012",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP379｜【解鎖青春情緒2】孩子資源再好，為何還是迷惘？曲艾玲：因為他從來沒學過怎麼選擇",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nBG1h6WeXG8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP379｜【解鎖青春情緒2】孩子資源再好，為何還是迷惘？曲艾玲：因為他從來沒學過怎麼選擇",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 4604
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000708998236",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP378｜【How to改變習慣】不是你懶，是你真的太累了——習慣從補能開始",
+        "youtubeUrl": "https://www.youtube.com/watch?v=OhRsJiBVG7w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP378｜【How to改變習慣】不是你懶，是你真的太累了——習慣從補能開始",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1691
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000708565165",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP377｜領導自己，是孩子這一生最需要的能力 ft. 柯沛寧",
+        "youtubeUrl": "https://www.youtube.com/watch?v=d06pMEJZPqQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP377｜領導自己，是孩子這一生最需要的能力 ft. 柯沛寧",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2310
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000708094410",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP376｜【How to改變習慣】當孩子學會安排自己的一天，自律就不再是壓力 ft. 王永福（福哥）",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wv7MCTVd3J0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP376｜【How to改變習慣】當孩子學會安排自己的一天，自律就不再是壓力 ft. 王永福（福哥）",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2895
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000706335271",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP374｜【How to改變習慣】原來你不是失敗，而是沒做好心理準備",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MB8EWq2LPEc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP374｜【How to改變習慣】原來你不是失敗，而是沒做好心理準備",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 720
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000705633215",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP373｜【解鎖青春情緒2】當孩子沉默時，我們能否聽見他們的呼救？——《混沌少年時》的警示",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gBk5a6ZAK9Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP373｜【解鎖青春情緒2】當孩子沉默時，我們能否聽見他們的呼救？——《混沌少年時》的警示",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 1908
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000704294769",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP370｜【How to改變習慣】每天三分鐘，從一個小動作開始建立信心 ft. 瓦基",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FYcfibthfOs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP370｜【How to改變習慣】每天三分鐘，從一個小動作開始建立信心 ft. 瓦基",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2812
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000703852204",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP369｜從接地到共振：從自己開始，啟動一場全球療癒 ft. CC",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xXsODXFnAIs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP369｜從接地到共振：從自己開始，啟動一場全球療癒 ft. CC",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2915
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000702522283",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP366｜「你很棒，如你所願！」——讓孩子學會說話，也學會喜歡自己 ft. 聲音表達講師 林依柔",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AbF2ASy7C-Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP366｜「你很棒，如你所願！」——讓孩子學會說話，也學會喜歡自己 ft. 聲音表達講師 林依柔",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 2933
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000702050757",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP365｜為什麼老闆總是不聽你？破解影響強者的心理盲點 ft. 劉必榮教授",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vL4imvZm4sc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP365｜為什麼老闆總是不聽你？破解影響強者的心理盲點 ft. 劉必榮教授",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 3333
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000701558843",
+      "score": 104,
+      "record": {
+        "podcast": "劉軒的How to人生學",
+        "episode": "EP364｜【How to改變習慣】童年好習慣，成了長大後的絆腳石？",
+        "youtubeUrl": "https://www.youtube.com/watch?v=58RPSuhQj8I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "EP364｜【How to改變習慣】童年好習慣，成了長大後的絆腳石？",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1547950387",
+        "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
+        "youtubeDurationSeconds": 615
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000680017506",
+      "score": 101,
+      "record": {
+        "podcast": "Vaporetto Italiano Podcast",
+        "episode": "70. Il delitto di Natale (di Carlo Lucarelli)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hDJ38bkG1eI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🎧 Il delitto di Natale (di Carlo Lucarelli) | Learn Italian with the Vaporetto Italiano podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1589070102",
+        "youtubeChannelId": "UCkIJwkoTFKjIglDDWQQbUog",
+        "youtubeDurationSeconds": 731
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000590266070",
+      "score": 101,
+      "record": {
+        "podcast": "Vaporetto Italiano Podcast",
+        "episode": "30. I figli di Babbo Natale (Italo Calvino)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mGbHsRB4ucM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "A Christmas story in Italian: \"I figli di Babbo Natale\" (from Marcovaldo by Italo Calvino)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1589070102",
+        "youtubeChannelId": "UCkIJwkoTFKjIglDDWQQbUog",
+        "youtubeDurationSeconds": 1471
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000569159691",
+      "score": 100,
+      "record": {
+        "podcast": "Vaporetto Italiano Podcast",
+        "episode": "19. Marcovaldo - Un giorno di sole, sabbia e sonno",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HeJXBokIpTU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "📖 \"Un giorno di sole, sabbia e sonno\" from Marcovaldo (advanced reading!) | Italian listening lesson",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1589070102",
+        "youtubeChannelId": "UCkIJwkoTFKjIglDDWQQbUog",
+        "youtubeDurationSeconds": 818
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000541373299",
+      "score": 101,
+      "record": {
+        "podcast": "Vaporetto Italiano Podcast",
+        "episode": "3. Succede sempre qualcosa di meraviglioso | Un libro di Gianluca Gotto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-j6VpE6Tqyw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Succede sempre qualcosa di meraviglioso | A book by Gianluca Gotto | Italian with Francesco",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1589070102",
+        "youtubeChannelId": "UCkIJwkoTFKjIglDDWQQbUog",
+        "youtubeDurationSeconds": 1446
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000612315463",
+      "score": 100,
+      "record": {
+        "podcast": "لام تا کلام",
+        "episode": "Episode 86: خود مراقبتی Self-Care",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hsyc6hBSCDg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "اپیزود ۸۶- Self Care خودمراقبتی",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1572214694",
+        "youtubeChannelId": "UCfe4OH8q35QX7_12Grqa2kQ",
+        "youtubeDurationSeconds": 1612
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797914087",
+      "score": 101,
+      "record": {
+        "podcast": "Motivation Daily by Motiversity",
+        "episode": "DON'T WASTE YOUR LIFE - Powerful Hopecore Motivational Speeches",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gX3n3e8PmQw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "STOP Wasting Years of Your Life - POWERFUL MOTIVATIONAL SPEECHES",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1581058922",
+        "youtubeChannelId": "UC1d28mrBqCQliL_N48tZZiw",
+        "youtubeDurationSeconds": 3212
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000802690276",
+      "score": 100,
+      "record": {
+        "podcast": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
+        "episode": "🎙️How to Overcome Speaking Anxiety, Stop Freezing & Build Confidence in English with Christina D. George | Real English Conversations Podcast for Global Professionals",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Th9GI-lVn18",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stop Freezing in English Meetings with Christina D. George | Real English Conversations Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "977345837",
+        "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
+        "youtubeDurationSeconds": 2303
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000801200450",
+      "score": 103,
+      "record": {
+        "podcast": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
+        "episode": "🎙️How To Speak English Like A Champion With Frederick Martinez | Real English Conversations Podcast For Global Professionals",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Vbwgt1WkT6c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Speak Fluent English Like a Champion with Frederick Martinez | Real English Conversations Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "977345837",
+        "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
+        "youtubeDurationSeconds": 2993
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000793642859",
+      "score": 100,
+      "record": {
+        "podcast": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
+        "episode": "🎙️How to Ask Better Questions & Communicate with Confidence at Work with Andres Lares | Real English Conversations Podcast For Global Professionals",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6zEunj3d7Jw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How to Ask Better Questions & Negotiate with Confidence In English | Andres Lares",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "977345837",
+        "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
+        "youtubeDurationSeconds": 1685
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000728211001",
+      "score": 100,
+      "record": {
+        "podcast": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
+        "episode": "🎙️Business English For Boardroom Meetings with Sam Malone | Real English Conversations Podcast for Global Professionals | Speak Clearly & Confidently at Work",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LK6QSpdqwA4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🎙️How Fluent Professionals Actually Speak in English Meetings | Real English Conversations Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "977345837",
+        "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
+        "youtubeDurationSeconds": 2390
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000649856583",
+      "score": 101,
+      "record": {
+        "podcast": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
+        "episode": "🎙️Going to the Doctor In English | Real English Conversations Podcast for Global Professionals",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bv18X7E0dQU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "🎧 Going to the Doctor & Getting Sick | Real English Conversations Lesson [Podcast]",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "977345837",
+        "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
+        "youtubeDurationSeconds": 1243
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000595774618",
+      "score": 106,
+      "record": {
+        "podcast": "Apprends le français avec Madame à Paname (French Podcast)",
+        "episode": "S5 E03. Expression Express : J'ai deux mots à te dire !",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qZ0HPZ3roaU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "[PODCAST] S5 E03. Expression Express : J'ai deux mots à te dire",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1550756719",
+        "youtubeChannelId": "UC59NqFOvritu4Rw93tQT4LQ",
+        "youtubeDurationSeconds": 754
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000729681349",
+      "score": 99,
+      "record": {
+        "podcast": "Unlimited Spanish podcast with Oscar",
+        "episode": "425 Nombres colectivos en español Parte 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=niF9hSMn0gc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "425 Nombres colectivos en español parte 2 - Unlimited Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1060671460",
+        "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
+        "youtubeDurationSeconds": 805
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000728423862",
+      "score": 99,
+      "record": {
+        "podcast": "Unlimited Spanish podcast with Oscar",
+        "episode": "424 Nombres colectivos en español",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Qz_cZRkxP2w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "424 Nombres colectivos en español - Unlimited Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1060671460",
+        "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
+        "youtubeDurationSeconds": 633
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000726539260",
+      "score": 99,
+      "record": {
+        "podcast": "Unlimited Spanish podcast with Oscar",
+        "episode": "422 Presos usando el teletexto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xjSVdJYxjBM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "422 Presos usando el teletexto - Unlimited Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1060671460",
+        "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
+        "youtubeDurationSeconds": 767
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000630317210",
+      "score": 104,
+      "record": {
+        "podcast": "Unlimited Spanish podcast with Oscar",
+        "episode": "#340 El síndrome de hikikomori en España",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BzkfPWgycpk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "#340 Hikikomori syndrome in Spain",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1060671460",
+        "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
+        "youtubeDurationSeconds": 728
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000548681257",
+      "score": 99,
+      "record": {
+        "podcast": "Unlimited Spanish podcast with Oscar",
+        "episode": "268 Frases Hechas con Cuento",
+        "youtubeUrl": "https://www.youtube.com/watch?v=h51-c5rAxVE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "268: Frases hechas con cuento - Unlimited Spanish Podcast",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1060671460",
+        "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
+        "youtubeDurationSeconds": 766
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797875582",
+      "score": 104,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 226 - \"tsuide ni\" (While you're at it / While you're doing ~ / On the way / Since you're already doing ~)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JC2W-KPx-zc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 226 - \"tsuide ni\" (While you're at it / While you're doing ~ / On the way / Since you're ...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 804
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000760765254",
+      "score": 103,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 212 - How to use \"chuushin ni, chuushin ni shite, chuushin toshite\" (Mainly / Centered on / Focused on / With ~ as the core)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6dbNA13wGmw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 212 - How to use \"chuushin ni, chuushin ni shite, chuushin toshite\" (Mainly / Centered on...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 631
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000757827312",
+      "score": 100,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 211 - How to use \"nanka\" (Like ~ / Something like ~ / Someone like ~ / Anything / Kind of ~ (Expressing contempt, modesty, denial, suggestion, vagueness, or casual tone))",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ka24wVSdsBA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 211 - How to use \"nanka\" (Like ~ / Something like ~ / Someone like ~ / Anything / Kind of...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 751
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000755205891",
+      "score": 101,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 210 - How to use \"nante\" (What a ~ / I can’t believe ~ / Such a ~ / Even ~ (Expressing surprise, emotion, evaluation, contempt, or humility))",
+        "youtubeUrl": "https://www.youtube.com/watch?v=e8DOoXT36rQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 210 - How to use \"nante\" (What a ~ / I can’t believe ~ / Such a ~ / Even ~ (Expressing su...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 779
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000726598422",
+      "score": 99,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 198 - How to use \"to ittemo?\" (Although I say ~; Although one might say ~; Although called ~)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xnx3vDKTAsI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 198 - How to use \"to ittemo?\" (Although I say ~; Although one might say ~; Although calle...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 612
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000720343722",
+      "score": 105,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 195 - How to use \"you ni omou, youni kanjiru?\" (have a feeling that; feels like; seems like; think that)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Pwzs9LC7guA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 195 - How to use \"you ni omou, youni kanjiru?\" (have a feeling that; feels like; seems li...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 664
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000707860007",
+      "score": 106,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 189 - \"Verb stem + kiru\" (to do something completely, to use something up, to run out of something)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=moJw9dSh7vo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 189 - \"Verb stem + kiru\" (to do something completely, to use something up, to run out of ...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 604
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000701316569",
+      "score": 104,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 185 - How to use \"A wa mochiron B mo\" (not only but also, let alone, not to mention, of course)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FZLXUokSsN4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 185 - How to use \"A wa mochiron B mo\" (not only but also, let alone, not to mention, of c...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 650
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000626572893",
+      "score": 104,
+      "record": {
+        "podcast": "Learn Japanese with Masa sensei!",
+        "episode": "Episode 146 - How to use \"garimasu\" and \"gatteimasu\" (describe the actions or feelings of someone else)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=szUtjmiDsto",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 146 - How to use \"garimasu\" and \"gatteimasu\" (describe the actions or feelings of someone...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1606739611",
+        "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
+        "youtubeDurationSeconds": 614
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000687229684",
+      "score": 101,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "This Simple Trick Fixes Your Spanish Pronunciation!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GFot6A9Zk6E",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "This Simple Exercise Will Transform Your Spanish Pronunciation",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 694
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000583001744",
+      "score": 103,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "SUBJUNTIVO español en contexto: “Costumbres españolas que hay que saber antes de viajar a España” | Culture shock Spain | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4OGqhF3Whbo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "SUBJUNTIVO español en contexto: Costumbres españolas que hay que saber antes de viajar a España |A2",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 897
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033915",
+      "score": 103,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "El médico cura, la naturaleza sana | ejercicio de escucha | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o_Mw1P5EnXw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ejercicio de escucha: El médico cura, la naturaleza sana | SPANISH LISTENING",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 776
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033885",
+      "score": 104,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Mejora tu MEMORIA en 5 minutos | Técnica POMODORO | A2 - B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=G9Oea7wttMo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Pomodoro: La técnica que mejora tu memoria",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 866
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033754",
+      "score": 101,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "TINY HOUSES - Vivir en mini casas: una tendencia del siglo XXI | ejercicio de escucha | A2 - B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=scWUWc8vidA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "TINY HOUSES - Vivir en mini casas: una tendencia del siglo XXI | Spanish listening exercise",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 744
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033884",
+      "score": 103,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "11 deportes alucinantes del País Vasco | cultura española | A2 - B1 - B2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1uyFT4kE1VE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "11 deportes alucinantes del País Vasco | cultura española | costumbres españolas",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 1033
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033886",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Cómo aprender 2 idiomas a la vez (7 tips) | A2 - B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Pypj_BnL4dU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cómo aprender 2 idiomas a la vez (7 tips)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 967
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033769",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Cómo ESCRIBIR y HABLAR correctamente en español | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=t77ePwC8l7I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cómo ESCRIBIR y HABLAR correctamente en español",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 946
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033756",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Q&A: Todo Sobre Nosotros - Especial 5º cumpleaños de Español Automático | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KX_SaArQE3o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Q&A: Todo Sobre Nosotros - Especial 5º cumpleaños de Español Automático",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 1203
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033888",
+      "score": 102,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "1 truco para conversar en español sin miedo | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FJQqoIOY0qQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "1 truco para conversar en español sin miedo | Speak Spanish fluently",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 741
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033812",
+      "score": 103,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "8 Maneras de mejorar tu español con Google traductor | A2 - B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=A7VqVQfxOj8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "8 Maneras de mejorar tu español con Google traductor | Learn Spanish",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 656
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033810",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Diferencias entre alegrar y alegrarse | GRAMÁTICA ESPAÑOLA | B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=457NCNOgqQw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Diferencias entre alegrar y alegrarse (GRAMÁTICA ESPAÑOLA)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 601
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033770",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "APRENDER ESPAÑOL: El esfuerzo ES la recompensa (COACH CARTER) | A2 - B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hCr6Pka0MPY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "APRENDER ESPAÑOL: El esfuerzo ES la recompensa (COACH CARTER)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 739
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033937",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Costumbres de España: ¿café solo o con leche? | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ks2dV31AmAA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Costumbres de España: ¿café solo o con leche?",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 845
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033890",
+      "score": 101,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "1 año de aprendizaje de búlgaro: lecciones sacadas de la experiencia | A2 - B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Tg1EAnC07EA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "APRENDER IDIOMAS DESDE CERO: 1 año de aprendizaje de búlgaro (lecciones sacadas de la experiencia)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 1168
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033865",
+      "score": 103,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Entiendo todo pero no puedo hablar | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=RY7qqvX7J5g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Entiendo todo pero no puedo hablar | Spanish fluency",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 715
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033864",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Cómo aprende un políglota  | STEVE KAUFMANN | A2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8w3dIJmeSbY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Cómo aprende un políglota (STEVE KAUFMANN)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 1852
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033814",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "“No entiendo, ¿puedes repetir?” (19 ALTERNATIVAS) | B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fOKHzPmYsFw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "“No entiendo, ¿puedes repetir?” (19 ALTERNATIVAS)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 918
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000549033919",
+      "score": 106,
+      "record": {
+        "podcast": "Español Automático Podcast",
+        "episode": "Entender a los nativos cuando encadenan las palabras | B1",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hTUVAaHaEPQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Entender a los nativos cuando encadenan las palabras",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1107849049",
+        "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
+        "youtubeDurationSeconds": 847
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769525912",
+      "score": 102,
+      "record": {
+        "podcast": "Bump with Steph & Laura",
+        "episode": "Josh & Dalton take over for an honest conversation about fatherhood - with Dr Zac Seidler (Movember)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Sqys8eScj0Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "An honest conversation about fatherhood - Josh Miller, Dalton Henshaw & Dr Zac Seidler (Movember)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1873118863",
+        "youtubeChannelId": "UCCUnIvZO9tCS-mAvvys5YFg",
+        "youtubeDurationSeconds": 2803
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000578048386",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Abenteuer sind nicht schwer",
+        "youtubeUrl": "https://www.youtube.com/watch?v=swVvnStYyoA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Abenteuer sind nicht schwer - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 675
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000566777430",
+      "score": 102,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Der kleine Frosch, der sich nicht ins Wasser traute",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7-raWhEDUCI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Der kleine Frosch, der sich nicht ins Wasser traute - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 900
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000555831626",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Emmala und Huberto und die bunten Eier",
+        "youtubeUrl": "https://www.youtube.com/watch?v=pRW3D3Se-e8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Emmala und Huberto und die bunten Eier - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 832
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000547108170",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Emmala und Huberto und der Rückwärts-Stein",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sJx0xuIxb0s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Emmala und Huberto und der Rückwärts-Stein - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 936
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000543062926",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Das kleine Fuchsmädchen, das nicht einschlafen konnte",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BMCFVTEegiI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Das kleine Fuchsmädchen, das nicht einschlafen konnte - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 639
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000538584689",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Die Ente Stubs und der Flamingo Flubs",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BAKVih0xTsU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Die Ente Stubs und der Flamingo Flubs - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 757
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000534813120",
+      "score": 102,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Wie die kleine kluge Maus den großen Kater überlistete",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WVxSEUEfo6w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Wie die kleine kluge Maus den großen Kater überlistete - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 710
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000533203552",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Als der Frosch sein Lachen suchte",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Vm55b1-5b3k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Als der Frosch sein Lachen suchte - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 712
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000531823259",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Die Biene, die ein Elefant sein wollte",
+        "youtubeUrl": "https://www.youtube.com/watch?v=npYJC_8FtWY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Die Biene, die ein Elefant sein wollte - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 838
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000531088522",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Kasper, Seppl und die englische Prinzessin",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zWONAkQdcQM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Kasper, Seppl und die englische Prinzessin - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 805
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000528981305",
+      "score": 102,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Die kleine Maus baut eine Rakete",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jqXoHdPWNHg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Die kleine Maus baut eine Rakete - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 930
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000527509082",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Der kleine Koala kommt in den Kindergarten",
+        "youtubeUrl": "https://www.youtube.com/watch?v=C0ANjJtjH-s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Der kleine Koala kommt in den Kindergarten - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 1203
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000520459837",
+      "score": 100,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Kasper und Seppl und das Geheimnis der verrückten Einkaufsliste",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7o8Ug25Vh_A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Kasper, Seppl & das Geheimnis der Einkaufsliste - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 1001
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000516289978",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Wie die Miesmuschel ihre gute Laune fand",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fT-uRDicegs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Wie die Miesmuschel ihre gute Laune fand - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 653
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000511581739",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Emmala und Huberto und der außergewöhnliche Badetag",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bwFYKNlVUG0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Emmala und Huberto und der außergewöhnliche Badetag - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 737
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000489306357",
+      "score": 101,
+      "record": {
+        "podcast": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
+        "episode": "Woran man wahre Superhelden erkennt",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8EMxMLraFnw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Woran man wahre Superhelden erkennt - eine Hörgeschichte für Kinder ab 2 Jahren",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-25T15:50:31.741147+00:00",
+        "appleCollectionId": "1523700373",
+        "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
+        "youtubeDurationSeconds": 627
+      },
+      "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }

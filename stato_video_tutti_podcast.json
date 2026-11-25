@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-24T16:00:01.601391+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833767+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -13178,12 +13178,12 @@
     },
     "1315794199": {
       "name": "Elettricista felice",
-      "lastAttempt": "2026-11-24T16:00:01.601250+00:00",
+      "lastAttempt": "2026-11-25T15:44:13.734508+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCq489m7XQO3ycYOZq2FayBQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCq489m7XQO3ycYOZq2FayBQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1885538238": {
       "name": "Learn English B1+ | Today's News, Slowed for Intermediate Learners",
@@ -13194,12 +13194,12 @@
     },
     "1547950387": {
       "name": "劉軒的How to人生學",
-      "lastAttempt": "2026-11-24T16:00:01.601265+00:00",
+      "lastAttempt": "2026-11-25T15:44:24.086978+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCD5M4r9HwR-kKWS34Xz98rA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCD5M4r9HwR-kKWS34Xz98rA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1106542660": {
       "name": "Каббала: Ежедневные уроки | mp3 #kab_rus",
@@ -13210,12 +13210,12 @@
     },
     "1589070102": {
       "name": "Vaporetto Italiano Podcast",
-      "lastAttempt": "2026-11-24T16:00:01.601274+00:00",
+      "lastAttempt": "2026-11-25T15:44:32.194523+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCkIJwkoTFKjIglDDWQQbUog",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCkIJwkoTFKjIglDDWQQbUog",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "582272991": {
       "name": "The Rich Roll Podcast",
@@ -13226,30 +13226,30 @@
     },
     "1572214694": {
       "name": "لام تا کلام",
-      "lastAttempt": "2026-11-24T16:00:01.601282+00:00",
+      "lastAttempt": "2026-11-25T15:44:38.879710+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCfe4OH8q35QX7_12Grqa2kQ",
       "youtubeSourceUrl": "https://www.youtube.com/@solmazbarghgir",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "972673390": {
       "name": "Learn French with French Podcasts - Français avec Pierre",
-      "lastAttempt": "2026-11-24T16:00:01.601289+00:00",
+      "lastAttempt": "2026-11-25T15:44:48.875665+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
       "youtubeChannelId": "UCVgW9ZQaGBk6fsiPgE2mYDg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCVgW9ZQaGBk6fsiPgE2mYDg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1581058922": {
       "name": "Motivation Daily by Motiversity",
-      "lastAttempt": "2026-11-24T16:00:01.601296+00:00",
+      "lastAttempt": "2026-11-25T15:44:54.414440+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC1d28mrBqCQliL_N48tZZiw",
       "youtubeSourceUrl": "https://www.youtube.com/user/etthehiphoppreacher",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1701669909": {
       "name": "Ускоритель изучения итальянского языка",
@@ -13267,12 +13267,12 @@
     },
     "119843495": {
       "name": "Learn Mandarin Chinese  - Chinese Audio Lessons",
-      "lastAttempt": "2026-11-24T16:00:01.601304+00:00",
+      "lastAttempt": "2026-11-25T15:45:02.552006+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCUV7OJEgrQl8wmkzas2vAHQ",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCUV7OJEgrQl8wmkzas2vAHQ",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1540545464": {
       "name": "Mash Out! Podcast",
@@ -13283,21 +13283,21 @@
     },
     "1535661441": {
       "name": "SIMPLE ITALIAN PODCAST | IL PODCAST IN ITALIANO COMPRENSIBILE | LEARN ITALIAN WITH PODCASTS",
-      "lastAttempt": "2026-11-24T16:00:01.601311+00:00",
+      "lastAttempt": "2026-11-25T15:45:04.594664+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC6ZtfQW6g_oUszvzYH-0qvg",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC6ZtfQW6g_oUszvzYH-0qvg",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1450018819": {
       "name": "Before Breakfast",
-      "lastAttempt": "2026-11-24T16:00:01.601317+00:00",
+      "lastAttempt": "2026-11-25T15:45:12.290859+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
       "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1521667444": {
       "name": "Economia a Polpette",
@@ -13308,21 +13308,21 @@
     },
     "977345837": {
       "name": "Real English Conversations Podcast | English Fluency For Newcomers And International Professionals",
-      "lastAttempt": "2026-11-24T16:00:01.601323+00:00",
+      "lastAttempt": "2026-11-25T15:45:21.199171+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCtk1x4KrtH4qtLOk0Z0IrmQ",
       "youtubeSourceUrl": "https://www.youtube.com/@realenglishconversations",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1550756719": {
       "name": "Apprends le français avec Madame à Paname (French Podcast)",
-      "lastAttempt": "2026-11-24T16:00:01.601329+00:00",
+      "lastAttempt": "2026-11-25T15:45:27.333484+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC59NqFOvritu4Rw93tQT4LQ",
       "youtubeSourceUrl": "https://www.youtube.com/c/madameapaname",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "465088372": {
       "name": "Business English Skills 360",
@@ -13333,21 +13333,21 @@
     },
     "1060671460": {
       "name": "Unlimited Spanish podcast with Oscar",
-      "lastAttempt": "2026-11-24T16:00:01.601336+00:00",
+      "lastAttempt": "2026-11-25T15:45:31.674253+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCgb7lSBYB5DBgtP-W78t8Aw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCgb7lSBYB5DBgtP-W78t8Aw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1541525131": {
       "name": "Ketab Jibi | پادکست کتاب جیبی",
-      "lastAttempt": "2026-11-24T16:00:01.601343+00:00",
+      "lastAttempt": "2026-11-25T15:45:40.235201+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCNUtDTbEfMEXUCX0zGML-1w",
       "youtubeSourceUrl": "https://www.youtube.com/@KetabJibi",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1644615505": {
       "name": "Studiare il vino-Audio Ripasso",
@@ -13358,21 +13358,21 @@
     },
     "1606739611": {
       "name": "Learn Japanese with Masa sensei!",
-      "lastAttempt": "2026-11-24T16:00:01.601351+00:00",
+      "lastAttempt": "2026-11-25T15:45:42.775209+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UC3ZrSg_QdMexvDREPuiCXqA",
       "youtubeSourceUrl": "https://www.youtube.com/c/MasaSensei",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1107849049": {
       "name": "Español Automático Podcast",
-      "lastAttempt": "2026-11-24T16:00:01.601358+00:00",
+      "lastAttempt": "2026-11-25T15:45:51.880632+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCj2Gb3Zq814Fruw7Kpc5QIQ",
       "youtubeSourceUrl": "https://www.youtube.com/@EspanolAutomatico",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1811649647": {
       "name": "DeutschFluss - German Podcast For Beginners",
@@ -13404,12 +13404,12 @@
     },
     "1838114099": {
       "name": "Favole e Fiabe della Buonanotte con Mamma Marina",
-      "lastAttempt": "2026-11-24T16:00:01.601364+00:00",
+      "lastAttempt": "2026-11-25T15:46:00.631850+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCWnFlDDIqMD-ktzaJBdnpZw",
       "youtubeSourceUrl": "https://www.youtube.com/@FavoleconMammaMarina",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1552871619": {
       "name": "Racconti per bambini liberi",
@@ -13497,12 +13497,12 @@
     },
     "1503901178": {
       "name": "Bajki opowiadane przez dzieci",
-      "lastAttempt": "2026-11-24T16:00:34.686995+00:00",
+      "lastAttempt": "2026-11-25T15:46:02.259544+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC_jYNCh6rV-wl8KNR3uVooA",
       "youtubeSourceUrl": "https://www.youtube.com/@PolskieradioPL",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1668963510": {
       "name": "Cuentos e Historias Infantiles",
@@ -13534,12 +13534,12 @@
     },
     "1463322273": {
       "name": "Encore une histoire",
-      "lastAttempt": "2026-11-24T16:00:49.274475+00:00",
+      "lastAttempt": "2026-11-25T15:46:09.054385+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCd58JXG1TRef0WvJYcdD61A",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCd58JXG1TRef0WvJYcdD61A",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1137632409": {
       "name": "Adventures of Inspector Maigret",
@@ -13592,12 +13592,12 @@
     },
     "1873118863": {
       "name": "Bump with Steph & Laura",
-      "lastAttempt": "2026-11-24T16:01:15.991159+00:00",
+      "lastAttempt": "2026-11-25T15:46:16.677774+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCCUnIvZO9tCS-mAvvys5YFg",
       "youtubeSourceUrl": "https://www.youtube.com/@stephandlaura",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "6788689356": {
       "name": "Tilibou: storie e favole della buonanotte per bambini",
@@ -13686,12 +13686,12 @@
     },
     "1523700373": {
       "name": "Geschichten für Kinder von 2-7 Jahren by sigikid – First Class for Kids",
-      "lastAttempt": "2026-11-24T16:02:10.475049+00:00",
+      "lastAttempt": "2026-11-25T15:46:20.470147+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UC74TPo655DTTtGr_RBToZ0Q",
       "youtubeSourceUrl": "https://www.youtube.com/c/sigikid_official",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1896919142": {
       "name": "Sueñacuentos",
@@ -13702,7 +13702,7 @@
     },
     "1494238283": {
       "name": "Squiz Kids",
-      "lastAttempt": "2026-11-24T16:02:14.618865+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833673+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCUv2pglsro5ifP7MndUexOg",
@@ -13753,7 +13753,7 @@
     },
     "281766283": {
       "name": "Parenting on Moncrieff",
-      "lastAttempt": "2026-11-24T16:02:43.491778+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833689+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCyQkMUy1w7X7pZEqq2j-1CQ",
@@ -13762,7 +13762,7 @@
     },
     "1572343021": {
       "name": "The Peaceful Parenting Podcast",
-      "lastAttempt": "2026-11-24T16:02:46.588084+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833698+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
@@ -13785,7 +13785,7 @@
     },
     "1646963167": {
       "name": "Faites des gosses",
-      "lastAttempt": "2026-11-24T16:02:54.408327+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833705+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCwJNx4ppGcWABZJZc2rMvdw",
@@ -13794,7 +13794,7 @@
     },
     "1469497070": {
       "name": "The Kick Pregnancy Podcast",
-      "lastAttempt": "2026-11-24T16:02:57.708933+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833715+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
@@ -13852,7 +13852,7 @@
     },
     "1500778697": {
       "name": "Mama Gang",
-      "lastAttempt": "2026-11-24T16:03:23.732078+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833723+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
@@ -13861,7 +13861,7 @@
     },
     "1533072212": {
       "name": "Super Great Kids' Stories",
-      "lastAttempt": "2026-11-24T16:03:31.162472+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833730+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
@@ -13891,12 +13891,541 @@
     },
     "1610713580": {
       "name": "Pezzettini",
-      "lastAttempt": "2026-11-24T16:03:40.966179+00:00",
+      "lastAttempt": "2026-11-25T15:46:26.833737+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC3XIkSkoDmQMEww-P4D2soA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC3XIkSkoDmQMEww-P4D2soA",
       "status": "DA_SCANSIONARE"
+    },
+    "703350888": {
+      "name": "Unser Sandmännchen",
+      "lastAttempt": "2026-11-25T15:46:27.529196+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1650126940": {
+      "name": "How Other Dads Dad with Hamish Blake",
+      "lastAttempt": "2026-11-25T15:46:32.916827+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1627734202": {
+      "name": "Sterrin's Dierenencyclopedie",
+      "lastAttempt": "2026-11-25T15:46:33.362623+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1030050704": {
+      "name": "Respectful Parenting: Janet Lansbury Unruffled",
+      "lastAttempt": "2026-11-25T15:46:36.673011+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCaICuB_dNMBliDawMmoYaaQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/janetlansbury",
+      "status": "DA_SCANSIONARE"
+    },
+    "1681742176": {
+      "name": "Grembo, racconti di pancia",
+      "lastAttempt": "2026-11-25T15:46:42.417293+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1540410541": {
+      "name": "Bimbi Libri e Rock'n'Roll",
+      "lastAttempt": "2026-11-25T15:46:46.502610+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1670296406": {
+      "name": "Genitori",
+      "lastAttempt": "2026-11-25T15:46:49.943248+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1537360535": {
+      "name": "La psicologa Silvia",
+      "lastAttempt": "2026-11-25T15:46:52.480348+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1698088084": {
+      "name": "Iodisea Mondo Odissee | Documentario Italiana Podcast Storia Bambini e Adulti Audiolibri Gratis",
+      "lastAttempt": "2026-11-25T15:46:56.375249+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCjA2TlciD_LIe-hCWJMjsdA",
+      "youtubeSourceUrl": "https://www.youtube.com/@iodisea",
+      "status": "DA_SCANSIONARE"
+    },
+    "1739331611": {
+      "name": "Blippi & Meekah’s Road Trip",
+      "lastAttempt": "2026-11-25T15:46:57.762424+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6799739038": {
+      "name": "Discover Entertainment That Combines Convenience, Imagination, and Emotional Storytelling Depth Beautifully",
+      "lastAttempt": "2026-11-25T15:47:00.841042+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1438566169": {
+      "name": "Unspookable",
+      "lastAttempt": "2026-11-25T15:47:05.124833+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1509930788": {
+      "name": "Akbar Birbal Stories",
+      "lastAttempt": "2026-11-25T15:47:06.463906+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1727088138": {
+      "name": "Godnathistorier for børn",
+      "lastAttempt": "2026-11-25T15:47:11.971513+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1281790712": {
+      "name": "Calm Parenting Podcast",
+      "lastAttempt": "2026-11-25T15:47:19.290041+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1612950470": {
+      "name": "A & O Hotline",
+      "lastAttempt": "2026-11-25T15:47:23.762033+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1535319502": {
+      "name": "從前從前",
+      "lastAttempt": "2026-11-25T15:47:24.642300+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1445535932": {
+      "name": "Das gewünschteste Wunschkind",
+      "lastAttempt": "2026-11-25T15:47:33.553403+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1854419184": {
+      "name": "Pierrot et Poupouche",
+      "lastAttempt": "2026-11-25T15:47:36.610420+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCd58JXG1TRef0WvJYcdD61A",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCd58JXG1TRef0WvJYcdD61A",
+      "status": "DA_SCANSIONARE"
+    },
+    "1446097718": {
+      "name": "Era Uma Vez Um Podcast",
+      "lastAttempt": "2026-11-25T15:47:37.149319+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC8xWB-CoHxTA64PKoMaue2g",
+      "youtubeSourceUrl": "https://www.youtube.com/@EraUmaVezUmPodcast",
+      "status": "DA_SCANSIONARE"
+    },
+    "6788679088": {
+      "name": "Birth of a Parent",
+      "lastAttempt": "2026-11-25T15:47:41.955775+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCYSMqjv-s31sz34EVKokT2Q",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCYSMqjv-s31sz34EVKokT2Q",
+      "status": "DA_SCANSIONARE"
+    },
+    "1377633011": {
+      "name": "Made by Mammas: The Podcast",
+      "lastAttempt": "2026-11-25T15:47:44.220832+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1651919726": {
+      "name": "El Club del Caos",
+      "lastAttempt": "2026-11-25T15:47:46.544939+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1806357010": {
+      "name": "ילדים בדרך",
+      "lastAttempt": "2026-11-25T15:47:51.162620+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UCyttmRdIbBv0ZTi1J5jJAKg",
+      "youtubeSourceUrl": "https://www.youtube.com/@KacheliTVFlorida",
+      "status": "DA_SCANSIONARE"
+    },
+    "6821988097": {
+      "name": "Le Coffre aux histoires",
+      "lastAttempt": "2026-11-25T15:47:54.303243+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] @FamilleChr: This channel does not have a videos tab\n",
+      "status": "ERRORE"
+    },
+    "1365178782": {
+      "name": "Montessori Education with Jesse McCarthy",
+      "lastAttempt": "2026-11-25T15:47:58.116718+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCVNWLHK0-o6FnqzpCGl26rA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCVNWLHK0-o6FnqzpCGl26rA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1565859296": {
+      "name": "Lost In The Space: storie di cinema",
+      "lastAttempt": "2026-11-25T15:48:00.210585+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "278974813": {
+      "name": "Pop Culture Happy Hour",
+      "lastAttempt": "2026-11-25T15:48:02.117612+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1599797557": {
+      "name": "Il Cinema Colpisce Ancora",
+      "lastAttempt": "2026-11-25T15:48:07.706450+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1388743215": {
+      "name": "The Good Place: The Podcast",
+      "lastAttempt": "2026-11-25T15:48:09.441648+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1772705410": {
+      "name": "Noodles - Podcast di Cinema",
+      "lastAttempt": "2026-11-25T15:48:13.296737+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCiB0SJz2_U1LKfXMseOONjA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1705531768": {
+      "name": "Gli Aggiustafilm",
+      "lastAttempt": "2026-11-25T15:48:14.295519+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1726425063": {
+      "name": "Gand la Gand cu Teo",
+      "lastAttempt": "2026-11-25T15:48:17.404683+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1504732282": {
+      "name": "The Plot Thickens",
+      "lastAttempt": "2026-11-25T15:48:21.644007+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1279562874": {
+      "name": "Everything Iconic with Danny Pellegrino",
+      "lastAttempt": "2026-11-25T15:48:23.636184+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "858124601": {
+      "name": "You Must Remember This",
+      "lastAttempt": "2026-11-25T15:48:26.904835+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1644787927": {
+      "name": "The Rewatcher",
+      "lastAttempt": "2026-11-25T15:48:30.060951+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1589666239": {
+      "name": "Pulp Film",
+      "lastAttempt": "2026-11-25T15:48:33.241289+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1609407191": {
+      "name": "Reality Check - Boer zoekt Vrouw",
+      "lastAttempt": "2026-11-25T15:48:38.126156+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1547549692": {
+      "name": "Sunnydale Nation: A Buffy Rewatch Podcast",
+      "lastAttempt": "2026-11-25T15:48:39.323278+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1444559244": {
+      "name": "Not Skinny But Not Fat",
+      "lastAttempt": "2026-11-25T15:48:42.229913+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "827905050": {
+      "name": "Happy Sad Confused",
+      "lastAttempt": "2026-11-25T15:48:45.444035+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1792294662": {
+      "name": "Reality Receipts Podcast",
+      "lastAttempt": "2026-11-25T15:48:48.324859+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1477524410": {
+      "name": "Two Ts In A Pod with Teddi Mellencamp and Tamra Judge",
+      "lastAttempt": "2026-11-25T15:48:51.468686+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1627320023": {
+      "name": "DeGenerando",
+      "lastAttempt": "2026-11-25T15:48:55.825284+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1510638084": {
+      "name": "Team Deakins",
+      "lastAttempt": "2026-11-25T15:48:58.273452+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCgZLGAW5xK5uuuPHOiFX0AA",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCgZLGAW5xK5uuuPHOiFX0AA",
+      "status": "DA_SCANSIONARE"
+    },
+    "1244815391": {
+      "name": "CINE x FAVOR",
+      "lastAttempt": "2026-11-25T15:49:04.108819+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "lastError": "YouTube: ERROR: [youtube:tab] ivooxaudiokiosko/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)\n",
+      "status": "ERRORE"
+    },
+    "1688941275": {
+      "name": "Schaun wir mal...",
+      "lastAttempt": "2026-11-25T15:49:07.030815+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "979533018": {
+      "name": "Tynu40k Goblina",
+      "lastAttempt": "2026-11-25T15:49:09.671550+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1574968951": {
+      "name": "Il Brutto Il Cattivo - Cinema e serie tv: il meglio ma soprattutto il peggio",
+      "lastAttempt": "2026-11-25T15:49:12.569123+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "958470871": {
+      "name": "The Contrarians",
+      "lastAttempt": "2026-11-25T15:49:17.767948+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1728833398": {
+      "name": "Hodný, zlý a kritický",
+      "lastAttempt": "2026-11-25T15:49:17.864966+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1648133507": {
+      "name": "Casinò Carcosa - Horror Podcast",
+      "lastAttempt": "2026-11-25T15:49:27.930636+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+      "youtubeSourceUrl": "https://www.youtube.com/@casinocarcosa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1643024276": {
+      "name": "The House of Halliwell / A Charmed Rewatch Podcast",
+      "lastAttempt": "2026-11-25T15:49:28.851976+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1842801163": {
+      "name": "Licenza di spoiler",
+      "lastAttempt": "2026-11-25T15:49:33.873295+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1484425171": {
+      "name": "Everyone's Business (But Mine) with Kara Berry",
+      "lastAttempt": "2026-11-25T15:49:37.443160+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1713718697": {
+      "name": "Betreutes Bingen - Der Serienpodcast",
+      "lastAttempt": "2026-11-25T15:49:38.877073+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1613734091": {
+      "name": "Pizza e Cinema?",
+      "lastAttempt": "2026-11-25T15:49:44.073376+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1707026512": {
+      "name": "ANSA Cinema: ieri, oggi, domani",
+      "lastAttempt": "2026-11-25T15:49:47.306360+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UC7dCZ28JQUZYno7TSlLKNoQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/Ansa",
+      "status": "DA_SCANSIONARE"
+    },
+    "1511057761": {
+      "name": "The Boulet Brothers' Creatures of the Night",
+      "lastAttempt": "2026-11-25T15:49:53.458362+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCDY_saaWG2aB_E4Rvv0iEeA",
+      "youtubeSourceUrl": "https://www.youtube.com/c/BouletBrothersProductions",
+      "status": "DA_SCANSIONARE"
+    },
+    "1589395643": {
+      "name": "Ross(y) • Stup • & • Friends",
+      "lastAttempt": "2026-11-25T15:49:54.729269+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1669604262": {
+      "name": "Der Bätchcast",
+      "lastAttempt": "2026-11-25T15:49:58.482050+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1847901984": {
+      "name": "Boring History For Sleep | Gentle Storytelling And Ambient Sounds (Official)",
+      "lastAttempt": "2026-11-25T15:50:01.006318+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCeU3w3LcEUaVl1PyZDfA2Gg",
+      "youtubeSourceUrl": "https://www.youtube.com/@HistoryAndSleep",
+      "status": "DA_SCANSIONARE"
+    },
+    "1111739567": {
+      "name": "The Watch",
+      "lastAttempt": "2026-11-25T15:50:04.124763+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCd9DFe4UrhLBmjVNUFCKrSg",
+      "youtubeSourceUrl": "https://www.youtube.com/@Ringer-TV",
+      "status": "DA_SCANSIONARE"
+    },
+    "1254073246": {
+      "name": "/Film Weekly",
+      "lastAttempt": "2026-11-25T15:50:06.803762+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "403079737": {
+      "name": "Linoleum Knife",
+      "lastAttempt": "2026-11-25T15:50:13.158412+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1585703147": {
+      "name": "The View: Behind the Table",
+      "lastAttempt": "2026-11-25T15:50:14.880947+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1628160941": {
+      "name": "Talk Ville",
+      "lastAttempt": "2026-11-25T15:50:19.735799+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1611352831": {
+      "name": "Cinema of Meaning",
+      "lastAttempt": "2026-11-25T15:50:20.006585+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "PIU_CANALI_YOUTUBE_SUL_SITO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1340983015": {
+      "name": "Cinema Strikes Back",
+      "lastAttempt": "2026-11-25T15:50:24.913755+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1526671261": {
+      "name": "Крупным планом",
+      "lastAttempt": "2026-11-25T15:50:26.137687+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
     }
   },
   "chartShows": {
