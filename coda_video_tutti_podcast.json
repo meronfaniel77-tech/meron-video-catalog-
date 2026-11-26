@@ -102261,6 +102261,3206 @@
       },
       "sourceGeneratedAt": "2026-11-25T15:50:31.420539+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776465473",
+      "score": 101,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "Dopamine Kids with Michaeleen Doucleff: Episode 228",
+        "youtubeUrl": "https://www.youtube.com/watch?v=J0N2uYM1tzs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Dopamine Kids and Setting Limits on Screens with Michaeleen Doucleff: Episode 228",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3762
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000749361256",
+      "score": 104,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "Rejecting Impossible Parenting Standards: What Disability Teaches Us About Care and Community with Jessica Slice: Episode 220",
+        "youtubeUrl": "https://www.youtube.com/watch?v=R71OcmVw0tE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Rejecting Impossible Parenting Standards: What Disability Teaches Us About Care + Community",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2181
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000739539313",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "How DBT Skills Can Help Your Family with Big Feelings with Shireen Rizvi and Jesse Finkelstein: Episode 214",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ubeqzpNj_vc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How DBT Skills Can Help Your Family with Big Feelings with Shireen Rizvi and Jesse Finkelstein:",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2543
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000669891887",
+      "score": 104,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "\"I'm not going to school!\" School Avoidance and Anxiety with Lynn Lyons",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Tp47n4PftgM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "School Avoidance and Anxiety with Lynn Lyons: Episode 166",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3216
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713368339",
+      "score": 104,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "The Crucial Years, Parenting In The Six to Twelve (6-12) Years with Dr. Sheryl Gonzalez Ziegler: Episode 199",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7UWTwL3tI5w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Crucial Years, Parenting In 6-12 Years with Dr. Sheryl Gonzalez Ziegler: Episode 199",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3174
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000709218260",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "My Unusual Suggestion for Big Feelings and Aggressive Meltdowns- Coaching with Charlotte: Episode 195",
+        "youtubeUrl": "https://www.youtube.com/watch?v=IV2BI3J3iUI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "My Unusual Suggestion for Big Feelings & Aggressive Meltdowns- Coaching with Charlotte: Episode 195",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3622
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000670887019",
+      "score": 105,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "When Your Child is ‘Fine’ At School: Understanding Masking with Dr. Devon Price- Flourish with Your Complex Child Summit Episode 167",
+        "youtubeUrl": "https://www.youtube.com/watch?v=y1vLpkJVSuk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "‘Fine’ At School: Understanding Masking with Dr. Devon Price Flourish with your Complex Child Summit",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2754
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000668257835",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "Sexism and Sensibility: Raising Empowered, Resilient Girls in the Modern World with Jo Ann Finkelstein: Episode 164",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2mEDegfuf5w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Sexism & Sensibility Raising Empowered, Resilient Girls in the Modern World with Jo Ann Finkelstein",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2610
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000657126569",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "Tips for End of the School Year and Summer Break: Episode 154",
+        "youtubeUrl": "https://www.youtube.com/watch?v=HpRc1vrving",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tips for End of School Year and Summer Break Episode 154",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 748
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000656348733",
+      "score": 100,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "153: Conscious Parenting with Destini Ann Davis",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qJMYqmxaUrY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Conscious Parenting with Destini Ann: Episode 153",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2238
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000655695407",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "152: Coaching with Bonnie: Supporting kids with big feelings",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wHJ0AYV7XoQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Bonnie: Supporting kids with big feelings Episode 152",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2997
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000654881256",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "151: Parenting Middle Schoolers with Phyllis Fagell",
+        "youtubeUrl": "https://www.youtube.com/watch?v=QmLHvxfVAYs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Parenting Middle Schoolers with Phyllis Fagell Episode 151",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2831
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000654130404",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "150: What Influencers are Getting Wrong about Peaceful Parenting",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9qwkou2bNgg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "What Influencers are Getting Wrong About Peaceful Parenting Episode 150",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2303
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000652690508",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "148: Coaching with Kathy: Parenting and Challenges with a Partner",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9gV33zGtCE8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching With Kathy: Parenting and Challenges with a Partner Episode 148",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3038
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000652043237",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "147: Neurodivergent Insights with Dr. Megan Anna Neff",
+        "youtubeUrl": "https://www.youtube.com/watch?v=FsJ6kE-rEQM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Neurodivergent Insights with Dr. Megan Anna Neff Episode 147",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2435
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000651262266",
+      "score": 104,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "023a: UPDATED Raising Helpful Kids: Navigating Chores with Sarah Rosensweet",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7niS6gU_ojw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "UPDATED Raising Helpful Kids: Navigating Chores with Sarah Rosensweet Episode 23a",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2048
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000650569033",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "146: When Your Child Is Different with Sonali Vongchusiri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zHWRchQirv8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Your Child Is Different with Sonali Vongchusiri Episode 146",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2872
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000649006433",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "145: Why We Should Let Kids Do Risky Play",
+        "youtubeUrl": "https://www.youtube.com/watch?v=iSL-WkkuRKQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 145: Why We Should Let Kids Do Risky Play",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1179
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000648161490",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "144: Raising Emotionally Intelligent Kids with Stephanie Pinto",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EgUZxfQNmSo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Episode 144: Raising Emotionally Intelligent Kids with Stephanie Pinto",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3137
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000647367390",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "143: When Your Child Argues With You About Everything",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jYit8MJ6vGM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Your Child Argues With You About Everything",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1023
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000645283349",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "141: From Strict Disciplinarian to Peaceful Parenting Dad and Coach with Kyle Wester",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7pOGqoM8dd4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "From Strict Disciplinarian to Peaceful Parenting Dad and Coach with Kyle Wester",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2991
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000644461213",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "140: Coaching with Sophie: A Sensitive Kid, A Sensitive Mom and Their Journey of Transformation",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vyb9WnXwtp4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Sophie: A Sensitive Kid, A Sensitive Mom and Their Journey of Transformation",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 4174
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000643638745",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "139: Pathological Demand Avoidance (PDA) with Casey Ehrlich",
+        "youtubeUrl": "https://www.youtube.com/watch?v=upUto5liuvM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Pathological Demand Avoidance (PDA) with Casey Ehrlich",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3248
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000642757743",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "138: Understanding and Loving Spicy Kids with Mary Van Geffen",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AzqAT0oSWOI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Understanding and Loving Spicy Kids with Mary Van Geffen",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1799
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000641144169",
+      "score": 103,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "136: Picky Eating, Food Anxiety, and Meeting Nutritional Needs with Kids in Eat in Color founder Jennifer Anderson",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7lVy4KvSoxo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Picky Eating, Food Anxiety, and Meeting Nutritional Needs with Jennifer Anderson",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3482
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000640410429",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "135: Coaching with Melanie: Spirited Children, Big Feelings and Cooperation Issues",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gn5-NwldR4g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Melanie: Spirited Children, Big Feelings and Cooperation Issues",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 4760
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000639798634",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "134: 1000 Hours Outside (It's Not What/Why You Think!) with Ginny Yurich",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WuWtMKIktVQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "1000 Hours Outside  (It's Not What/Why You Think!) with Ginny Yurich",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3081
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000638414521",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "132: Non-Coercive Collaborative Parenting with Vivek Patel",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1vZUOlyz6lU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Non-Coercive Collaborative Parenting with Vivek Patel",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3414
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000637661182",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "131: Coaching with Christy: Emotional Regulation, Sibling Rivalry and Parenting A Complex Child",
+        "youtubeUrl": "https://www.youtube.com/watch?v=f3kaRG6OT_Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Christy: Emotional Regulation, Sibling Rivalry and Parenting A Complex Child",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3974
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000635660442",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "129: Co-Parenting After Divorce with Aurisha Smolarski",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-_q_C0JpX5g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Co-Parenting After Divorce with Aurisha Smolarski",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3306
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000634885120",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "128: Low Demand Parenting with Amanda Diekman",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6us9tYeR1_s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Low Demand Parenting with Amanda Diekman",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3357
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000634111411",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "127: Coaching with Yael: Supporting Kids Who Are Having a Tough Time at School",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0MDfbcSOKRk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Yael: Supporting Kids Who Are Having a Tough Time at School",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3338
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000633328662",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "126: Raising Thrivers with Dr. Michele Borba",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xUcFwJLVsEU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Raising Thrivers with Dr. Michele Borba",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2201
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000632548449",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "125: Parenting Against the Grain: A Journey of Healing and Connection with Ed Center",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lisfFJh9EnU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Parenting Against the Grain: A Journey of Healing and Connection with Ed Center",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3049
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000631444207",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "124: When Peaceful Parenting Doesn’t Look Like It’s “Supposed To” Look with Sarah and Corey",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JT3f8AT-oOU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Peaceful Parenting Doesn’t Look Like It’s “Supposed To” Look with Sarah and Corey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2263
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000630935398",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "123: Coaching with Stephanie: Parenting Intense Kids With Big Needs and Big Feelings",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6mXVgkleIK8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Stephanie: Parenting Intense Kids With Big Needs and Big Feelings",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3777
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000630151670",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "122: All Things Sensory Processing Disorder with Rachel Harrington and Jessica Hill",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_7yEHvpsZrk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "All Things Sensory Processing Disorder with Rachel Harrington and Jessica Hill",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2823
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000629340840",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "121: How To Raise Kids Who Aren't Jerks with Melinda Wenner Moyer",
+        "youtubeUrl": "https://www.youtube.com/watch?v=a9xp5x2lr20",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How To Raise Kids Who Aren't Jerks with Melinda Wenner Moyer",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2897
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000628547352",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "120: Supporting Neurodivergent and BIPOC Parents and Children with Jaya Ramesh and Priya Saaral",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cjO3KcRZuqw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Supporting Neurodivergent and BIPOC Parents and Children with Jaya Ramesh and Priya Saaral",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2782
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000627707326",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "119: Coaching with Jessica: Making Stressful Mornings Easier",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PhB9wpfyC6I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Jessica: Making Stressful Mornings Easier",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2839
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000626923999",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "118: Raising Kids in the Era of Technology with Devorah Heitner",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ENkcIChk1do",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Raising Kids in the Era of Technology with Devorah Heitner",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2370
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000626178159",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "117: Raising Lifelong Learners - At Home or At School with Julie Bogart",
+        "youtubeUrl": "https://www.youtube.com/watch?v=920VbCHRgg4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Raising Lifelong Learners - At Home or At School with Julie Bogart",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2815
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000625361636",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "116: Work, Parent, Thrive: Ditch Guilt, Manage Overwhelm and Grow Connections with Yael Schonbrun",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Gw7lX0-XUkI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Work, Parent, Thrive: Ditch Guilt, Manage Overwhelm and Grow Connections with Yael Schonbrun",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2845
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000624621759",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "115: When Your Kid Hates School",
+        "youtubeUrl": "https://www.youtube.com/watch?v=_x5VtMSnwPk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Your Kid Hates School",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1042
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000623899200",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "114: Needs and Boundaries for Parents and Children with Sonali Vongchusiri",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qHTrbXRGtlE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Needs and Boundaries for Parents and Children with Sonali Vongchusiri",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2900
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000623148015",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "113: Healthy Gaming with Dr. Alok Kanojia",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qHiK2oB91p4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Healthy Gaming with Dr. Alok Kanojia",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2910
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000622374903",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "112: Anxiety and Aggression with Karen Young",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EUmNrlpuTaE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Anxiety and Aggression with Karen Young",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2852
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000621613108",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "111: 8 Pitfalls of Peaceful Parenting and What to do About Them",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vS6w9S6Geas",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "8 Pitfalls of Peaceful Parenting and What to do About Them",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1710
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000620875726",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "110: Supporting Executive Function with Seth Perler",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-a1YiXOANfc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Supporting Executive Function with Seth Perler",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3149
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000619346246",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "109: Building Community and The Unlikely Village of Eden with Emma Nadler",
+        "youtubeUrl": "https://www.youtube.com/watch?v=JcEX8Cw7ziQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Building Community and The Unlikely Village of Eden with Emma Nadler",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2365
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000618594248",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "108: How to Develop Better Communication with Your Kids with Linda Murphy",
+        "youtubeUrl": "https://www.youtube.com/watch?v=k2uVDjnBrok",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How to Develop Better Communication with Your Kids with Linda Murphy",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2841
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000617818810",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "107: Coaching with Beth: Blame, Shame and Wanting a More Peaceful Home",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ThBNNqhafEs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Beth: Blame, Shame and Wanting a More Peaceful Home",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3361
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000616963452",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "106: Breaking Kids Out of ‘The Man Box’ with Jonathon Reed",
+        "youtubeUrl": "https://www.youtube.com/watch?v=w5M9ND_vVFI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Breaking Kids Out of ‘The Man Box’ with Jonathon Reed",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2927
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000615977568",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "105: Conscious Parenting with Domari Dickinson",
+        "youtubeUrl": "https://www.youtube.com/watch?v=YBf_dxRlEr8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Conscious Parenting with Domari Dickinson",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2329
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000614273962",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "103: Playful Parenting with Lawrence Cohen",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jUtEOYQaLfw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Playful Parenting with Lawrence Cohen",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3418
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000613347439",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "102: Coaching with Samantha: Parenting Struggles with A Sensitive, Intense Child",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DgVSKVNggME",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Samantha: Parenting Struggles with A Sensitive, Intense Child",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3192
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000612457636",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "101: Mindful Parenting PLUS Kids and Sports with Oliver Levy",
+        "youtubeUrl": "https://www.youtube.com/watch?v=h5k1cpVgg2w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Mindful Parenting PLUS Kids and Sports with Oliver Levy",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3299
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000611560666",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "100: When Your Child Has a Preferred Parent (or Not) with Sarah and Corey",
+        "youtubeUrl": "https://www.youtube.com/watch?v=poAMCkWk4xI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Your Child Has a Preferred Parent (or Not) with Sarah and Corey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1753
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000610677581",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "099: How Anxiety Shows Up in Our Parenting and What to Do About It with Lynn Lyons",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gSUjcuaKRt0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How Anxiety Shows Up in Our Parenting and What to Do About It with Lynn Lyons",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3064
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000609605463",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "098: Puberty Prep and Support for Kids with Dr. Rachael Gibson and special guest Sarah’s daughter",
+        "youtubeUrl": "https://www.youtube.com/watch?v=F93N-cSawbw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Puberty Prep and Support for Kids with Dr. Rachael Gibson and special guest Sarah’s daughter",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2487
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000608666596",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "097: When Parenting Is Hard- A Conversation With Parents Like You",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4o4FjxItulY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Parenting Is Hard- A Conversation With Parents Like You",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3293
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000605310098",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "094: Peaceful Discipline with Sarah Moore",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9qy0HVUmqRY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Peaceful Discipline with Sarah Moore",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2761
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000604283180",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "093: Coaching with Kate: How to Help Socially Anxious Kids",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sZvIGsw0_1Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Kate: How to Help Socially Anxious Kids",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1520
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000603264338",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "092: After School Best Practices For A Smooth Routine",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WslPe2C1Jc8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "After School Best Practices For A Smooth Routine",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2012
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000602264314",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "091: Keeping Kids Safe: Teaching Body Safety, Boundaries and Consent with Rosalia Rivera",
+        "youtubeUrl": "https://www.youtube.com/watch?v=o9ylmmRcjdY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Keeping Kids Safe: Teaching Body Safety, Boundaries and Consent with Rosalia Rivera",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2287
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000601070701",
+      "score": 102,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "090: Coaching with Mark and Kanae: Support Each Other as Partners and in Peaceful Parenting",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rxQ_gvIsv6Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Support Each Other as Partners and in Peaceful Parenting",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3802
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000599718642",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "089: Listener Questions: Staying Calm, Entitled Kids, and Toddler Mischief",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DNUsgMv31sM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Listener Questions: Staying Calm, Entitled Kids, and Toddler Mischief",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1405
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000597532730",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "087: Coaching with Lian: How to Handle Swearing and Hitting",
+        "youtubeUrl": "https://www.youtube.com/watch?v=g7NJuKpLLug",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Lian: How to Handle Swearing and Hitting",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3591
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000595166933",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "085: Repairing Your Inner Child with Dani Faust",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rM-WTi7oTMw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Repairing Your Inner Child with Dani Faust",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2090
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000593673258",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "084: Coaching with Erin and Wade: Challenging Kids and Burned Out Parents",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MJsjb0Iu4QQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Erin and Wade: Challenging Kids and Burned Out Parents",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3395
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000592326721",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "083: Navigating Rough Times as a Family with Casey O'Roarty",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rYyfSBsHFpk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Navigating Rough Times as a Family with Casey O'Roarty",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2691
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000591472865",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "082: The Addiction Inoculation: Raising Healthy Kids in a Culture of Dependence with Jessica Lahey",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WJdwTP1Ukqs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Addiction Inoculation: Raising Healthy Kids in a Culture of Dependence with Jessica Lahey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3060
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000590841180",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "081: Social Justice Parenting with Dr. Traci Baxley",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ksrS_sIxS2U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Social Justice Parenting with Dr. Traci Baxley",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2127
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000590145443",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "080: Addressing Fears That Our Kids Aren’t Grateful for What They Have",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UlwrvpLu7Y0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Addressing Fears That Our Kids Aren’t Grateful for What They Have",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2822
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000589189974",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "079: Coaching with Michelle: Sibling Rivalry When One Child Needs More From Us",
+        "youtubeUrl": "https://www.youtube.com/watch?v=mdaMP7eavhI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Michelle: Sibling Rivalry When One Child Needs More From Us",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2643
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000587236942",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "077: Taking the Stress Out of Morning Routines",
+        "youtubeUrl": "https://www.youtube.com/watch?v=kVfNpK6tWPk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Taking the Stress Out of Morning Routines",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2027
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000586396084",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "076: Coaching with Candace: Supporting Our Kids When They Have Friend Challenges",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-CVnYAVzgVY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Candace: Supporting Our Kids When They Have Friend Challenges",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2026
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000585624380",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "075: The Science of Secure Attachment with Bethany Saltman",
+        "youtubeUrl": "https://www.youtube.com/watch?v=af-HjnJ9Yz0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Science of Secure Attachment with Bethany Saltman",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1752
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000583925533",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "073: Coaching with Andrea: Sensitive Kids, Sensitive Parents and Big Feelings",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2zEoQKpUtvs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Andrea: Sensitive Kids, Sensitive Parents and Big Feelings",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2015
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000583126321",
+      "score": 104,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "072: Why and What Parents Need to Know About Sexual Orientation and Gender Identity and Expression (SOGIE) with Victoria Ogunleye",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ppeGt94pcZA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "What Parents Need to Know About Sexual Orientation & Gender Identity and Expression (SOGIE)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1726
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000582379895",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "071: How to Help Your Perfectionist Kid with Sarah and Corey",
+        "youtubeUrl": "https://www.youtube.com/watch?v=1c8lIUZPFmE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How to Help Your Perfectionist Kid with Sarah and Corey",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1395
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000580885501",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "069: Helping Kids Develop A Growth Mindset with Sheena Hill",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4OZIu2Q8MGM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Helping Kids Develop A Growth Mindset with Sheena Hill",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2973
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000580157566",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "068: Coaching with Seodhna: How to Know if Your Child Needs a Professional Diagnosis",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bgm95-SbHm0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Seodhna: How to Know if Your Child Needs a Professional Diagnosis",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 3596
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000579427027",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "067: How to Handle After School Meltdowns",
+        "youtubeUrl": "https://www.youtube.com/watch?v=eDTYDGCDuK0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How to Handle After School Meltdowns",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 706
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000578671414",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "066: A Peaceful Dad Inspiring Others with DeAntwann ‘DJ’ Johnson",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SgqHATbxb1A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "A Peaceful Dad Inspiring Others with DeAntwann ‘DJ’ Johnson",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2751
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000577886893",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "065: Coaching with Liz: When Kids Have Trouble Falling and Staying Asleep",
+        "youtubeUrl": "https://www.youtube.com/watch?v=xxSC7hnAVEU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Coaching with Liz: When Kids Have Trouble Falling and Staying Asleep",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 2508
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000577181028",
+      "score": 106,
+      "record": {
+        "podcast": "The Peaceful Parenting Podcast",
+        "episode": "064: When Saying Goodbye is Hard",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vnXI8IzIeVs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "When Saying Goodbye is Hard",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1572343021",
+        "youtubeChannelId": "UCmAp52zZOC2TLsylDLrOltg",
+        "youtubeDurationSeconds": 1247
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790989273",
+      "score": 102,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "215. Q&A: Subsequent Pregnancies After A Uterine Dehiscence & What To Consider When Weighing Up Trying To Conceive Naturally Or Undergoing Fertility Treatment",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jIgzeYclc3s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "215. Q&A: Subsequent Pregnancies After A Uterine Dehiscence & What To Consider When Weighing Up T...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 1936
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000772857116",
+      "score": 102,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "201. Q&A: How Does Previous Breast Cancer Treatment Affect  A pregnancy & Implementing Conception Plan For A Woman With A Complex Medical History.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=v-YDQR1wbX0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "201. Q&A: How Does Previous Breast Cancer Treatment Affect  A pregnancy & Implementing Conception...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 1677
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768483490",
+      "score": 103,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "197. Q&A: Feeling Concerned About Being Pressured Into Decisions During Pregnancy And Birth & Can Breeched Births Reoccur?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DuSEZAiosGM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "197. Q&A: Feeling Concerned About Being Pressured Into Decisions During Pregnancy And Birth & Can...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 2379
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000763901921",
+      "score": 104,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "194. Q&A: Stopping Breastfeeding To Prepare For An IVF Pregnancy & What Is Normal Pain Post-caesarean?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=l4RHWDsxfTg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "194. Q&A: Stopping Breastfeeding To Prepare For An IVF Pregnancy & What Is Normal Pain Post-caesa...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 2041
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750012624",
+      "score": 101,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "184. Q&A: Managing the risk of pre-term labour in rural and remote areas & how long to wait before trying to conceive again after a miscarriage",
+        "youtubeUrl": "https://www.youtube.com/watch?v=PffQvuiJCSI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "184. Q&A: Managing the risk of pre-term labour in rural and remote areas & how long to wait befor...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 1449
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000748948608",
+      "score": 102,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "183. Q&A: Do C-Sections Cause Endometriosis and Infertility? & How are Pregnancies in Women with Congenital Heart Diseases Managed?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=giX1jsZdRx8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "183. Q&A: Do C-Sections Cause Endometriosis and Infertility? & How are Pregnancies in Women with ...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 2266
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000745808477",
+      "score": 104,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "180. Becoming an Obstetrician and Gynaecologist and How the Training has Changed with Dr Erin Stewart",
+        "youtubeUrl": "https://www.youtube.com/watch?v=E7Qb_JY2pak",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "180. Becoming an Obstetrician and Gynaecologist and How the Training has Changed with Dr Erin Ste...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 3449
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000738163313",
+      "score": 104,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "176. Hips in pregnancy and why we need to know more With Sport & Exercise Physiotherapist A/Prof Joanne Kemp",
+        "youtubeUrl": "https://www.youtube.com/watch?v=SHVa-LqVX-A",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "176. Hips in pregnancy and why we need to know more With Sport & Exercise Physiotherapist A/Prof ...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 2552
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000735084051",
+      "score": 104,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "173. Q&A: Missed miscarriages, Haematomas & When you can't have a blood transfusions in labour and birth",
+        "youtubeUrl": "https://www.youtube.com/watch?v=b8NQNKT5_2c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "173. Q&A: Missed miscarriages, Haematomas & When you can't have a blood transfusions in labour an...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 2091
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000697470341",
+      "score": 105,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "138. Who Needs To See A Maternal Fetal Medicine Specialist During Pregnancy With Professor Joanne Said",
+        "youtubeUrl": "https://www.youtube.com/watch?v=weWkSjTUFjY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "138. Who Needs To See A Maternal Fetal Medicine Specialist During Pregnancy With Professor Joanne...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 2681
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000660098656",
+      "score": 105,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "107. How to have a healthy diet in pregnancy when food groups are missing with Stef Valakas (The Dietologist)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=VSZmp5stD8o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "107. How to have a healthy diet in pregnancy when food groups are missing with Stef Valakas (The ...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 3412
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000655469025",
+      "score": 104,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "101. Let's Chat: When your mental health makes you question whether you should be a mum. With Katie Stevens",
+        "youtubeUrl": "https://www.youtube.com/watch?v=qYKQ_1OLgL0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "101. Let's Chat: When your mental health makes you question whether you should be a mum. With Kat...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 3142
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000610464055",
+      "score": 104,
+      "record": {
+        "podcast": "The Kick Pregnancy Podcast",
+        "episode": "58. Something essential for pregnancy and birth but, for most of us, we don’t even think about… is water.",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9212VAkU00k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "58. Something essential for pregnancy and birth but, for most of us, we don’t even think about… i...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1469497070",
+        "youtubeChannelId": "UCT3vR2a-7yTUmSWUQbgt64g",
+        "youtubeDurationSeconds": 1792
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000779858375",
+      "score": 106,
+      "record": {
+        "podcast": "Mama Gang",
+        "episode": "156: Daniela Švihrová Grečnerová: V dobe AI je prítomný rodič dôležitejší než kedykoľvek predtým",
+        "youtubeUrl": "https://www.youtube.com/watch?v=AYPqARJdK0U",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "V dobe AI je prítomný rodič dôležitejší než kedykoľvek predtým| Daniela Švihrová Grečnerová",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1500778697",
+        "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
+        "youtubeDurationSeconds": 4347
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000775781004",
+      "score": 106,
+      "record": {
+        "podcast": "Mama Gang",
+        "episode": "155: Stanka Cifra Beňová: Najkrajšie čo môžete urobiť pre osirelých rodičov je vysloviť meno dieťatka",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bjwdjAV2KGw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Stanka Cifra Beňová: Najkrajšie čo môžete urobiť pre osirelých rodičov je vysloviť meno dieťatka",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1500778697",
+        "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
+        "youtubeDurationSeconds": 3620
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767363165",
+      "score": 103,
+      "record": {
+        "podcast": "Mama Gang",
+        "episode": "Janka Zemandl: Keď bábätko nespí, nie je to tvoje zlyhanie",
+        "youtubeUrl": "https://www.youtube.com/watch?v=hcLf_zQJEA8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Janka Zemandl: Keď bábätko nespí, nie je to tvoje zlyhanie  | Mama Gang",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1500778697",
+        "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
+        "youtubeDurationSeconds": 3732
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000731743246",
+      "score": 104,
+      "record": {
+        "podcast": "Mama Gang",
+        "episode": "137: Janka Michaličková: Farmaceuti sú najdostupnejší zdravotnícki pracovníci",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bZ9kari1PQA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "137: Farmaceutka Janka Michaličková: Farmaceuti sú najdostupnejší zdravotnícki pracovníci",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1500778697",
+        "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
+        "youtubeDurationSeconds": 4191
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000660908519",
+      "score": 102,
+      "record": {
+        "podcast": "Mama Gang",
+        "episode": "106. Môžeme byť všetci prijatí? O inklúzii s Annou Symington-Maar a Vierou Hincovou",
+        "youtubeUrl": "https://www.youtube.com/watch?v=D7ELWsbfF04",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Môžeme byť všetci prijatí? Diskusia podcastu Mama Gang s Annou Symington Maar a Vierou Hincovou",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1500778697",
+        "youtubeChannelId": "UCSQJa3ZvqDLeVvdvypZjiUg",
+        "youtubeDurationSeconds": 3578
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796350701",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "Long Red Fingernails, Ruby Red Lips",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vG5Jclsmakc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Super Great Kids' Stories - World Wide Stories for Kids - Long Red Fingernails, Ruby Red Lips",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 716
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000710416712",
+      "score": 103,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "How Rabbit Tricked Otter",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6e9NO5VkciY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "How Otter Tricked Rabbit",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 1715
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000679202505",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "The Monk and the Three Lucky Charms",
+        "youtubeUrl": "https://www.youtube.com/watch?v=wap8eGKiiV8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Super Great Kids' Stories - World Wide Stories for Kids - The Monk and the Three Lucky Charms",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 1241
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000677751404",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "Robin Hood and the Silver Arrow",
+        "youtubeUrl": "https://www.youtube.com/watch?v=TMnGkOEMehg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Super Great Kids' Stories - World Wide Stories for Kids - Robin Hood and the Silver Arrow",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 1415
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000663943704",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "The Afanc - the Welsh Water Monster",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KkFxUnrmwZk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Super Great Kids' Stories - World Wide Stories for Kids - The Afanc - the Welsh Water Monster",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 1448
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000660421771",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "The Brave Little Humming Bird",
+        "youtubeUrl": "https://www.youtube.com/watch?v=p74N9uIlctk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Super Great Kids' Stories - World Wide Stories for Kids - The Brave Little Humming Bird",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 1229
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000657954291",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "Little-Half-Chick (Medio Pollito)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=H2F3irAP-pw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Super Great Kids' Stories - World Wide Stories for Kids - Little-Half-Chick (Medio Pollito)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 1280
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000649088366",
+      "score": 100,
+      "record": {
+        "podcast": "Super Great Kids' Stories",
+        "episode": "Finn McCool and the Seven Little Helpers",
+        "youtubeUrl": "https://www.youtube.com/watch?v=DmoPKWbj8fM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "- Super Great Kids' Stories - World Wide Kids Stories - Finn McCool and the Seven Little Helpers",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1533072212",
+        "youtubeChannelId": "UC8XrsJDeko75nyon-2i9z-w",
+        "youtubeDurationSeconds": 2082
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000688262558",
+      "score": 99,
+      "record": {
+        "podcast": "Montessori Education with Jesse McCarthy",
+        "episode": "It's not about the chicken fingers",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GLvjXrLVgb4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Flipping out on our kids - It's not about the chicken fingers",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1365178782",
+        "youtubeChannelId": "UCVNWLHK0-o6FnqzpCGl26rA",
+        "youtubeDurationSeconds": 1140
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000653451305",
+      "score": 106,
+      "record": {
+        "podcast": "Montessori Education with Jesse McCarthy",
+        "episode": "Kennedy and the Plant - Masters of the House",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KoGFhPHChKk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Kennedy & the Plant - Masters of the House",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1365178782",
+        "youtubeChannelId": "UCVNWLHK0-o6FnqzpCGl26rA",
+        "youtubeDurationSeconds": 810
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000450000590",
+      "score": 99,
+      "record": {
+        "podcast": "Montessori Education with Jesse McCarthy",
+        "episode": "The Crying Boy & The Montessori Witch",
+        "youtubeUrl": "https://www.youtube.com/watch?v=sk5gfeyL_QI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Crying Boy & The Montessori Witch | Jesse McCarthy",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1365178782",
+        "youtubeChannelId": "UCVNWLHK0-o6FnqzpCGl26rA",
+        "youtubeDurationSeconds": 724
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000803542836",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 12 St. 3 - FJORD e le altre uscite settimanali",
+        "youtubeUrl": "https://www.youtube.com/watch?v=UCahnJLtGrI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "FJORD and the other weekly releases - Ep. 12 S. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3227
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000802197701",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 11 St. 3 - LOCK BACK e L'ESSERE AMATO: le nostre riflessioni",
+        "youtubeUrl": "https://www.youtube.com/watch?v=8d4o2OWYEMg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Lock Back and Being Loved: Our Reflections - Ep. 11, Season 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3246
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798194907",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 8 St. 3 - POSSIBLE LOVE + L'ASSURDA STORIA DELLA GIALAPPA'S BAND",
+        "youtubeUrl": "https://www.youtube.com/watch?v=asGiaFUnoV0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "POSSIBLE LOVE + L'ASSURDA STORIA DELLA GIALAPPA'S BAND - Ep. 8 St. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2864
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797025012",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 7 St. 3 - Primetime e Fatherland: la nostra opinione",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MapUXlrKytU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PRIMETIME e FATHERLAND: la nostra opinione - Ep.7 St. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2774
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000795949482",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 6 St. 3 - Le nostre riflessioni su L'Estranea e The Social - Il prezzo della verità",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bxBpwT0Qf28",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Le nostre riflessioni su L'Estranea e The Social - Il prezzo della verità - Ep. 6 St. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 4304
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792141797",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep.4 St. 3 - Analisi de IL DOTTOR STRAMANORE",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cmPVbIfHwfA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Analisi de IL DOTTOR STRAMANORE - Ep.4 St. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3605
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000790927391",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 3 St. 3 - Tra horror e commedia: THE INVITE, RESIDENT EVIL e DOV'È LA FIESTA?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rDqF8yA_VA0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tra horror e commedia: THE INVITE, RESIDENT EVIL e DOV'È LA FIESTA? - Ep. 3 St. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3122
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000788245775",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 1 St. 3 - CAMP MIASMA - ADOLESCENZA, SESSO E MORTE e la filmografia di Jane Schoenbrun",
+        "youtubeUrl": "https://www.youtube.com/watch?v=2-xOq6lJoB4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "CAMP MIASMA - ADOLESCENZA, SESSO E MORTE e la filmografia di Jane Schoenbrun - Ep. 1 St. 3",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3179
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000781958504",
+      "score": 110,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 45 St. 2 - Tra horror e film di supereroi: Spider-Man: Brand New Day e Obsession",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KCMdBphTrcg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Between Horror and Superhero Movies: Spider-Man: Brand New Day and Obsession - Ep. 45 S. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2933
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776562719",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 44 St. 2 - Analisi della filmografia di Nolan",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zqrIBDekGU4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Analysis of Nolan's Filmography - Ep. 44 S. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3021
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774667330",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 42 St. 2 - Supergirl e lo speciale Mondiali di Calcio",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3x2rRigbPpE",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Recensione di Supergirl e speciale Mondiali! - Ep.42 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3203
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000771639519",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 39 St. 2 - INCONTRI RAVVICINATI DEL TERZO TIPO e i MIGLIORI film con gli ALIENI!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=g-zGndfSQVg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "INCONTRI RAVVICINATI DEL TERZO TIPO e i MIGLIORI film con gli ALIENI! - Ep. 39 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 4267
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000770542806",
+      "score": 110,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 38 St. 2: horror vecchi e nuovi: Backrooms e Il labirinto del fauno",
+        "youtubeUrl": "https://www.youtube.com/watch?v=tONRzGF8QA8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Speciale horror: Backrooms e Il Labirinto del fauno - Ep. 38 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3224
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000769468346",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 37 St. 2 - Da Cannes a Star Wars: come sono Mandalorian and Grogu e Amarga Navidad?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ODpXfn_RXBQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Da Cannes a Star Wars: come sono Mandalorian and Grogu e Amarga Navidad? - Ep. 37 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3402
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768347933",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 36 St. 2 - Stephen King al cinema: Le ali della libertà e Stand by mee",
+        "youtubeUrl": "https://www.youtube.com/watch?v=nqkeLmrIWWM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Le ali della libertà e Stand by Me: i segreti del loro successo - Ep. 36 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2944
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000767180260",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 35 St. 2 - Analisi di EYES WIDE SHUT!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rxvLpAnuDN8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Analysis of EYES WIDE SHUT! - Ep. 35 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3726
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000765987928",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 34 St. 2 - La nostra recensione de IL DIAVOLO VESTE PRADA 2 e un consiglio spassionato: YELLOW LETTERS",
+        "youtubeUrl": "https://www.youtube.com/watch?v=a5MZW0nvEVA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "LA NOSTRA SU IL DIAVOLO VESTE PRADA 2! - Ep. 34 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3221
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000763794869",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep 33 St. 2 - Recuperi al cinema: Porco Rosso, Ressurrection, Lo Sraniero e Il caso 137",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jNajMampKKg",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Speciale 25 Aprile: PORCO ROSSO e i nostri recuperi! - Ep. 33 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3660
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000762361225",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 32 St. 2 - Analizziamo IL SILENZIO DEGLI INNOCENTI e andiamo alla caccia del MIGLIOR THRILLER",
+        "youtubeUrl": "https://www.youtube.com/watch?v=a-1rLHAavJA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Analizziamo IL SILENZIO DEGLI INNOCENTI e andiamo alla caccia del MIGLIOR THRILLER - Ep. 32 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3806
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000761046992",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 31 St. 2 - PORTOBELLO è una serie tv BELLISSIMA!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Yo4zAEJALgo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "PORTOBELLO è una serie tv BELLISSIMA! - Ep. 31 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 4063
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000758158919",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 29 St. 2 - A History of Violence, Cronenberg, È l'ultima battuta e La mattina scrivo",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0sqLRmrSQck",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Analisi di A History of Violence! - Ep. 29 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3313
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000756710211",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ci sarà piaciuto Project Hail Mary? + Viaggio tra i migliori film Sci-Fi - Ep. 28 St. 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=vDLyRO3G_tQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ci sarà piaciuto Project Hail Mary? - Ep. 28 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3190
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000753966220",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Nouvelle Vague: la nostra recensione... e non solo! - Ep. 26 St. 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=K1SwECtEuDk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "NOUVELLE VAGUE, SE SOLO POTESSI… e JUMPERS: la nostra opinione - Ep. 26 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2973
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000752416226",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Abbiamo recuperato SINNERS! + PILLION, DUE PROCURATORI e IL SUONO DI UNA CADUTA - Ep. 25 ST. 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0JSm8pDV84s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "SINNERS è un GRANDISSIMO FILM?  - Ep. 25 ST. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3704
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000750974597",
+      "score": 112,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "CIME TEMPESTOSE ci ha lasciati TIEPIDI… e vi spieghiamo perché! + Rental Family e ricordi - Ep. 24 St. 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ul6B5zW45xQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "CIME TEMPESTOSE ci ha lasciati TIEPIDI… e vi spieghiamo perché! - Ep. 24 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3165
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000743153551",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "La nostra TOP 5 dei FILM del 2025 - Ep. 16 St. 2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=cQhIrXijM48",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "La nostra TOP 5 dei FILM del 2025 - Ep. 16 St. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3761
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000740191206",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Si parla di filmoni con focus su Barry Lyndon - Ep.13 St.2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9YfYCfAF1_c",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "We're talking about big movies with a focus on Barry Lyndon - Ep. 13 Season 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3279
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000730364126",
+      "score": 108,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "One Battle After Another è il capolavoro del 2025? Ep.3 St.2",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Foz_k4QjMxw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Is One Battle After Another the Masterpiece of 2025? Ep. 3 S. 2",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 4190
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000713106210",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 36 - I 50 anni de Lo Squalo!",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BYqW_QxXXso",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep. 36 - I 50 anni de Lo Squalo!",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2928
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000684659466",
+      "score": 106,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 16 - Omaggio a David Lynch",
+        "youtubeUrl": "https://www.youtube.com/watch?v=S4DNZdWOdYI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep. 16 - Homage to David Lynch",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3106
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000677315703",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep. 7 - Ma com’è questo Gladiatore II?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=LfhEnhOZU74",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep. 7 - Abbiamo visto Il Gladiatore II!",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 3158
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000676490381",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep.6 - Ma quanto è disturbante The Substance?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=WhQTWkgCvb4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep.6 - Ma allora questo The Substance?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2942
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000672111943",
+      "score": 104,
+      "record": {
+        "podcast": "Noodles - Podcast di Cinema",
+        "episode": "Ep.1 - Ma com'è il nuovo Joker?",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7tj1jrokE0k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ep.1 - Ma com'è il nuovo Joker?",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1772705410",
+        "youtubeChannelId": "UCiB0SJz2_U1LKfXMseOONjA",
+        "youtubeDurationSeconds": 2503
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000756342862",
+      "score": 104,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Re di cuori - Primavera da fragole di Stephen King (audioracconto completo e commento sugli adattamenti)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=5Kssnjom8S4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Re di cuori - Primavera da fragole di Stephen King (audioracconto completo e commento sugli adatt...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 2442
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000754403862",
+      "score": 104,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Roulette - Nightmare 2: La Rivincita, di Jack Sholder (A Nightmare on Elm Street Part 2: Freddy's Revenge, 1985)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=KT2kmy1M02s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Roulette - Nightmare 2: La Rivincita, di Jack Sholder (A Nightmare on Elm Street Part 2: Freddy's...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 6169
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000747814767",
+      "score": 103,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "All in - Silent Hill (2006), Silent Hill Revelation 3D (2012) e Return to Silent Hill (2026) feat. La Lanterna Magica",
+        "youtubeUrl": "https://www.youtube.com/watch?v=r_z_xaa2Hg4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "All in - Silent Hill (2006), Silent Hill Revelation 3D (2012) e Return to Silent Hill (2026) feat...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 5248
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000744905233",
+      "score": 100,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Re di Cuori - Risacca notturna di Stephen King, Oren Benamor e Tony Pomfret (Night surf, 1969, 2001 e 2014)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=MuTDRSl_zxc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Audiolibro completo Risacca notturna di Stephen King (Night surf, 1969)",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 1591
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000736701226",
+      "score": 104,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Roulette - La casa dalle finestre che ridono (Pupi Avati, 1976) feat. Emilia Dimenticata e La Lanterna Magica",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gJHssG3j3MY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Roulette - La casa dalle finestre che ridono (Pupi Avati, 1976) feat. Emilia Dimenticata e La Lan...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 4576
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000710225813",
+      "score": 105,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Re di cuori - Finestra segreta, giardino segreto di Stephen King (1990) e Secret Window di David Koepp (2004)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=V-V3G_jxw0Y",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Re di cuori - Finestra segreta, giardino segreto di Stephen King (1990) e Secret Window di David ...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 2959
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000704916919",
+      "score": 104,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Re di Cuori - Rita Hayworth e la redenzione di Shawshank di Stephen King e Le ali della libertà di Frank Darabont",
+        "youtubeUrl": "https://www.youtube.com/watch?v=j70JNNXNZ5o",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Re di Cuori - Rita Hayworth e la redenzione di Shawshank di Stephen King e Le ali della libertà d...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 2831
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000668364160",
+      "score": 103,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Speciale Carcosa Origin - con annuncio e audioracconto completo di Un cittadino di Carcosa di Ambrose Bierce",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0eTG0LBTmwU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Speciale Carcosa Origin - con annuncio e audioracconto completo di Un cittadino di Carcosa di Amb...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 1714
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000666401148",
+      "score": 100,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Re di cuori - Il tagliaerbe o La falciatrice (The lawnmower man) di Stephen King, Brett Leonard e Farhad Mann",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GuXwDceJd8Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Audiolibro completo Il tagliaerbe o La falciatrice (The lawnmower man) di Stephen King",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 2106
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000648070022",
+      "score": 105,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Ventuno - The Ritual (David Bruckner, 2017) e The Lodge (Veronika Franz e Severin Fiala, 2019) [con Beatrice]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NLi1Caw6GGQ",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Ventuno - The Ritual (David Bruckner, 2017) e The Lodge (Veronika Franz e Severin Fiala, 2019) [c...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 4044
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000633622154",
+      "score": 102,
+      "record": {
+        "podcast": "Casinò Carcosa - Horror Podcast",
+        "episode": "Roulette - Morte a 33 giri (Trick or treat, 1986) di Charles Michael Smith - SPECIAL GUESTS MonMusique e Voci dal Sottobosco",
+        "youtubeUrl": "https://www.youtube.com/watch?v=lfAJZLlV9-Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Roulette - Morte a 33 giri (Trick or treat, 1986) di Charles Michael Smith - SPECIAL GUESTS MonMu...",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-26T15:33:39.197840+00:00",
+        "appleCollectionId": "1648133507",
+        "youtubeChannelId": "UCtkNfKgF7z3MXAgm5BvVPjw",
+        "youtubeDurationSeconds": 4203
+      },
+      "sourceGeneratedAt": "2026-11-26T15:33:38.772113+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }
