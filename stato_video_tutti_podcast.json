@@ -241,7 +241,7 @@
     },
     "1694669718": {
       "name": "De Core - Podcast",
-      "lastAttempt": "2026-11-26T15:29:08.756468+00:00",
+      "lastAttempt": "2026-11-27T15:16:08.458554+00:00",
       "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
       "status": "ERRORE",
       "discoveryRevision": 4,
@@ -14339,12 +14339,12 @@
     },
     "1511057761": {
       "name": "The Boulet Brothers' Creatures of the Night",
-      "lastAttempt": "2026-11-26T15:29:08.756373+00:00",
+      "lastAttempt": "2026-11-27T15:13:36.024452+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCDY_saaWG2aB_E4Rvv0iEeA",
       "youtubeSourceUrl": "https://www.youtube.com/c/BouletBrothersProductions",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1589395643": {
       "name": "Ross(y) • Stup • & • Friends",
@@ -14362,21 +14362,21 @@
     },
     "1847901984": {
       "name": "Boring History For Sleep | Gentle Storytelling And Ambient Sounds (Official)",
-      "lastAttempt": "2026-11-26T15:29:08.756406+00:00",
+      "lastAttempt": "2026-11-27T15:13:44.024617+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCeU3w3LcEUaVl1PyZDfA2Gg",
       "youtubeSourceUrl": "https://www.youtube.com/@HistoryAndSleep",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1111739567": {
       "name": "The Watch",
-      "lastAttempt": "2026-11-26T15:29:08.756430+00:00",
+      "lastAttempt": "2026-11-27T15:13:52.331290+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCd9DFe4UrhLBmjVNUFCKrSg",
       "youtubeSourceUrl": "https://www.youtube.com/@Ringer-TV",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1254073246": {
       "name": "/Film Weekly",
@@ -14457,12 +14457,12 @@
     },
     "1358031226": {
       "name": "And the Runner-Up Is",
-      "lastAttempt": "2026-11-26T15:29:38.515543+00:00",
+      "lastAttempt": "2026-11-27T15:14:01.104318+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCV6eaDHkaoEGq46gebt6Tsw",
       "youtubeSourceUrl": "https://www.youtube.com/@KevinJacobsen1",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1624254511": {
       "name": "BravBros",
@@ -14473,12 +14473,12 @@
     },
     "1387310266": {
       "name": "We Love to Hate Everything",
-      "lastAttempt": "2026-11-26T15:29:44.496259+00:00",
+      "lastAttempt": "2026-11-27T15:14:08.111103+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCDM9Gf-5rKEfPiqED7zvL8w",
       "youtubeSourceUrl": "https://www.youtube.com/@LovetoHatePod",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1186949878": {
       "name": "Die Anstalt (VIDEO)",
@@ -14489,21 +14489,21 @@
     },
     "1512574444": {
       "name": "Blow Out - Frammenti di cinema",
-      "lastAttempt": "2026-11-26T15:29:51.339041+00:00",
+      "lastAttempt": "2026-11-27T15:14:18.589201+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCsY6Apxr-56tWucWl_E09IA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCsY6Apxr-56tWucWl_E09IA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1563792491": {
       "name": "I Am All In with Scott Patterson",
-      "lastAttempt": "2026-11-26T15:29:55.123472+00:00",
+      "lastAttempt": "2026-11-27T15:14:25.781740+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
       "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1483635687": {
       "name": "Хороший Поганий Злий Подкаст",
@@ -14514,12 +14514,12 @@
     },
     "515836681": {
       "name": "A Cast of Kings - A Lord of the Rings Podcast",
-      "lastAttempt": "2026-11-26T15:29:59.714814+00:00",
+      "lastAttempt": "2026-11-27T15:14:35.455375+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCtfT_sKutzeLdCsG_DuxBrQ",
       "youtubeSourceUrl": "https://www.youtube.com/@decodingtv",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1478541296": {
       "name": "Sideburns & Cigarettes: A Lupin III Podcast",
@@ -14530,21 +14530,21 @@
     },
     "1744401551": {
       "name": "That Was Us",
-      "lastAttempt": "2026-11-26T15:30:07.647152+00:00",
+      "lastAttempt": "2026-11-27T15:14:43.325413+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCV58y_DbGkuYCNQC2OjJWOw",
       "youtubeSourceUrl": "https://www.youtube.com/c/HeadGum",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1529357266": {
       "name": "Buffy the Gilmore Slayer: A Buffy and Gilmore Girls Podcast",
-      "lastAttempt": "2026-11-26T15:30:09.895355+00:00",
+      "lastAttempt": "2026-11-27T15:14:49.684795+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCAJYWrG9sdf9Q10JrQcu_8A",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCAJYWrG9sdf9Q10JrQcu_8A",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1470561691": {
       "name": "展开讲讲",
@@ -14562,21 +14562,21 @@
     },
     "1090600339": {
       "name": "John Campea Show",
-      "lastAttempt": "2026-11-26T15:30:19.362359+00:00",
+      "lastAttempt": "2026-11-27T15:14:53.456967+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCYyDbdaja1UDNdFSwUrYVGA",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UCYyDbdaja1UDNdFSwUrYVGA",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1586390793": {
       "name": "The Prestige TV Podcast",
-      "lastAttempt": "2026-11-26T15:30:21.821910+00:00",
+      "lastAttempt": "2026-11-27T15:15:03.795721+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCd9DFe4UrhLBmjVNUFCKrSg",
       "youtubeSourceUrl": "https://www.youtube.com/@Ringer-TV",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1540370040": {
       "name": "That's Messed Up: An SVU Podcast",
@@ -14615,21 +14615,21 @@
     },
     "1581853115": {
       "name": "X-Ray Vision",
-      "lastAttempt": "2026-11-26T15:30:40.135378+00:00",
+      "lastAttempt": "2026-11-27T15:15:12.093144+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
       "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1124549378": {
       "name": "The Cine-Files",
-      "lastAttempt": "2026-11-26T15:30:44.269900+00:00",
+      "lastAttempt": "2026-11-27T15:15:20.756149+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCJbC0JNZrcIMVDYNOfI0nYQ",
       "youtubeSourceUrl": "https://www.youtube.com/@TheCineFiles",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1562467810": {
       "name": "The House Of Hammer",
@@ -14668,12 +14668,12 @@
     },
     "1726377491": {
       "name": "ScreenRadio",
-      "lastAttempt": "2026-11-26T15:31:02.434843+00:00",
+      "lastAttempt": "2026-11-27T15:15:28.478124+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCKB6sWpk9W_U6Cf49-oxutg",
       "youtubeSourceUrl": "https://www.youtube.com/c/ScreenWorld_it",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1381507437": {
       "name": "Unspooled",
@@ -14740,12 +14740,12 @@
     },
     "1837079690": {
       "name": "The Danielle Fishel Shows",
-      "lastAttempt": "2026-11-26T15:31:34.870971+00:00",
+      "lastAttempt": "2026-11-27T15:15:37.605673+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
       "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "593308372": {
       "name": "Bald Move Pulp",
@@ -14756,12 +14756,12 @@
     },
     "1400296642": {
       "name": "Film Stories with Simon Brew",
-      "lastAttempt": "2026-11-26T15:31:41.498249+00:00",
+      "lastAttempt": "2026-11-27T15:15:45.271066+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC98wJIJ_nkI8oZZUjQ9vHfw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC98wJIJ_nkI8oZZUjQ9vHfw",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1645109815": {
       "name": "AMC+ The Vampire Lestat: After Dark",
@@ -14793,12 +14793,12 @@
     },
     "1836227926": {
       "name": "One Chicago Podcast",
-      "lastAttempt": "2026-11-26T15:31:55.408999+00:00",
+      "lastAttempt": "2026-11-27T15:15:53.739092+00:00",
       "discoveryRevision": 4,
       "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
       "youtubeChannelId": "UCywEi7aF6_eVUzjmyCejvpg",
       "youtubeSourceUrl": "https://www.youtube.com/@nbconechicago",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1042433465": {
       "name": "Little Gold Men by Vanity Fair",
@@ -14809,12 +14809,12 @@
     },
     "1627891759": {
       "name": "Back to the Barre",
-      "lastAttempt": "2026-11-26T15:32:04.143089+00:00",
+      "lastAttempt": "2026-11-27T15:15:58.424228+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UCnvfxfVgd5f5gdRWbHgjtTg",
       "youtubeSourceUrl": "https://www.youtube.com/@officialbacktothebarre",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "1896899913": {
       "name": "Trash Office",
@@ -14881,12 +14881,12 @@
     },
     "445221220": {
       "name": "AVICII FM",
-      "lastAttempt": "2026-11-26T15:32:47.674203+00:00",
+      "lastAttempt": "2026-11-27T15:16:04.379529+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC1SqP7_RfOC9Jf9L_GRHANg",
       "youtubeSourceUrl": "https://www.youtube.com/user/AviciiOfficialVEVO",
-      "status": "DA_SCANSIONARE"
+      "status": "SCANSIONATO"
     },
     "718852025": {
       "name": "Franky Rizardo presents FLOW",
@@ -14897,7 +14897,7 @@
     },
     "1535809341": {
       "name": "The Joe Budden Podcast",
-      "lastAttempt": "2026-11-26T15:32:53.331481+00:00",
+      "lastAttempt": "2026-11-27T15:16:08.458496+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_NEL_FEED_APPLE",
       "youtubeChannelId": "UC23_r1bpkTWaBltbXsQxysA",
@@ -14962,7 +14962,7 @@
     },
     "1513363785": {
       "name": "FG MIX",
-      "lastAttempt": "2026-11-26T15:33:20.948893+00:00",
+      "lastAttempt": "2026-11-27T15:16:08.458516+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UCEl84YJYwI2JnxK7tSkX6NA",
@@ -14992,12 +14992,580 @@
     },
     "357007111": {
       "name": "Discology Il podcast dedicato alla dance anni 90",
-      "lastAttempt": "2026-11-26T15:33:34.009465+00:00",
+      "lastAttempt": "2026-11-27T15:16:08.458525+00:00",
       "discoveryRevision": 4,
       "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
       "youtubeChannelId": "UC9h1Ssi-HYEA1jcoZpzbqlw",
       "youtubeSourceUrl": "https://www.youtube.com/channel/UC9h1Ssi-HYEA1jcoZpzbqlw",
       "status": "DA_SCANSIONARE"
+    },
+    "285097604": {
+      "name": "Toolroom Radio",
+      "lastAttempt": "2026-11-27T15:16:08.983935+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1530292314": {
+      "name": "WAN DEEP SESSION",
+      "lastAttempt": "2026-11-27T15:16:10.763656+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UC3-KJIB3z5jM4WpBI-TKoTQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "575308520": {
+      "name": "AOKI'S HOUSE",
+      "lastAttempt": "2026-11-27T15:16:12.307632+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1713514198": {
+      "name": "憩泊声景：冥想与专注 | 享受一小时的静谧安然",
+      "lastAttempt": "2026-11-27T15:16:15.892008+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1778442969": {
+      "name": "百听不厌经典流行歌曲",
+      "lastAttempt": "2026-11-27T15:16:20.908018+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1299543811": {
+      "name": "Troll in The Sky",
+      "lastAttempt": "2026-11-27T15:16:23.676424+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "6793901100": {
+      "name": "Chillhouse Live - Deep House Mixes",
+      "lastAttempt": "2026-11-27T15:16:26.574018+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NEL_FEED_APPLE",
+      "youtubeChannelId": "UCLFnZ3Kgdgysery-nLVtoxA",
+      "youtubeSourceUrl": "https://www.youtube.com/@chillhouselive",
+      "status": "DA_SCANSIONARE"
+    },
+    "85839786": {
+      "name": "Fish Go Deep Podcast",
+      "lastAttempt": "2026-11-27T15:16:29.454802+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "270338166": {
+      "name": "Pure Trance Radio Podcast with Solarstone",
+      "lastAttempt": "2026-11-27T15:16:31.299301+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "307580286": {
+      "name": "Perfecto Podcast: featuring Paul Oakenfold",
+      "lastAttempt": "2026-11-27T15:16:34.317003+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "561124694": {
+      "name": "Protocol Radio",
+      "lastAttempt": "2026-11-27T15:16:37.460156+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1461515071": {
+      "name": "The Zane Lowe Interview Series",
+      "lastAttempt": "2026-11-27T15:16:43.160577+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1839309598": {
+      "name": "PROGRAMIQA Radio: Global DJs & Resident Shows",
+      "lastAttempt": "2026-11-27T15:16:43.388032+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "537991360": {
+      "name": "Trance Evolution Podcast",
+      "lastAttempt": "2026-11-27T15:16:51.349154+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1846576913": {
+      "name": "JOE T VANNELLI Podcast  \"Slave To The Rhythm\"",
+      "lastAttempt": "2026-11-27T15:16:51.498103+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCrSh8D5DkJa0CWSn1s3WLuQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/joetvannelli",
+      "status": "DA_SCANSIONARE"
+    },
+    "323449796": {
+      "name": "Beach House Podcast",
+      "lastAttempt": "2026-11-27T15:16:59.754205+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1272681420": {
+      "name": "Sugar Radio Show",
+      "lastAttempt": "2026-11-27T15:17:00.282533+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_NELLA_PAGINA_UFFICIALE_DEL_PODCAST",
+      "youtubeChannelId": "UC-GrbMnNpo14PaTzjosxsMg",
+      "youtubeSourceUrl": "https://www.youtube.com/@FrederikAbas",
+      "status": "DA_SCANSIONARE"
+    },
+    "1648394246": {
+      "name": "Chillout Café",
+      "lastAttempt": "2026-11-27T15:17:07.062273+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "296499169": {
+      "name": "Euphonic Sessions with Kyau & Albert",
+      "lastAttempt": "2026-11-27T15:17:07.605586+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "440260757": {
+      "name": "Hysteria Radio",
+      "lastAttempt": "2026-11-27T15:17:10.340721+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1670947637": {
+      "name": "PVC",
+      "lastAttempt": "2026-11-27T15:17:14.197248+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "273489899": {
+      "name": "Record Review Podcast",
+      "lastAttempt": "2026-11-27T15:17:20.886165+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "302010507": {
+      "name": "John O'Callaghan Podcast",
+      "lastAttempt": "2026-11-27T15:17:21.869078+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1845902903": {
+      "name": "Musica Per Noi - Il Podcast Dedicato a Mina",
+      "lastAttempt": "2026-11-27T15:17:25.200781+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCTH0x61MrBG35qWKDLYSi7Q",
+      "youtubeSourceUrl": "https://www.youtube.com/@musicapernoi_pod",
+      "status": "DA_SCANSIONARE"
+    },
+    "1561127193": {
+      "name": "The Rock Show",
+      "lastAttempt": "2026-11-27T15:17:28.468735+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCU-KdXMsmhKdqnYpjGITBuQ",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCU-KdXMsmhKdqnYpjGITBuQ",
+      "status": "DA_SCANSIONARE"
+    },
+    "1134061502": {
+      "name": "Magician On Duty Journey Series",
+      "lastAttempt": "2026-11-27T15:17:31.920059+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "337908494": {
+      "name": "¡Buenos días, Javi y Mar!",
+      "lastAttempt": "2026-11-27T15:17:34.916938+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCk7_W_QBCqMTYcVVQaImYUA",
+      "youtubeSourceUrl": "https://www.youtube.com/@CADENA100",
+      "status": "DA_SCANSIONARE"
+    },
+    "1741314109": {
+      "name": "100 Songs - Geschichte wird gemacht",
+      "lastAttempt": "2026-11-27T15:17:38.295559+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1531349107": {
+      "name": "Urbana Radio Show",
+      "lastAttempt": "2026-11-27T15:17:41.746214+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1128343449": {
+      "name": "Deep House Cats - SA",
+      "lastAttempt": "2026-11-27T15:17:44.543045+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1706935341": {
+      "name": "Questione di riflessi",
+      "lastAttempt": "2026-11-27T15:17:46.948202+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1275172907": {
+      "name": "DISGRACELAND",
+      "lastAttempt": "2026-11-27T15:17:50.474617+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UC5yhyzCsG9ceiT2Xes0SGvQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@disgracelandpod",
+      "status": "DA_SCANSIONARE"
+    },
+    "513117071": {
+      "name": "Groovegsus Livesets",
+      "lastAttempt": "2026-11-27T15:17:52.707539+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "STESSO_LINK_YOUTUBE_IN_TRE_EPISODI_DEL_FEED",
+      "youtubeChannelId": "UCUQpcqwWMfczVWIFbZbSvmQ",
+      "youtubeSourceUrl": "https://www.youtube.com/user/misterskyandsand",
+      "status": "DA_SCANSIONARE"
+    },
+    "796512132": {
+      "name": "Fedde Le Grand - Darklight Sessions",
+      "lastAttempt": "2026-11-27T15:17:56.099180+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1263891308": {
+      "name": "Ibiza Unique pres. Electronic Infusion",
+      "lastAttempt": "2026-11-27T15:17:59.053810+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "809474896": {
+      "name": "LEOMEO",
+      "lastAttempt": "2026-11-27T15:18:03.262089+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "301295540": {
+      "name": "John 00 Fleming presents JOOF Radio",
+      "lastAttempt": "2026-11-27T15:18:04.466283+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCOEwwC5z_bPCqo81-pvyLOw",
+      "youtubeSourceUrl": "https://www.youtube.com/user/JOOFrecordings",
+      "status": "DA_SCANSIONARE"
+    },
+    "884562443": {
+      "name": "Find Your Harmony Radioshow",
+      "lastAttempt": "2026-11-27T15:18:11.207653+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1642630981": {
+      "name": "The Paletero Mix",
+      "lastAttempt": "2026-11-27T15:18:11.613480+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 404: Not Found",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1452608225": {
+      "name": "Evolution of a Snake: The Taylor Swift Fan Podcast",
+      "lastAttempt": "2026-11-27T15:18:15.173438+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1138348280": {
+      "name": "أندر التلاوات للشيخ عبد الباسط عبد الصمد",
+      "lastAttempt": "2026-11-27T15:18:17.659413+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: The read operation timed out",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1708242412": {
+      "name": "Sidetracked with Annie and Nick",
+      "lastAttempt": "2026-11-27T15:18:33.745291+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1173608108": {
+      "name": "Radio Rock FM 106.6",
+      "lastAttempt": "2026-11-27T15:18:34.489879+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1880097970": {
+      "name": "All Songs Considered",
+      "lastAttempt": "2026-11-27T15:18:38.228751+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1295427046": {
+      "name": "Dogglounge Deep House Radio | Streaming Deep House 24/7",
+      "lastAttempt": "2026-11-27T15:18:44.463422+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC2NQxpLCYqMXKcO12O1vG5A",
+      "youtubeSourceUrl": "https://www.youtube.com/@doggloungeradio9041",
+      "status": "DA_SCANSIONARE"
+    },
+    "1726561444": {
+      "name": "Piccolo dizionario della musica classica",
+      "lastAttempt": "2026-11-27T15:18:45.438010+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1342674932": {
+      "name": "You'll Hear It: Full Album Deep Dives with Jazz Musicians",
+      "lastAttempt": "2026-11-27T15:19:04.193775+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCbEFvUhe-QuH9-0Ksno9dwA",
+      "youtubeSourceUrl": "https://www.youtube.com/@OpenStudioJazz",
+      "status": "DA_SCANSIONARE"
+    },
+    "1455828681": {
+      "name": "Le Disque classique du jour",
+      "lastAttempt": "2026-11-27T15:19:05.721636+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "294503455": {
+      "name": "Nothing But The Blues",
+      "lastAttempt": "2026-11-27T15:19:07.465864+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "301723255": {
+      "name": "Nuestro flamenco",
+      "lastAttempt": "2026-11-27T15:19:11.006449+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1346543786": {
+      "name": "DJ LOFT Mixes",
+      "lastAttempt": "2026-11-27T15:19:13.702800+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1457556201": {
+      "name": "Radio EelST",
+      "lastAttempt": "2026-11-27T15:19:19.428007+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCITYW3eAeHzfiFfBx2JXOsw",
+      "youtubeSourceUrl": "https://www.youtube.com/user/elioelestorietese",
+      "status": "DA_SCANSIONARE"
+    },
+    "1542123250": {
+      "name": "Locomotive Breath",
+      "lastAttempt": "2026-11-27T15:19:20.988768+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1485250501": {
+      "name": "The Questlove Show",
+      "lastAttempt": "2026-11-27T15:19:25.973234+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1054135564": {
+      "name": "Uplifting Trance Sessions with DJ Phalanx (Trance Podcast)",
+      "lastAttempt": "2026-11-27T15:19:27.662605+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1541049287": {
+      "name": "L'Opera",
+      "lastAttempt": "2026-11-27T15:19:32.766387+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1201883177": {
+      "name": "שיר אחד One Song",
+      "lastAttempt": "2026-11-27T15:19:34.351948+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "SITO_INACCESSIBILE: HTTP Error 403: Forbidden",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1848136572": {
+      "name": "Mozart, scene dai viaggi in Italia",
+      "lastAttempt": "2026-11-27T15:19:36.372757+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1583233833": {
+      "name": "Trap Kreyol & Rap Kreyol MixTape",
+      "lastAttempt": "2026-11-27T15:19:41.892166+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UC-PbLusIBd3ECYtvz-f0EcQ",
+      "youtubeSourceUrl": "https://www.youtube.com/@audiomackworld",
+      "status": "DA_SCANSIONARE"
+    },
+    "1331677285": {
+      "name": "Psy-Nation Radio",
+      "lastAttempt": "2026-11-27T15:19:43.330136+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1648160924": {
+      "name": "L'Aria che Tira - Pillole di Lirica",
+      "lastAttempt": "2026-11-27T15:19:47.381802+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1875668160": {
+      "name": "无损音乐",
+      "lastAttempt": "2026-11-27T15:19:48.563902+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "352470287": {
+      "name": "Bryan Kearney",
+      "lastAttempt": "2026-11-27T15:20:03.612786+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "550133894": {
+      "name": "Tronic Radio",
+      "lastAttempt": "2026-11-27T15:20:06.768537+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/ChristianSmithTV",
+      "status": "DA_SCANSIONARE"
+    },
+    "1215386938": {
+      "name": "Sticky Notes: The Classical Music Podcast",
+      "lastAttempt": "2026-11-27T15:20:09.982638+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1673723227": {
+      "name": "Nature Sounds Oasis | Relaxing Nature Sounds For Sleep, Meditation, Relaxation Or Focus | Sounds Of Nature | Sleep Sounds, Sl",
+      "lastAttempt": "2026-11-27T15:20:10.683763+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1838476581": {
+      "name": "Volume",
+      "lastAttempt": "2026-11-27T15:20:13.696849+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1586459691": {
+      "name": "Afterwork Techno Sessions – Techno Podcast, Raw & Hypnotic Techno Mixes",
+      "lastAttempt": "2026-11-27T15:20:22.048587+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "472939437": {
+      "name": "Here's The Thing with Alec Baldwin",
+      "lastAttempt": "2026-11-27T15:20:23.857151+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCoBMK97ZfZmRCqIwMQYdicA",
+      "youtubeSourceUrl": "https://www.youtube.com/user/iHeartRadio",
+      "status": "DA_SCANSIONARE"
+    },
+    "1477858035": {
+      "name": "Relax !",
+      "lastAttempt": "2026-11-27T15:20:26.601087+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "FEED_NON_HTTPS_O_NON_PUBBLICO",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1495604041": {
+      "name": "No Dogs in Space",
+      "lastAttempt": "2026-11-27T15:20:28.476753+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "LINK_SUL_SITO_INDICATO_DAL_FEED",
+      "youtubeChannelId": "UCSJMy8XBtaSZGuV5xpCHWQw",
+      "youtubeSourceUrl": "https://www.youtube.com/channel/UCSJMy8XBtaSZGuV5xpCHWQw",
+      "status": "DA_SCANSIONARE"
+    },
+    "1405587116": {
+      "name": "1001Tracklists Exclusive Mixes",
+      "lastAttempt": "2026-11-27T15:20:31.965600+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1506866792": {
+      "name": "Alien Air Podcast",
+      "lastAttempt": "2026-11-27T15:20:35.957591+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1779627377": {
+      "name": "Afrojack - Jacked Radio",
+      "lastAttempt": "2026-11-27T15:20:38.286118+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1292843634": {
+      "name": "DJ MANIAK Official Podcast",
+      "lastAttempt": "2026-11-27T15:20:42.490087+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
+    },
+    "1520556873": {
+      "name": "Scorchin' Radio - Latest In Progressive & Hybrid Trance",
+      "lastAttempt": "2026-11-27T15:20:44.064426+00:00",
+      "discoveryRevision": 4,
+      "channelProof": "CANALE_YOUTUBE_NON_VERIFICABILE",
+      "status": "SENZA_CANALE_VERIFICABILE"
     }
   },
   "chartShows": {
