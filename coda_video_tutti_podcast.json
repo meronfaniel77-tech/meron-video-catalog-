@@ -109821,6 +109821,586 @@
       },
       "sourceGeneratedAt": "2026-11-27T15:20:50.762380+00:00",
       "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000801188099",
+      "score": 100,
+      "record": {
+        "podcast": "The Joe Budden Podcast",
+        "episode": "Episode 980 | \"Take More Sauce\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=7RdGf0PQWk0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Joe Budden Podcast Episode 980 | Take More Sauce",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1535809341",
+        "youtubeChannelId": "UC23_r1bpkTWaBltbXsQxysA",
+        "youtubeDurationSeconds": 10050
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792360213",
+      "score": 100,
+      "record": {
+        "podcast": "The Joe Budden Podcast",
+        "episode": "Episode 968 | \"Caught Green Handed\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=gix885lqfyA",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Joe Budden Podcast Episode 968 | Caught Green Handed",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1535809341",
+        "youtubeChannelId": "UC23_r1bpkTWaBltbXsQxysA",
+        "youtubeDurationSeconds": 9652
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000791716703",
+      "score": 100,
+      "record": {
+        "podcast": "The Joe Budden Podcast",
+        "episode": "Episode 967 | \"Guys Love Karaoke\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=GrBL86W2Vt4",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Joe Budden Podcast Episode 967 | Guys Love Karaoke",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1535809341",
+        "youtubeChannelId": "UC23_r1bpkTWaBltbXsQxysA",
+        "youtubeDurationSeconds": 11741
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000786001153",
+      "score": 100,
+      "record": {
+        "podcast": "The Joe Budden Podcast",
+        "episode": "Episode 958 | \"Quarterly Cheating Updates\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=-ehNTXo9l7Q",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Joe Budden Podcast Episode 958 | Quarterly Cheating Updates",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1535809341",
+        "youtubeChannelId": "UC23_r1bpkTWaBltbXsQxysA",
+        "youtubeDurationSeconds": 11024
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000783426343",
+      "score": 100,
+      "record": {
+        "podcast": "The Joe Budden Podcast",
+        "episode": "Episode 955 | \"Lights, Lies, Action\"",
+        "youtubeUrl": "https://www.youtube.com/watch?v=Ww9smqynfgw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "The Joe Budden Podcast Episode 955 | Lights, Lies, Action",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1535809341",
+        "youtubeChannelId": "UC23_r1bpkTWaBltbXsQxysA",
+        "youtubeDurationSeconds": 9356
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000804418050",
+      "score": 110,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #812 | QUANTOM x LOYARSA (AR) – WORKOUT RAVE MIX | Peak Time & Hard Techno [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=jaSZLMsAiNY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #812 (QUANTOM x Deni Blaq Exclusive Mix Vol. XXVI. @ MELODIC ROOM) [MELODIC TECHNO",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 7279
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000801771284",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #809 | QUANTOM x DJ CASE | Hard & Hypnotic Techno Mix (3:00 AM Rave Edition) [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=P97KwLPZmF8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #809 | QUANTOM x DJ CASE | Hard & Hypnotic Techno Mix (3:00 AM Rave Edition) [Fr...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 3084
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000798949983",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #807 | QUANTOM x ASTROBLAST – TECHNO EXPOSITION RAVE MIX | Peak Time & Hard Techno [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=aANCyp421t0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #807 | QUANTOM x ASTROBLAST – TECHNO EXPOSITION RAVE MIX | Peak Time & Hard Tech...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 2503
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000797940535",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #806 | BORIS BREJCHA & HOZHO & FRIENDS – HIGH TECH MINIMAL MEGAMIX | The Best & Unreleased IDs 2026",
+        "youtubeUrl": "https://www.youtube.com/watch?v=q-qibSRmdjU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #806 | BORIS BREJCHA & HOZHO & FRIENDS – HIGH TECH MINIMAL MEGAMIX | The Best & ...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 3602
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000796812749",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #806 | QUANTOM x LOKREN – B2B WAREHOUSE MIX | Peak Time - Driving Techno [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=q5UWf6kdmPU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #806 | QUANTOM x LOKREN – B2B WAREHOUSE MIX | Peak Time - Driving Techno [Free P...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 2236
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000794527805",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #805 | QUANTOM x DENI BLAQ – MELODIC ROOM MIXES | Sunset Studio Mix Prague [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=0eTOAy8n_s0",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #805 | QUANTOM x DENI BLAQ – MELODIC ROOM MIXES | Sunset Studio Mix Prague [Free...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 2504
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000792860569",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #804 | QUANTOM x NUBIA – B2B LIVE MIX | Peak Time - Driving Techno (Tulum Edition) [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=6sFV2XJDao8",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #804 | QUANTOM x NUBIA – B2B LIVE MIX | Peak Time - Driving Techno (Tulum Editio...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 2582
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000789033829",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #801 | QUANTOM – FITNESS WORKOUT MIX Vol. LXII | Peak Time - Driving Techno [Free Preview]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=V_K7ZuO4hMk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #801 | QUANTOM – FITNESS WORKOUT MIX Vol. LXII | Peak Time - Driving Techno [Fre...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 1932
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000787835599",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #800 | QUANTOM Live @ FIDELITY FESTIVAL 2026 | MELODIC & PEAK TIME TECHNO (Free Preview)",
+        "youtubeUrl": "https://www.youtube.com/watch?v=EMqjA25eYtY",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #800 | QUANTOM Live @ FIDELITY FESTIVAL 2026 | MELODIC & PEAK TIME TECHNO (Free ...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 3727
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000779406508",
+      "score": 110,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #797 | BORIS BREJCHA | Unreleased IDs Preview Mix [FULL MIX ON PATREON]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=BGlL8M7rJyw",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "BORIS BREJCHA | Unreleased IDs Mix | WDS #797 [FULL MIX ON PATREON]",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 1217
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000776238637",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #794 | QUANTOM & Deni Blaq | Afrobeat & Melodic Techno Mix 2026 [FREE PUBLIC VERSION]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=rIq6A32IM0s",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #794 | QUANTOM & Deni Blaq | Afrobeat & Melodic Techno Mix 2026 [FREE PUBLIC VER...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 2833
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000774900287",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #792 (QUANTOM | NOCTURNAL SIGNAL MIX | Melodic | Ethereal Techno) [FREE PUBLIC VERSION] [SUMMER SALE CODE IN DESCRIBTION]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=bNqnHoZuG9g",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #792 (QUANTOM | NOCTURNAL SIGNAL MIX | Melodic | Ethereal Techno) [FREE PUBLIC V...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 2793
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000771537905",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #791 (QUANTOM | FIFA WORLD CUP 2026 Warm-Up Set | Melodic / Ethereal Techno Live @ SiriusXM Radio) [FREE PUBLIC VERSION]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4zeunoemoJI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #791 (QUANTOM | FIFA WORLD CUP 2026 Warm-Up Set | Melodic / Ethereal Techno Live...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 5735
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768989970",
+      "score": 112,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #790 (BORIS BREJCHA Exclusive Unreleased Music Mix 2026 - FREE VERSION) [HIGH-TECH MINIMAL TECHNO | MINIMAL TECHNO]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=uuYQuwPsTPU",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WAN DEEP SESSION #790 (BORIS BREJCHA Exclusive Unreleased Music Mix 2026 - FREE VERSION) [HIGH-TE...",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 3689
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000601364996",
+      "score": 110,
+      "record": {
+        "podcast": "WAN DEEP SESSION",
+        "episode": "WAN DEEP SESSION #700 (QUANTOM x TZAR Live Anniversary Mix) [PEAK TIME - DRIVING TECHNO | HARD TECHNO] [EXCLUSIVE]",
+        "youtubeUrl": "https://www.youtube.com/watch?v=3__D2iMQqbc",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "WDS #700 | MIXED BY QUANTOM | P/D TECHNO | HARD TECHNO | CARTOON MOTION VIDEO | EXCLUSIVE TECHNO MIX",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1530292314",
+        "youtubeChannelId": "UC3-KJIB3z5jM4WpBI-TKoTQ",
+        "youtubeDurationSeconds": 3766
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000768506745",
+      "score": 104,
+      "record": {
+        "podcast": "JOE T VANNELLI Podcast  \"Slave To The Rhythm\"",
+        "episode": "JOE T VANNELLI Podcast Ep 821",
+        "youtubeUrl": "https://www.youtube.com/watch?v=4i9mmYdQn-w",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "JOE T VANNELLI Podcast Ep 821",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1846576913",
+        "youtubeChannelId": "UCrSh8D5DkJa0CWSn1s3WLuQ",
+        "youtubeDurationSeconds": 3638
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000766605605",
+      "score": 104,
+      "record": {
+        "podcast": "JOE T VANNELLI Podcast  \"Slave To The Rhythm\"",
+        "episode": "JOE T VANNELLI Podcast Ep 819",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zooTurKzvBI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "JOE T VANNELLI Podcast Ep 819",
+        "matchRule": "Numero di episodio e ospite/argomento coerenti",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1846576913",
+        "youtubeChannelId": "UCrSh8D5DkJa0CWSn1s3WLuQ",
+        "youtubeDurationSeconds": 3681
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000659611627",
+      "score": 100,
+      "record": {
+        "podcast": "You'll Hear It: Full Album Deep Dives with Jazz Musicians",
+        "episode": "Time Out Is Way Weirder Than You Think",
+        "youtubeUrl": "https://www.youtube.com/watch?v=CPOhHsmS81k",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "September is WEIRDER than you think",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "1342674932",
+        "youtubeChannelId": "UCbEFvUhe-QuH9-0Ksno9dwA",
+        "youtubeDurationSeconds": 1016
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000731992504",
+      "score": 100,
+      "record": {
+        "podcast": "Tronic Radio",
+        "episode": "Tronic Pocast 690 with Kevin Di Serna",
+        "youtubeUrl": "https://www.youtube.com/watch?v=zx9mboZ1uzk",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tronic Podcast 690 with Kevin Di Serna",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "550133894",
+        "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+        "youtubeDurationSeconds": 3600
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000618673492",
+      "score": 100,
+      "record": {
+        "podcast": "Tronic Radio",
+        "episode": "Tronic Radio 570 | Sinisa Tamamovic",
+        "youtubeUrl": "https://www.youtube.com/watch?v=ChpkrNzlvJM",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tronic Podcast 570 with Sinisa Tamamovic",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "550133894",
+        "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+        "youtubeDurationSeconds": 3604
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000614344723",
+      "score": 100,
+      "record": {
+        "podcast": "Tronic Radio",
+        "episode": "Tronic Radio 565 | Deepesh Sharma",
+        "youtubeUrl": "https://www.youtube.com/watch?v=m8bjORyrdRs",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tronic Podcast 565 with Deepesh Sharma",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "550133894",
+        "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+        "youtubeDurationSeconds": 3579
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000607613319",
+      "score": 100,
+      "record": {
+        "podcast": "Tronic Radio",
+        "episode": "Tronic Radio 558 | Milo Spykers",
+        "youtubeUrl": "https://www.youtube.com/watch?v=NJnUvqL8vKI",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tronic Podcast 558 with Milo Spykers",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "550133894",
+        "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+        "youtubeDurationSeconds": 3604
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000606451032",
+      "score": 100,
+      "record": {
+        "podcast": "Tronic Radio",
+        "episode": "Tronic Radio 557 | Gene Richards Jr",
+        "youtubeUrl": "https://www.youtube.com/watch?v=fDqROY_g6Yo",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tronic Podcast 557 with Gene Richards Jr",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "550133894",
+        "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+        "youtubeDurationSeconds": 3601
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
+    },
+    {
+      "trackId": "1000599828171",
+      "score": 100,
+      "record": {
+        "podcast": "Tronic Radio",
+        "episode": "Tronic Radio 551 | Robert Babicz",
+        "youtubeUrl": "https://www.youtube.com/watch?v=9hEOPaiO34I",
+        "verified": false,
+        "automaticMatch": true,
+        "matchMethod": "youtube-altri-podcast-verifica-incrociata-v1",
+        "matchedVideoTitle": "Tronic Podcast 551 with Robert Babicz",
+        "matchRule": "Almeno due riferimenti distintivi condivisi",
+        "addedAt": "2026-11-28T14:24:23.874653+00:00",
+        "appleCollectionId": "550133894",
+        "youtubeChannelId": "UCl1NEpKMmZ7CuzQZpniD-uA",
+        "youtubeDurationSeconds": 3604
+      },
+      "sourceGeneratedAt": "2026-11-28T14:24:23.595944+00:00",
+      "source": "scansione-giornaliera"
     }
   ]
 }
